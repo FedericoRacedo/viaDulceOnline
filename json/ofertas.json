@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "nombre": "Yerba Amanda",
+        "descripcion": "(Peso 500g)",
+        "precio": "1.840,00",
+        "imagen": "../almacen.img/yerbaAmanda.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Marlboro Red Ks 20",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "3.475,00",
+        "imagen": "../cigarrilos.img/marlboroComun.png"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Coquitos ParNor",
+        "descripcion": "(Peso 200g)",
+        "precio":  "800,00",
+        "imagen": "../galletitas.img/coquitosParNor.webp"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Procenex aerosol",
+        "descripcion": "(tamaño 300ml)",
+        "precio":  "1.200,00",
+        "imagen": "../limpieza.img/poetAerosol.webp"
+    },
+    {
+        "id": 7,
+        "nombre": "Papas sabor jamon",
+        "descripcion": "(tamaño chico)",
+        "precio": "1.200,00",
+        "imagen": "../snack.img/Jamon60g.png"
+    }
+]

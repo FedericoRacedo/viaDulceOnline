@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "nombre": "Marlboro Red Box 20",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "3.840,00",
+        "imagen": "../cigarrilos.img/marlboroBox.png"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Marlboro Red Ks 20",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "3.475,00",
+        "imagen": "../cigarrilos.img/marlboroComun.png"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Marlboro Crafted Red Box 20",
+        "descripcion": "Cigarrillo economico",
+        "precio":  "1.800,00",
+        "imagen": "../cigarrilos.img/marlboroCraftedBox.png"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Marlboro Crafted Forward Box 20",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "1.800,00",
+        "imagen": "../cigarrilos.img/marlboroCraftedBoxmENTOLADO.png"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Marlboro Crafted Red Ks 20",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "1.500,00",
+        "imagen": "../cigarrilos.img/marlboroCraftedComun.png"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Marlboro Crafted Coral Box 20",
+        "descripcion": "(Cigarrillo economico)",
+        "precio":  "1.800,00",
+        "imagen": "../cigarrilos.img/marlboroCraftedSummer.png"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Marlboro Red Box 12",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "2.305,00",
+        "imagen": "../cigarrilos.img/marlboroDe10.png"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Master Comun 20",
+        "descripcion": "(Cigarrillo economico)",
+        "precio": "1.180,00",
+        "imagen": "../cigarrilos.img/master.jpg"
+    },
+
+    {
+        "id": 9,
+        "nombre": "Philip Morris Box 20",
+        "descripcion": "(carton 10 Atados)",
+        "precio":  "3.200,00",
+        "imagen": "../cigarrilos.img/PhilipBox.jpg"
+    },
+
+    {
+        "id": 10,
+        "nombre": "Philip Morris Ks 20",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "3.840,00",
+        "imagen": "../cigarrilos.img/PhilipComun.jpg"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Philip Morris Box 12",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "2.000,00",
+        "imagen": "../cigarrilos.img/Philipde10.jpg"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Philip Morris Blue Spin Box 12",
+        "descripcion": "Cigarrillo economico",
+        "precio":  "2.000,00",
+        "imagen": "../cigarrilos.img/PhilipDe10Mentolado.jpg"
+    },
+
+    {
+        "id": 13,
+        "nombre": "Philip Morris Blue Spin Box 20",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "3.230,00",
+        "imagen": "../cigarrilos.img/PhilipDeBoxMentolado.jpg"
+    },
+
+    {
+        "id": 14,
+        "nombre": "Red Point Comun",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "2.000,00",
+        "imagen": "../cigarrilos.img/redPoint.jpg"
+    },
+
+    {
+        "id": 15,
+        "nombre": "Red Point 10 Box",
+        "descripcion": "(carton 10 Atados)",
+        "precio": "900,00",
+        "imagen": "../cigarrilos.img/redPointDe10.jpg"
+    },
+
+    {
+        "id": 16,
+        "nombre": "Red Point Comun Menta ",
+        "descripcion": "Cigarrillo economico",
+        "precio":  "2.000,00",
+        "imagen": "../cigarrilos.img/redPointMentolado.jpg"
+    }
+   
+]

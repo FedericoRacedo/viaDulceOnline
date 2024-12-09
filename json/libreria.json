@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "nombre": "Boligoma",
+        "descripcion": "(tamaño 30ml)",
+        "precio": "790,00",
+        "imagen": "../libreria.img/boligoma.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Cartulina Blanca",
+        "descripcion": "(Precio por unidad)",
+        "precio": "200,00",
+        "imagen": "../libreria.img/cartulinaBlanca.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Cartulina Color",
+        "descripcion": "(Precio por unidad)",
+        "precio":  "400,00",
+        "imagen": "../libreria.img/cartulinasColor.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Lapiceras Bic",
+        "descripcion": "(Color rojo, negro o verde)",
+        "precio": "800,00",
+        "imagen": "../libreria.img/lapicerasBic.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Plasticola STA",
+        "descripcion": "(tamaño 100g)",
+        "precio": "300,00",
+        "imagen": "../libreria.img/plasticolasSTA100g.jpg"
+    }
+]

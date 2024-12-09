@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Chipis ParNor",
+        "descripcion": "(Peso 200g)",
+        "precio": "640,00",
+        "imagen": "../galletitas.img/chipisParNor.webp"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Coco ParNor",
+        "descripcion": "(Peso 200g)",
+        "precio": "675,00",
+        "imagen": "../galletitas.img/cocoParNor.webp"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Coquitos ParNor",
+        "descripcion": "(Peso 200g)",
+        "precio":  "800,00",
+        "imagen": "../galletitas.img/coquitosParNor.webp"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Morochitas ParNor",
+        "descripcion": "(Peso 200g)",
+        "precio": "600,00",
+        "imagen": "../galletitas.img/morochitasParNor.png"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Pitusa Chocolate",
+        "descripcion": "(Peso 200g)",
+        "precio": "700,00",
+        "imagen": "../galletitas.img/pituChoco.png"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Pitusa Limon",
+        "descripcion": "(Peso 200g)",
+        "precio":  "700,00",
+        "imagen": "../galletitas.img/pituLimon.png"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Pitusa Merengue",
+        "descripcion": "(Peso 200g)",
+        "precio": "700,00",
+        "imagen": "../galletitas.img/pituMerengue.png"
+    }
+
+]

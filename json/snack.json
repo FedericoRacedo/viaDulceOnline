@@ -1,0 +1,193 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bastonitos",
+        "descripcion": "(tamaño chico)",
+        "precio": "790,00",
+        "imagen": "../snack.img/bastonitos60g.png"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Bastonitos",
+        "descripcion": "(tamaño grande)",
+        "precio": "2.600,00",
+        "imagen": "../snack.img/bastonitos60g.png"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Papas sabor cheddar ",
+        "descripcion": "(tamaño chico)",
+        "precio":  "1.200,00",
+        "imagen": "../snack.img/Cheddar60g.png"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Chizitos",
+        "descripcion": "(tamaño chico)",
+        "precio": "800,00",
+        "imagen": "../snack.img/chizitos60g.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Chizitos",
+        "descripcion": "(tamaño grande)",
+        "precio": "2.800,00",
+        "imagen": "../snack.img/chizitos60g.jpg"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Papas corte americano ",
+        "descripcion": "(tamaño chico)",
+        "precio":  "1.200,00",
+        "imagen": "../snack.img/corteAmericano60g.jpg"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Papas sabor jamon",
+        "descripcion": "(tamaño chico)",
+        "precio": "1.200,00",
+        "imagen": "../snack.img/Jamon60g.png"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Papas sabor ketchup",
+        "descripcion": "(tamaño chico)",
+        "precio": "1.200,00",
+        "imagen": "../snack.img/Ketchup60g.png"
+    },
+
+    {
+        "id": 9,
+        "nombre": "Mani pelado",
+        "descripcion": "(tamaño chico)",
+        "precio":  "700,00",
+        "imagen": "../snack.img/mani60g.jpg"
+    },
+
+    {
+        "id": 10,
+        "nombre": "Palitos",
+        "descripcion": "(tamaño chico)",
+        "precio": "700,00",
+        "imagen": "../snack.img/Palitos65g.png"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Palitos",
+        "descripcion": "(tamaño grande)",
+        "precio": "3.500,00",
+        "imagen": "../snack.img/Palitos65g.png"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Papas tradicionales",
+        "descripcion": "(tamaño chico)",
+        "precio": "1.200,00",
+        "imagen": "../snack.img/traciones60g.png"
+    },
+
+    {
+        "id": 13,
+        "nombre": "Papas corte americano ",
+        "descripcion": "(tamaño chico)",
+        "precio": "600,00",
+        "imagen": "../snack.img/CorteAmericanoSlices.jpg"
+    },
+
+    {
+        "id": 14,
+        "nombre": "Papas corte americano ",
+        "descripcion": "(tamaño grande)",
+        "precio": "2.600,00",
+        "imagen": "../snack.img/CorteAmericanoSlices.jpg"
+    },
+
+    {
+        "id": 15,
+        "nombre": "Papas sabor cheddar ",
+        "descripcion": "(tamaño chico)",
+        "precio": "900,00",
+        "imagen": "../snack.img/cheddarSlices.webp"
+    },
+
+    {
+        "id": 16,
+        "nombre": "Papas tradicionales",
+        "descripcion": "(tamaño chico)",
+        "precio": "600,00",
+        "imagen": "../snack.img/ClasicaSlices.webp"
+    },
+
+    {
+        "id": 17,
+        "nombre": "Papas tradicionales",
+        "descripcion": "(tamaño grande)",
+        "precio": "2.600,00",
+        "imagen": "../snack.img/ClasicaSlices.webp"
+    },
+
+    {
+        "id": 18,
+        "nombre": "4G",
+        "descripcion": "(tamaño chico)",
+        "precio": "900,00",
+        "imagen": "../snack.img/4gSlices.png"
+    },
+
+    {
+        "id": 19,
+        "nombre": "Papas sabor jamon",
+        "descripcion": "(tamaño grande)",
+        "precio": "1.200,00",
+        "imagen": "../snack.img/jamonSlices.jpg"
+    },
+
+    {
+        "id": 20,
+        "nombre": "Papas sabor jamon",
+        "descripcion": "(tamaño chico)",
+        "precio": "1.200,00",
+        "imagen": "../snack.img/KetchupSlices.webp"
+    },
+
+    {
+        "id": 21,
+        "nombre": "Palitos sabor cheddar",
+        "descripcion": "(tamaño chico)",
+        "precio": "600,00",
+        "imagen": "../snack.img/PalitoCheddarSlices.jpg"
+    },
+
+    {
+        "id": 22,
+        "nombre": "Palitos sabor jamon",
+        "descripcion": "(tamaño chico)",
+        "precio": "600,00",
+        "imagen": "../snack.img/palitosJamonSlices.webp"
+    },
+
+    {
+        "id": 23,
+        "nombre": "Palitos tradicional",
+        "descripcion": "(tamaño chico)",
+        "precio": "600,00",
+        "imagen": "../snack.img/palitosSlices.jpg"
+    },
+
+    {
+        "id": 24,
+        "nombre": "Papas sabor salame",
+        "descripcion": "(tamaño chico)",
+        "precio": "1.200,00",
+        "imagen": "../snack.img/salameSlices.png"
+    }
+]

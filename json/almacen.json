@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nombre": "Yerba Amanda",
+        "descripcion": "(Peso 500g)",
+        "precio": "1.840,00",
+        "imagen": "../almacen.img/yerbaAmanda.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Yerba Canarais",
+        "descripcion": "(Peso 500g)",
+        "precio": "3.475,00",
+        "imagen": "../almacen.img/yerbaCanarias.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Yerba Cbse",
+        "descripcion": "(Peso 500g)",
+        "precio":  "1.800,00",
+        "imagen": "../almacen.img/yerbaCbse.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Yerba Mañanita",
+        "descripcion": "(Peso 500g)",
+        "precio": "1.800,00",
+        "imagen": "../almacen.img/yerbaManianita.png"
+    }
+]

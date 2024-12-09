@@ -1,0 +1,506 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Nunito", sans-serif;
+}
+
+img {
+    max-width:100%;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+/* header */
+.header {
+    display: flex;
+    align-items: center;
+    background-color: #EFF3F4;
+    padding: 130px 0 0 0;
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 25px;
+    color: #d12424;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.menu .navBar ul li {
+    position: relative;
+    float: left;
+}
+
+.menu .navBar ul li a {
+    font-size: 18px;
+    padding: 20px;
+    color: #111419;
+    display: block;
+}
+
+.menu .navBar ul li a:hover {
+    color: #d12424;
+}
+
+#menu {
+    display: none;
+}
+
+.menuIcono {
+    width: 25px;
+}
+
+.menu label {
+    cursor: pointer;
+    display: none;
+}
+
+.subMenu {
+    position: relative;
+}
+
+.subMenu #carrito {
+    display: none;
+}
+
+.subMenu:hover #carrito {
+    display: block;
+    position: absolute;
+    right: 0;
+    backdrop-filter: blur(10px);
+    top: 100%;
+    z-index: 1;
+    background-color: #4e4b5076;
+    padding: 20px;
+    min-height: 400px;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    color: #ffffff;
+}
+
+.borrar { 
+    background-color: #d12424;
+    border-radius: 50%;
+    padding: 5px 10px;
+    color: #ffffff;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+#imgCarrito {
+    width: 25px;
+}
+
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerTxt {
+    flex-basis: 50%;
+    margin-right: 25px;
+}
+
+.texto{
+    color: #d12424;
+    font-size: 25px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 25px;
+}
+
+.headerTxt h1 {
+    font-size: 70px;
+    text-transform: capitalize;
+    line-height: 1;
+    color: #111419;
+    margin-bottom: 35px;
+}
+
+.headerTxt p {
+    font-size: 17px;
+    color: #515557;
+    margin-bottom: 35oz;
+}
+
+.butons {
+    display: flex;
+}
+
+.btn1 {
+    display: inline-block;
+    padding: 13px 25px;
+    background-color: #d12424;
+    margin-right: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 100px;
+}
+
+.headerImg {
+    flex-basis: 50%;
+    text-align: center;
+}
+
+.headerImg img {
+    height: 550px;
+    border-radius: 15px;
+} /* Header Terminao */
+
+
+.products {
+    padding: 0 0 50px 0 ;
+    text-align: center;
+    justify-content: space-between;
+}
+
+h2 {
+    font-size: 40px;
+    color:#d12424;
+    text-align: center;
+}
+
+.listProduct {
+    list-style: none;
+    padding: 0;
+}
+
+.listProduct li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.listProduct a {
+    text-decoration: none;
+    color: #333;
+}
+
+/*slider*/
+.special-offers {
+    padding: 30px 0;
+    text-align: center;
+    background-color: #f9f9f9; /* Color de fondo suave */
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.special-offers h3 {
+    font-size: 28px;
+    color: #d12424;
+    margin-bottom: 20px;
+}
+
+.offers-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.offer-item {
+    width: 200px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.offer-item img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+}
+
+.offer-item p {
+    padding: 10px;
+    font-size: 16px;
+    color: #333;
+}
+
+.offer-button {
+    margin-top: 20px;
+}
+
+.btn2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #d12424;
+    color: #ffffff;
+    text-transform: capitalize;
+    font-size: 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn2:hover {
+    background-color: #a91c1c;
+}
+/* Productos Terminado */
+
+.testimonial {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.testimonialContent {
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+}
+
+.testimonial1 {
+    flex-basis: calc(50% - 20px);
+    padding: 50px;
+    text-align: left;
+    background-color: #f6f4fb;
+    border-top: 5px solid #d12424;
+}
+
+.testimonial1 img {
+    width: 100px
+}
+
+
+.testimonial1 h4 {
+    font-size: 17px;
+    color: #111419;
+}
+
+.testimonial p {
+    color: #515557;
+    margin-bottom: 25px;
+} /*Seccion Opiniones terminada*/
+
+.footer {
+    background-color: #770707;
+    padding: 100px 0;
+}
+
+.footerContent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.link h3 {
+    color: #ffffff;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.link a {
+    color: #aeafaf;
+    display: block;
+    margin-bottom: 10px;
+}
+
+
+.link a:hover {
+    color: #dfb1b1;
+} /*Footer terminado*/
+
+/*CONTACTO*/
+.contact {
+    text-align: center;
+    margin: 20px;
+}
+
+.contact iframe {
+    margin: 10px;
+}
+.contact .imgLocal {    
+    margin: 10px;
+    width: 600px;
+    height: 450px;
+}
+
+.iconos {
+    background-color: #f7f7f7;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.iconos-title {
+    font-size: 24px;
+    color: #d12424;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.iconosDiv {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.icono {
+    text-align: center;
+    width: 120px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.icono span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    background-color: #d12424;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.icono p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #515557;
+    font-weight: 500;
+}
+
+.icono:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width:991px) {
+    .menu {
+        padding: 20px;
+    }
+
+    .menu label {
+        display: initial;
+    }
+
+    .menu .navBar {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color:#ff9100;
+        display: none;
+    }
+
+    .menu .navBar ul li {
+        width: 100%;
+
+    }
+
+    #menu:checked ~ .navBar  {
+        display: initial;
+    }
+
+    .logo {
+        display: none;
+    }
+
+    .menu .navBar ul li a:hover{
+        color: #ffffff;
+    }
+    
+    /*.subMenu:hover #carrito {
+        width: 100%;
+    }*/
+
+    .header {
+        padding: 50px 0 0 0;
+    }
+
+    .headerContent {
+        padding: 30px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .headerTxt {
+        margin-right: 0;
+    }
+
+    .butons {
+        justify-content: center;
+    }
+
+    .btn1 {
+        margin-bottom: 0;
+    }
+    .headerImg {
+        display: none;
+    }
+
+    .oferts {
+        padding: 30px;
+        flex-direction: column;
+    }
+
+    .ofert1 {
+        margin-bottom: 15px;
+    }
+
+    .products {
+        padding: 0 30px 30px 30px;
+    }
+
+    .testimonial {
+        padding: 30px;
+    }
+
+    .testimonialContent {
+        margin-top: 20px;
+        flex-direction: column;
+    }
+
+    .testimonial1 {
+        padding: 25px;
+        margin-bottom: 25px;
+    }
+
+    .footer {
+        padding: 30px;
+    }
+
+    .footerContent {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .contact iframe {
+        width: 400px;
+    }
+
+    .iconosDiv {
+        flex-direction: column;
+        line-height:60px;
+    }
+}

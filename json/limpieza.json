@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nombre": "Esponja",
+        "descripcion": "(Esponja lisa)",
+        "precio": "200,00",
+        "imagen": "../limpieza.img/esponja.png"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Esponja Acero",
+        "descripcion": "(Esponja Acero)",
+        "precio": "600,00",
+        "imagen": "../limpieza.img/esponjaAcero.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Poet liquido",
+        "descripcion": "(tamaño 900ml)",
+        "precio":  "1.200,00",
+        "imagen": "../limpieza.img/poet.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Poet aerosol",
+        "descripcion": "(tamaño 300ml)",
+        "precio": "800,00",
+        "imagen": "../snack.img/chizitos60g.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Procenex liquido",
+        "descripcion": "(tamaño 900ml)",
+        "precio": "1.300,00",
+        "imagen": "../limpieza.img/procenexLiquido.webp"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Procenex aerosol",
+        "descripcion": "(tamaño 300ml)",
+        "precio":  "1.200,00",
+        "imagen": "../limpieza.img/poetAerosol.webp"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Trapo de piso",
+        "descripcion": "(resistente)",
+        "precio": "1.000,00",
+        "imagen": "../limpieza.img/trapoDePiso.jpg"
+    }
+]
