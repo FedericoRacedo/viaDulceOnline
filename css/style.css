@@ -503,4 +503,14 @@ h2 {
         flex-direction: column;
         line-height:60px;
     }
+    
+    .iconosDiv {
+        flex-direction: column; 
+        align-items: center;
+        gap: 20px; 
+    }
+
+    .icono {
+        text-align: center; 
+    }
 }

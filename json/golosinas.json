@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1,
+        "nombre": "Alfajor AGUILA Dorado",
+        "descripcion": "(Peso 50g)",
+        "precio": "563,53",
+        "imagen": "../golosinas.img/aguilaDorado.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Alfajor COFLER BLOCK ",
+        "descripcion": "(Peso 60g)",
+        "precio": "917,06",
+        "imagen": "../golosinas.img/AlfBlock.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Alfajor Lichys",
+        "descripcion": "(Chocolate Blanco)",
+        "precio":  "968,75",
+        "imagen": "../golosinas.img/alfLichysBlanco.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Alfajor Lichys",
+        "descripcion": "(Chocolate)",
+        "precio":  "968,75",
+        "imagen": "../golosinas.img/alfLichysBlanco.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Alfajor Lichys",
+        "descripcion": "(Frutos Rojos)",
+        "precio":  "968,75",
+        "imagen": "../golosinas.img/alfLichysBlanco.jpg"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Alfajor Smack DDL",
+        "descripcion": "(Peso 60g)",
+        "precio":  "249,60",
+        "imagen": "../golosinas.img/AlfSmack.png"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Alfajor VIMAR Simple Chocolate",
+        "descripcion": "(Peso 60g)",
+        "precio": "198,25",
+        "imagen": "../golosinas.img/alfVimarSimpleChoco.jpeg"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Alfajor VIMAR Simple Blanco",
+        "descripcion": "(Peso 60g)",
+        "precio": "198,25",
+        "imagen": "../golosinas.img/alfVimarSimpleLeche.jpeg"
+    },
+
+    {
+        "id": 9,
+        "nombre": "Alfajor ALFA PAMPA Chocolate Blanco",
+        "descripcion": "(Peso 60g)",
+        "precio":  "480,10",
+        "imagen": "../golosinas.img/alfAlfaPampa.webp"
+    },
+
+    {
+        "id": 10,
+        "nombre": "Alfajor Blanco y Negro Triple",
+        "descripcion": "(Chocolate Blanco)",
+        "precio":  "917,06",
+        "imagen": "../golosinas.img/alfBYNBlancoTriple.png"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Alfajor Pepitos",
+        "descripcion": "(Alfajor Triple)",
+        "precio":  "987,44",
+        "imagen": "../golosinas.img/alfPepitos.jpg"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Alfajor Tofi Triple Blanco",
+        "descripcion": "(Chocolate Blanco)",
+        "precio":  "917,06",
+        "imagen": "../golosinas.img/alfTofiTripleBlanco.jpg"
+    },
+
+    {
+        "id": 13,
+        "nombre": "Alfajor Tofi Triple Negro",
+        "descripcion": "(Chocolate)",
+        "precio": "917,06",
+        "imagen": "../golosinas.img/alfTofiTripleNegro.jpg"
+    },
+
+    {
+        "id": 14,
+        "nombre": "Alfajor AGUILA Mini Torta",
+        "descripcion": "(Clasico)",
+        "precio": "917,06",
+        "imagen": "../golosinas.img/alfAguilaMiniTorta.jpg"
+    },
+
+    {
+        "id": 15,
+        "nombre": "Alfajor AGUILA Mini Torta",
+        "descripcion": "(Brownie)",
+        "precio": "917,06",
+        "imagen": "../golosinas.img/alfAguilaMiniTortaBrownie.jpg"
+    },
+
+    {
+        "id": 16,
+        "nombre": "Alfajor AGUILA Mini Torta",
+        "descripcion": "(Blanco)",
+        "precio":  "917,06",
+        "imagen": "../golosinas.img/alfAguilaMiniTortaBlanco.jpg"
+    },
+
+    {
+        "id": 17,
+        "nombre": "Alfajor AGUILA Mini Torta",
+        "descripcion": "(Coco)",
+        "precio":  "917,06",
+        "imagen": "../golosinas.img/alfAguilaMiniTortaCoco.jpg"
+    },
+
+    {
+        "id": 18,
+        "nombre": "Alfajor Bon o Bon",
+        "descripcion": "(Simple Negro)",
+        "precio":  "563,53",
+        "imagen": "../golosinas.img/alfBonOBonNegro.jpg"
+    },
+    
+    {
+        "id": 19,
+        "nombre": "Alfajor Bon o Bon Triple",
+        "descripcion": "(Triple Negro)",
+        "precio":  "917,06",
+        "imagen": "../golosinas.img/alfBonOBonTripleNegro.jpg"
+    },
+
+    {
+        "id": 20,
+        "nombre": "Alfajor Oreo",
+        "descripcion": "(Doble Relleno)",
+        "precio":  "987,44",
+        "imagen": "../golosinas.img/alfOreo.webp"
+    },
+    
+    {
+        "id": 21,
+        "nombre": "Alfajor Tri Shot",
+        "descripcion": "(Triple Negro)",
+        "precio":  "987,44",
+        "imagen": "../golosinas.img/alfTriShot.jpg"
+    },
+
+    {
+        "id": 22,
+        "nombre": "Alfajor COFLER BLOCK Simple ",
+        "descripcion": "(Simple Negro)",
+        "precio":  "563,53",
+        "imagen": "../golosinas.img/AlfBlockSimple.jpg"
+    },
+    
+    {
+        "id": 23,
+        "nombre": "Alfajor Fulbito Chocolate",
+        "descripcion": "(xCaja 40 unidades)",
+        "precio":  "4.791,37",
+        "imagen": "../golosinas.img/alfFulbitoCocho.jpg"
+    },
+
+    {
+        "id": 24,
+        "nombre": "Alfajor Fulbito Mani",
+        "descripcion": "(xCaja 40unidades)",
+        "precio":  "4.791,37",
+        "imagen": "../golosinas.img/alfFulbitoMani.jpg"
+    },
+    
+    {
+        "id": 25,
+        "nombre": "Alfajor Full Mani",
+        "descripcion": "(Peso 45g)",
+        "precio":  "453,56",
+        "imagen": "../golosinas.img/alfFullMani.jpg"
+    },
+
+    {
+        "id": 26,
+        "nombre": "Alfajor Hamblet Simple",
+        "descripcion": "(Dulce De Leche)",
+        "precio":  "232,77",
+        "imagen": "../golosinas.img/alfHambletDDL.jpg"
+    },
+
+    {
+        "id": 27,
+        "nombre": "Alfajor Mogy",
+        "descripcion": "(Simple Blanco)",
+        "precio":  "175,68",
+        "imagen": "../golosinas.img/alfMogyBlanco.webp"
+    },
+    
+    {
+        "id": 28,
+        "nombre": "Alfajor Mogy",
+        "descripcion": "(Simple Negro)",
+        "precio":  "175,68",
+        "imagen": "../golosinas.img/alfMogyNegro.webp"
+    }
+
+]
