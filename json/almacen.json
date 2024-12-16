@@ -33,7 +33,7 @@
 
     {
         "id": 5,
-        "nombre": "Caldo Knor",
+        "nombre": "Caldo Knorr",
         "descripcion": "(Sabor Carne)",
         "precio": "273,75",
         "imagen": "../almacen.img/caldosKnorCarne.webp"
@@ -153,353 +153,433 @@
 
     {
         "id": 20,
-        "nombre": "Alfajor Oreo",
-        "descripcion": "(Doble Relleno)",
-        "precio":  "987,44",
+        "nombre": "Caldo Knorr",
+        "descripcion": "(Sabor Gallina)",
+        "precio":  "296,57",
         "imagen": "../golosinas.img/alfOreo.webp"
     },
     
     {
         "id": 21,
-        "nombre": "Alfajor Tri Shot",
-        "descripcion": "(Triple Negro)",
-        "precio":  "987,44",
-        "imagen": "../golosinas.img/alfTriShot.jpg"
+        "nombre": "Caldo Knorr",
+        "descripcion": "(Sabor Verdura)",
+        "precio":  "296,57",
+        "imagen": "../almacen.img/knorrVerdura.webp"
     },
 
     {
         "id": 22,
-        "nombre": "Alfajor COFLER BLOCK Simple ",
-        "descripcion": "(Simple Negro)",
-        "precio":  "563,53",
-        "imagen": "../golosinas.img/AlfBlockSimple.jpg"
+        "nombre": "Capsula Dolce Gusto",
+        "descripcion": "(Cafe/Leche)",
+        "precio":  "9.625,00",
+        "imagen": "../almacen.img/dolceGustoCageLeche.webp"
     },
     
     {
         "id": 23,
-        "nombre": "Alfajor Fulbito Chocolate",
-        "descripcion": "(xCaja 40 unidades)",
-        "precio":  "4.791,37",
-        "imagen": "../golosinas.img/alfFulbitoCocho.jpg"
+        "nombre": "Capsula Dolce Gusto",
+        "descripcion": "(Expresso)",
+        "precio":  "9.625,00",
+        "imagen": "../almacen.img/dolceGustoExpresso.webp"
     },
 
     {
         "id": 24,
-        "nombre": "Alfajor Fulbito Mani",
-        "descripcion": "(xCaja 40unidades)",
-        "precio":  "4.791,37",
-        "imagen": "../golosinas.img/alfFulbitoMani.jpg"
+        "nombre": "Capsula Dolce Gusto",
+        "descripcion": "(Cortado)",
+        "precio":  "9.625,00",
+        "imagen": "../almacen.img/dolceGustoCortado.webp"
     },
     
     {
         "id": 25,
-        "nombre": "Alfajor Full Mani",
-        "descripcion": "(Peso 45g)",
-        "precio":  "453,56",
-        "imagen": "../golosinas.img/alfFullMani.jpg"
+        "nombre": "Celusal Estuche",
+        "descripcion": "(Peso 500grs)",
+        "precio":  "961,75",
+        "imagen": "../almacen.img/celusalEstuche.webp"
     },
 
     {
         "id": 26,
-        "nombre": "Alfajor Hamblet Simple",
-        "descripcion": "(Dulce De Leche)",
-        "precio":  "232,77",
-        "imagen": "../golosinas.img/alfHambletDDL.jpg"
+        "nombre": "Chimichurri Marolio",
+        "descripcion": "(Peso 25gr)",
+        "precio":  "297,51",
+        "imagen": "../almacen.img/chimichurriMarolio.webp"
     },
 
     {
         "id": 27,
-        "nombre": "Alfajor Mogy",
-        "descripcion": "(Simple Blanco)",
-        "precio":  "175,68",
-        "imagen": "../golosinas.img/alfMogyBlanco.webp"
+        "nombre": "Dulce de leche",
+        "descripcion": "(Tradicional)",
+        "precio":  "1.474,95",
+        "imagen": "../almacen.img/DDLPlacer.jpg"
     },
     
     {
         "id": 28,
-        "nombre": "Alfajor Mogy",
-        "descripcion": "(Simple Negro)",
-        "precio":  "175,68",
-        "imagen": "../golosinas.img/alfMogyNegro.webp"
+        "nombre": "Dulce de leche",
+        "descripcion": "(Repostero)",
+        "precio":  "1.680,48",
+        "imagen": "../almacen.img/DDLPlacerRepostero.jpg"
     },
 
     {
         "id": 29,
-        "nombre": "Alfajor Trassens Premium",
-        "descripcion": "(Simple Negro)",
-        "precio": "561,63",
-        "imagen": "../golosinas.img/alfTrassens.jpeg"
+        "nombre": "Dulce de leche",
+        "descripcion": "(La serenisima)",
+        "precio": "2.337,50",
+        "imagen": "../almacen.img/DDLLaSerenisima.jpg"
     },
 
     {
         "id": 30,
-        "nombre": "Alfajor COFLER BLOCK ",
-        "descripcion": "(Peso 60g)",
-        "precio": "917,06",
-        "imagen": "../golosinas.img/AlfBlock.jpg"
+        "nombre": "Durazno Molto",
+        "descripcion": "(Peso 820gr)",
+        "precio": "2.183,80",
+        "imagen": "../almacen.img/duraznoMolto.jpg"
     },
 
     {
         "id": 31,
-        "nombre": "Choco Fan Minitorta",
-        "descripcion": "(Sabor Brownie)",
-        "precio":  "233,73",
-        "imagen": "../golosinas.img/chocoFanBrownie.jpg"
+        "nombre": "Emeth Membrillo",
+        "descripcion": "(Peso 500g)",
+        "precio":  "1.354,41",
+        "imagen": "../almacen.img/membrillo.jpg"
     },
 
     {
         "id": 32,
-        "nombre": "Choco Fan Minitorta",
-        "descripcion": "(Sabor Chocolate)",
-        "precio":  "233,73",
-        "imagen": "../golosinas.img/chocoFanBlanco.jpg"
+        "nombre": "Esencia de vainilla",
+        "descripcion": "(chico)",
+        "precio":  "1.298,70",
+        "imagen": "../almacen.img/esenciaDeVainilla.png"
     },
 
     {
         "id": 33,
-        "nombre": "Choco Fan Minitorta",
-        "descripcion": "(Sabor Chocolate)",
-        "precio":  "233,73",
-        "imagen": "../golosinas.img/chocoFancHOCOLATE.jpg"
+        "nombre": "Fideos 308",
+        "descripcion": "(Numero 1)",
+        "precio":  "1.374,58",
+        "imagen": "../almacen.img/308N1.jpg"
     },
 
     {
         "id": 34,
-        "nombre": "Alfajor Choco Arroz",
-        "descripcion": "(Clasico DDL)",
-        "precio":  "485,25",
-        "imagen": "../golosinas.img/chocoArrozDdl.png"
+        "nombre": "Fideos 308",
+        "descripcion": "(Numero 2)",
+        "precio":  "1.374,58",
+        "imagen": "../almacen.img/308N2.jpg"
     },
 
     {
         "id": 35,
-        "nombre": "Alfajor Choco Arroz",
-        "descripcion": "(Marroc)",
-        "precio":  "485,25",
-        "imagen": "../golosinas.img/chocoArrozMarroc.png"
+        "nombre": "Fideos 308",
+        "descripcion": "(Numero 3)",
+        "precio":  "1.374,58",
+        "imagen": "../almacen.img/308N3.jpg"
     },
 
     {
         "id": 36,
-        "nombre": "Alfajor Choco Arroz",
-        "descripcion": "(Limon)",
-        "precio": "485,25",
-        "imagen": "../golosinas.img/chocoArrozLimon.png"
+        "nombre": "Fideos Bernabeu",
+        "descripcion": "(Tirabuzon)",
+        "precio": "633,18",
+        "imagen": "../almacen.img/bernadeuTirabuzon.webp"
     },
 
     {
         "id": 37,
-        "nombre": "Fanctoche Night",
-        "descripcion": "(Triple Negro)",
-        "precio": "583,84",
-        "imagen": "../golosinas.img/fantocheNight.jpg"
+        "nombre": "Fideos Bernabeu",
+        "descripcion": "(Codito)",
+        "precio": "633,18",
+        "imagen": "../almacen.img/bernadeuCodito.webp"
     },
 
     {
         "id": 38,
-        "nombre": "Fanctoche Day",
-        "descripcion": "(Triple Negro)",
-        "precio": "583,84",
-        "imagen": "../golosinas.img/fantocheDay.jpg"
+        "nombre": "Fideos Bernabeu",
+        "descripcion": "(Spaghetti)",
+        "precio": "633,18",
+        "imagen": "../almacen.img/bernadeuSpaghetti.webp"
     },
 
     {
         "id": 39,
-        "nombre": "Fanctoche Negro",
-        "descripcion": "(Chocolate)",
-        "precio":  "567,13",
-        "imagen": "../golosinas.img/fantocheChoco.jpg"
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Tallarin)",
+        "precio":  "1.089,00",
+        "imagen": "../almacen.img/lucchettiTallarin.webp"
     },
 
     {
         "id": 40,
-        "nombre": "Fanctoche Blanco",
-        "descripcion": "(Chocolate Blanco)",
-        "precio":  "567,13",
-        "imagen": "../golosinas.img/fantocheLeche.jpg"
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Dedalito)",
+        "precio":  "1.089,00",
+        "imagen": "../almacen.img/lucchettiDedalito.webp"
     },
 
     {
         "id": 41,
-        "nombre": "Alfajor Genio",
-        "descripcion": "(Triple Blanco)",
-        "precio": "240,38",
-        "imagen": "../golosinas.img/genioBlanco.jpg"
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Codito)",
+        "precio":  "1.089,00",
+        "imagen": "../almacen.img/lucchettiCodito.webp"
     },
 
     {
         "id": 42,
-        "nombre": "Alfajor Genio",
-        "descripcion": "(Triple Negro)",
-        "precio": "240,38",
-        "imagen": "../golosinas.img/genioNegro.jpg"
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Letritas)",
+        "precio":  "1.089,00",
+        "imagen": "../almacen.img/lucchettiLetritas.webp"
     },
 
     {
         "id": 43,
-        "nombre": "Alfajor Guaymallen",
-        "descripcion": "(Simple Lenche)",
-        "precio": "199,96",
-        "imagen": "../golosinas.img/guaymaLeche.jpg"
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Moños)",
+        "precio":  "1.089,00",
+        "imagen": "../almacen.img/lucchettiMonios.webp"
     },
 
     {
         "id": 44,
-        "nombre": "Alfajor Guaymallen",
-        "descripcion": "(Simple Chocolate)",
-        "precio": "199,96",
-        "imagen": "../golosinas.img/guaymaCHOCO.jpg"
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Mostachol)",
+        "precio":  "1.089,00",
+        "imagen": "../almacen.img/lucchettiMostachol.webp"
     },
 
     {
         "id": 45,
-        "nombre": "Alfajor Guaymallen",
-        "descripcion": "(Simple Fruta)",
-        "precio": "199,96",
-        "imagen": "../golosinas.img/guaymaMembrillojpg.jpg"
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Municiones)",
+        "precio":  "1.089,00",
+        "imagen": "../almacen.img/lucchettiMunisiones.webp"
     },
 
     {
         "id": 46,
-        "nombre": "Alfajor Guaymallen Triple",
-        "descripcion": "(Triple Lenche)",
-        "precio": "333,26",
-        "imagen": "../golosinas.img/guaymaTripleLeche.jpg"
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Spaghetti)",
+        "precio":  "1.089,00",
+        "imagen": "../almacen.img/lucchettiSpaguetti.webp"
     },
 
     {
         "id": 47,
-        "nombre": "Alfajor Guaymallen Triple",
-        "descripcion": "(Triple Chocolate)",
-        "precio": "333,26",
-        "imagen": "../golosinas.img/guaymaTripleChoco.jpg"
+        "nombre": "Gelatina Emeth",
+        "descripcion": "(Durazno)",
+        "precio":  "791,95",
+        "imagen": "../almacen.img/gelatinaDurazno.jpg"
     },
 
     {
         "id": 48,
-        "nombre": "Alfajor Guaymallen Triple",
-        "descripcion": "(Triple Fruta)",
-        "precio": "333,26",
-        "imagen": "../golosinas.img/guaymaTripleFruta.jpg"
+        "nombre": "Gelatina Emeth",
+        "descripcion": "(Naranja)",
+        "precio":  "791,95",
+        "imagen": "../almacen.img/gelatinaNaranja.jpg"
     },
 
     {
         "id": 49,
-        "nombre": "Alfajor Jorgelin",
-        "descripcion": "(Chocolate)",
-        "precio":  "741,48",
-        "imagen": "../golosinas.img/jorgelinChoco.jpeg"
+        "nombre": "Gelatina Emeth",
+        "descripcion": "(Frutilla)",
+        "precio":  "791,95",
+        "imagen": "../almacen.img/gelatinaFrutilla.jpg"
     },
 
     {
         "id": 50,
-        "nombre": "Alfajor Jorgelin",
-        "descripcion": "(Leche)",
-        "precio":  "741,48",
-        "imagen": "../golosinas.img/jorgelinLeche.jpg"
+        "nombre": "Grasa Esani",
+        "descripcion": "(Peso 500g)",
+        "precio":  "999,85",
+        "imagen": "../almacen.img/grasa.webp"
     },
     
     {
         "id": 51,
-        "nombre": "Alfajor Jorgito",
-        "descripcion": "(Chocolate)",
-        "precio":  "544,73",
-        "imagen": "../golosinas.img/jorgitoChoco.jpeg"
+        "nombre": "Ketchup Hellmanns",
+        "descripcion": "(Peso 60g)",
+        "precio":  "658,85",
+        "imagen": "../almacen.img/hellmannsKepchup.webp"
     },
 
     {
         "id": 52,
-        "nombre": "Alfajor Jorgito",
-        "descripcion": "(Leche)",
-        "precio":  "544,73",
-        "imagen": "../golosinas.img/jorgitoLeche.jpg"
+        "nombre": "Hileret Clasico",
+        "descripcion": "(Peso 60g)",
+        "precio":  "1.790,72",
+        "imagen": "../almacen.img/hileretClasico.jpeg"
     },
     
     {
         "id": 53,
-        "nombre": "Alfajor Milka Mouese",
-        "descripcion": "(Simple)",
-        "precio":  "575,13",
-        "imagen": "../golosinas.img/milkaMouseSimple.png"
+        "nombre": "Huevo Maple",
+        "descripcion": "(Numero 3)",
+        "precio":  "5.185,00",
+        "imagen": "../almacen.img/huevo.jpg"
     },
 
     {
         "id": 54,
-        "nombre": "Alfajor Milka Oreo",
-        "descripcion": "(Triple Chocolate)",
-        "precio":  "987,44",
-        "imagen": "../golosinas.img/milkaOreoAlf.jpg"
+        "nombre": "Leche angelita",
+        "descripcion": "(Clasica)",
+        "precio":  "1.352,54",
+        "imagen": "../almacen.img/lecheClasica.jpg"
     },
 
     {
         "id": 55,
-        "nombre": "Alfajor Milka Mouese",
-        "descripcion": "(Triple Chocolate)",
-        "precio":  "987,44",
-        "imagen": "../golosinas.img/milkaMouseTriple.png"
+        "nombre": "Leche angelita",
+        "descripcion": "(Descremada)",
+        "precio":  "1.352,54",
+        "imagen": "../almacen.img/lecheDescremada.jpg"
     },
     
     {
         "id": 56,
-        "nombre": "Mini Jorgito x6",
-        "descripcion": "(Sabor Chocolate)",
-        "precio":  "1.588,02",
-        "imagen": "../golosinas.img/jorgitox6Choco.jpg"
+        "nombre": "Levadura",
+        "descripcion": "(2 Sobres)",
+        "precio":  "640,14",
+        "imagen": "../almacen.img/levadura.jpg"
     },
 
     {
         "id": 57,
-        "nombre": "Mini Jorgito x6",
-        "descripcion": "(Sabor Fruta)",
-        "precio":  "1.588,02",
-        "imagen": "../golosinas.img/jorgitox6Fruta.jpg"
+        "nombre": "Mate codico La Tranquera",
+        "descripcion": "(25 sobres)",
+        "precio":  "940,48",
+        "imagen": "../almacen.img/mateCocidoLaTranquera.jpg"
     },
 
     {
         "id": 58,
-        "nombre": "Mini Jorgito x6",
-        "descripcion": "(Sabor Lehce)",
-        "precio":  "1.588,02",
-        "imagen": "../golosinas.img/jorgitox6Leche.jpg"
+        "nombre": "Mayonesa Natura",
+        "descripcion": "(Peso 237g)",
+        "precio":  "897,00",
+        "imagen": "../almacen.img/mayoNatura237g.jpg"
     },
 
     {
         "id": 59,
-        "nombre": "Mini Fantoche x6",
-        "descripcion": "(Sabor Chocolate)",
-        "precio":  "1.237,85",
-        "imagen": "../golosinas.img/fantochex6Choco.jpg"
+        "nombre": "Mayonesa Natura",
+        "descripcion": "(Peso 125g)",
+        "precio":  "526,67",
+        "imagen": "../almacen.img/mayoNatura125g.jpg"
     },
 
     {
         "id": 60,
-        "nombre": "Mini Fantoche x6",
-        "descripcion": "(Sabor Leche)",
-        "precio":  "1.237,85",
-        "imagen": "../golosinas.img/fantochex6Leche.jpg"
+        "nombre": "Mermelada Emeth",
+        "descripcion": "(Damasco)",
+        "precio":  "887,21",
+        "imagen": "../almacen.img/damascoMermelada.jpg"
     },
 
     {
         "id": 61,
-        "nombre": "Mini Bon O Bon x6",
-        "descripcion": "(Bandeja Bon o Bon)",
-        "precio":  "1.906,05",
-        "imagen": "../golosinas.img/alfBonOBonx6.jpg"
+        "nombre": "Mermelada Emeth",
+        "descripcion": "(Ciruela)",
+        "precio":  "887,21",
+        "imagen": "../almacen.img/ciruelaMermelada.jpg"
     },
 
     {
         "id": 62,
-        "nombre": "Mini Tofi Negro x6",
-        "descripcion": "(Bandeja Tofi)",
-        "precio":  "1.512,30",
-        "imagen": "../golosinas.img/alfTofix6.jpg"
+        "nombre": "Mermelada Emeth",
+        "descripcion": "(Frutilla)",
+        "precio":  "941,24",
+        "imagen": "../almacen.img/frutillaMermelada.jpg"
     },
     
     {
         "id": 63,
-        "nombre": "Mini Jorgito x6",
-        "descripcion": "(Sabor Chocolate)",
-        "precio":  "1.588,02",
-        "imagen": "../golosinas.img/jorgitox6Choco.jpg"
+        "nombre": "Miel Pampera",
+        "descripcion": "(Peso 250g)",
+        "precio":  "861,50",
+        "imagen": "../almacen.img/mielChica.jpg"
+    },
+
+    {
+        "id": 64,
+        "nombre": "Miel Pampera",
+        "descripcion": "(Peso 500g)",
+        "precio":  "1.603,05",
+        "imagen": "../almacen.img/mielChica.jpg"
+    },
+
+    {
+        "id": 65,
+        "nombre": "Nesquik",
+        "descripcion": "(Peso 180g)",
+        "precio": "1.338,34",
+        "imagen": "../almacen.img/nesquik.jpg"
+    },
+
+    {
+        "id": 66,
+        "nombre": "Oregano",
+        "descripcion": "(Peso 25gr)",
+        "precio": "778,79",
+        "imagen": "../almacen.img/oregano.jpg"
+    },
+
+    {
+        "id": 67,
+        "nombre": "Nutella",
+        "descripcion": "(Peso 500g)",
+        "precio":  "3128,63",
+        "imagen": "../almacen.img/nutella.jpg"
+    },
+
+    {
+        "id": 68,
+        "nombre": "Pan Rayado Morixe",
+        "descripcion": "(Peso 500gr)",
+        "precio": "852,79",
+        "imagen": "../almacen.img/panRayadoMorixe.jpg"
+    },
+
+    {
+        "id": 69,
+        "nombre": "Pate Swift",
+        "descripcion": "(Lata)",
+        "precio": "713,70",
+        "imagen": "../almacen.img/pateSwift.jpg"
+    },
+
+    {
+        "id": 70,
+        "nombre": "Picadillo Swift",
+        "descripcion": "(Lata)",
+        "precio":  "713,70",
+        "imagen": "../almacen.img/picadilloSwif.jpg"
+    },
+
+    {
+        "id": 71,
+        "nombre": "Pimienta Blanca molida",
+        "descripcion": "(Peso 25gr)",
+        "precio":  "1.168,71",
+        "imagen": "../almacen.img/pimientaBlanca.jpg"
+    },
+
+    {
+        "id": 72,
+        "nombre": "Polenta Del Campo",
+        "descripcion": "(Peso 500gr)",
+        "precio": "565,55",
+        "imagen": "../almacen.img/polentaCampo.jpg"
+    },
+
+    {
+        "id": 73,
+        "nombre": "Pinzas de Depilar",
+        "descripcion": "(Por unidad)",
+        "precio": "595,85",
+        "imagen": "../almacen.img/pinzasDepilar.jpg"
     }
 ]

@@ -189,5 +189,14 @@
         "descripcion": "(tamaño chico)",
         "precio": "1.200,00",
         "imagen": "../snack.img/salameSlices.png"
+    },
+
+    {
+        "id": 25,
+        "nombre": "Cono 4G",
+        "descripcion": "(Sabor Queso)",
+        "precio": "950,22",
+        "imagen": "../snack.img/4gSlices.png"
     }
+
 ]

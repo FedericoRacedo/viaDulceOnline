@@ -53,6 +53,14 @@
         "descripcion": "(Peso 200g)",
         "precio": "700,00",
         "imagen": "../galletitas.img/pituMerengue.png"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Pitusa Jalea Frambuesa",
+        "descripcion": "(Peso 200g)",
+        "precio": "622,86",
+        "imagen": "../galletitas.img/pituJalea.png"
     }
 
 ]
