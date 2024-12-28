@@ -573,6 +573,588 @@
         "descripcion": "(Frutal 125gr)",
         "precio":  "1.342,24",
         "imagen": "../golosinas.img/buffys125gr.jpg"
+    },
+
+    {
+        "id": 72,
+        "nombre": "Yipi Pastillas",
+        "descripcion": "(caja x12)",
+        "precio":  "2.485,56",
+        "imagen": "../golosinas.img/yipiPastillas.jpg"
+    },
+
+    {
+        "id": 72,
+        "nombre": "Boc. Cabsha",
+        "descripcion": "Precio por unidad",
+        "precio": "251,20",
+        "imagen": "../golosinas.img/bocaditoCabsha.jpg"
+    },
+
+    {
+        "id": 73,
+        "nombre": "Dolca Chica",
+        "descripcion": "Peso 14grs",
+        "precio": "494,81",
+        "imagen": "../golosinas.img/bananitaChica.jpg"
+    },
+
+    {
+        "id": 74,
+        "nombre": "Dolca Grande",
+        "descripcion": "Peso 30grs",
+        "precio": "812,50",
+        "imagen": "../golosinas.img/bananitaGrande.jpg"
+    },
+    {
+        "id": 75,
+        "nombre": "Dos Corazones",
+        "descripcion": "Felfort",
+        "precio": "1.248,36",
+        "imagen": "../golosinas.img/2Corazones.webp"
+    },
+    {
+        "id": 76,
+        "nombre": "Gallinitas",
+        "descripcion": "Por 25 unidades",
+        "precio": "2.121,75",
+        "imagen": "../golosinas.img/gallinitas.jpg"
+    },
+    {
+        "id": 77,
+        "nombre": "Heladitos",
+        "descripcion": "Por 25 unidades",
+        "precio": "2.006,95",
+        "imagen": "../golosinas.img/heladitos.jpg"
+    },
+
+    {
+        "id": 78,
+        "nombre": "Mantecol",
+        "descripcion": "Peso 41 Gs.",
+        "precio": "701.25",
+        "imagen": "../golosinas.img/mantecol41g.jpg"
+    },
+
+    {
+        "id": 79,
+        "nombre": "Mantecol",
+        "descripcion": "Peso 111 Grs.",
+        "precio": "1.04,95",
+        "imagen": "../golosinas.img/mantecol111g.jpg"
+    },
+    {
+        "id": 80,
+        "nombre": "Mantecol",
+        "descripcion": "Peso 29 Grs",
+        "precio": "488.63",
+        "imagen": "../golosinas.img/mantecol29g.jpg"
+    },
+
+    {
+        "id": 81,
+        "nombre": "Mantecol",
+        "descripcion": "Peso 64 Grs",
+        "precio": "825.81",
+        "imagen": "../golosinas.img/mantecol64g.jpg"
+    },
+
+    {
+        "id": 82,
+        "nombre": "Marroc Fel Ford",
+        "descripcion": "Por 1 Unidad",
+        "precio": "718.72",
+        "imagen": "../golosinas.img/marroc.jpg"
+    },
+
+    {
+        "id": 83,
+        "nombre": "Sapito Chocolatoso",
+        "descripcion": "Por 24 Unidades",
+        "precio": "4.003,81",
+        "imagen": "../golosinas.img/sapitoChoco.jpg"
+    },
+    {
+        "id": 87,
+        "nombre": "Sapito de Frutilla",
+        "descripcion": "Por 24 Unidades",
+        "precio": "4.003,81",
+        "imagen": "../golosinas.img/sapitoFruti.jpg"
+    },
+
+    {
+        "id": 88,
+        "nombre": "Sapito Dulce Leche",
+        "descripcion": "Por 24 Unidades",
+        "precio": "4.003,81",
+        "imagen": "../golosinas.img/sapitoDD;.jpg"
+    },
+
+    {
+        "id": 89,
+        "nombre": "Sapito Mani/Bicolor",
+        "descripcion": "Por 24 Unidades",
+        "precio": "4.003,81",
+        "imagen": "../golosinas.img/sapitoMani.jpg"
+    },
+
+    {
+        "id": 90,
+        "nombre": "Guaymallen Oro",
+        "descripcion": "Precio por unidad",
+        "precio": "409,81",
+        "imagen": "../golosinas.img/guaymaOro.jpg"
+    },
+
+    {
+        "id": 91,
+        "nombre": "Bombon Obli-Bon Blanco",
+        "descripcion": "Precio por unidad",
+        "precio": "162,64",
+        "imagen": "../golosinas.img/bombonOblibonB.jpg"
+    },
+
+
+    {
+        "id": 92,
+        "nombre": "Bombon Obli-Bon Clasico",
+        "descripcion": "Precio por unidad",
+        "precio": "153,44",
+        "imagen": "../golosinas.img/bombonOblibonN.jpg"
+    },
+    {
+        "id": 93,
+        "nombre": "Bombon Selección Arcor",
+        "descripcion": "Caja surtida",
+        "precio": "5.271,00",
+        "imagen": "../golosinas.img/selceccionArcor.jpg"
+    },
+
+    {
+        "id": 94,
+        "nombre": "Bombon Bel",
+        "descripcion": "Bolsa por 50 Unidades",
+        "precio": "3.980,86",
+        "imagen": "../golosinas.img/bombonBel.jpg"
+    },
+    {
+        "id": 95,
+        "nombre": "Bombon Ferrero Rocher",
+        "descripcion": "Por 12 Unidades",
+        "precio": "9.075,60",
+        "imagen": "../golosinas.img/ferreroRocherx12.jpg"
+    },
+    {
+        "id": 96,
+        "nombre": "Bombon Ferrero Rocher",
+        "descripcion": "Por 24 Unidades",
+        "precio": "7.380,33",
+        "imagen": "../golosinas.img/ferreroRocherx24.jpg"
+    },
+    {
+        "id": 97,
+        "nombre": "Bombon Ferrero Rocher",
+        "descripcion": "Por 3 Unidades",
+        "precio": "2.125,56",
+        "imagen": "../golosinas.img/ferreroRocherx3.jpg"
+    },
+    {
+        "id": 98,
+        "nombre": "Bombon Milka Oreo",
+        "descripcion": "Caja Por 13 Unidades",
+        "precio": "5.983,78",
+        "imagen": "../golosinas.img/milkaOreoBombom.jpg"
+    },
+    {
+        "id": 99,
+        "nombre": "Bombones de Fruta Mogul",
+        "descripcion": "",
+        "precio": "5.321,82",
+        "imagen": ""
+    },
+    {
+        "id": 100,
+        "nombre": "Bon-o-Bon Blanco",
+        "descripcion": "",
+        "precio": "282,10",
+        "imagen": ""
+    },
+    {
+        "id": 101,
+        "nombre": "Bon-o-Bon Clasico",
+        "descripcion": "Por 30 Unidades",
+        "precio": "282,10",
+        "imagen": "../golosinas.img/bombonClasico.jpg"
+    },
+
+    {
+        "id": 102,
+        "nombre": "Alka Caramelos Cherry",
+        "descripcion": "Bolsa",
+        "precio": "6.545,93",
+        "imagen": "../golosinas.img/alkaCherry.jpg"
+    },
+
+    {
+        "id": 103,
+        "nombre": "Alka Caramelos Frutilla Cremoso",
+        "descripcion": "Bolsa",
+        "precio": "6.545,93",
+        "imagen": "../golosinas.img/alkaFrutilla.jpg"
+    },
+
+    {
+        "id": 104,
+        "nombre": "Alka Caramelos Menta",
+        "descripcion": "Bolsa",
+        "precio": "6.545,93",
+        "imagen": "../golosinas.img/alkaMenta.jpg"
+    },
+
+    {
+        "id": 105,
+        "nombre": "Alka Caramelos Strone",
+        "descripcion": "Bolsa",
+        "precio": "6.545,93",
+        "imagen": "../golosinas.img/alkaStrone.jpg"
+    },
+
+    {
+        "id": 106,
+        "nombre": "Yum-Yum Maticable",
+        "descripcion": "Bolsa Por 300Grs",
+        "precio": "1.524,69",
+        "imagen": "../golosinas.img/yum-yum.jpg"
+    },
+
+    {
+        "id": 107,
+        "nombre": "Butter Toffes Avellanas",
+        "descripcion": "Bolsa 822gr",
+        "precio": "3.641,25",
+        "imagen": "../golosinas.img/butterAvellanas.webp"
+    },
+    {
+        "id": 108,
+        "nombre": "Butter Toffes Bon o Bon ",
+        "descripcion": "Bolsa 822gr",
+        "precio": "6.523,67",
+        "imagen": "../golosinas.img/butterBonOBon.webp"
+    },
+    {
+        "id": 109,
+        "nombre": "Butter Toffes Café ",
+        "descripcion": "Bolsa 822gr",
+        "precio": "6.388,00",
+        "imagen": "../golosinas.img/butterCafe.webp"
+    },
+    {
+        "id": 110,
+        "nombre": "Butter Toffes Caramel",
+        "descripcion": "Bolsa 822gr",
+        "precio": "6.388,00",
+        "imagen": "../golosinas.img/butterCaramel.webp"
+    },
+    {
+        "id": 111,
+        "nombre": "Butter Toffes Choco Blanco",
+        "descripcion": "Bolsa 822gr",
+        "precio": "6.388,00",
+        "imagen": "../golosinas.img/butterChocoBlanco.webp"
+    },
+    {
+        "id": 112,
+        "nombre": "Butter Toffes Chokko Mint",
+        "descripcion": "Bolsa 822gr",
+        "precio": "6.388,00",
+        "imagen": "../golosinas.img/butterChocoMint.webp"
+    },
+    {
+        "id": 113,
+        "nombre": "Caramelos Misky Transparente Menta ",
+        "descripcion": "Bolsa 810gr",
+        "precio": "5.581,00",
+        "imagen": ""
+    },
+    {
+        "id": 114,
+        "nombre": "Caramelo Ácido Relleno TNT x 60 Pintalengua",
+        "descripcion": "",
+        "precio": "3.207,08",
+        "imagen": "../golosinas.img/miskyTrasparente.jpg"
+    },
+    {
+        "id": 115,
+        "nombre": "Caramelo Ácido Relleno TNT",
+        "descripcion": "Caja Por 60U",
+        "precio": "3.207,08",
+        "imagen": "../golosinas.img/tntAcido.jpg"
+    },
+    {
+        "id": 116,
+        "nombre": "Caramelo Masticables Cremoso",
+        "descripcion": "Bolsa Por 300Grs",
+        "precio": "3.554,96",
+        "imagen": "../golosinas.img/masticableCremoso.jpg"
+    },
+    {
+        "id": 117,
+        "nombre": "Caramelo 1/2 Hora",
+        "descripcion": "Bolsa 800g ",
+        "precio": "3.584,96",
+        "imagen": "../golosinas.img/mediaHora.jpg"
+    },
+    {
+        "id": 118,
+        "nombre": "Caramelo Lenguetazo",
+        "descripcion": "Caja",
+        "precio": "3.676,50",
+        "imagen": "../golosinas.img/lenguetazo.jpg"
+    },
+    {
+        "id": 119,
+        "nombre": "Caramelo Misky Medallón Miel",
+        "descripcion": "Bolsa 675Grs",
+        "precio": "4.370,28",
+        "imagen": "../golosinas.img/mielMisky.jpg"
+    },
+    {
+        "id": 120,
+        "nombre": "Caramelo Misky Relleno Fruta",
+        "descripcion": "Bolsa 810Grs",
+        "precio": "4.370,28",
+        "imagen": "../golosinas.img/miskyFruta.jpg"
+    },
+    {
+        "id": 121,
+        "nombre": "Caramelo Relleno Miel y Menta",
+        "descripcion": "Bolsa 335Grs",
+        "precio": "2.790,00",
+        "imagen": "../golosinas.img/mielMenta.jpg"
+    },
+    {
+        "id": 122,
+        "nombre": "Caramelo Relleno Miel",
+        "descripcion": "Bolsa 675Grs",
+        "precio": "2.790,00",
+        "imagen": "../golosinas.img/carameloMiel.jpg"
+    },
+    {
+        "id": 123,
+        "nombre": "Caramelo Rodajas Arcor ",
+        "descripcion": "Bolsa  930gr",
+        "precio": "4.276,00",
+        "imagen": "../golosinas.img/rodajasArcor.jpg"
+    },
+    {
+        "id": 124,
+        "nombre": "Caramelo Rodajas Crazy ",
+        "descripcion": "Bolsa 465gr",
+        "precio": "4.121,43",
+        "imagen": "../golosinas.img/rodajasCrazy.jpg"
+    },
+    {
+        "id": 125,
+        "nombre": "Caramelo Bastón Viena",
+        "descripcion": "Arcor",
+        "precio": "2.756,39",
+        "imagen": "../golosinas.img/bastonViena.jpg"
+    },
+    {
+        "id": 126,
+        "nombre": "Caramelos Pico Dulce ",
+        "descripcion": "Peso 450gr",
+        "precio": "3.664,12",
+        "imagen": "../golosinas.img/picoDulceCaramelo.jpg"
+    },
+    {
+        "id": 127,
+        "nombre": "Cremino Coco/Surtdo ",
+        "descripcion": "Peso 940gr",
+        "precio": "7.266,58",
+        "imagen": "../golosinas.img/creminoCoco.jpg"
+    },
+    {
+        "id": 128,
+        "nombre": "Docile Canudinho Ácido Frutilla",
+        "descripcion": "Gomitas 500",
+        "precio": "201,50",
+        "imagen": "../golosinas.img/DocileCanudinhoÁcidoFrutilla.jpg"
+    },
+    {
+        "id": 129,
+        "nombre": "Dropsy Masticables ",
+        "descripcion": "Bolsa 700gr",
+        "precio": "3.271,84",
+        "imagen": "../golosinas.img/dropsyMaticable.jpg"
+    },
+    {
+        "id": 130,
+        "nombre": "Flynn Paff Ácido Xtremo",
+        "descripcion": "Confitado",
+        "precio": "538,38",
+        "imagen": "../golosinas.img/FlynnPaffÁcidoXtremo.jpg"
+    },
+    {
+        "id": 131,
+        "nombre": "Halls",
+        "descripcion": "Mentho-Lyptus",
+        "precio": "664,43",
+        "imagen": "../golosinas.img/hallsMentoLyptus.jpg"
+    },
+    {
+        "id": 132,
+        "nombre": "Kesitas ",
+        "descripcion": "Bolsa 75gr",
+        "precio": "738,65",
+        "imagen": "../golosinas.img/kesitasBolsa.jpg"
+    },
+    {
+        "id": 133,
+        "nombre": "Lipo Gajitos Cel-Leche",
+        "descripcion": "Bolsa 907gr",
+        "precio": "3.660,25",
+        "imagen": "../golosinas.img/lipoGagitos.jpg"
+    },
+    {
+        "id": 134,
+        "nombre": "Lipo Sport",
+        "descripcion": "Bolsa 907gr",
+        "precio": "3.660,25",
+        "imagen": "../golosinas.img/lipoSport.jpg"
+    },
+    {
+        "id": 135,
+        "nombre": "Lipo Súper Ácidos ",
+        "descripcion": "Bolsa x 907gr",
+        "precio": "3.660,25",
+        "imagen": "../golosinas.img/lipoAcido.jpg"
+    },
+    {
+        "id": 136,
+        "nombre": "Lotza Fizz ",
+        "descripcion": "Arcor Extreme",
+        "precio": "183,11",
+        "imagen": "../golosinas.img/Lotza Fizz.jpg"
+    },
+    {
+        "id": 137,
+        "nombre": "Maní con Chocolate",
+        "descripcion": "Imperial",
+        "precio": "227,50",
+        "imagen": "../golosinas.img/maniImperial.jpg"
+    },
+    {
+        "id": 138,
+        "nombre": "Tembleke Bruja",
+        "descripcion": "Gelatina",
+        "precio": "487,84",
+        "imagen": "../golosinas.img/temblekeBruja.jpg"
+    },
+    {
+        "id": 139,
+        "nombre": "Mast Pico Dulce",
+        "descripcion": "Ácido Power",
+        "precio": "3.077,14",
+        "imagen": "../golosinas.img/picoDulceAcido.jpg"
+    },
+    {
+        "id": 140,
+        "nombre": "Masticable Arcor ",
+        "descripcion": "Bolsa x 800gr",
+        "precio": "5.279,93",
+        "imagen": "../golosinas.img/masArcor.jpg"
+    },
+    {
+        "id": 141,
+        "nombre": "Masticable Billiken",
+        "descripcion": "Frutal",
+        "precio": "2.818,29",
+        "imagen": "../golosinas.img/bilikenFrutal.jpg"
+    },
+    {
+        "id": 142,
+        "nombre": "Masticable Bull Dog Ácidos ",
+        "descripcion": "Bolsa x 700gr",
+        "precio": "3.276,00",
+        "imagen": "../golosinas.img/MasticableBullDogÁcidos.jpg"
+    },
+    {
+        "id": 143,
+        "nombre": "Masticable Frutomilla",
+        "descripcion": "Bolsa x 500gr",
+        "precio": "1.285,07",
+        "imagen": "../golosinas.img/mastFrutomila.jpg"
+    },
+    {
+        "id": 144,
+        "nombre": "Masticable Pico Dulce",
+        "descripcion": "Bolsa x 500gr",
+        "precio": "2.630,31",
+        "imagen": "../golosinas.img/picoDulceCarameloMati.jpg"
+    },
+    {
+        "id": 145,
+        "nombre": "Masticable Billiken",
+        "descripcion": "Yogurt",
+        "precio": "2.818,29",
+        "imagen": "../golosinas.img/bilikenYogurt.jpg"
+    },
+    {
+        "id": 146,
+        "nombre": "Menta Cherry Misky ",
+        "descripcion": "Bolsa x 405gr",
+        "precio": "2.859,18",
+        "imagen": "../golosinas.img/cerryMisky.jpg"
+    },
+    {
+        "id": 147,
+        "nombre": "Menta con Chocolate",
+        "descripcion": "Bolsa x 715gr",
+        "precio": "5.708,90",
+        "imagen": "../golosinas.img/mentaConChoco.jpg"
+    },
+    {
+        "id": 148,
+        "nombre": "Menta Fresh Cristal",
+        "descripcion": "Bolsa x 405gr",
+        "precio": "3.796,24",
+        "imagen": "../golosinas.img/freshCrista;.jpg"
+    },
+    {
+        "id": 149,
+        "nombre": "Mentos",
+        "descripcion": "Frutas Confitados",
+        "precio": "545,12",
+        "imagen": "../golosinas.img/mentosFrutos.jpg"
+    },
+    {
+        "id": 150,
+        "nombre": "Mogul Extreme Palotes",
+        "descripcion": "Caja x 70u",
+        "precio": "3.395,47",
+        "imagen": "../golosinas.img/palotes.jpg"
+    },
+    {
+        "id": 151,
+        "nombre": "Palito de la Selva",
+        "descripcion": "Masticable",
+        "precio": "5.444,07",
+        "imagen": "../golosinas.img/palitosDeLaSelva.jpg"
+    },
+    {
+        "id": 152,
+        "nombre": "Sugus Mast ",
+        "descripcion": "Bolsa x 700gr",
+        "precio": "4.671,89",
+        "imagen": "../golosinas.img/sugusMati.jpg"
+    },
+    {
+        "id": 153,
+        "nombre": "Sugus Max",
+        "descripcion": "Bolsa x 35",
+        "precio": "2.105,25",
+        "imagen": "../golosinas.img/sugusMax.jpg"
     }
 
 ]

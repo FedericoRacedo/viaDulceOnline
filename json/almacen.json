@@ -581,5 +581,198 @@
         "descripcion": "(Por unidad)",
         "precio": "595,85",
         "imagen": "../almacen.img/pinzasDepilar.jpg"
+    },
+
+    {
+        "id": 74,
+        "nombre": "Provenzal",
+        "descripcion": "(Peso 50g)",
+        "precio":  "1.416,15",
+        "imagen": "../almacen.img/provenzal.jpg"
+    },
+
+    {
+        "id": 75,
+        "nombre": "Pure de tomate",
+        "descripcion": "(Molto)",
+        "precio": "875,73",
+        "imagen": "../almacen.img/pureTomateMolto.jpg"
+    },
+
+    {
+        "id": 76,
+        "nombre": "Pure de tomate",
+        "descripcion": "(Salsati)",
+        "precio": "849,08",
+        "imagen": "../almacen.img/pureTomateSalsati.jpg"
+    },
+
+    {
+        "id": 77,
+        "nombre": "Pure de tomate",
+        "descripcion": "(La Campagniola)",
+        "precio": "778,14",
+        "imagen": "../almacen.img/pureTomateLaCampagniola.jpg"
+    },
+
+    {
+        "id": 78,
+        "nombre": "Polenta Presta Pronto",
+        "descripcion": "(Peso 500gr)",
+        "precio": "1.050,00",
+        "imagen": "../almacen.img/polentaPrestaPronto.jpg"
+    },
+
+    {
+        "id": 79,
+        "nombre": "Pure de tomate",
+        "descripcion": "(Arcor)",
+        "precio": "707,39",
+        "imagen": "../almacen.img/pureTomateArcor.jpg"
+    },
+
+    {
+        "id": 80,
+        "nombre": "Pure de tomate",
+        "descripcion": "(La Huerta)",
+        "precio": "752,70",
+        "imagen": "../almacen.img/pureTomateLaHuerta.jpg"
+    },
+
+    {
+        "id": 81,
+        "nombre": "Pure Maggi",
+        "descripcion": "(Peso 125gr)",
+        "precio": "1.838,13",
+        "imagen": "../almacen.img/pureMaggi.jpg"
+    },
+
+    {
+        "id": 82,
+        "nombre": "Queso Rallado",
+        "descripcion": "(La serenisima)",
+        "precio": "1.483,14",
+        "imagen": "../almacen.img/quesoRalladoLaSerenisima.jpg"
+    },
+
+    {
+        "id": 83,
+        "nombre": "Queso Rallado",
+        "descripcion": "(La Quesera)",
+        "precio": "613,43",
+        "imagen": "../almacen.img/quesoRalladoLaQuesera.jpg"
+    },
+
+    {
+        "id": 84,
+        "nombre": "Sal Tresal",
+        "descripcion": "(Entrefina)",
+        "precio":  "693,00",
+        "imagen": "../almacen.img/tresalEntrefina.jpg"
+    },
+
+    {
+        "id": 85,
+        "nombre": "Sal Fina",
+        "descripcion": "(Dos anclas)",
+        "precio": "1.006,74",
+        "imagen": "../almacen.img/salFina2Anclas.jpg"
+    },
+
+    {
+        "id": 86,
+        "nombre": "Savora",
+        "descripcion": "(Peso 60g)",
+        "precio":  "546,75",
+        "imagen": "../almacen.img/savora.jpg"
+    },
+
+    {
+        "id": 87,
+        "nombre": "Te Cryfs",
+        "descripcion": "(Por 25Unidades)",
+        "precio":  "579,60",
+        "imagen": "../almacen.img/teCrysf.jpg"
+    },
+
+    {
+        "id": 88,
+        "nombre": "TE Taragui x 25 Saq.",
+        "precio": 579.60,
+        "descripcion": "Caja de 25 saquitos de té Taragüi.",
+        "imagen": "../almacen.img/teTaragui.jpg"
+    },
+
+    {
+        "id": 89,
+        "nombre": "TOMATE LATA MAROLIO 400 g",
+        "precio": 883.20,
+        "descripcion": "Lata de tomate Marolio de 400 gramos.",
+        "imagen": "../almacen.img/tomateTrituradoMarolio.jpg"
+    },
+
+    {
+        "id": 90,
+        "nombre": "TOMATE PERITA LATA MOLTO 400 g",
+        "precio": 894.72,
+        "descripcion": "Lata de tomate perita Molto de 400 gramos.",
+        "imagen": "../almacen.img/tomateLataPerita.jpg"
+    },
+
+    {
+        "id": 91,
+        "nombre": "TOMATE TRITURADO MAROLIO",
+        "precio": 955.90,
+        "descripcion": "Tomate triturado Marolio.",
+        "imagen": "../almacen.img/tomateTrituradoMarolio.jpg"
+    },
+
+    {
+        "id": 92,
+        "nombre": "VALIDO Budin MARMOLADO 180g",
+        "precio": 1998.75,
+        "descripcion": "Budín marmolado Valido de 180 gramos.",
+        "imagen": "../almacen.img/budinMarmoladoValido.jpg"
+    },
+
+    {
+        "id": 93,
+        "nombre": "Vinagre CASALTA x 500cc",
+        "precio": 845.81,
+        "descripcion": "Botella de vinagre Casalta de 500 cc.",
+        "imagen": "../almacen.img/vinagreCasalta.jpg"
+    },
+
+    {
+        "id": 94,
+        "nombre": "Vinagre CASALTA x 1L",
+        "precio": 583.88,
+        "descripcion": "Botella de vinagre Casalta de 1 litro.",
+        "imagen": "../almacen.img/vinagreCasalta.jpg"
+    },
+
+    {
+        "id": 95,
+        "nombre": "Vinagre MAROLIO/MOLTO x 500cc",
+        "precio": 827.75,
+        "descripcion": "Botella de vinagre Marolio/Molto de 500 cc.",
+        "imagen": "../almacen.img/vinagreMarolio.jpg"
+    },
+
+    {
+        "id": 96,
+        "nombre": "YERBA CBSe NARANJA 500",
+        "precio": 1815.00,
+        "descripcion": "Paquete de yerba CBSé sabor naranja de 500 gramos.",
+        "imagen": "../almacen.img/cbseNaranja.jpg"
+    },
+
+    {
+        "id": 97,
+        "nombre": "YERBA LA TRANQUERA 1 KILO",
+        "precio": 3467.24,
+        "descripcion": "Paquete de yerba La Tranquera de 1 kilo.",
+        "imagen": "../almacen.img/tranquera1k.jpg"
     }
+        
 ]
