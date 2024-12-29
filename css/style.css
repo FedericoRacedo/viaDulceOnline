@@ -264,6 +264,61 @@ h2 {
 .btn2:hover {
     background-color: #a91c1c;
 }
+
+.swiper {
+    width: 100%;
+    max-width: 1200px; /* Tamaño máximo del carrusel */
+    height: 500px; /* Altura personalizada */
+    margin: 20px auto; /* Centrar el carrusel */
+    position: relative;
+}
+
+.swiper-slide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #f0f0f0;
+}
+
+.swiper-slide img {
+    width: 100%;
+    max-height: 400px; /* Altura máxima de las imágenes */
+    object-fit: cover; /* Escala las imágenes manteniendo proporción */
+    border-radius: 10px;
+}
+
+.swiper-slide p {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color: #000; /* Color de los botones */
+    font-size: 24px;
+    top: 50%; /* Centra verticalmente */
+    transform: translateY(-50%);
+}
+
+.swiper-button-next {
+    right: 10px;
+}
+
+.swiper-button-prev {
+    left: 10px;
+}
+
+.swiper-pagination-bullet {
+    background: #555;
+}
+
+.swiper-pagination-bullet-active {
+    background: #000; /* Color del bullet activo */
+}
+
+
 /* Productos Terminado */
 
 .testimonial {
@@ -333,13 +388,21 @@ h2 {
     margin: 20px;
 }
 
-.contact iframe {
-    margin: 10px;
+
+.contact .imgLocal {
+    width: 100%; /* El ancho se ajusta al contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    max-width: 600px; /* Tamaño máximo */
+    border-radius: 10px; /* Opcional: esquinas redondeadas */
+    margin: 10px auto; /* Centrado en pantallas pequeñas */
 }
-.contact .imgLocal {    
-    margin: 10px;
-    width: 600px;
-    height: 450px;
+
+.contact iframe {
+    width: 100%; /* El ancho se ajusta al contenedor */
+    height: 475px; /* Mantiene proporción */
+    max-width: 600px; /* Tamaño máximo */
+    border: 0; /* Elimina bordes innecesarios */
+    margin: 10px auto; /* Centrado */
 }
 
 .iconos {
@@ -394,6 +457,85 @@ h2 {
     transform: scale(1.1);
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
 }
+
+/*CHAT */
+/* Estilos del botón flotante */
+.chat-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25d366;
+    color: white;
+    border: none;
+    border-radius: 20%;
+    padding: 15px;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Caja del chat */
+.chat-box {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: none; /* Oculto por defecto */
+    flex-direction: column;
+    overflow: hidden;
+    z-index: 1000;
+}
+
+/* Encabezado del chat */
+.chat-header {
+    background-color: #25d366;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Mensajes */
+.chat-messages {
+    height: 200px;
+    overflow-y: auto;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.chat-messages p {
+    margin: 5px 0;
+    padding: 8px 10px;
+    border-radius: 5px;
+    background-color: #e9e9e9;
+}
+
+/* Formulario de entrada */
+.chat-form {
+    display: flex;
+    border-top: 1px solid #ddd;
+}
+
+.chat-form input {
+    flex: 1;
+    border: none;
+    padding: 10px;
+    outline: none;
+}
+
+.chat-form button {
+    background-color: #25d366;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+/*CHAT */
 
 @media (max-width:991px) {
     .menu {
@@ -512,5 +654,11 @@ h2 {
 
     .icono {
         text-align: center; 
+    } 
+
+    .contact iframe, .contact .imgLocal {
+        width: 90%; 
+        max-width: 100%; 
+        margin: 20px auto; 
     }
 }

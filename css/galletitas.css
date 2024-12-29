@@ -248,6 +248,86 @@ h2 {
     background-color: #218838;
 }
 
+/*CHAT */
+/* Estilos del botón flotante */
+.chat-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25d366;
+    color: white;
+    border: none;
+    border-radius: 20%;
+    padding: 15px;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Caja del chat */
+.chat-box {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: none; /* Oculto por defecto */
+    flex-direction: column;
+    overflow: hidden;
+    z-index: 1000;
+}
+
+/* Encabezado del chat */
+.chat-header {
+    background-color: #25d366;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Mensajes */
+.chat-messages {
+    height: 200px;
+    overflow-y: auto;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.chat-messages p {
+    margin: 5px 0;
+    padding: 8px 10px;
+    border-radius: 5px;
+    background-color: #e9e9e9;
+}
+
+/* Formulario de entrada */
+.chat-form {
+    display: flex;
+    border-top: 1px solid #ddd;
+}
+
+.chat-form input {
+    flex: 1;
+    border: none;
+    padding: 10px;
+    outline: none;
+}
+
+.chat-form button {
+    background-color: #25d366;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+/*CHAT */
+
+
 @media (max-width:500px) {
     
     .header {

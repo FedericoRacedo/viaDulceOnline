@@ -45,7 +45,7 @@
 
     <main class="contact" id="contact">
         <h2>Ubicacion</h2>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.900222177086!2d-58.659154924814494!3d-34.58139115631838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbeaf4d341043%3A0x5915d6e3d62887d6!2sLa%20V%C3%ADa%20Dulce!5e0!3m2!1ses-419!2sar!4v1727306605337!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.900222177086!2d-58.659154924814494!3d-34.58139115631838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbeaf4d341043%3A0x5915d6e3d62887d6!2sLa%20V%C3%ADa%20Dulce!5e0!3m2!1ses-419!2sar!4v1727306605337!5m2!1ses-419!2sar" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <img class="imgLocal" src="../image/Local.png" alt="Imagen de nuestro local la via dulce">
     </main> <!--Main Terminado-->
 
@@ -70,6 +70,19 @@
             </a>
         </div>
     </section>
+
+    <div id="chatContainer" class="chat-box">
+        <div class="chat-header">
+            <h4>Chat de soporte</h4>
+            <button id="closeChat">✖</button>
+        </div>
+        <div id="chatMessages" class="chat-messages"></div>
+        <form id="chatForm" class="chat-form">
+            <input type="text" id="chatInput" placeholder="Escribe tu mensaje aquí..." />
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+    <button id="openChat" class="chat-button">💬 Chat</button>
 
     <footer class="footer">
         <div class="footerContent container">

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
     <title>Via Dulce Online</title>
 </head>
 <body>
@@ -50,56 +51,38 @@
                 <li><a href="./page.productos/cigarrillos.html">Cigarrillos</a></li>
                 <li><a href="./page.productos/galletitas.html">Galletitas</a></li>
                 <li><a href="./page.productos/golosinas.html">Golosinas</a></li>
-                <li><a href="./page.productos/liberia.html">Libreria</a></li>
+                <li><a href="./page.productos/limpieza.html">Libreria</a></li>
                 <li><a href="./page.productos/limpieza.html">Limpieza</a></li>
                 <li><a href="./page.productos/ofertas.html">Ofertas</a></li>
                 <li><a href="./page.productos/snack.html">Snack</a></li>
             </ul>
         </nav>
 
-        <section class="special-offers">
-            <h3>Ofertas destacadas</h3>
-            <div class="offers-gallery">
-                <div class="offer-item">
-                    <img src="./almacen.img/yerbaAmanda.jpg" alt="Yerba Amanda">
-                    <p>Yerba Amanda - $500</p>
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <a href="./page.productos/ofertas.html"><img src="./image/ParNor.jpg" alt="Slide 1"></a>
+                    <p>Todas las galletitas parnor al 50%.</p>
+                    <h2>OFERTA</h2>
                 </div>
-                <div class="offer-item">
-                    <img src="./cigarrilos.img/marlboroComun.png" alt="Marlboro Común">
-                    <p>Marlboro Común - $750</p>
+                <div class="swiper-slide">
+                    <a href="./page.productos/ofertas.html"><img src="./image/takis.jpg" alt="Slide 2"></a>
+                    <p>Takis Nuevo ingreso en PROMOCION.</p>
+                    <h2>OFERTA</h2>
                 </div>
-                <div class="offer-item">
-                    <img src="./galletitas.img/pituLimon.png" alt="Pitusas Limón">
-                    <p>Pitusas Limón - $200</p>
+                <div class="swiper-slide">
+                    <a href="./page.productos/ofertas.html"><img src="./image/fantoche.jpg" alt="Slide 3"></a>
+                    <p>Fantoche precio especial por vuelta a clases.</p>
+                    <h2>OFERTA</h2>
                 </div>
-                <div class="offer-item">
-                    <img src="./galletitas.img/pituChoco.png" alt="Pitusas Limón">
-                    <p>Pitusas Limón - $200</p>
-                </div>
-                <div class="offer-item">
-                    <img src="./galletitas.img/cocoParNor.webp" alt="Pitusas Limón">
-                    <p>Pitusas Limón - $200</p>
-                </div>
-                <div class="offer-item">
-                    <img src="./galletitas.img/pituLimon.png" alt="Pitusas Limón">
-                    <p>Pitusas Limón - $200</p>
-                </div>
-                <div class="offer-item">
-                    <img src="./galletitas.img/pituChoco.png" alt="Pitusas Limón">
-                    <p>Pitusas Limón - $200</p>
-                </div>
-                <div class="offer-item">
-                    <img src="./galletitas.img/cocoParNor.webp" alt="Pitusas Limón">
-                    <p>Pitusas Limón - $200</p>
-                </div>
+                <!-- Agrega más slides aquí -->
             </div>
-            <div class="offer-button">
-                <a href="./page.productos/ofertas.html" class="btn2">Ver todas las ofertas</a>
-            </div>
-        </section>
-        
-    
-
+            <!-- Botones de navegación -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <!-- Paginación -->
+            <div class="swiper-pagination"></div>
+        </div>
 
     </main> <!--Main Terminado-->
 
@@ -121,6 +104,20 @@
             </div>
         </div>
     </section> <!--Seccion terminada-->
+
+    <div id="chatContainer" class="chat-box">
+        <div class="chat-header">
+            <h4>Chat de soporte</h4>
+            <button id="closeChat">✖</button>
+        </div>
+        <div id="chatMessages" class="chat-messages"></div>
+        <form id="chatForm" class="chat-form">
+            <input type="text" id="chatInput" placeholder="Escribe tu mensaje aquí..." />
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+    <button id="openChat" class="chat-button">💬 Chat</button>
+
 
     <footer class="footer">
         <div class="footerContent container">
@@ -152,6 +149,7 @@
     </footer>
 
     <script type="text/javascript" src="./js/script.js" ></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 </body>
 </html>
 
