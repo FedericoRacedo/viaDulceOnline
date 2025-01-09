@@ -48,16 +48,13 @@ img {
 .menu .navBar ul li {
     position: relative;
     float: left;
-    display: flex;
-    justify-content: space-between;
 }
 
 .menu .navBar ul li a {
     font-size: 18px;
     padding: 20px;
     color: #111419;
-    display: flex;
-    justify-content: space-between;
+    display: block;
 }
 
 .menu .navBar ul li a:hover {
@@ -248,12 +245,6 @@ h2 {
     background-color: #218838;
 }
 
-/*Buscador*/
-.result-item {
-    border: 1px solid #ccc;
-    padding: 10px;
-    margin: 10px 0;
-}
 
 /*CHAT */
 /* Estilos del botón flotante */

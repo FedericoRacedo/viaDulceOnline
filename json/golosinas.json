@@ -767,17 +767,17 @@
     },
     {
         "id": 99,
-        "nombre": "Bombones de Fruta Mogul",
-        "descripcion": "",
+        "nombre": "Bombones de Fruta",
+        "descripcion": "Mogul",
         "precio": "5.321,82",
-        "imagen": ""
+        "imagen": "../golosinas.img/bombonesDeFruta.jpg"
     },
     {
         "id": 100,
         "nombre": "Bon-o-Bon Blanco",
-        "descripcion": "",
+        "descripcion": "Por 30 Unidades",
         "precio": "282,10",
-        "imagen": ""
+        "imagen": "../golosinas.img/bombonBlanco.jpg"
     },
     {
         "id": 101,
@@ -874,14 +874,14 @@
         "nombre": "Caramelos Misky Transparente Menta ",
         "descripcion": "Bolsa 810gr",
         "precio": "5.581,00",
-        "imagen": ""
+        "imagen": "../golosinas.img/miskyTrasparente.jpg"
     },
     {
         "id": 114,
-        "nombre": "Caramelo Ácido Relleno TNT x 60 Pintalengua",
-        "descripcion": "",
+        "nombre": "Caramelo Ácido Relleno TNT",
+        "descripcion": "Caja Por 60U",
         "precio": "3.207,08",
-        "imagen": "../golosinas.img/miskyTrasparente.jpg"
+        "imagen": "../golosinas.img/tntAcidoAzul.jpg"
     },
     {
         "id": 115,
@@ -1155,6 +1155,979 @@
         "descripcion": "Bolsa x 35",
         "precio": "2.105,25",
         "imagen": "../golosinas.img/sugusMax.jpg"
-    }
+    },
 
+    {
+        "id": 154,
+        "nombre": "CHICLE BELDENT",
+        "descripcion": "Menta Fuerte",
+        "precio": "484,86",
+        "imagen": "../golosinas.img/beldentMenta.jpg"
+    },
+    {
+        "id": 155,
+        "nombre": "CHICLE BELDENT",
+        "descripcion": "Frutas",
+        "precio": "486,65",
+        "imagen": "../golosinas.img/beldentFrutilla.jpg"
+    },
+    {
+        "id": 156,
+        "nombre": "CHICLE BELDENT",
+        "descripcion": "Tutti Frutti (Chicle Globo)",
+        "precio": "484,86",
+        "imagen": "../golosinas.img/beldentTutti.jpg"
+    },
+    {
+        "id": 157,
+        "nombre": "CHICLE BAZOOKA",
+        "descripcion": "Tutti 80un",
+        "precio": "5.146,12",
+        "imagen": "../golosinas.img/bazookaTutti.jpg"
+    },
+
+    {
+        "id": 158,
+        "nombre": "CHICLE BAZOOKA",
+        "descripcion": "Menta 80un",
+        "precio": "5.146,12",
+        "imagen": "../golosinas.img/bazookaMenta.jpg"
+    },
+
+    {
+        "id": 159,
+        "nombre": "CHICLE BUBBALOO",
+        "descripcion": "Tutti-Frutti x 60u",
+        "precio": "5.525,58",
+        "imagen": "../golosinas.img/bubbalooTutti.jpg"
+    },
+    {
+        "id": 160,
+        "nombre": "CHICLE BUBBALOO",
+        "descripcion": "Uva x 60u",
+        "precio": "5.525,58",
+        "imagen": "../golosinas.img/bubbalooUva.jpg"
+    },
+
+    
+    {
+        "id": 161,
+        "nombre": "CHICLE BUBBALOO",
+        "descripcion": "Menta x 60u",
+        "precio": "5.525,58",
+        "imagen": "../golosinas.img/bubbalooMenta.jpg"
+    },
+
+    
+    {
+        "id": 162,
+        "nombre": "CHICLE BUBBALOO",
+        "descripcion": "Frutilla x 60u",
+        "precio": "5.525,58",
+        "imagen": "../golosinas.img/bubbalooFrutilla.jpg"
+    },
+    {
+        "id": 163,
+        "nombre": "CHICLE BUZZY CROC",
+        "descripcion": "Menta x 40u",
+        "precio": "1.733,30",
+        "imagen": "../golosinas.img/buzzyMenta.jpg"
+    },
+    {
+        "id": 164,
+        "nombre": "CHICLE BUZZY CROC",
+        "descripcion": "Uva x 40u",
+        "precio": "1.733,30",
+        "imagen": "../golosinas.img/buzzyUva.jpg"
+    },
+    {
+        "id": 165,
+        "nombre": "CHICLE BUZZY CROC",
+        "descripcion": "Tutti-Frutti x 40u",
+        "precio": "1.733,30",
+        "imagen": "../golosinas.img/buzzyTutti.jpg"
+    },
+    {
+        "id": 166,
+        "nombre": "CHICLE FIERITA",
+        "descripcion": "Recargado Frutilla x 50u",
+        "precio": "2.223,11",
+        "imagen": "../golosinas.img/fieritaFrutillaRecargado.jpg"
+    },
+    {
+        "id": 167,
+        "nombre": "CHICLE FIERITA",
+        "descripcion": "Recargado Menta x 50u",
+        "precio": "2.223,11",
+        "imagen": "../golosinas.img/fieritaMentaRecargado.jpg"
+    },
+    {
+        "id": 168,
+        "nombre": "CHICLE FIERITA",
+        "descripcion": "Recargado Tutti-Frutti x 50u",
+        "precio": "2.223,11",
+        "imagen": "../golosinas.img/fieritaTuttiRecargado.jpg"
+    },
+    {
+        "id": 169,
+        "nombre": "CHICLE FIERITA",
+        "descripcion": "Frutilla x 100u",
+        "precio": "2.182,44",
+        "imagen": "../golosinas.img/fieritaFrutilla.jpg"
+    },
+    
+    {
+        "id": 170,
+        "nombre": "CHICLE FIERITA",
+        "descripcion": "Menta x 100u",
+        "precio": "2.182,44",
+        "imagen": "../golosinas.img/fieritaMenta.jpg"
+    },
+    {
+        "id": 171,
+        "nombre": "CHICLE FIERITA",
+        "descripcion": "Banana x 100u",
+        "precio": "2.182,44",
+        "imagen": "../golosinas.img/fieritaBanana.jpg"
+    },
+    
+    {
+        "id": 172,
+        "nombre": "CHICLE FIERITA",
+        "descripcion": "Maestro de terror x 100u",
+        "precio": "2.182,44",
+        "imagen": "../golosinas.img/fieritaMaestroDeTerror.jpg"
+    },
+    {
+        "id": 173,
+        "nombre": "CHICLE GUMBALLS",
+        "descripcion": "Grande x 30u (Open Candy)",
+        "precio": "2.477,54",
+        "imagen": "../golosinas.img/chicleGumballs.jpg"
+    },
+    {
+        "id": 174,
+        "nombre": "CHICLE TENNIS",
+        "descripcion": " x 30u (Open Candy)",
+        "precio": "2.471,53",
+        "imagen": "../golosinas.img/chileTennis.jpg"
+    },
+    {
+        "id": 175,
+        "nombre": "BLUPPER TIRA",
+        "descripcion": " x 6",
+        "precio": "2.146,14",
+        "imagen": "../golosinas.img/blupperTiraChicle.jpg"
+    },
+    {
+        "id": 176,
+        "nombre": "CEREAL MIX",
+        "descripcion": "Yogurt x 26 grs",
+        "precio": "507,22",
+        "imagen": "../golosinas.img/cerealMixYogurt.jpg"
+    },
+    {
+        "id": 177,
+        "nombre": "CEREAL FORT",
+        "descripcion": "26 grs",
+        "precio": "581,22",
+        "imagen": "../golosinas.img/cerealFort.jpg"
+    },
+    {
+        "id": 178,
+        "nombre": "Girasol PIPA Gigante",
+        "descripcion": "Tiras x 10",
+        "precio": "4.909,07,",
+        "imagen": "../golosinas.img/pipaGigante.jpg"
+    },
+    {
+        "id": 170,
+        "nombre": "Girasol PIPA Gigante",
+        "descripcion": "Caja x 12",
+        "precio": "5.989,92",
+        "imagen": "../golosinas.img/pipaGigante.Cajajpg.jpg"
+    },
+    {
+        "id": 180,
+        "nombre": "Girasol PIPA ",
+        "descripcion": "Caja x 10",
+        "precio": "2.019,07",
+        "imagen": "../golosinas.img/pipaGirasol.jpg"
+    },
+
+    {
+        "id": 181,
+        "nombre": "Biznikke Nevado",
+        "descripcion": "Por 1 Unidad",
+        "precio": "790,21",
+        "imagen": "../golosinas.img/biznikkeNevado.jpg"
+    },
+    {
+        "id": 182,
+        "nombre": "Bombón Ferrero Rocher x 8u",
+        "descripcion": " x 8u",
+        "precio": "6.344,15",
+        "imagen": "../golosinas.img/bombonFerreroRocher.jpg"
+    },
+    {
+        "id": 183,
+        "nombre": "Bombón Surtido Especial",
+        "descripcion": "Misky",
+        "precio": "3.027,97",
+        "imagen": "../golosinas.img/bombonSurtidoEspecial.jpg"
+    },
+    {
+        "id": 184,
+        "nombre": "Bon-o-Bon Surtido",
+        "descripcion": "x 255gr",
+        "precio": "5.489,65",
+        "imagen": "../golosinas.img/bonOBonSurtido.jpg"
+    },
+    {
+        "id": 185,
+        "nombre": "Butter Toffes Águila",
+        "descripcion": " x 822gr",
+        "precio": "6.388,00",
+        "imagen": "../golosinas.img/butterToffesAguila.jpg"
+    },
+    {
+        "id": 186,
+        "nombre": "Cadbury Almendras",
+        "descripcion": "x 72gr",
+        "precio": "2.505,70",
+        "imagen": "../golosinas.img/cadburyAlmendras.jpg"
+    },
+    {
+        "id": 187,
+        "nombre": "Cadbury Tres Sueños ",
+        "descripcion": "x 82gr",
+        "precio": "2.163,59",
+        "imagen": "../golosinas.img/cadburyTresSuenos82gr.jpg"
+    },
+    {
+        "id": 188,
+        "nombre": "Cadbury Tres Sueños ",
+        "descripcion": "x 25gr (Chico)",
+        "precio": "943,42",
+        "imagen": "../golosinas.img/cadburyTresSuenos25gr.jpg"
+    },
+    {
+        "id": 189,
+        "nombre": "Cadbury Yoghurt Frutilla",
+        "descripcion": "x 29gr",
+        "precio": "1.146,88",
+        "imagen": "../golosinas.img/cadburyYoghurtFrutilla29gr.jpg"
+    },
+    {
+        "id": 190,
+        "nombre": "Cadbury Yoghurt Frutilla",
+        "descripcion": "x 82gr",
+        "precio": "2.505,70",
+        "imagen": "../golosinas.img/cadburyYoghurtFrutilla82gr.jpg"
+    },
+    {
+        "id": 191,
+        "nombre": "Choc Georgalos Full Maní ",
+        "descripcion": "x 100gr",
+        "precio": "1.541,32",
+        "imagen": "../golosinas.img/georgalosFullMani100gr.jpg"
+    },
+    {
+        "id": 192,
+        "nombre": "Choc Georgalos Full Maní ",
+        "descripcion": "x 160gr",
+        "precio": "2.657,17",
+        "imagen": "../golosinas.img/georgalosFullMani160gr.jpg"
+    },
+    {
+        "id": 193,
+        "nombre": "Choc Georgalos Full Maní",
+        "descripcion": "x 35gr",
+        "precio": "514,55",
+        "imagen": "../golosinas.img/georgalosFullMani35gr.jpg"
+    },
+    {
+        "id": 194,
+        "nombre": "Choc Hersheys ",
+        "descripcion": "x 77gr Cookies & Creme",
+        "precio": "1.114,65",
+        "imagen": "../golosinas.img/hersheysCookiesCreme.jpg"
+    },
+    {
+        "id": 195,
+        "nombre": "Choc Misky ",
+        "descripcion": "x 50gr Negro",
+        "precio": "865,11",
+        "imagen": "../golosinas.img/miskyNegro50gr.jpg"
+    },
+    {
+        "id": 196,
+        "nombre": "Choc Misky",
+        "descripcion": "x 50gr Blanco",
+        "precio": "865,11",
+        "imagen": "../golosinas.img/miskyBlanco50gr.jpg"
+    },
+    {
+        "id": 197,
+        "nombre": "Choc. Shot",
+        "descripcion": " x 35gr",
+        "precio": "987,40",
+        "imagen": "../golosinas.img/chocShot35gr.jpg"
+    },
+    {
+        "id": 198,
+        "nombre": "Vimar Conitos",
+        "descripcion": "Duelce de leche",
+        "precio": "463,60",
+        "imagen": "../golosinas.img/conitoVimar.jpg"
+    },
+
+    {
+        "id": 199,
+        "nombre": "Choc. Hamlet Almendras",
+        "descripcion": "Chocolate con almendras, 100g",
+        "precio": "502,29",
+        "imagen": "../golosinas.img/hamletAlmendrasMani.jpg"
+    },
+    {
+        "id": 200,
+        "nombre": "Choc. Hamlet Blanco y Cookies",
+        "descripcion": "Chocolate blanco con trozos de cookies, 100g",
+        "precio": "502,29",
+        "imagen": "../golosinas.img/hamletBlancoCookies.jpg"
+    },
+    {
+        "id": 201,
+        "nombre": "Choc. Hamlet Chocolatoso",
+        "descripcion": "Chocolate intenso, 100g",
+        "precio": "502,29",
+        "imagen": "../golosinas.img/hamletChocolatoso.jpg"
+    },
+    {
+        "id": 202,
+        "nombre": "Choc. Hamlet Leche y Cookies",
+        "descripcion": "Chocolate con leche y trozos de cookies, 100g",
+        "precio": "502,29",
+        "imagen": "../golosinas.img/hamletLecheCookies.jpg"
+    },
+    {
+        "id": 203,
+        "nombre": "Choc. Hamlet Yoghurt Frutilla",
+        "descripcion": "Chocolate con yogur y sabor frutilla, 100g",
+        "precio": "502,29",
+        "imagen": "../golosinas.img/hamletYoghurtFrutilla.jpg"
+    },
+    {
+        "id": 204,
+        "nombre": "Choc. Misky x 25gr Negro",
+        "descripcion": "Chocolate negro, 25g",
+        "precio": "570,83",
+        "imagen": "../golosinas.img/miskyNegro25gr.jpg"
+    },
+    {
+        "id": 205,
+        "nombre": "Choc. Misky x 25gr Blanco",
+        "descripcion": "Chocolate blanco, 25g",
+        "precio": "570,83",
+        "imagen": "../golosinas.img/miskyBlanco25gr.jpg"
+    },
+    {
+        "id": 206,
+        "nombre": "Choc. para Taza Águila x 100g",
+        "descripcion": "Chocolate para preparar bebidas, 100g",
+        "precio": "2.483,74",
+        "imagen": "../golosinas.img/chocTazaAguila.jpg"
+    },
+    {
+        "id": 207,
+        "nombre": "Choc. para Taza Misky x 100g",
+        "descripcion": "Chocolate para taza, 100g",
+        "precio": "1.363,92",
+        "imagen": "../golosinas.img/chocTazaMisky.jpg"
+    },
+    {
+        "id": 208,
+        "nombre": "Choc. Tokke x 72gr Dulce de Leche/Leche",
+        "descripcion": "Chocolate relleno de dulce de leche, 72g",
+        "precio": "1.516,64",
+        "imagen": "../golosinas.img/tokkeDulceLeche.jpg"
+    },
+    {
+        "id": 209,
+        "nombre": "Chocolate Hersheys Air x 85gr",
+        "descripcion": "Chocolate aireado, 85g",
+        "precio": "1.061,58",
+        "imagen": "../golosinas.img/hersheysAir.jpg"
+    },
+    {
+        "id": 210,
+        "nombre": "Chocolate Hersheys Leche x 82gr",
+        "descripcion": "Chocolate con leche, 82g",
+        "precio": "1.273,88",
+        "imagen": "../golosinas.img/hersheysLeche.jpg"
+    },
+    {
+        "id": 211,
+        "nombre": "Cofler Aireado x 30gr bon o bon",
+        "descripcion": "Chocolate aireado bon o bon",
+        "precio": "912,19",
+        "imagen": "../golosinas.img/coflerAireadoBonBon.jpeg"
+    },
+    {
+        "id": 212,
+        "nombre": "Cofler Aireado x 55gr",
+        "descripcion": "Chocolate aireado almendras",
+        "precio": "1.700,44",
+        "imagen": "../golosinas.img/coflerAireadoAlmendras55g.jpg"
+    },
+    {
+        "id": 213,
+        "nombre": "Cofler Block x 1K",
+        "descripcion": "Block de chocolate, 1K",
+        "precio": "2.340,68",
+        "imagen": "../golosinas.img/coflerBlock1k.jpg"
+    },
+    {
+        "id": 214,
+        "nombre": "Cofler Blocke x 38gr",
+        "descripcion": "Block de chocolate, 38g",
+        "precio": "2.340,68",
+        "imagen": "../golosinas.img/coflerBlock38gr.jpg"
+    },
+    {
+        "id": 215,
+        "nombre": "Cofler Block x 110gr",
+        "descripcion": "Block de chocolate, 110g",
+        "precio": "2.340,68",
+        "imagen": "../golosinas.img/coflerBlock110gr.jpg"
+    },
+    {
+        "id": 216,
+        "nombre": "Cofler Aireado x 27gr Blanco (Azul)",
+        "descripcion": "Chocolate blanco aireado, 27g",
+        "precio": "912,19",
+        "imagen": "../golosinas.img/coflerAireadoBlancoAzul.jpg"
+    },
+    {
+        "id": 217,
+        "nombre": "Cofler Aireado x 27gr Blanco/Leche (Amarillo)",
+        "descripcion": "Chocolate aireado blanco y leche, 27g",
+        "precio": "912,19",
+        "imagen": "../golosinas.img/coflerAireadoAmarillo.jpg"
+    },
+    {
+        "id": 218,
+        "nombre": "Cofler Aireado x 27gr Leche (Rojo)",
+        "descripcion": "Chocolate aireado de leche, 27g",
+        "precio": "912,19",
+        "imagen": "../golosinas.img/coflerAireadoLeche55g.jpg"
+    },
+    {
+        "id": 219,
+        "nombre": "Cofler Block x 300gr",
+        "descripcion": "Block de chocolate, 300g",
+        "precio": "5.950,68",
+        "imagen": "../golosinas.img/coflerBlock300gr.jpg"
+    },
+    {
+        "id": 220,
+        "nombre": "Cofler Block x 170gr",
+        "descripcion": "Block de chocolate, 170g",
+        "precio": "3.598,20",
+        "imagen": "../golosinas.img/coflerBlock170g.jpg"
+    },
+    
+    {
+        "id": 221,
+        "nombre": "Cofler Aireado x 55gr",
+        "descripcion": "Chocolate aireado Blanco",
+        "precio": "1.700,44",
+        "imagen": "../golosinas.img/coflerAireadoBlanco55g.jpg"
+    },
+
+    {
+        "id": 223,
+        "nombre": "Cofler Aireado x 55gr",
+        "descripcion": "Chocolate aireado Leche",
+        "precio": "1.700,44",
+        "imagen": "../golosinas.img/coflerAireadoLeche55g.jpg"
+    },
+
+    {
+        "id": 224,
+        "nombre": "Cofler Aireado x 55gr",
+        "descripcion": "Chocolate aireado Mixto",
+        "precio": "1.700,44",
+        "imagen": "../golosinas.img/coflerAireadoMixto55g.jpg"
+    },
+
+    {
+        "id": 221,
+        "nombre": "Cofler Aireado x 55gr",
+        "descripcion": "Chocolate aireado Bon o Bon",
+        "precio": "1.700,44",
+        "imagen": "../golosinas.img/coflerAireadoBonOBon5g.jpg"
+    },
+
+    {
+        "id": 221,
+        "nombre": "Cofler Aireado x 55gr",
+        "descripcion": "Chocolate aireado Tofi",
+        "precio": "1.700,44",
+        "imagen": "../golosinas.img/coflerAireadoTofi55g.jpg"
+    },
+
+    {
+        "id": 222,
+        "nombre": "Cofler Block Miti Miti x 170gr",
+        "descripcion": "Bloque de chocolate Miti Miti, 170g",
+        "precio": "3.598,20",
+        "imagen": "../golosinas.img/coflerBlockMitiMiti170gr.jpg"
+    },
+    {
+        "id": 223,
+        "nombre": "Cofler Chocolinas x 55gr",
+        "descripcion": "Chocolate con sabor a Chocolinas, 55g",
+        "precio": "1.406,53",
+        "imagen": "../golosinas.img/coflerChocolinas55gr.jpg"
+    },
+    {
+        "id": 224,
+        "nombre": "Cofler Rocklets x 55gr",
+        "descripcion": "Chocolate con Rocklets, 55g",
+        "precio": "1.450,02",
+        "imagen": "../golosinas.img/coflerRocklets55gr.jpg"
+    },
+    {
+        "id": 225,
+        "nombre": "Conitos Jorgito",
+        "descripcion": "Conitos bañados en chocolate, pack de 6",
+        "precio": "599,91",
+        "imagen": "../golosinas.img/conitosJorgito.jpg"
+    },
+    {
+        "id": 226,
+        "nombre": "Daqui Chocolate x 70gr",
+        "descripcion": "Chocolate amargo Daqui, 70g",
+        "precio": "582,52",
+        "imagen": "../golosinas.img/daquiChocolate70gr.jpg"
+    },
+    {
+        "id": 227,
+        "nombre": "Daqui Max x 120gr",
+        "descripcion": "Chocolate Daqui Max, 120g",
+        "precio": "819,27",
+        "imagen": "../golosinas.img/daquiMax120gr.jpg"
+    },
+    {
+        "id": 228,
+        "nombre": "Garoto x 250gr",
+        "descripcion": "Caja surtida de chocolates Garoto, 250g",
+        "precio": "4.184,87",
+        "imagen": "../golosinas.img/garoto250gr.jpg"
+    },
+    {
+        "id": 229,
+        "nombre": "Georgalos Chocolatín Blanco x 8g",
+        "descripcion": "Mini chocolatín blanco, 8g",
+        "precio": "258,03",
+        "imagen": "../golosinas.img/georgalosChocolatinBlanco8gr.png"
+    },
+    {
+        "id": 230,
+        "nombre": "Georgalos Chocolatín Negro x 8g",
+        "descripcion": "Mini chocolatín negro, 8g",
+        "precio": "258,03",
+        "imagen": "../golosinas.img/georgalosChocolatinNegro8gr.jpg"
+    },
+    {
+        "id": 231,
+        "nombre": "Habanitos x 60gr",
+        "descripcion": "Chocolates rellenos de licor, 60g",
+        "precio": "1.234,68",
+        "imagen": "../golosinas.img/habanitos60gr.jpg"
+    },
+    {
+        "id": 232,
+        "nombre": "Huevo Kinder",
+        "descripcion": "Huevo sorpresa Kinder, 20g",
+        "precio": "1.604,42",
+        "imagen": "../golosinas.img/huevoKinder.jpg"
+    },
+    {
+        "id": 233,
+        "nombre": "Kinder Barrita x 12,5gr",
+        "descripcion": "Barra de chocolate Kinder, 12,5g",
+        "precio": "520,40",
+        "imagen": "../golosinas.img/kinderBarrita12gr.jpg"
+    },
+    {
+        "id": 234,
+        "nombre": "Kinder Maxi Barra",
+        "descripcion": "Barra grande de chocolate Kinder, 21g",
+        "precio": "802,76",
+        "imagen": "../golosinas.img/kinderMaxiBarra.png"
+    },
+    {
+        "id": 235,
+        "nombre": "Kinder Huevo Joy",
+        "descripcion": "Huevo Kinder Joy, 20g",
+        "precio": "1.730,06",
+        "imagen": "../golosinas.img/kinderHuevoJoy.jpg"
+    },
+    {
+        "id": 236,
+        "nombre": "Milka Aireado Combinado x 110gr",
+        "descripcion": "Chocolate aireado Milka combinado, 110g",
+        "precio": "998,25",
+        "imagen": "../golosinas.img/milkaAireadoCombinado110gr.jpg"
+    },
+    {
+        "id": 237,
+        "nombre": "Milka Leger Almendra x 45gr",
+        "descripcion": "Chocolate con almendras, 45g",
+        "precio": "1.753,42",
+        "imagen": "../golosinas.img/milkaLegerAlmendra45gr.jpg"
+    },
+    {
+        "id": 238,
+        "nombre": "Milka Leger Combinado x 45gr",
+        "descripcion": "Chocolate combinado, 45g",
+        "precio": "1.753,42",
+        "imagen": "../golosinas.img/milkaLegerCombinado45gr.jpg"
+    },
+    {
+        "id": 239,
+        "nombre": "Milka Leger Leche x 45gr",
+        "descripcion": "Chocolate con leche, 45g",
+        "precio": "1.753,42",
+        "imagen": "../golosinas.img/milkaLegerLeche45gr.jpg"
+    },
+    {
+        "id": 240,
+        "nombre": "Mogul Crema y Frutilla x 500gr",
+        "descripcion": "Gomitas Mogul crema y frutilla, 500g",
+        "precio": "4.470,88",
+        "imagen": "../golosinas.img/mogulCremaFrutilla500gr.jpg"
+    },
+    {
+        "id": 241,
+        "nombre": "Pan Dulce Don Satur c/Chips",
+        "descripcion": "Pan dulce con chips de chocolate, 400g",
+        "precio": "2.995,83",
+        "imagen": "../golosinas.img/panDulceDonSatur.jpg"
+    },
+    {
+        "id": 242,
+        "nombre": "Paragüitas FelFort",
+        "descripcion": "Paragüitas de chocolate, pack de 10",
+        "precio": "716,38",
+        "imagen": "../golosinas.img/paraguitasFelFort.jpg"
+    },
+    {
+        "id": 243,
+        "nombre": "Sapito Choc. Blanco x 24u",
+        "descripcion": "Chocolates blancos en forma de sapito, pack de 24",
+        "precio": "4.003,81",
+        "imagen": "../golosinas.img/sapitoBlanco24u.jpg"
+    },
+    {
+        "id": 244,
+        "nombre": "Shot Chocolate x 90gr",
+        "descripcion": "Chocolate Shot, 90g",
+        "precio": "2.505,10",
+        "imagen": "../golosinas.img/shot90gr.jpg"
+    },
+    {
+        "id": 245,
+        "nombre": "Tableta Milka Almendras x 55gr",
+        "descripcion": "Chocolate con almendras, 55g",
+        "precio": "1.918,65",
+        "imagen": "../golosinas.img/milkaAlmendras55g.jpg"
+    },
+    {
+        "id": 246,
+        "nombre": "Tableta Milka Leche x 55gr",
+        "descripcion": "Chocolate con leche, 55g",
+        "precio": "1.918,65",
+        "imagen": "../golosinas.img/milkaLeche55gr.jpg"
+    },
+    {
+        "id": 247,
+        "nombre": "Tableta Milka Oreo Blanco x 55gr",
+        "descripcion": "Chocolate blanco con Oreo, 55g",
+        "precio": "1.918,65",
+        "imagen": "../golosinas.img/milkaOreoBlanco55gr.jpg"
+    },
+    {
+        "id": 248,
+        "nombre": "Tofi Chocolate Negro x 27gr",
+        "descripcion": "Chocolate negro Tofi, 27g",
+        "precio": "758,51",
+        "imagen": "../golosinas.img/tofiNegro27gr.jpg"
+    },
+
+    {
+        "id": 249,
+        "nombre": "Baby Doll",
+        "descripcion": "Caramelo Baby Doll, unidad",
+        "precio": "375,54",
+        "imagen": "../golosinas.img/babyDoll.jpg"
+    },
+    {
+        "id": 250,
+        "nombre": "Baby Doll Ácido Power",
+        "descripcion": "Caramelo ácido Baby Doll Power, unidad",
+        "precio": "386,80",
+        "imagen": "../golosinas.img/babyDollAcidoPower.jpg"
+    },
+    {
+        "id": 251,
+        "nombre": "Chupetín Cosmos Mega x 24u",
+        "descripcion": "Caja de chupetines Cosmos Mega, 24 unidades",
+        "precio": "2.931,45",
+        "imagen": "../golosinas.img/chupetinesCosmosMega.jpg"
+    },
+    {
+        "id": 252,
+        "nombre": "Chupetín Fierita Mastica Pinta Lengua x 50u",
+        "descripcion": "Chupetines Fierita Mastica que pintan la lengua, 50 unidades",
+        "precio": "4.289,32",
+        "imagen": "../golosinas.img/chupetinFieritaMastica.jpg"
+    },
+    {
+        "id": 253,
+        "nombre": "Chupetín Fierita Super Tattoo Frutilla x 50u",
+        "descripcion": "Chupetines Fierita Super Tattoo sabor frutilla, 50 unidades",
+        "precio": "4.331,00",
+        "imagen": "../golosinas.img/chupetinFieritaSuperTattooFrutilla.jpg"
+    },
+    {
+        "id": 254,
+        "nombre": "Chupetín Fierita Super Tattoo Tutti-Frutti x 50u",
+        "descripcion": "Chupetines Fierita Super Tattoo sabor tutti-frutti, 50 unidades",
+        "precio": "4.331,00",
+        "imagen": "../golosinas.img/chupetinFieritaSuperTattooTuttiFrutti.jpg"
+    },
+    {
+        "id": 255,
+        "nombre": "Chupetín Flynn Paff x 24u Manzana",
+        "descripcion": "Caja de chupetines Flynn Paff sabor manzana, 24 unidades",
+        "precio": "2.417,31",
+        "imagen": "../golosinas.img/chupetinFlynnPaffManzana.jpg"
+    },
+    {
+        "id": 256,
+        "nombre": "Chupetín Flynn Paff x 24u Uva",
+        "descripcion": "Caja de chupetines Flynn Paff sabor uva, 24 unidades",
+        "precio": "2.417,31",
+        "imagen": "../golosinas.img/chupetinFlynnPaffUva.jpg"
+    },
+    {
+        "id": 257,
+        "nombre": "Chupetín Pop Mania Frutilla-Fresa Pinta Lengua",
+        "descripcion": "Chupetines Pop Mania que pintan la lengua, sabor frutilla-fresa",
+        "precio": "4.091,68",
+        "imagen": "../golosinas.img/chupetinPopManiaFrutillaFresa.jpg"
+    },
+    {
+        "id": 258,
+        "nombre": "Chupetín Pop Mania Maxi Frambuesa x 24u",
+        "descripcion": "Caja de chupetines Pop Mania Maxi sabor frambuesa, 24 unidades",
+        "precio": "3.747,59",
+        "imagen": "../golosinas.img/chupetinPopManiaMaxiFrambuesa.jpg"
+    },
+    {
+        "id": 259,
+        "nombre": "Chupetín Pop Mania Maxi Frutilla x 24u",
+        "descripcion": "Caja de chupetines Pop Mania Maxi sabor frutilla, 24 unidades",
+        "precio": "3.747,59",
+        "imagen": "../golosinas.img/chupetinPopManiaMaxiFrutilla.jpg"
+    },
+    {
+        "id": 260,
+        "nombre": "Chupetín Pop Mania Maxi Cereza Pinta Lengua",
+        "descripcion": "Chupetines Pop Mania Maxi que pintan la lengua, sabor cereza",
+        "precio": "3.747,59",
+        "imagen": "../golosinas.img/chupetinPopManiaMaxiCereza.jpg"
+    },
+    {
+        "id": 261,
+        "nombre": "Chupetín Pop Mania Uva-Frutilla-Fresa x 50u",
+        "descripcion": "Caja de chupetines Pop Mania surtidos, 50 unidades",
+        "precio": "3.824,01",
+        "imagen": "../golosinas.img/chupetinPopManiaSurtido.jpg"
+    },
+    {
+        "id": 262,
+        "nombre": "Chupetines Cebollitas x 40u",
+        "descripcion": "Caja de chupetines Cebollitas, 40 unidades",
+        "precio": "1.093,96",
+        "imagen": "../golosinas.img/chupetinesCebollitas.jpg"
+    },
+    {
+        "id": 263,
+        "nombre": "Chupetín Evolution Cereza x 24u",
+        "descripcion": "Caja de chupetines Evolution sabor cereza, 24 unidades",
+        "precio": "3.365,68",
+        "imagen": "../golosinas.img/chupetinEvolutionCereza.jpg"
+    },
+    {
+        "id": 264,
+        "nombre": "Chupetín Evolution Extreme Duo x 24u",
+        "descripcion": "Chupetines Evolution Extreme Duo, 24 unidades",
+        "precio": "3.498,45",
+        "imagen": "../golosinas.img/chupetinEvolutionExtremeDuo.jpg"
+    },
+    {
+        "id": 265,
+        "nombre": "Chupetín Evolution Pinta Lengua x 24u",
+        "descripcion": "Caja de chupetines Evolution que pintan la lengua, 24 unidades",
+        "precio": "3.365,68",
+        "imagen": "../golosinas.img/chupetinEvolutionPintaLengua.jpg"
+    },
+    {
+        "id": 266,
+        "nombre": "Chupetín Evolution Blueberry x 24u",
+        "descripcion": "Caja de chupetines Evolution sabor blueberry, 24 unidades",
+        "precio": "3.437,15",
+        "imagen": "../golosinas.img/chupetinEvolutionBlueberry.jpg"
+    },
+    {
+        "id": 267,
+        "nombre": "Chupetines Tatuajes Patitas x 100u",
+        "descripcion": "Caja de chupetines con tatuajes, 100 unidades",
+        "precio": "3.372,25",
+        "imagen": "../golosinas.img/chupetinesTatuajesPatitas.jpg"
+    },
+    {
+        "id": 268,
+        "nombre": "Chupetines Wamis Mágico x 50u",
+        "descripcion": "Caja de chupetines Wamis mágicos, 50 unidades",
+        "precio": "1.789,33",
+        "imagen": "../golosinas.img/chupetinesWamisMagico.jpg"
+    },
+    {
+        "id": 269,
+        "nombre": "Chupetines Cosmos x 40u",
+        "descripcion": "Caja de chupetines Cosmos, 40 unidades",
+        "precio": "2.874,41",
+        "imagen": "../golosinas.img/chupetinesCosmos40u.jpg"
+    },
+
+    {
+        "id": 270,
+        "nombre": "FLYNN PAFF CONFITADO",
+        "descripcion": "FLYNN PAFF",
+        "precio": "553,78",
+        "imagen": "../golosinas.img/flynnPaffConfitado.jpg"
+    },
+    {
+        "id": 271,
+        "nombre": "GEORGALOS Turron MANI C/MIEL x 80gr",
+        "descripcion": "GEORGALOS Turron MANI C/MIEL, 80 gramos",
+        "precio": "748,77",
+        "imagen": "../golosinas.img/georgalosTurronManiMiel.jpg"
+    },
+    {
+        "id": 272,
+        "nombre": "GEORGALOS TURRON Y ALMENDRA",
+        "descripcion": "GEORGALOS TURRON Y ALMENDRA",
+        "precio": "1.159,99",
+        "imagen": "../golosinas.img/georgalosTurronAlmendra.jpg"
+    },
+    {
+        "id": 273,
+        "nombre": "GOM.EUCALIPTUS ARCOR",
+        "descripcion": "Gomas de eucaliptus marca Arcor",
+        "precio": "7.005,95",
+        "imagen": "../golosinas.img/gomEucaliptusArcor.jpg"
+    },
+    {
+        "id": 274,
+        "nombre": "Mentitas La Casa Menta x 12 Un",
+        "descripcion": "Caja de Mentitas La Casa sabor menta, 12 unidades",
+        "precio": "3.018,63",
+        "imagen": "../golosinas.img/mentitasMenta12u.jpg"
+    },
+    {
+        "id": 275,
+        "nombre": "Mentitas La Casa cherry x 12 un",
+        "descripcion": "Caja de Mentitas La Casa sabor cherry, 12 unidades",
+        "precio": "3.018,63",
+        "imagen": "../golosinas.img/mentitasCherry12u.jpg"
+    },
+    {
+        "id": 276,
+        "nombre": "Mentitas La Casa Dulce de leche x 12 un",
+        "descripcion": "Caja de Mentitas La Casa sabor dulce de leche, 12 unidades",
+        "precio": "3.018,63",
+        "imagen": "../golosinas.img/mentitasDulceLeche12u.jpg"
+    },
+    {
+        "id": 277,
+        "nombre": "Mentitas La Casa Frutal, x 12 Un",
+        "descripcion": "Caja de Mentitas La Casa sabor frutal, 12 unidades",
+        "precio": "3.018,63",
+        "imagen": "../golosinas.img/mentitasFrutal12u.jpg"
+    },
+    {
+        "id": 278,
+        "nombre": "SUGUS CONFITADO",
+        "descripcion": "SUGUS CONFITADO",
+        "precio": "784,81",
+        "imagen": "../golosinas.img/sugusConfitado.jpg"
+    },
+    {
+        "id": 279,
+        "nombre": "ROCKLETS GRANDE 40g",
+        "descripcion": "Paquete de Rocklets grande, 40 gramos",
+        "precio": "858,79",
+        "imagen": "../golosinas.img/rockletsGrande40g.jpg"
+    },
+    {
+        "id": 280,
+        "nombre": "Rocklets MINI 10 Grs",
+        "descripcion": "Paquete de Rocklets mini, 10 gramos",
+        "precio": "268,69",
+        "imagen": "../golosinas.img/rockletsMini10g.jpg"
+    },
+    {
+        "id": 281,
+        "nombre": "SAPITO CONFITES",
+        "descripcion": "SAPITO CONFITES",
+        "precio": "205,05",
+        "imagen": "../golosinas.img/sapitoConfites.jpg"
+    },
+
+    {
+        "id": 282,
+        "nombre": "DOCILE CANUDINHO ÁCIDO SOUR",
+        "descripcion": "DOCILE CANUDINHO ÁCIDO sabor SOUR",
+        "precio": "201.50",
+        "imagen": "../golosinas.img/docileCanudinhoSour.jpg"
+    },
+    {
+        "id": 283,
+        "nombre": "ARCOR EL KIOSCO EN CASA",
+        "descripcion": "Caja surtida de golosinas ARCOR El Kiosco en Casa",
+        "precio": "5,692.72",
+        "imagen": "../golosinas.img/arcorKioscoEnCasa.jpg"
+    },
+    {
+        "id": 284,
+        "nombre": "BIZCOCHUELO EMETH VAINILLA x 450gr",
+        "descripcion": "Bizcochuelo EMETH sabor vainilla de 450 gramos",
+        "precio": "1,391.87",
+        "imagen": "../golosinas.img/bizcochueloEmethVainilla.jpg"
+    },
+    {
+        "id": 285,
+        "nombre": "ALF. Bon o Bon Blanco",
+        "descripcion": "Alfajor Bon o Bon Blanco",
+        "precio": "563.53",
+        "imagen": "../golosinas.img/bonOBonBlanco.jpg"
+    }
+    
 ]
+

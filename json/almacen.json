@@ -698,7 +698,7 @@
     {
         "id": 88,
         "nombre": "TE Taragui x 25 Saq.",
-        "precio": 579.60,
+        "precio": "579,60",
         "descripcion": "Caja de 25 saquitos de té Taragüi.",
         "imagen": "../almacen.img/teTaragui.jpg"
     },
@@ -706,7 +706,7 @@
     {
         "id": 89,
         "nombre": "TOMATE LATA MAROLIO 400 g",
-        "precio": 883.20,
+        "precio": "883,20",
         "descripcion": "Lata de tomate Marolio de 400 gramos.",
         "imagen": "../almacen.img/tomateTrituradoMarolio.jpg"
     },
@@ -714,7 +714,7 @@
     {
         "id": 90,
         "nombre": "TOMATE PERITA LATA MOLTO 400 g",
-        "precio": 894.72,
+        "precio": "894,72",
         "descripcion": "Lata de tomate perita Molto de 400 gramos.",
         "imagen": "../almacen.img/tomateLataPerita.jpg"
     },
@@ -722,7 +722,7 @@
     {
         "id": 91,
         "nombre": "TOMATE TRITURADO MAROLIO",
-        "precio": 955.90,
+        "precio": "955,90",
         "descripcion": "Tomate triturado Marolio.",
         "imagen": "../almacen.img/tomateTrituradoMarolio.jpg"
     },
@@ -730,7 +730,7 @@
     {
         "id": 92,
         "nombre": "VALIDO Budin MARMOLADO 180g",
-        "precio": 1998.75,
+        "precio": "1998,75",
         "descripcion": "Budín marmolado Valido de 180 gramos.",
         "imagen": "../almacen.img/budinMarmoladoValido.jpg"
     },
@@ -738,7 +738,7 @@
     {
         "id": 93,
         "nombre": "Vinagre CASALTA x 500cc",
-        "precio": 845.81,
+        "precio": "845,81",
         "descripcion": "Botella de vinagre Casalta de 500 cc.",
         "imagen": "../almacen.img/vinagreCasalta.jpg"
     },
@@ -746,7 +746,7 @@
     {
         "id": 94,
         "nombre": "Vinagre CASALTA x 1L",
-        "precio": 583.88,
+        "precio": "583,88",
         "descripcion": "Botella de vinagre Casalta de 1 litro.",
         "imagen": "../almacen.img/vinagreCasalta.jpg"
     },
@@ -754,7 +754,7 @@
     {
         "id": 95,
         "nombre": "Vinagre MAROLIO/MOLTO x 500cc",
-        "precio": 827.75,
+        "precio": "827,75",
         "descripcion": "Botella de vinagre Marolio/Molto de 500 cc.",
         "imagen": "../almacen.img/vinagreMarolio.jpg"
     },
@@ -762,7 +762,7 @@
     {
         "id": 96,
         "nombre": "YERBA CBSe NARANJA 500",
-        "precio": 1815.00,
+        "precio": "1815,00",
         "descripcion": "Paquete de yerba CBSé sabor naranja de 500 gramos.",
         "imagen": "../almacen.img/cbseNaranja.jpg"
     },
@@ -770,9 +770,68 @@
     {
         "id": 97,
         "nombre": "YERBA LA TRANQUERA 1 KILO",
-        "precio": 3467.24,
+        "precio": "3467,24",
         "descripcion": "Paquete de yerba La Tranquera de 1 kilo.",
         "imagen": "../almacen.img/tranquera1k.jpg"
+    },
+
+    {
+        "id": 98,
+        "nombre": "Cacao Toddy Original",
+        "precio": "814,52",
+        "descripcion": "X 180g",
+        "imagen": "../almacen.img/cacaoToddy.jpg"
+    },
+
+    {
+        "id": 99,
+        "nombre": "VASOS TERMICOS x 240 cc x 25 un",
+        "descripcion": "Vasos térmicos de 240 cc, 25 unidades",
+        "precio": "1,297.81",
+        "imagen": "../almacen.img/vasosTermicos240cc25u.jpg"
+    },
+
+    {
+        "id": 100,
+        "nombre": "PROVENSAL DOS ANCLAS x 50gr",
+        "descripcion": "PROVENSAL DOS ANCLAS, 50 gramos",
+        "precio": "1.377,47",
+        "imagen": "../almacen.img/provensalDosAnclas50g.jpg"
+    },
+    
+    {
+        "id": 101,
+        "nombre": "FIDEOS LUCCHETTI",
+        "descripcion": "TIRABUZON",
+        "precio": "1,089.00",
+        "imagen": "../almacen.img/tirabuzon.jpg"
+    },
+    {
+        "id": 102,
+        "nombre": "CORDONES x1.10cm",
+        "descripcion": "Cordones resistentes de 1.10 cm",
+        "precio": "2,624.54",
+        "imagen": "../almacen.img/cordones110cm.jpg"
+    },
+    {
+        "id": 103,
+        "nombre": "HILO P/Barrilete x 10 ovillos",
+        "descripcion": "Hilo para barrilete, paquete de 10 ovillos",
+        "precio": "2,075.61",
+        "imagen": "../almacen.img/hiloBarrilete10ovillos.jpg"
+    },
+    {
+        "id": 104,
+        "nombre": "HILO T/Chorisero x 10 Ovillos",
+        "descripcion": "Hilo tipo chorisero, paquete de 10 ovillos",
+        "precio": "2,510.01",
+        "imagen": "../almacen.img/hiloChorisero10ovillos.jpg"
+    },
+    {
+        "id": 105,
+        "nombre": "PALITO BROCHETE",
+        "descripcion": "Palitos para brochete",
+        "precio": "536.50",
+        "imagen": "../almacen.img/palitoBrochete.jpg"
     }
-        
 ]

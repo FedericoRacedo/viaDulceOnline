@@ -158,54 +158,6 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-//Buscador
-document.addEventListener("DOMContentLoaded", () => {
-    cargarProductos(); 
-    actualizarCarrito(); 
-    configurarBuscador(); 
-    configurarBotonesCarrito(); 
-});
-
-function configurarBuscador() {
-    const searchInput = document.getElementById("searchInput");
-    const resultsContainer = document.getElementById("results");
-
-    fetch("../data/productos.json")
-        .then(response => response.json())
-        .then(productos => {
-            searchInput.addEventListener("input", () => {
-                const query = searchInput.value.toLowerCase();
-                const filteredProducts = productos.filter(producto =>
-                    producto.nombre.toLowerCase().includes(query) ||
-                    producto.descripcion.toLowerCase().includes(query)
-                );
-                displayResults(filteredProducts);
-            });
-        })
-        .catch(error => console.error("Error al cargar el JSON:", error));
-
-    function displayResults(products) {
-        resultsContainer.innerHTML = "";
-
-        if (products.length === 0) {
-            resultsContainer.innerHTML = "<p>No se encontraron productos.</p>";
-            return;
-        }
-
-        products.forEach(product => {
-            const item = document.createElement("div");
-            item.classList.add("result-item");
-            item.innerHTML = `
-                <h2>${product.nombre}</h2>
-                <p>${product.descripcion}</p>
-                <p>Precio: $${product.precio}</p>
-                <img src="${product.imagen}" alt="${product.nombre}" width="100">
-            `;
-            resultsContainer.appendChild(item);
-        });
-    }
-}
-
 //CARRUSEL
 window.onload = () => {
     const swiper = new Swiper('.mySwiper', {

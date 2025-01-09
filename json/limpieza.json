@@ -69,7 +69,373 @@
         "descripcion": "(Rollo x10)",
         "precio": "780,00",
         "imagen": "../limpieza.img/virulanaMake.jpg"
+    },
+
+    {
+        "id": 10,
+        "nombre": "Cepillo de dientes",
+        "descripcion": "(Colgate)",
+        "precio": "1.031,23",
+        "imagen": "../limpieza.img/cepilloDeDientes.png"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Envase esteril",
+        "descripcion": "unidad",
+        "precio": "715.62",
+        "imagen": "../limpieza.img/envaseEsteril.jpg"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Cinta embalaje",
+        "descripcion": "Candela",
+        "precio": "918,03",
+        "imagen": "../limpieza.img/cintaEmbalaje.jpg"
+    },
+
+    {
+        "id": 13,
+        "nombre": "Poett Desod. Ambientes Alegra tu día",
+        "descripcion": "Desodorante de ambientes Poett, aroma Alegra tu día",
+        "precio": "1,793.75",
+        "imagen": "../limpieza.img/poettAlegraTuDia.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Poett Desod. Ambientes Lavanda",
+        "descripcion": "Desodorante de ambientes Poett, aroma Lavanda",
+        "precio": "1,793.75",
+        "imagen": "../limpieza.img/poettLavanda.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Poett Desod. Ambientes Música primavera",
+        "descripcion": "Desodorante de ambientes Poett, aroma Música primavera",
+        "precio": "1,757.67",
+        "imagen": "../limpieza.img/poettMusicaPrimavera.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Poett Desod. Ambientes Primavera",
+        "descripcion": "Desodorante de ambientes Poett, aroma Primavera",
+        "precio": "1,757.67",
+        "imagen": "../limpieza.img/poettPrimavera.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Poett Desod. Ambientes SOLO PARA TI",
+        "descripcion": "Desodorante de ambientes Poett, aroma Solo para ti",
+        "precio": "1,793.75",
+        "imagen": "../limpieza.img/poettSoloParaTi.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Poett Desod. Ambientes Suavidad algodón",
+        "descripcion": "Desodorante de ambientes Poett, aroma Suavidad algodón",
+        "precio": "1,757.67",
+        "imagen": "../limpieza.img/poettSuavidadAlgodon.jpg"
+    },
+
+    {
+        "id": 19,
+        "nombre": "DES. AXE TODOS",
+        "descripcion": "Desodorante Axe en varias presentaciones",
+        "precio": "1,894.67",
+        "imagen": "../limpieza.img/desAxeTodos.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "DES. PATRICHS",
+        "descripcion": "Desodorante Patrichs de larga duración",
+        "precio": "2,109.89",
+        "imagen": "../limpieza.img/desPatrichs.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Desod. Impulse",
+        "descripcion": "Desodorante Impulse con fragancias suaves",
+        "precio": "1,999.38",
+        "imagen": "../limpieza.img/desImpulse.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "DOVE MEN ROLL-ON x 50ml",
+        "descripcion": "Desodorante Dove Men en formato roll-on",
+        "precio": "1,909.69",
+        "imagen": "../limpieza.img/doveMenRollOn50ml.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "DOVE ORIGINAL ROLL-ON x 50ml",
+        "descripcion": "Desodorante Dove Original en formato roll-on",
+        "precio": "1,909.69",
+        "imagen": "../limpieza.img/doveOriginalRollOn50ml.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "NIVEA MEN PROTEC ROLL-ON",
+        "descripcion": "Desodorante Nivea Men Protec roll-on",
+        "precio": "1,722.00",
+        "imagen": "../limpieza.img/niveaMenProtecRollOn.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "NIVEA PEARL-BEAUTY ROLLON",
+        "descripcion": "Desodorante Nivea Pearl-Beauty roll-on",
+        "precio": "1,722.00",
+        "imagen": "../limpieza.img/niveaPearlBeautyRollOn.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "ODORONO CREMA",
+        "descripcion": "Crema desodorante Odorono",
+        "precio": "1,134.00",
+        "imagen": "../limpieza.img/odoronoCrema.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Rexona Anti. Active Emotion x 150ml",
+        "descripcion": "Desodorante antitranspirante Rexona Active Emotion",
+        "precio": "1,875.00",
+        "imagen": "../limpieza.img/rexonaActiveEmotion150ml.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Rexona MEN SENSITIVE 89g",
+        "descripcion": "Desodorante Rexona Men Sensitive",
+        "precio": "2,314.13",
+        "imagen": "../limpieza.img/rexonaMenSensitive89gr.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "Rexona Antitr. Invisible x 150ML",
+        "descripcion": "Desodorante antitranspirante Rexona Invisible",
+        "precio": "1,875.00",
+        "imagen": "../limpieza.img/rexonaInvisible150ml.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "Rexona FUTBOL FANATICS x 90gr",
+        "descripcion": "Desodorante Rexona Fútbol Fanatics",
+        "precio": "1,875.00",
+        "imagen": "../limpieza.img/rexonaFutbolFanatics90gr.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "Rexona J ALVAREZ 89G",
+        "descripcion": "Desodorante Rexona J Alvarez",
+        "precio": "1,873.79",
+        "imagen": "../limpieza.img/rexonaJAlvarez89gr.jpg"
+    },
+    {
+        "id": 32,
+        "nombre": "Rexona Men Anti. Hombre x 89g",
+        "descripcion": "Desodorante antitranspirante Rexona Men",
+        "precio": "2,314.13",
+        "imagen": "../limpieza.img/rexonaMenAntiHombre89gr.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "Rexona Men Anti. XTRA COOL",
+        "descripcion": "Desodorante Rexona Men XTRA Cool",
+        "precio": "2,314.13",
+        "imagen": "../limpieza.img/rexonaMenXtraCool.jpg"
+    },
+
+    {
+        "id": 34,
+        "nombre": "ALA Detergente x 750 cm3",
+        "descripcion": "Detergente ALA de 750 cm3",
+        "precio": "1,398.60",
+        "imagen": "../limpieza.img/alaDetergente750.jpg"
+    },
+    {
+        "id": 35,
+        "nombre": "ALA Líquido x 900ml",
+        "descripcion": "Detergente líquido ALA de 900ml",
+        "precio": "1,765.70",
+        "imagen": "../limpieza.img/alaLiquido900.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "CIF Active Gel Limón/Lima x 300ml",
+        "descripcion": "Detergente CIF Active Gel de 300ml sabor Limón/Lima",
+        "precio": "1,159.00",
+        "imagen": "../limpieza.img/cifActiveGelLimonLima.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "ALA Ultra Limón x 300ml",
+        "descripcion": "Detergente ALA Ultra de 300ml sabor Limón",
+        "precio": "895.99",
+        "imagen": "../limpieza.img/alaUltraLimon300.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "MAGISTRAL Limón x 215ml",
+        "descripcion": "Detergente MAGISTRAL de 215ml sabor Limón",
+        "precio": "1,077.70",
+        "imagen": "../limpieza.img/magistralLimon215.jpg"
+    },
+    {
+        "id": 39,
+        "nombre": "DUPLEX Lavavajillas Aloe Vera",
+        "descripcion": "Lavavajillas DUPLEX con Aloe Vera",
+        "precio": "808.64",
+        "imagen": "../limpieza.img/duplexAloeVera.jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "DUPLEX Lavavajillas Colágeno",
+        "descripcion": "Lavavajillas DUPLEX con Colágeno",
+        "precio": "808.64",
+        "imagen": "../limpieza.img/duplexColageno.jpg"
+    },
+    {
+        "id": 41,
+        "nombre": "DUPLEX Lavavajillas Limón",
+        "descripcion": "Lavavajillas DUPLEX con aroma a Limón",
+        "precio": "808.64",
+        "imagen": "../limpieza.img/duplexLimon.jpg"
+    },
+
+    {
+        "id": 42,
+        "nombre": "Enjuague SEDAL Colágeno x 190 ml",
+        "descripcion": "Enjuague SEDAL con colágeno de 190 ml",
+        "precio": "1,506.70",
+        "imagen": "../limpieza.img/sedalColageno190.jpg"
+    },
+    {
+        "id": 43,
+        "nombre": "Sedal Repuesto Enjuague Balance 300 ml",
+        "descripcion": "Repuesto de enjuague Sedal Balance de 300 ml",
+        "precio": "1,990.94",
+        "imagen": "../limpieza.img/sedalBalance300.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "Sedal Repuesto Enjuague Ceramida x 300 ml",
+        "descripcion": "Repuesto de enjuague Sedal Ceramida de 300 ml",
+        "precio": "1,990.94",
+        "imagen": "../limpieza.img/sedalCeramida300.jpg"
+    },
+    {
+        "id": 45,
+        "nombre": "Esponja Plateada/Dorada MAKE",
+        "descripcion": "Esponja plateada o dorada de marca MAKE",
+        "precio": "520.00",
+        "imagen": "../limpieza.img/esponjaMakePlateadaDorada.jpg"
+    },
+    {
+        "id": 46,
+        "nombre": "MAKE Esponja",
+        "descripcion": "Esponja de marca MAKE",
+        "precio": "560.00",
+        "imagen": "../limpieza.img/esponjaMake.jpg"
+    },
+    {
+        "id": 47,
+        "nombre": "GEL DOREE x 168gr",
+        "descripcion": "Gel DOREE de 168 gramos",
+        "precio": "1,689.23",
+        "imagen": "../limpieza.img/gelDoree168.jpg"
+    },
+    {
+        "id": 48,
+        "nombre": "Gillette Roja x 5u.",
+        "descripcion": "Pack de 5 unidades de Gillette Roja",
+        "precio": "988.00",
+        "imagen": "../limpieza.img/gilletteRoja5u.jpg"
+    },
+    {
+        "id": 49,
+        "nombre": "Minora-Astra II Plus x UN",
+        "descripcion": "Cuchilla Minora-Astra II Plus por unidad",
+        "precio": "1,079.13",
+        "imagen": "../limpieza.img/minoraAstraIIPlus.jpg"
+    },
+    {
+        "id": 50,
+        "nombre": "Prestobarba 3 Azul",
+        "descripcion": "Afeitadora Prestobarba 3 de color azul",
+        "precio": "1,673.08",
+        "imagen": "../limpieza.img/prestobarba3Azul.jpg"
+    },
+    {
+        "id": 51,
+        "nombre": "Prestobarba Ultra Grip Azul",
+        "descripcion": "Afeitadora Prestobarba Ultra Grip de color azul",
+        "precio": "940.00",
+        "imagen": "../limpieza.img/prestobarbaUltraGripAzul.jpg"
+    },
+    {
+        "id": 52,
+        "nombre": "Velas Gorrión x 4u.",
+        "descripcion": "Pack de 4 unidades de velas Gorrión",
+        "precio": "621.21",
+        "imagen": "../limpieza.img/velasGorrion4u.jpg"
+    },
+    {
+        "id": 53,
+        "nombre": "Velas Rayito de Luz Relieve",
+        "descripcion": "Velas Rayito de Luz con relieve",
+        "precio": "506.26",
+        "imagen": "../limpieza.img/velasRayitoDeLuzRelieve.jpg"
+    },
+    {
+        "id": 54,
+        "nombre": "Encendedor MINI BIC",
+        "descripcion": "Encendedor MINI BIC",
+        "precio": "891.35",
+        "imagen": "../limpieza.img/encendedorMiniBic.jpg"
+    },
+    {
+        "id": 55,
+        "nombre": "Encendedor MAXI BIC",
+        "descripcion": "Encendedor MAXI BIC",
+        "precio": "1,020.14",
+        "imagen": "../limpieza.img/encendedorMaxiBic.jpg"
+    },
+    {
+        "id": 56,
+        "nombre": "Encendedor CANDELA",
+        "descripcion": "Encendedor de marca CANDELA",
+        "precio": "251.73",
+        "imagen": "../limpieza.img/encendedorCandela.jpg"
+    },
+    {
+        "id": 57,
+        "nombre": "Encendedor FUEGOLANDIA",
+        "descripcion": "Encendedor de marca FUEGOLANDIA",
+        "precio": "219.44",
+        "imagen": "../limpieza.img/encendedorFuegolandia.jpg"
+    },
+    {
+        "id": 58,
+        "nombre": "Fósforos 3 Patitos/Estrella",
+        "descripcion": "Fósforos marca 3 Patitos o Estrella",
+        "precio": "514.25",
+        "imagen": "../limpieza.img/fosforos3Patitos.jpg"
+    },
+    {
+        "id": 59,
+        "nombre": "Quitaesmalte DOREE",
+        "descripcion": "Quitaesmalte de marca DOREE",
+        "precio": "1,134.21",
+        "imagen": "../limpieza.img/quitaesmalteDoree.jpg"
+    },
+
+    {
+        "id": 59,
+        "nombre": "OHISOPOS QSOFT",
+        "descripcion": "QSOFT",
+        "precio": "1,459.96",
+        "imagen": "../limpieza.img/OHISOPOS.jpg"
     }
+
     
 
 ]

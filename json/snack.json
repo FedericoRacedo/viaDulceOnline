@@ -197,6 +197,364 @@
         "descripcion": "(Sabor Queso)",
         "precio": "950,22",
         "imagen": "../snack.img/4gSlices.png"
+    },
+    {
+        "id": 26,
+        "nombre": "MANITOON JAPONES CROCANTE",
+        "descripcion": "(x 900g)",
+        "precio": "5.099,60",
+        "imagen": "../snack.img/manitonCrocanteGrande.jpg"
+    },
+
+    
+    {
+        "id": 26,
+        "nombre": "MANITOON JAPONES CROCANTE",
+        "descripcion": "x 160gr",
+        "precio": "1,383.75",
+        "imagen": "../snack.img/manitonCrocanteChico.jpg"
+    },
+
+    {
+        "id": 27,
+        "nombre": "ARITOS FRUTAL BURBUJAS",
+        "descripcion": "Aritos sabor frutal, ideales como snack, 90 gramos",
+        "precio": "724.54",
+        "imagen": "../snack.img/aritosFrutalBurbujas90gr.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "ARROZ INFLADO BURBUJAS",
+        "descripcion": "Arroz inflado, ligero y crujiente, 80 gramos",
+        "precio": "607.20",
+        "imagen": "../snack.img/arrozInfladoBurbujas80gr.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "BASTON TUBITOS BOTS x 330gr",
+        "descripcion": "Tubitos crujientes saborizados, 330 gramos",
+        "precio": "1,708.00",
+        "imagen": "../snack.img/bastonTubitosBots330g.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "BASTON TUBITOS BOTS x 80gr",
+        "descripcion": "Tubitos crujientes saborizados, 80 gramos",
+        "precio": "430.50",
+        "imagen": "../snack.img/bastonTubitosBots80gr.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "BASTONCITOS BOTS x 330gr",
+        "descripcion": "Bastoncitos crocantes, ideales para compartir, 330 gramos",
+        "precio": "1,708.00",
+        "imagen": "../snack.img/bastoncitosBots330gr.jpg"
+    },
+    {
+        "id": 32,
+        "nombre": "BASTONCITOS CHIZITOS BOTS x 80gr",
+        "descripcion": "Bastoncitos sabor queso, ligeros y crujientes, 80 gramos",
+        "precio": "430.50",
+        "imagen": "../snack.img/bastoncitosChizitosBots80gr.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "BOLITAS BURBUJAS x 1k",
+        "descripcion": "Bolitas saborizadas, formato grande ideal para eventos, 1 kilo",
+        "precio": "5,217.44",
+        "imagen": "../snack.img/bolitasBurbujas1k.jpg"
+    },
+    {
+        "id": 34,
+        "nombre": "BURBU CHOCK x 90gr",
+        "descripcion": "Snack dulce de chocolate, perfecto para disfrutar en cualquier momento, 90 gramos",
+        "precio": "742.36",
+        "imagen": "../snack.img/bolitasChocolateCereal.jpg"
+    },
+    {
+        "id": 35,
+        "nombre": "BOLITAS PUFLITOS BURBUJAS x 80gr",
+        "descripcion": "Bolitas de maíz saborizadas, ligeras y crujientes, 80 gramos",
+        "precio": "542.42",
+        "imagen": "../snack.img/bolitasPuflitosBurbujas80gr.jpg"
+    },
+
+    {
+        "id": 36,
+        "nombre": "CHIZ. BURBUJAS x20u",
+        "descripcion": "Caja de chizitos, 20 unidades",
+        "precio": "1,966.18",
+        "imagen": "../snack.img/chizBurbujas20u.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "CHIZITO Burbujas x 80 G",
+        "descripcion": "Chizitos, 80 gramos",
+        "precio": "542.42",
+        "imagen": "../snack.img/chizitoBurbujas80g.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "CHIZITOS BURBUJAS x 1 K",
+        "descripcion": "Bolsa grande de chizitos, 1 kilo",
+        "precio": "4,375.71",
+        "imagen": "../snack.img/chizitosBurbujas1k.webp"
+    },
+    {
+        "id": 39,
+        "nombre": "COPOS AZUCARADOS BURBUJAS x 90gr",
+        "descripcion": "Copos de maíz azucarados, 90 gramos",
+        "precio": "655.40",
+        "imagen": "../snack.img/coposAzucaradosBurbujas90gr.jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "DORITOS x 40 gr c4135",
+        "descripcion": "Doritos clásicos, 40 gramos",
+        "precio": "1,267.74",
+        "imagen": "../snack.img/doritos40gr.jpg"
+    },
+    {
+        "id": 41,
+        "nombre": "JAMCITOS x 80 grs.",
+        "descripcion": "Jamcitos, 80 gramos",
+        "precio": "542.43",
+        "imagen": "../snack.img/jamcitos80gr.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "JAMCITOS BURBUJAS x1k",
+        "descripcion": "Bolsa grande de jamcitos, 1 kilo",
+        "precio": "4,994.25",
+        "imagen": "../snack.img/jamcitosBurbujas1k.jpg"
+    },
+    {
+        "id": 43,
+        "nombre": "NACHOS ANTOJITOS BACON",
+        "descripcion": "Nachos sabor bacon",
+        "precio": "1,055.30",
+        "imagen": "../snack.img/nachosBacon.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "NACHOS ANTOJITOS CHEDDAR",
+        "descripcion": "Nachos sabor cheddar",
+        "precio": "1,055.30",
+        "imagen": "../snack.img/nachosCheddar.jpg"
+    },
+    {
+        "id": 45,
+        "nombre": "NACHOS ANTOJITOS CHEESE BURGER",
+        "descripcion": "Nachos sabor cheese burger",
+        "precio": "1,055.30",
+        "imagen": "../snack.img/nachosCheeseBurger.jpg"
+    },
+    {
+        "id": 46,
+        "nombre": "NACHOS ANTOJITOS ORIGINAL",
+        "descripcion": "Nachos sabor original",
+        "precio": "1,055.30",
+        "imagen": "../snack.img/nachosOriginal.jpg"
+    },
+    {
+        "id": 47,
+        "nombre": "Palito Salado Burbujas x 150 Gs.",
+        "descripcion": "Palitos salados, 150 gramos",
+        "precio": "880.85",
+        "imagen": "../snack.img/palitoSaladoBurbujas150g.jpg"
+    },
+    {
+        "id": 48,
+        "nombre": "PALITOS SAL/BUR x 20u.",
+        "descripcion": "Caja de palitos salados, 20 unidades",
+        "precio": "1,827.10",
+        "imagen": "../snack.img/palitosSalBurb20u.jpg"
+    },
+    {
+        "id": 49,
+        "nombre": "PALITOS SLICES x 1 K",
+        "descripcion": "Bolsa grande de palitos, 1 kilo",
+        "precio": "4,082.54",
+        "imagen": "../snack.img/palitosSlices1k.jpg"
+    },
+
+    {
+        "id": 50,
+        "nombre": "PAPAS PAY 1 KILO",
+        "descripcion": "Papas fritas estilo pay, 1 kilo",
+        "precio": "6,363.45",
+        "imagen": "../snack.img/papasPay1k.jpg"
+    },
+    {
+        "id": 51,
+        "nombre": "PAPAS PAY BURBUJAS x 20u.",
+        "descripcion": "Caja de papas pay, 20 unidades",
+        "precio": "2,950.80",
+        "imagen": "../snack.img/papasPayBurbujas20u.jpg"
+    },
+    {
+        "id": 52,
+        "nombre": "PAPAS PAY SLICE x 140gr",
+        "descripcion": "Papas pay en presentación de 140 gramos",
+        "precio": "859.39",
+        "imagen": "../snack.img/papasPaySlice140gr.jpg"
+    },
+    {
+        "id": 53,
+        "nombre": "TWISTOS x 40 JAMON gr c8728",
+        "descripcion": "Twistos sabor jamón, 40 gramos",
+        "precio": "1,283.10",
+        "imagen": "../snack.img/twistosJamon40gr.jpg"
+    },
+    {
+        "id": 54,
+        "nombre": "PIZZETAS RUEDITAS BOTS x 330",
+        "descripcion": "Pizzetas crocantes, 330 gramos",
+        "precio": "1,708.00",
+        "imagen": "../snack.img/pizzetasRueditasBots330gr.jpg"
+    },
+    {
+        "id": 55,
+        "nombre": "PIZZETAS RUEDITAS BOTS x 80gr",
+        "descripcion": "Pizzetas crocantes, 80 gramos",
+        "precio": "430.50",
+        "imagen": "../snack.img/pizzetasRueditasBots80gr.jpg"
+    },
+    {
+        "id": 56,
+        "nombre": "POCHOCLO READY POP DULCE CLASICO",
+        "descripcion": "Pochoclos dulces clásicos",
+        "precio": "1,036.10",
+        "imagen": "../snack.img/pochocloReadyPopDulceClasico.jpg"
+    },
+    {
+        "id": 57,
+        "nombre": "SALADIX x 25 Grs. DUO",
+        "descripcion": "Saladix en porción de 25 gramos",
+        "precio": "490.26",
+        "imagen": "../snack.img/saladixDuo25gr.jpg"
+    },
+    {
+        "id": 58,
+        "nombre": "TUTUCA PUNO BOTS 400gr",
+        "descripcion": "Tutuca crocante, 400 gramos",
+        "precio": "1,708.00",
+        "imagen": "../snack.img/tutucaPunoBots400gr.jpg"
+    },
+    {
+        "id": 59,
+        "nombre": "SUS GIRASOL X 20 X UN.",
+        "descripcion": "Caja de snacks de girasol, 20 unidades",
+        "precio": "2,208.00",
+        "imagen": "../snack.img/susGirasol20u.jpg"
+    },
+    {
+        "id": 60,
+        "nombre": "TAKIS FUEGO 140 g",
+        "descripcion": "Takis Fuego picantes, 140 gramos",
+        "precio": "3,101.84",
+        "imagen": "../snack.img/takisFuego140g.jpg"
+    },
+    {
+        "id": 61,
+        "nombre": "TAKIS FUEGO 49 g",
+        "descripcion": "Takis Fuego picantes, 49 gramos",
+        "precio": "1,257.50",
+        "imagen": "../snack.img/takisFuego49g.jpg"
+    },
+    {
+        "id": 62,
+        "nombre": "TAKIS ORIGINAL 140 g",
+        "descripcion": "Takis sabor original, 140 gramos",
+        "precio": "3,101.84",
+        "imagen": "../snack.img/takisOriginal140g.jpg"
+    },
+    {
+        "id": 63,
+        "nombre": "TUTUCA BURBUJAS x 1k",
+        "descripcion": "Bolsa de tutuca, 1 kilo",
+        "precio": "4,800.70",
+        "imagen": "../snack.img/tutucaBurbujas1k.jpg"
+    },
+    {
+        "id": 64,
+        "nombre": "TUTUCA BURBUJA x 80 grs.",
+        "descripcion": "Tutuca en presentación de 80 gramos",
+        "precio": "607.20",
+        "imagen": "../snack.img/tutucaBurbujas80gr.jpg"
+    }, 
+
+    {
+        "id": 65,
+        "nombre": "NACHOS ANTOJITOS FAKIN HOT ",
+        "descripcion": "Nachos picantes",
+        "precio": "1,055.30",
+        "imagen": "../snack.img/nachosFakinHot.jpg"
+    },
+
+    {
+        "id": 66,
+        "nombre": "REX ESTUCHE x 125 grs",
+        "descripcion": "Galletitas Rex en estuche, paquete de 125 gramos",
+        "precio": "1,194.94",
+        "imagen": "../snack.img/rexEstuche125.jpg"
+    },
+    {
+        "id": 67,
+        "nombre": "SALADIX Caja DUO x 80 grs",
+        "descripcion": "Snack Saladix Duo, caja de 80 gramos",
+        "precio": "997.87",
+        "imagen": "../snack.img/saladixDuo80.jpg"
+    },
+    {
+        "id": 68,
+        "nombre": "SALADIX Caja PICANTE x 100 grs.",
+        "descripcion": "Snack Saladix Picante, caja de 100 gramos",
+        "precio": "917.63",
+        "imagen": "../snack.img/saladixPicante100.jpg"
+    },
+    {
+        "id": 69,
+        "nombre": "SALADIX Caja PIZZA x 100 grs.",
+        "descripcion": "Snack Saladix Pizza, caja de 100 gramos",
+        "precio": "997.87",
+        "imagen": "../snack.img/saladixPizza100.jpg"
+    },
+    {
+        "id": 70,
+        "nombre": "SALADIX x 25Grs. PIZZA",
+        "descripcion": "Snack Saladix Pizza, paquete de 25 gramos",
+        "precio": "490.26",
+        "imagen": "../snack.img/saladixPizza25.webp"
+    },
+    {
+        "id": 71,
+        "nombre": "SALADIX x 30 Grs. CALABREZA",
+        "descripcion": "Snack Saladix Calabresa, paquete de 30 gramos",
+        "precio": "490.26",
+        "imagen": "../snack.img/saladixCalabresa30.jpg"
+    },
+    {
+        "id": 72,
+        "nombre": "SALADIX x 30 Grs. JAMON",
+        "descripcion": "Snack Saladix Jamón, paquete de 30 gramos",
+        "precio": "490.26",
+        "imagen": "../snack.img/saladixJamon30.jpg"
+    },
+    {
+        "id": 73,
+        "nombre": "SALADIX x 30 Grs. PICANTE TIRA",
+        "descripcion": "Snack Saladix Picante en tira, paquete de 30 gramos",
+        "precio": "469.71",
+        "imagen": "../snack.img/saladixPicanteTira30.jpg"
+    },
+
+    {
+        "id": 74,
+        "nombre": "REX GALL x 75gr BOLSA",
+        "descripcion": "Galletitas Rex en bolsa, paquete de 75 gramos",
+        "precio": "738.10",
+        "imagen": "../snack.img/rexGall75.jpg"
     }
 
 ]

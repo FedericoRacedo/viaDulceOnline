@@ -34,8 +34,8 @@
     {
         "id": 5,
         "nombre": "Plasticola STA",
-        "descripcion": "(tamaño 100g)",
-        "precio": "300,00",
+        "descripcion": "(tamaño 250g)",
+        "precio": "999,00",
         "imagen": "../libreria.img/plasticolasSTA100g.jpg"
     }
 ]
