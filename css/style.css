@@ -320,40 +320,91 @@ h2 {
 
 
 /* Productos Terminado */
-
-.testimonial {
-    padding: 100px 0;
+.special-products {
     text-align: center;
+    padding: 50px 20px;
+    background-color: #f9f9f9;
 }
 
-.testimonialContent {
+.special-products .texto {
+    font-size: 1.5rem;
+    color: #555;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.special-products h2 {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.products-row {
     display: flex;
-    justify-content: center;
-    margin-top:50px;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
 }
 
-.testimonial1 {
-    flex-basis: calc(50% - 20px);
-    padding: 50px;
-    text-align: left;
-    background-color: #f6f4fb;
-    border-top: 5px solid #d12424;
+.product-card {
+    flex: 1 1 calc(33.333% - 20px);
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
 }
 
-.testimonial1 img {
-    width: 100px
+.product-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
-
-.testimonial1 h4 {
-    font-size: 17px;
-    color: #111419;
+.product-card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 5px;
 }
 
-.testimonial p {
-    color: #515557;
-    margin-bottom: 25px;
-} /*Seccion Opiniones terminada*/
+.product-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.product-card p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+    color: #666;
+}
+
+.product-card .price {
+    font-size: 1.2rem;
+    color: #e74c3c;
+    font-weight: bold;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.product-card .buy-btn {
+    background-color: #27ae60;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.product-card .buy-btn:hover {
+    background-color: #219150;
+}
+ /*Seccion Opiniones terminada*/
 
 .footer {
     background-color: #770707;
@@ -457,6 +508,8 @@ h2 {
     transform: scale(1.1);
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
 }
+
+
 
 /*CHAT */
 /* Estilos del botón flotante */
@@ -614,18 +667,8 @@ h2 {
         padding: 0 30px 30px 30px;
     }
 
-    .testimonial {
-        padding: 30px;
-    }
-
-    .testimonialContent {
-        margin-top: 20px;
+    .products-row {
         flex-direction: column;
-    }
-
-    .testimonial1 {
-        padding: 25px;
-        margin-bottom: 25px;
     }
 
     .footer {

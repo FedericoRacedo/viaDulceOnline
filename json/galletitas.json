@@ -894,6 +894,372 @@
         "descripcion": "Tostadas dulces Reinitas de la marca Riera",
         "precio": "744.86",
         "imagen": "../galletitas.img/rieraDulcesReinitas.jpg"
+    },
+
+    {
+        "id": 128,
+        "nombre": "SERRANAS TRIPLE SANDWICH",
+        "descripcion": "Tostadas SERRANAS Triple Sandwich",
+        "precio": "963.97",
+        "imagen": "../galletitas.img/serranasTripleSandwich.jpg"
+    },
+    {
+        "id": 129,
+        "nombre": "SERRANITAS TRIPACK x 105g",
+        "descripcion": "SERRANITAS Tripack de 105 gramos",
+        "precio": "660.19",
+        "imagen": "../galletitas.img/serranitasTripack105g.jpg"
+    },
+    {
+        "id": 130,
+        "nombre": "SOLITAS ANIMACION x 400 gr",
+        "descripcion": "Galletas SOLITAS Animación de 400 gramos",
+        "precio": "1090.32",
+        "imagen": "../galletitas.img/solitasAnimacion400g.jpg"
+    },
+    {
+        "id": 131,
+        "nombre": "SOLITAS ARITOS x 500 grs",
+        "descripcion": "Galletas SOLITAS Aritos de 500 gramos",
+        "precio": "1184.78",
+        "imagen": "../galletitas.img/solitasAritos500g.jpg"
+    },
+    {
+        "id": 132,
+        "nombre": "SOLITAS FRUTILLAS x 500 grs",
+        "descripcion": "Galletas SOLITAS Frutillas de 500 gramos",
+        "precio": "1184.76",
+        "imagen": "../galletitas.img/solitasFrutillas500g.jpg"
+    },
+    {
+        "id": 133,
+        "nombre": "SOLITAS Gall. Legendaria x 500 gr",
+        "descripcion": "Galletas SOLITAS Legendarias de 500 gramos",
+        "precio": "1163.23",
+        "imagen": "../galletitas.img/solitasLegendaria500g.jpg"
+    },
+    {
+        "id": 134,
+        "nombre": "TEREPIN PEPA x 200 Gs",
+        "descripcion": "Pepas TEREPIN de 200 gramos",
+        "precio": "463.00",
+        "imagen": "../galletitas.img/terepinPepa200g.jpg"
+    },
+    {
+        "id": 135,
+        "nombre": "TEREPIN PEPAS x 400 Grs.",
+        "descripcion": "Pepas TEREPIN de 400 gramos",
+        "precio": "895.04",
+        "imagen": "../galletitas.img/terepinPepas400g.jpg"
+    },
+    {
+        "id": 136,
+        "nombre": "TOSTADAS LEIVA CLASICA x 150gr",
+        "descripcion": "Tostadas LEIVA Clásicas de 150 gramos",
+        "precio": "821.89",
+        "imagen": "../galletitas.img/leivaClasica150g.jpg"
+    },
+    {
+        "id": 137,
+        "nombre": "TOSTADAS LEIVA DULCES x 150gr",
+        "descripcion": "Tostadas LEIVA Dulces de 150 gramos",
+        "precio": "821.89",
+        "imagen": "../galletitas.img/leivaDulces150g.jpg"
+    },
+    {
+        "id": 138,
+        "nombre": "TOSTADAS LEIVA SIN SAL x 150gr",
+        "descripcion": "Tostadas LEIVA Sin Sal de 150 gramos",
+        "precio": "821.89",
+        "imagen": "../galletitas.img/leivaSinSal150g.jpg"
+    },
+    {
+        "id": 139,
+        "nombre": "TRIO CHOCOLATINA* x 150gr",
+        "descripcion": "Chocolatinas TRIO de 150 gramos",
+        "precio": "644.64",
+        "imagen": "../galletitas.img/trioChocolatina150g.jpg"
+    },
+    {
+        "id": 140,
+        "nombre": "TRIO FROLITAS x 500gr",
+        "descripcion": "Frolitas TRIO de 500 gramos",
+        "precio": "1310.89",
+        "imagen": "../galletitas.img/trioFrolitas500g.jpg"
+    },
+    {
+        "id": 141,
+        "nombre": "TRIO ANGELADAS x 150gr",
+        "descripcion": "Angeladas TRIO de 150 gramos",
+        "precio": "579.77",
+        "imagen": "../galletitas.img/trioAngeladas150g.jpg"
+    },
+    {
+        "id": 142,
+        "nombre": "TRIO FROLITAS X 160gr.",
+        "descripcion": "Frolitas TRIO de 160 gramos",
+        "precio": "443.25",
+        "imagen": "../galletitas.img/trioFrolitas160g.jpg"
+    },
+    {
+        "id": 143,
+        "nombre": "TRIO OSKITO x 150gr.",
+        "descripcion": "Galletas TRIO Oskito de 150 gramos",
+        "precio": "644.64",
+        "imagen": "../galletitas.img/trioOskito150g.jpg"
+    },
+    {
+        "id": 144,
+        "nombre": "TRIO OSKITOS x 300gr",
+        "descripcion": "Galletas TRIO Oskitos de 300 gramos",
+        "precio": "1134.95",
+        "imagen": "../galletitas.img/trioOskitos300g.jpg"
+    },
+    {
+        "id": 145,
+        "nombre": "TRIO PEPAS ALEMANAS x 180gr",
+        "descripcion": "Pepas Alemanas TRIO de 180 gramos",
+        "precio": "479.35",
+        "imagen": "../galletitas.img/trioPepasAlemanas180g.jpg"
+    },
+    {
+        "id": 146,
+        "nombre": "TRIO PEPAS CHOCOTRIO x 180gr",
+        "descripcion": "Pepas ChocoTRIO de 180 gramos",
+        "precio": "644.64",
+        "imagen": "../galletitas.img/trioPepasChoco180g.jpg"
+    },
+    {
+        "id": 147,
+        "nombre": "TRIO PEPAS CHOCOTRIO x 500gr",
+        "descripcion": "Pepas ChocoTRIO de 500 gramos",
+        "precio": "1622.97",
+        "imagen": "../galletitas.img/trioPepasChoco500g.jpg"
+    },
+    {
+        "id": 148,
+        "nombre": "TRIO PEPAS CON CHIPS x 180gr",
+        "descripcion": "Pepas con Chips TRIO de 180 gramos",
+        "precio": "433.95",
+        "imagen": "../galletitas.img/trioPepasChips180g.jpg"
+    },
+    {
+        "id": 149,
+        "nombre": "TRIO PEPAS x 200gr.",
+        "descripcion": "Pepas TRIO de 200 gramos",
+        "precio": "446.91",
+        "imagen": "../galletitas.img/trioPepas200g.jpg"
+    },
+    {
+        "id": 150,
+        "nombre": "TRIO PEPAS x 500 gr",
+        "descripcion": "Pepas TRIO de 500 gramos",
+        "precio": "1158.72",
+        "imagen": "../galletitas.img/trioPepas500g.jpg"
+    },
+    {
+        "id": 151,
+        "nombre": "TRIO SCONS x 320gr",
+        "descripcion": "Scons TRIO de 320 gramos",
+        "precio": "841.12",
+        "imagen": "../galletitas.img/trioScons320g.jpg"
+    },
+    {
+        "id": 152,
+        "nombre": "TRIO SURTIDAS x 180gr",
+        "descripcion": "Galletas Surtidas TRIO de 180 gramos",
+        "precio": "196.24",
+        "imagen": "../galletitas.img/trioSurtidas180g.jpg"
+    },
+    {
+        "id": 153,
+        "nombre": "TRIO TARTALETES FRUTILLA x 300gr",
+        "descripcion": "Tartaletes de Frutilla TRIO de 300 gramos",
+        "precio": "841.12",
+        "imagen": "../galletitas.img/trioTartaletesFrutilla300g.jpg"
+    },
+    {
+        "id": 154,
+        "nombre": "TRIO TARTALETES FRUTOS EL BOSQUE x 300gr",
+        "descripcion": "Tartaletes de Frutos del Bosque TRIO de 300 gramos",
+        "precio": "841.12",
+        "imagen": "../galletitas.img/trioTartaletesBosque300g.jpg"
+    },
+    {
+        "id": 155,
+        "nombre": "TRIO TRICHOC x 180gr",
+        "descripcion": "Trichoc TRIO de 180 gramos",
+        "precio": "457.90",
+        "imagen": "../galletitas.img/trioTrichoc180g.jpg"
+    },
+    {
+        "id": 156,
+        "nombre": "TRIO TRICHOC x 500 Gs.",
+        "descripcion": "Trichoc TRIO de 500 gramos",
+        "precio": "1262.26",
+        "imagen": "../galletitas.img/trioTrichoc500g.jpg"
+    },
+    {
+        "id": 157,
+        "nombre": "TRIO VARIETTE x 200gr",
+        "descripcion": "Variette TRIO de 200 gramos",
+        "precio": "479.36",
+        "imagen": "../galletitas.img/trioVariette200g.jpg"
+    },
+    {
+        "id": 158,
+        "nombre": "TRIO VARIETTE x 500gr",
+        "descripcion": "Variette TRIO de 500 gramos",
+        "precio": "1212.99",
+        "imagen": "../galletitas.img/trioVariette500g.jpg"
+    },
+    {
+        "id": 159,
+        "nombre": "TRIO X PEPAS ALEMANAS 500gr",
+        "descripcion": "Pepas Alemanas TRIO de 500 gramos",
+        "precio": "1310.89",
+        "imagen": "../galletitas.img/trioPepasAlemanas500g.jpg"
+    },
+    {
+        "id": 160,
+        "nombre": "URQUIZA TALITAS AJO Y OLIVA",
+        "descripcion": "Talitas URQUIZA de Ajo y Oliva",
+        "precio": "704.26",
+        "imagen": "../galletitas.img/urquizaTalitasAjoOliva.jpg"
+    },
+    {
+        "id": 161,
+        "nombre": "URQUIZA TALITAS CEBOLLA",
+        "descripcion": "Talitas URQUIZA de Cebolla",
+        "precio": "704.26",
+        "imagen": "../galletitas.img/urquizaTalitasCebolla.jpg"
+    },
+    {
+        "id": 162,
+        "nombre": "URQUIZA TALITAS CHEDDAR",
+        "descripcion": "Talitas URQUIZA de Cheddar",
+        "precio": "704.26",
+        "imagen": "../galletitas.img/urquizaTalitasCheddar.webp"
+    },
+    {
+        "id": 163,
+        "nombre": "URQUIZA TALITAS CLASICAS",
+        "descripcion": "Talitas URQUIZA Clásicas",
+        "precio": "704.26",
+        "imagen": "../galletitas.img/urquizaTalitasClasicas.jpg"
+    },
+    {
+        "id": 164,
+        "nombre": "URQUIZA TALITAS JAMON",
+        "descripcion": "Talitas URQUIZA de Jamón",
+        "precio": "704.26",
+        "imagen": "../galletitas.img/urquizaTalitasJamon.jpg"
+    },
+    {
+        "id": 165,
+        "nombre": "URQUIZA TALITAS PIZZA",
+        "descripcion": "Talitas URQUIZA de Pizza",
+        "precio": "704.26",
+        "imagen": "../galletitas.img/urquizaTalitasPizza.jpg"
+    },
+    {
+        "id": 166,
+        "nombre": "VAINILLAS MAURI x 320 Gs.",
+        "descripcion": "Vainillas MAURI de 320 gramos",
+        "precio": "1381.12",
+        "imagen": "../galletitas.img/vainillasMauri320g.jpg"
+    },
+    {
+        "id": 167,
+        "nombre": "VAINILLAS MAURI X 80 grs.",
+        "descripcion": "Vainillas MAURI de 80 gramos",
+        "precio": "325.60",
+        "imagen": "../galletitas.img/vainillasMauri80g.jpg"
+    },
+    {
+        "id": 168,
+        "nombre": "VALIDO PALMERITAS x 200gr",
+        "descripcion": "Palmeritas VALIDO de 200 gramos",
+        "precio": "794.11",
+        "imagen": "../galletitas.img/validoPalmeritas200g.jpg"
+    },
+    {
+        "id": 169,
+        "nombre": "VALIDO PEPAS x 500 GR",
+        "descripcion": "Pepas VALIDO de 500 gramos",
+        "precio": "1176.21",
+        "imagen": "../galletitas.img/validoPepas500g.jpg"
+    },
+    {
+        "id": 170,
+        "nombre": "VALIDO PEPAS x 200 GR",
+        "descripcion": "Pepas VALIDO de 200 gramos",
+        "precio": "450,43",
+        "imagen": "../galletitas.img/validoPepas200g.jpg"
+    },
+    {
+        "id": 171,
+        "nombre": "Mantequitas Zupay",
+        "descripcion": "Mantequitas 200 gramos",
+        "precio": "709.83",
+        "imagen": "../galletitas.img/zupayMantequitas.jpg"
+    },
+
+    {
+        "id": 172,
+        "nombre": "OBLEA OBLITA BLACK x 50 Gs.",
+        "descripcion": "Oblea Oblita sabor Black, presentación de 50 gramos.",
+        "precio": "250,57",
+        "imagen": "../galletitas.img/oblea_oblita_black_50g.jpg"
+    },
+    {
+        "id": 173,
+        "nombre": "OBLEA OBLITA CHOCOLATE x 100 Gs",
+        "descripcion": "Oblea Oblita sabor chocolate, presentación de 100 gramos.",
+        "precio": "460,38",
+        "imagen": "../galletitas.img/oblea_oblita_chocolate_100g.jpg"
+    },
+    {
+        "id": 174,
+        "nombre": "OBLEA OBLITA CHOCOLATE x 50 Gs",
+        "descripcion": "Oblea Oblita sabor chocolate, presentación de 50 gramos.",
+        "precio": "250,57",
+        "imagen": "../galletitas.img/oblea_oblita_chocolate_50g.jpg"
+    },
+    {
+        "id": 175,
+        "nombre": "OBLEA OBLITA DULCE LECHE x 100 gr",
+        "descripcion": "Oblea Oblita sabor dulce de leche, presentación de 100 gramos.",
+        "precio": "460,38",
+        "imagen": "../galletitas.img/oblea_oblita_dulce_leche_100g.jpg"
+    },
+    {
+        "id": 176,
+        "nombre": "OBLEA OBLITA DULCE LECHE x 50 gr",
+        "descripcion": "Oblea Oblita sabor dulce de leche, presentación de 50 gramos.",
+        "precio": "250,57",
+        "imagen": "../galletitas.img/oblea_oblita_dulce_leche_50g.jpg"
+    },
+    {
+        "id": 177,
+        "nombre": "OBLEA OBLITA FRUTILLA x 100 Gs",
+        "descripcion": "Oblea Oblita sabor frutilla, presentación de 100 gramos.",
+        "precio": "460,38",
+        "imagen": "../galletitas.img/oblea_oblita_frutilla_100g.jpg"
+    },
+    {
+        "id": 178,
+        "nombre": "OBLEA OBLITA VAINILLA x 100 Gs",
+        "descripcion": "Oblea Oblita sabor vainilla, presentación de 100 gramos.",
+        "precio": "460,38",
+        "imagen": "../galletitas.img/oblea_oblita_vainilla_100g.jpg"
+    },
+    {
+        "id": 179,
+        "nombre": "OBLEA OBLITA VAINILLA x 50 Gs.",
+        "descripcion": "Oblea Oblita sabor vainilla, presentación de 50 gramos.",
+        "precio": "250,57",
+        "imagen": "../galletitas.img/oblea_oblita_vainilla_50g.jpg"
     }
 
 

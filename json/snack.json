@@ -555,6 +555,21 @@
         "descripcion": "Galletitas Rex en bolsa, paquete de 75 gramos",
         "precio": "738.10",
         "imagen": "../snack.img/rexGall75.jpg"
+    },
+
+    {
+        "id": 75,
+        "nombre": "Cheetos Classic x 43grs c8720",
+        "descripcion": "Cheetos Classic en paquete de 43 gramos, snack crocante y delicioso.",
+        "precio": "1.220,79",
+        "imagen": "../snack.img/cheetos_classic_43gr.jpg"
+    },
+    {
+        "id": 76,
+        "nombre": "LAYS Clasica x 40 GRS c8713",
+        "descripcion": "LAYS Clásica en paquete de 40 gramos, papas fritas crujientes y sabrosas.",
+        "precio": "1.220,79",
+        "imagen": "../snack.img/lays_clasica_40gr.jpg"
     }
 
 ]

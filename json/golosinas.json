@@ -9,25 +9,25 @@
 
     {
         "id": 2,
-        "nombre": "Alfajor COFLER BLOCK ",
+        "nombre": "Alfajor COFLER BLOCK",
         "descripcion": "(Peso 60g)",
         "precio": "917,06",
         "imagen": "../golosinas.img/AlfBlock.jpg"
     },
-
+    
     {
         "id": 3,
         "nombre": "Alfajor Lichys",
         "descripcion": "(Chocolate Blanco)",
-        "precio":  "968,75",
+        "precio": "968,75",
         "imagen": "../golosinas.img/alfLichysBlanco.jpg"
     },
-
+    
     {
         "id": 4,
         "nombre": "Alfajor Lichys",
         "descripcion": "(Chocolate)",
-        "precio":  "968,75",
+        "precio": "968,75",
         "imagen": "../golosinas.img/alfLichysBlanco.jpg"
     },
 
@@ -35,7 +35,7 @@
         "id": 5,
         "nombre": "Alfajor Lichys",
         "descripcion": "(Frutos Rojos)",
-        "precio":  "968,75",
+        "precio": "968,75",
         "imagen": "../golosinas.img/alfLichysBlanco.jpg"
     },
 
@@ -43,7 +43,7 @@
         "id": 6,
         "nombre": "Alfajor Smack DDL",
         "descripcion": "(Peso 60g)",
-        "precio":  "249,60",
+        "precio": "249,60",
         "imagen": "../golosinas.img/AlfSmack.png"
     },
 
@@ -54,7 +54,7 @@
         "precio": "198,25",
         "imagen": "../golosinas.img/alfVimarSimpleChoco.jpeg"
     },
-
+    
     {
         "id": 8,
         "nombre": "Alfajor VIMAR Simple Blanco",
@@ -62,39 +62,39 @@
         "precio": "198,25",
         "imagen": "../golosinas.img/alfVimarSimpleLeche.jpeg"
     },
-
+    
     {
         "id": 9,
         "nombre": "Alfajor ALFA PAMPA Chocolate Blanco",
         "descripcion": "(Peso 60g)",
-        "precio":  "480,10",
+        "precio": "480,10",
         "imagen": "../golosinas.img/alfAlfaPampa.webp"
     },
-
+    
     {
         "id": 10,
         "nombre": "Alfajor Blanco y Negro Triple",
         "descripcion": "(Chocolate Blanco)",
-        "precio":  "917,06",
+        "precio": "917,06",
         "imagen": "../golosinas.img/alfBYNBlancoTriple.png"
     },
-
+    
     {
         "id": 11,
         "nombre": "Alfajor Pepitos",
         "descripcion": "(Alfajor Triple)",
-        "precio":  "987,44",
+        "precio": "987,44",
         "imagen": "../golosinas.img/alfPepitos.jpg"
     },
-
+    
     {
         "id": 12,
         "nombre": "Alfajor Tofi Triple Blanco",
         "descripcion": "(Chocolate Blanco)",
-        "precio":  "917,06",
+        "precio": "917,06",
         "imagen": "../golosinas.img/alfTofiTripleBlanco.jpg"
     },
-
+    
     {
         "id": 13,
         "nombre": "Alfajor Tofi Triple Negro",
@@ -102,15 +102,15 @@
         "precio": "917,06",
         "imagen": "../golosinas.img/alfTofiTripleNegro.jpg"
     },
-
+    
     {
         "id": 14,
         "nombre": "Alfajor AGUILA Mini Torta",
-        "descripcion": "(Clasico)",
+        "descripcion": "(Clásico)",
         "precio": "917,06",
         "imagen": "../golosinas.img/alfAguilaMiniTorta.jpg"
     },
-
+    
     {
         "id": 15,
         "nombre": "Alfajor AGUILA Mini Torta",
@@ -118,28 +118,28 @@
         "precio": "917,06",
         "imagen": "../golosinas.img/alfAguilaMiniTortaBrownie.jpg"
     },
-
+    
     {
         "id": 16,
         "nombre": "Alfajor AGUILA Mini Torta",
         "descripcion": "(Blanco)",
-        "precio":  "917,06",
+        "precio": "917,06",
         "imagen": "../golosinas.img/alfAguilaMiniTortaBlanco.jpg"
     },
-
+    
     {
         "id": 17,
         "nombre": "Alfajor AGUILA Mini Torta",
         "descripcion": "(Coco)",
-        "precio":  "917,06",
+        "precio": "917,06",
         "imagen": "../golosinas.img/alfAguilaMiniTortaCoco.jpg"
     },
-
+    
     {
         "id": 18,
         "nombre": "Alfajor Bon o Bon",
         "descripcion": "(Simple Negro)",
-        "precio":  "563,53",
+        "precio": "563,53",
         "imagen": "../golosinas.img/alfBonOBonNegro.jpg"
     },
     
@@ -147,15 +147,15 @@
         "id": 19,
         "nombre": "Alfajor Bon o Bon Triple",
         "descripcion": "(Triple Negro)",
-        "precio":  "917,06",
+        "precio": "917,06",
         "imagen": "../golosinas.img/alfBonOBonTripleNegro.jpg"
     },
-
+    
     {
         "id": 20,
         "nombre": "Alfajor Oreo",
         "descripcion": "(Doble Relleno)",
-        "precio":  "987,44",
+        "precio": "987,44",
         "imagen": "../golosinas.img/alfOreo.webp"
     },
     
@@ -163,7 +163,7 @@
         "id": 21,
         "nombre": "Alfajor Tri Shot",
         "descripcion": "(Triple Negro)",
-        "precio":  "987,44",
+        "precio": "987,44",
         "imagen": "../golosinas.img/alfTriShot.jpg"
     },
 
@@ -632,38 +632,35 @@
         "id": 78,
         "nombre": "Mantecol",
         "descripcion": "Peso 41 Gs.",
-        "precio": "701.25",
+        "precio": "701,25",
         "imagen": "../golosinas.img/mantecol41g.jpg"
     },
-
     {
         "id": 79,
         "nombre": "Mantecol",
         "descripcion": "Peso 111 Grs.",
-        "precio": "1.04,95",
+        "precio": "1.049,50",
         "imagen": "../golosinas.img/mantecol111g.jpg"
     },
     {
         "id": 80,
         "nombre": "Mantecol",
         "descripcion": "Peso 29 Grs",
-        "precio": "488.63",
+        "precio": "488,63",
         "imagen": "../golosinas.img/mantecol29g.jpg"
     },
-
     {
         "id": 81,
         "nombre": "Mantecol",
         "descripcion": "Peso 64 Grs",
-        "precio": "825.81",
+        "precio": "825,81",
         "imagen": "../golosinas.img/mantecol64g.jpg"
     },
-
     {
         "id": 82,
         "nombre": "Marroc Fel Ford",
         "descripcion": "Por 1 Unidad",
-        "precio": "718.72",
+        "precio": "718,72",
         "imagen": "../golosinas.img/marroc.jpg"
     },
 
@@ -2104,30 +2101,738 @@
         "id": 282,
         "nombre": "DOCILE CANUDINHO ÁCIDO SOUR",
         "descripcion": "DOCILE CANUDINHO ÁCIDO sabor SOUR",
-        "precio": "201.50",
+        "precio": "201,50",
         "imagen": "../golosinas.img/docileCanudinhoSour.jpg"
     },
     {
         "id": 283,
         "nombre": "ARCOR EL KIOSCO EN CASA",
         "descripcion": "Caja surtida de golosinas ARCOR El Kiosco en Casa",
-        "precio": "5,692.72",
+        "precio": "5.692,72",
         "imagen": "../golosinas.img/arcorKioscoEnCasa.jpg"
     },
     {
         "id": 284,
         "nombre": "BIZCOCHUELO EMETH VAINILLA x 450gr",
         "descripcion": "Bizcochuelo EMETH sabor vainilla de 450 gramos",
-        "precio": "1,391.87",
+        "precio": "1.391,87",
         "imagen": "../golosinas.img/bizcochueloEmethVainilla.jpg"
     },
     {
         "id": 285,
         "nombre": "ALF. Bon o Bon Blanco",
         "descripcion": "Alfajor Bon o Bon Blanco",
-        "precio": "563.53",
+        "precio": "563,53",
         "imagen": "../golosinas.img/bonOBonBlanco.jpg"
+    },
+    {
+        "id": 286,
+        "nombre": "Draculengua",
+        "descripcion": "Tembleke draculengua",
+        "precio": "487,85",
+        "imagen": "../golosinas.img/draculengua.jpg"
+    },
+    {
+        "id": 287,
+        "nombre": "Golomix Gomitas x800gr",
+        "descripcion": "Bananas",
+        "precio": "3.848,64",
+        "imagen": "../golosinas.img/bananasGolomiz.jpg"
+    },
+    {
+        "id": 288,
+        "nombre": "Mielcitas x50",
+        "descripcion": "Tira de Mielcitas",
+        "precio": "1.880,00",
+        "imagen": "../golosinas.img/mielcitas.jpg"
+    },
+    {
+        "id": 289,
+        "nombre": "Temb. Simpsons Princesa x 6u-2017",
+        "descripcion": "Temb. Simpsons Princesa en presentación de 6 unidades",
+        "precio": "580,06",
+        "imagen": "../golosinas.img/temblekeSimpsonsPrincesa.jpg"
+    },
+    {
+        "id": 290,
+        "nombre": "Tembleke Disney Cobra/ReloJ",
+        "descripcion": "Tembleke Disney Cobra/ReloJ",
+        "precio": "466,82",
+        "imagen": "../golosinas.img/temblekeDisneyCobraReloJ.jpg"
+    },
+    {
+        "id": 291,
+        "nombre": "TEMBLEKE SUPER ACIDOS",
+        "descripcion": "Tembleke Super Ácidos",
+        "precio": "382,20",
+        "imagen": "../golosinas.img/temblekeSuperAcidos.jpg"
+    },
+    {
+        "id": 292,
+        "nombre": "TEMBLEKE TATOO",
+        "descripcion": "Tembleke con tatuajes",
+        "precio": "382,21",
+        "imagen": "../golosinas.img/temblekeTatoo.jpg"
+    },
+    {
+        "id": 293,
+        "nombre": "Trembly x 6",
+        "descripcion": "Trembly en presentación de 6 unidades",
+        "precio": "603,27",
+        "imagen": "../golosinas.img/trembly6u.jpg"
+    },
+
+    {
+        "id": 294,
+        "nombre": "ANILLOS FRUTALES ARCOR x 1K",
+        "descripcion": "Anillos frutales Arcor en presentación de 1 kg",
+        "precio": "7.005,95",
+        "imagen": "../golosinas.img/anillos_frutales.jpg"
+    },
+    {
+        "id": 295,
+        "nombre": "BUFFYS MALVAVISCOS x 200gr",
+        "descripcion": "Buffys Malvaviscos en presentación de 200 gr",
+        "precio": "1.579,72",
+        "imagen": "../golosinas.img/buffys_malvaviscos.jpg"
+    },
+    {
+        "id": 296,
+        "nombre": "BULL DOG CRAZY EXPLOSIVO",
+        "descripcion": "Bull Dog Crazy Explosivo",
+        "precio": "436,66",
+        "imagen": "../golosinas.img/bull_dog_crazy.jpg"
+    },
+    {
+        "id": 297,
+        "nombre": "DIENTES MOGUL x 50gr",
+        "descripcion": "Dientes Mogul en presentación de 50 gr",
+        "precio": "622,22",
+        "imagen": "../golosinas.img/dientes_mogul.jpg"
+    },
+    {
+        "id": 298,
+        "nombre": "DOCILE CANUDINHO ACIDO UNIT",
+        "descripcion": "Docile Canudinho Ácido por unidad",
+        "precio": "201,50",
+        "imagen": "../golosinas.img/docile_canudinho_acido.jpg"
+    },
+    {
+        "id": 299,
+        "nombre": "DOCILE CANUDINHO FRUTILLA",
+        "descripcion": "Docile Canudinho sabor frutilla",
+        "precio": "201,50",
+        "imagen": "../golosinas.img/docile_canudinho_frutilla.jpg"
+    },
+    {
+        "id": 300,
+        "nombre": "Frutigelatin VIBORITA X 30g.",
+        "descripcion": "Frutigelatin Vibora en presentación de 30 gr",
+        "precio": "421,45",
+        "imagen": "../golosinas.img/frutigelatin_vibora.jpg"
+    },
+    {
+        "id": 301,
+        "nombre": "Golomix-Gomas Frutales x 800 gr",
+        "descripcion": "Gomas Golomix surtidas frutales, 800 gr",
+        "precio": "3.848,64",
+        "imagen": "../golosinas.img/gomas_frutales.jpg"
+    },
+    {
+        "id": 302,
+        "nombre": "Golomix-Gomas Eucaliptus x 800 gr",
+        "descripcion": "Gomas Golomix sabor eucaliptus, 800 gr",
+        "precio": "3.848,64",
+        "imagen": "../golosinas.img/gomas_eucaliptus.jpg"
+    },
+    
+    {
+        "id": 303,
+        "nombre": "Yummy Gomitas",
+        "descripcion": "Gomitas individuales",
+        "precio": "280,69",
+        "imagen": "../golosinas.img/yummyTodas.jpg"
+    },
+
+    {
+        "id": 304,
+        "nombre": "Golomix-Gomas Frutillas x 800 gr",
+        "descripcion": "Gomas Golomix sabor frutillas, 800 gr",
+        "precio": "3.848,64",
+        "imagen": "../golosinas.img/gomas_frutillas.jpg"
+    },
+    {
+        "id": 305,
+        "nombre": "Golomix-Gomas GUSANITOS x 800 gr",
+        "descripcion": "Gomas Golomix sabor gusanitos, 800 gr",
+        "precio": "3.848,64",
+        "imagen": "../golosinas.img/gomas_gusanitos.jpg"
+    },
+    {
+        "id": 306,
+        "nombre": "Golomix-Gomas mini-frutales x 800 gr",
+        "descripcion": "Gomas Golomix mini frutales, 800 gr",
+        "precio": "3.848,64",
+        "imagen": "../golosinas.img/gomas_mini_frutales.jpg"
+    },
+    {
+        "id": 307,
+        "nombre": "Golomix-Gomas Rodajas x 800 gr",
+        "descripcion": "Gomas Golomix sabor rodajas, 800 gr",
+        "precio": "3.848,64",
+        "imagen": "../golosinas.img/gomas_rodajas.jpg"
+    },
+    {
+        "id": 308,
+        "nombre": "GOMA MISKY COLMILLOS x 1K",
+        "descripcion": "Goma Misky sabor colmillos, 1 kg",
+        "precio": "5.476,69",
+        "imagen": "../golosinas.img/gomas_colmillos.jpg"
+    },
+    {
+        "id": 309,
+        "nombre": "GOMA MOGUL CONITOS x1k.",
+        "descripcion": "Goma Mogul sabor conitos, 1 kg",
+        "precio": "7.005,95",
+        "imagen": "../golosinas.img/gomas_conitos.jpg"
+    },
+    {
+        "id": 310,
+        "nombre": "GOMAS MOGUL EXTREME ROCK x 45gr",
+        "descripcion": "Gomas Mogul Extreme Rock, 45 gr",
+        "precio": "581,51",
+        "imagen": "../golosinas.img/mogul_extreme_rock.jpg"
+    },
+    {
+        "id": 311,
+        "nombre": "GOMAS MOGUL EXTREME SANDIA/OSO",
+        "descripcion": "Gomas Mogul Extreme Sandía/Oso",
+        "precio": "635,42",
+        "imagen": "../golosinas.img/mogul_extreme_sandia.jpg"
+    },
+    {
+        "id": 312,
+        "nombre": "GOMAS MOGUL EXTREME TUBITOS MAX",
+        "descripcion": "Gomas Mogul Extreme Tubitos Max",
+        "precio": "351,28",
+        "imagen": "../golosinas.img/mogul_tubitos_max.jpg"
+    },
+    {
+        "id": 313,
+        "nombre": "GOMITA FANTASIA Misky x 1Kg.",
+        "descripcion": "Gomita Fantasía Misky, 1 kg",
+        "precio": "5.869,77",
+        "imagen": "../golosinas.img/gomitas_fantasia.jpg"
+    },
+    {
+        "id": 314,
+        "nombre": "GOMITAS BURGER GUMMY",
+        "descripcion": "Gomitas sabor Burger Gummy",
+        "precio": "178,71",
+        "imagen": "../golosinas.img/gomitas_burger.jpg"
+    },
+    {
+        "id": 315,
+        "nombre": "GOMITAS EUCALIPTO MISKY",
+        "descripcion": "Gomitas sabor Eucalipto Misky",
+        "precio": "5.869,77",
+        "imagen": "../golosinas.img/gomitas_eucalipto.jpg"
+    },
+    {
+        "id": 316,
+        "nombre": "GOMITAS JELLY BUTON x 1K",
+        "descripcion": "Gomitas Jelly Button, 1 kg",
+        "precio": "7.005,95",
+        "imagen": "../golosinas.img/gomitas_jelly_button.jpg"
+    },
+    {
+        "id": 317,
+        "nombre": "GOMITAS PANCHO GUMMY",
+        "descripcion": "Gomitas sabor Pancho Gummy",
+        "precio": "178,71",
+        "imagen": "../golosinas.img/gomitas_pancho.jpg"
+    },
+    {
+        "id": 318,
+        "nombre": "GOMITAS RICOMAS CONITOS FRUTAL x 500g",
+        "descripcion": "Gomitas Ricomas Conitos Frutal, 500 gr",
+        "precio": "2.681,91",
+        "imagen": "../golosinas.img/gomitas_ricomas_conitos.jpg"
+    },
+    {
+        "id": 319,
+        "nombre": "GONGYS TRENZA x 200gr",
+        "descripcion": "Gomas Gongys sabor trenza, 200 gr",
+        "precio": "1.432,84",
+        "imagen": "../golosinas.img/gongys_trenza.jpg"
+    },
+    {
+        "id": 320,
+        "nombre": "Malvaviscos BUFFYS 450 FRESA",
+        "descripcion": "Malvaviscos Buffys sabor fresa, 450 gr",
+        "precio": "3.226,67",
+        "imagen": "../golosinas.img/malvaviscos_fresa.jpg"
+    },
+    {
+        "id": 321,
+        "nombre": "Malvaviscos BUFFYS 450 FRUTAL",
+        "descripcion": "Malvaviscos Buffys sabor frutal, 450 gr",
+        "precio": "2.806,00",
+        "imagen": "../golosinas.img/malvaviscos_frutal.jpg"
+    },
+
+    {
+        "id": 322,
+        "nombre": "Malvaviscos GONGGYS x 28g \"CHICO\"",
+        "descripcion": "Malvaviscos Gonggys en presentación pequeña de 28 gr",
+        "precio": "240,39",
+        "imagen": "../golosinas.img/malvaviscos_chico.jpg"
+    },
+    {
+        "id": 323,
+        "nombre": "MOGUL OSITOS x 500gr",
+        "descripcion": "Gomas Mogul sabor ositos, 500 gr",
+        "precio": "4.470,88",
+        "imagen": "../golosinas.img/mogul_ositos.jpg"
+    },
+    {
+        "id": 324,
+        "nombre": "MOGUL ARCOR CHICOS TODOS",
+        "descripcion": "Gomas Mogul surtido chicos",
+        "precio": "359,49",
+        "imagen": "../golosinas.img/mogul_chicos.jpg"
+    },
+    {
+        "id": 325,
+        "nombre": "MOGUL CONITOS YOGUS x 500gr",
+        "descripcion": "Gomas Mogul Conitos Yogus, 500 gr",
+        "precio": "3.650,85",
+        "imagen": "../golosinas.img/mogul_conitos_yogus.jpg"
+    },
+    {
+        "id": 326,
+        "nombre": "MOGUL EXTREME ACIDOS TUBITOS x 70 gr",
+        "descripcion": "Gomas Mogul Extreme Ácidos Tubitos, 70 gr",
+        "precio": "1.055,49",
+        "imagen": "../golosinas.img/mogul_acidos_tubitos.jpg"
+    },
+    {
+        "id": 327,
+        "nombre": "MOGUL EXTREME TUBITOS x 20gr",
+        "descripcion": "Gomas Mogul Extreme Tubitos, 20 gr",
+        "precio": "286,43",
+        "imagen": "../golosinas.img/mogul_extreme_tubitos.jpg"
+    },
+    {
+        "id": 328,
+        "nombre": "MOGUL FRUTILLAS ACIDAS x 500gr",
+        "descripcion": "Gomas Mogul sabor frutillas ácidas, 500 gr",
+        "precio": "4.470,88",
+        "imagen": "../golosinas.img/mogul_frutillas_acidas.jpg"
+    },
+    {
+        "id": 329,
+        "nombre": "MOGUL GUSANOS ACIDOS x 500gr",
+        "descripcion": "Gomas Mogul sabor gusanos ácidos, 500 gr",
+        "precio": "4.470,88",
+        "imagen": "../golosinas.img/mogul_gusanos_acidos.jpg"
+    },
+    {
+        "id": 330,
+        "nombre": "MOGUL JELLY BEANS x 50gr",
+        "descripcion": "Gomas Mogul Jelly Beans, 50 gr",
+        "precio": "622,22",
+        "imagen": "../golosinas.img/mogul_jelly_beans.jpg"
+    },
+    {
+        "id": 331,
+        "nombre": "MOGUL LADRILLOS DE FRUTILLA x 500gr",
+        "descripcion": "Gomas Mogul sabor ladrillos de frutilla, 500 gr",
+        "precio": "4.509,39",
+        "imagen": "../golosinas.img/mogul_ladrillos_frutilla.jpg"
+    },
+    {
+        "id": 332,
+        "nombre": "MOGUL LADRILLOS EXTREME 150 gr",
+        "descripcion": "Gomas Mogul sabor ladrillos extreme, 150 gr",
+        "precio": "1.747,39",
+        "imagen": "../golosinas.img/mogul_ladrillos_extreme.jpg"
+    },
+    {
+        "id": 333,
+        "nombre": "MOGUL SANDIAS x 500gr",
+        "descripcion": "Gomas Mogul sabor sandías, 500 gr",
+        "precio": "4.470,88",
+        "imagen": "../golosinas.img/mogul_sandias.jpg"
+    },
+    {
+        "id": 334,
+        "nombre": "MORAS Arcor x 500 grs",
+        "descripcion": "Moras Arcor en presentación de 500 gr",
+        "precio": "4.543,58",
+        "imagen": "../golosinas.img/moras_arcor.jpg"
+    },
+    {
+        "id": 335,
+        "nombre": "MORAS MOGUL x 50 gr",
+        "descripcion": "Gomas Moras Mogul en presentación de 50 gr",
+        "precio": "622,22",
+        "imagen": "../golosinas.img/moras_mogul.jpg"
+    },
+    {
+        "id": 336,
+        "nombre": "PIZZA GUMMY ZONE",
+        "descripcion": "Gomas sabor Pizza Gummy Zone",
+        "precio": "320,71",
+        "imagen": "../golosinas.img/pizza_gummy.jpg"
+    },
+    {
+        "id": 337,
+        "nombre": "ROLLO MISKY SURTIDO x 12u",
+        "descripcion": "Rollos Misky surtidos, paquete de 12 unidades",
+        "precio": "2.793,59",
+        "imagen": "../golosinas.img/rollo_misky.jpg"
+    },
+    {
+        "id": 338,
+        "nombre": "TUBITOS EXTREME ACIDO MOGUL x 620gr",
+        "descripcion": "Tubitos Mogul Extreme Ácido, 620 gr",
+        "precio": "6.487,00",
+        "imagen": "../golosinas.img/tubitos_extreme_acido.webp"
+    },
+    {
+        "id": 339,
+        "nombre": "Bull Dog Pastillas Ácidas",
+        "descripcion": "Pastillas ácidas Bull Dog, un clásico de sabor intenso.",
+        "precio": "268,99",
+        "imagen": "../golosinas.img/bull_dog_acidas.jpg"
+    },
+    {
+        "id": 340,
+        "nombre": "Corazoncitos Dorins",
+        "descripcion": "Dulces en forma de corazones Dorins, ideales para compartir.",
+        "precio": "193,06",
+        "imagen": "../golosinas.img/corazoncitos_dorins.jpg"
+    },
+    {
+        "id": 341,
+        "nombre": "D.R.F Frutos Rojos / Anís",
+        "descripcion": "Pastillas D.R.F de frutos rojos y anís, un sabor clásico.",
+        "precio": "275,33",
+        "imagen": "../golosinas.img/drf_frutos_rojos_anis.jpg"
+    },
+    {
+        "id": 342,
+        "nombre": "D.R.F Mentol",
+        "descripcion": "Pastillas D.R.F con sabor refrescante a mentol.",
+        "precio": "275,33",
+        "imagen": "../golosinas.img/drf_mentol.jpg"
+    },
+    {
+        "id": 343,
+        "nombre": "D.R.F Naranja",
+        "descripcion": "Pastillas D.R.F de naranja, ideales para disfrutar en cualquier momento.",
+        "precio": "275,33",
+        "imagen": "../golosinas.img/drf_naranja.jpg"
+    },
+    {
+        "id": 344,
+        "nombre": "D.R.F Menta",
+        "descripcion": "Pastillas D.R.F con sabor fresco a menta.",
+        "precio": "275,33",
+        "imagen": "../golosinas.img/drf_menta.jpg"
+    },
+    {
+        "id": 345,
+        "nombre": "D.R.F Limón",
+        "descripcion": "Pastillas D.R.F con un toque ácido de limón.",
+        "precio": "275,33",
+        "imagen": "../golosinas.img/drf_limon.png"
+    },
+    {
+        "id": 346,
+        "nombre": "Docile Mini 8 Pastilla x 100 un.",
+        "descripcion": "Mini pastillas Docile, ideales para disfrutar y compartir, paquete de 100 unidades.",
+        "precio": "4.018,95",
+        "imagen": "../golosinas.img/docile_mini_8.jpg"
+    },
+    {
+        "id": 347,
+        "nombre": "Halls Cherry-Lyptus",
+        "descripcion": "Caramelos Halls sabor cereza y eucalipto, frescura garantizada.",
+        "precio": "664,43",
+        "imagen": "../golosinas.img/halls_cherry_lyptus.jpg"
+    },
+    {
+        "id": 348,
+        "nombre": "Halls Menta-Lyptus",
+        "descripcion": "Caramelos Halls sabor menta y eucalipto, un clásico refrescante.",
+        "precio": "664,43",
+        "imagen": "../golosinas.img/hallsMentoLyptus.jpg"
+    },
+    {
+        "id": 349,
+        "nombre": "Halls Strong-Lyptus",
+        "descripcion": "Caramelos Halls con frescura extra fuerte a eucalipto.",
+        "precio": "664,43",
+        "imagen": "../golosinas.img/halls_strong_lyptus.jpg"
+    },
+    {
+        "id": 350,
+        "nombre": "La Yapa",
+        "descripcion": "Dulces La Yapa, un clásico que no pasa de moda.",
+        "precio": "288,91",
+        "imagen": "../golosinas.img/la_yapa.jpg"
+    },
+    {
+        "id": 351,
+        "nombre": "MenthoPlus Cherry",
+        "descripcion": "Caramelos MenthoPlus sabor cereza, con un toque de frescura.",
+        "precio": "375,52",
+        "imagen": "../golosinas.img/menthoplus_cherry.jpg"
+    },
+    {
+        "id": 352,
+        "nombre": "MenthoPlus Menta",
+        "descripcion": "Caramelos MenthoPlus sabor menta, perfectos para refrescar.",
+        "precio": "375,52",
+        "imagen": "../golosinas.img/menthoplus_menta.jpg"
+    },
+    {
+        "id": 353,
+        "nombre": "MenthoPlus Mentol",
+        "descripcion": "Caramelos MenthoPlus con intenso sabor a mentol.",
+        "precio": "375,52",
+        "imagen": "../golosinas.img/menthoplus_mentol.jpg"
+    },
+    {
+        "id": 354,
+        "nombre": "MenthoPlus Miel",
+        "descripcion": "Caramelos MenthoPlus con sabor suave a miel.",
+        "precio": "375,52",
+        "imagen": "../golosinas.img/menthoplus_miel.jpg"
+    },
+    {
+        "id": 355,
+        "nombre": "MenthoPlus Strong",
+        "descripcion": "Caramelos MenthoPlus con frescura extra fuerte.",
+        "precio": "375,52",
+        "imagen": "../golosinas.img/menthoplus_strong.jpg"
+    },
+    {
+        "id": 356,
+        "nombre": "Pastillas Biyu",
+        "descripcion": "Pastillas Biyu, dulces y refrescantes para disfrutar en cualquier momento.",
+        "precio": "786,38",
+        "imagen": "../golosinas.img/pastillas_biyu.jpg"
+    },
+    {
+        "id": 357,
+        "nombre": "Pastillas Bluper x 6u",
+        "descripcion": "Pastillas Bluper, pack de 6 unidades con sabores intensos.",
+        "precio": "1.335,00",
+        "imagen": "../golosinas.img/pastillas_bluper.jpg"
+    },
+    {
+        "id": 358,
+        "nombre": "Tic Tac Frutilla y Menta Dupla",
+        "descripcion": "Tic Tac de frutilla y menta, presentación dupla.",
+        "precio": "633,43",
+        "imagen": "../golosinas.img/tictac_frutilla_menta.jpg"
+    },
+    {
+        "id": 359,
+        "nombre": "Tic Tac Menta",
+        "descripcion": "Tic Tac clásico sabor menta, refrescante y delicioso.",
+        "precio": "633,43",
+        "imagen": "../golosinas.img/tictac_menta.jpg"
+    },
+    {
+        "id": 360,
+        "nombre": "Tic Tac Mix de Frutas",
+        "descripcion": "Tic Tac con un mix de frutas, sabores variados y deliciosos.",
+        "precio": "633,43",
+        "imagen": "../golosinas.img/tictac_mix_frutas.jpg"
+    },
+    {
+        "id": 361,
+        "nombre": "Tic Tac Naranja",
+        "descripcion": "Tic Tac sabor naranja, un toque cítrico para refrescar tu día.",
+        "precio": "633,43",
+        "imagen": "../golosinas.img/tictac_naranja.jpg"
+    },
+
+    {
+        "id": 362,
+        "nombre": "CUBANITO OBLITA FRUTILLA x 48 un",
+        "descripcion": "Cubanito Oblita sabor frutilla, paquete con 48 unidades.",
+        "precio": "2.697,47",
+        "imagen": "../golosinas.img/cubanito_oblita_frutilla.jpg"
+    },
+    {
+        "id": 363,
+        "nombre": "CUBANITO OBLITA MARROC x 48 un",
+        "descripcion": "Cubanito Oblita sabor marroc, paquete con 48 unidades.",
+        "precio": "2.697,47",
+        "imagen": "../golosinas.img/cubanito_oblita_marroc.jpg"
+    },
+    {
+        "id": 364,
+        "nombre": "CUBANITOS OBLITA CHOCOLATE 48u",
+        "descripcion": "Cubanitos Oblita sabor chocolate, paquete con 48 unidades.",
+        "precio": "2.697,47",
+        "imagen": "../golosinas.img/cubanitos_oblita_chocolate.jpg"
+    },
+    {
+        "id": 365,
+        "nombre": "GALLO SNACKS OBLEA CHOCOBAR",
+        "descripcion": "Gallo Snacks Oblea Chocobar, un delicioso snack para disfrutar.",
+        "precio": "486,96",
+        "imagen": "../golosinas.img/gallo_snacks_oblea_chocobar.jpg"
+    },
+    {
+        "id": 366,
+        "nombre": "GRAFFITI COFLER LECHE x 45g",
+        "descripcion": "Graffiti Cofler sabor leche, presentación de 45 gramos.",
+        "precio": "692,26",
+        "imagen": "../golosinas.img/graffiti_cofler_leche.jpg"
+    },
+    {
+        "id": 367,
+        "nombre": "HUEVO SAPITO",
+        "descripcion": "Huevo Sapito, una golosina clásica y deliciosa.",
+        "precio": "489,27",
+        "imagen": "../golosinas.img/huevo_sapito.jpg"
+    },
+    {
+        "id": 368,
+        "nombre": "MINI RHODESIA x 60gr",
+        "descripcion": "Mini Rhodesia, presentación de 60 gramos.",
+        "precio": "1.234,68",
+        "imagen": "../golosinas.img/mini_rhodesia.jpg"
+    },
+    {
+        "id": 369,
+        "nombre": "NEVARES TURRON",
+        "descripcion": "Nevares Turrón, un clásico dulce para disfrutar.",
+        "precio": "143,17",
+        "imagen": "../golosinas.img/nevares_turron.jpg"
+    },
+    {
+        "id": 370,
+        "nombre": "Oblea ARCOR TWIT",
+        "descripcion": "Oblea Arcor Twit, deliciosa combinación de sabores.",
+        "precio": "267,19",
+        "imagen": "../golosinas.img/oblea_arcor_twit.jpg"
+    },
+    {
+        "id": 371,
+        "nombre": "OBLEA BON O BON BLANCA",
+        "descripcion": "Oblea Bon o Bon sabor blanca, perfecta para un momento dulce.",
+        "precio": "598,19",
+        "imagen": "../golosinas.img/oblea_bonobon_blanca.jpg"
+    },
+    {
+        "id": 372,
+        "nombre": "OBLEA BON O BON LECHE",
+        "descripcion": "Oblea Bon o Bon sabor leche, un clásico irresistible.",
+        "precio": "598,19",
+        "imagen": "../golosinas.img/oblea_bonobon_leche.jpg"
+    },
+    {
+        "id": 373,
+        "nombre": "Oblea COFLER BLOCK XL LECHE x 45gr",
+        "descripcion": "Oblea Cofler Block XL sabor leche, presentación de 45 gramos.",
+        "precio": "756,60",
+        "imagen": "../golosinas.img/oblea_cofler_block_xl.jpg"
+    },
+    {
+        "id": 374,
+        "nombre": "OBLEA KITKAT",
+        "descripcion": "Oblea KitKat, la combinación perfecta de galleta y chocolate.",
+        "precio": "1.086,05",
+        "imagen": "../golosinas.img/oblea_kitkat.jpg"
+    },
+    {
+        "id": 375,
+        "nombre": "PICNIC",
+        "descripcion": "Picnic, una deliciosa combinación de chocolate y maní.",
+        "precio": "236,92",
+        "imagen": "../golosinas.img/picnic.jpg"
+    },
+    {
+        "id": 376,
+        "nombre": "RHODESIA",
+        "descripcion": "Rhodesia, una golosina clásica de galleta y chocolate.",
+        "precio": "515,80",
+        "imagen": "../golosinas.img/rhodesia.jpg"
+    },
+    {
+        "id": 377,
+        "nombre": "TITA",
+        "descripcion": "Tita, una clásica combinación de chocolate y galleta.",
+        "precio": "461,38",
+        "imagen": "../golosinas.img/tita.jpg"
+    },
+    {
+        "id": 378,
+        "nombre": "TURRON MISKY",
+        "descripcion": "Turrón Misky, un dulce tradicional.",
+        "precio": "144,07",
+        "imagen": "../golosinas.img/turron_misky.jpg"
+    },
+
+    {
+        "id": 379,
+        "nombre": "TURRON ARCOR",
+        "descripcion": "Turrón Arcor, un dulce clásico y delicioso.",
+        "precio": "207,82",
+        "imagen": "../golosinas.img/turron_arcor.jpg"
+    },
+    {
+        "id": 380,
+        "nombre": "Valido PAN DULCE c/Chips 450 grs",
+        "descripcion": "Pan dulce Valido con chips, presentación de 450 gramos.",
+        "precio": "1.618,19",
+        "imagen": "../golosinas.img/valido_pan_dulce_chips_450g.jpg"
+    },
+    {
+        "id": 381,
+        "nombre": "GEORGALOS Turron CROCANTE x 80gr",
+        "descripcion": "Turrón crocante Georgalos, presentación de 80 gramos.",
+        "precio": "877,30",
+        "imagen": "../golosinas.img/georgalos_turron_crocante_80g.jpg"
+    },
+    {
+        "id": 382,
+        "nombre": "VALIDO Budin CON CHIPS 180g",
+        "descripcion": "Budín Valido con chips, presentación de 180 gramos.",
+        "precio": "845,81",
+        "imagen": "../golosinas.img/valido_budin_chips_180g.jpg"
+    },
+    {
+        "id": 383,
+        "nombre": "Valido BUDIN con Frutas x 180 grs",
+        "descripcion": "Budín Valido con frutas, presentación de 180 gramos.",
+        "precio": "845,81",
+        "imagen": "../golosinas.img/valido_budin_frutas_180g.jpg"
+    },
+    {
+        "id": 384,
+        "nombre": "Valido BUDIN VAINILLA x 180 grs",
+        "descripcion": "Budín Valido sabor vainilla, presentación de 180 gramos.",
+        "precio": "845,81",
+        "imagen": "../golosinas.img/valido_budin_vainilla_180g.jpg"
+    },
+    {
+        "id": 385,
+        "nombre": "Valido PAN DULCE c/Frutas x 400 grs",
+        "descripcion": "Pan dulce Valido con frutas, presentación de 400 gramos.",
+        "precio": "1.618,19",
+        "imagen": "../golosinas.img/valido_pan_dulce_frutas_400g.jpg"
     }
+
+
     
 ]
 

@@ -15,16 +15,25 @@ function mostrarProductos(productos) {
     const container = document.querySelector('.boxContainer');
     container.innerHTML = ''; // Limpiar contenedor
 
-    productos.forEach( producto => {
+    productos.forEach(producto => {
         const box = document.createElement('div');
         box.classList.add('box');
+
+        // Crear un select para elegir 5 o 10 unidades
+        const unidadesSelect = `
+            <select id="unidades-${producto.nombre}">
+                <option value="5">5 unidades</option>
+                <option value="10">10 unidades</option>
+            </select>
+        `;
 
         box.innerHTML = `
             <img src="${producto.imagen}" alt="${producto.nombre}">
             <div class="productTxt">
-                <h3> ${producto.nombre} </h3>
-                <p> ${producto.descripcion} </p>
-                <p class="precio"> $${producto.precio} </p>
+                <h3>${producto.nombre}</h3>
+                <p>${producto.descripcion}</p>
+                <p class="precio">$${producto.precio}</p>
+                ${unidadesSelect}
                 <button onclick="add('${producto.nombre}', '${producto.precio}')" class="btn3">Agregar al carrito</button>
             </div>
         `;
@@ -41,12 +50,24 @@ let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
 
 // Agregar producto al carrito
 function add(nombre, precio) {
+    // Convertir el precio al formato numérico
+    const precioNumerico = parseFloat(precio.replace(/\./g, '').replace(',', '.'));
+
+    // Obtener la cantidad seleccionada por el usuario (5 o 10 unidades)
+    const cantidadSeleccionada = parseInt(document.getElementById(`unidades-${nombre}`).value, 10);
+
+    // Calcular el precio total según la cantidad seleccionada
+    const precioTotal = precioNumerico * cantidadSeleccionada;
+
+    // Buscar si el producto ya está en el carrito
     const productoExistente = carrito.find(item => item.nombre === nombre);
     if (productoExistente) {
-        productoExistente.cantidad++;
+        productoExistente.cantidad += cantidadSeleccionada;
     } else {
-        carrito.push({ nombre, precio: parseFloat(precio.replace('.', '').replace(',', '.')), cantidad: 1 });
+        carrito.push({ nombre, precio: precioNumerico, cantidad: cantidadSeleccionada });
     }
+
+    // Actualizar el carrito
     actualizarCarrito();
 }
 
