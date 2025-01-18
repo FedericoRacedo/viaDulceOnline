@@ -1,6 +1,6 @@
 async function cargarProductos() {
     try {
-        const response = await fetch('../json/snack.json');
+        const response = await fetch('../json/snack.json');  //const response = await fetch('https://federicoracedo.github.io/viaDulceOnline/json/snack.json')
         if (!response.ok) {
             throw new Error(`Error al cargar el archivo JSON: ${response.status}`);
         }
@@ -31,7 +31,6 @@ function mostrarProductos(productos) {
         container.appendChild(box);
     });
 }
-
 //Llamar a la funcion para cargar los productos al inicial la pagina
 document.addEventListener('DOMContentLoaded', cargarProductos);
 

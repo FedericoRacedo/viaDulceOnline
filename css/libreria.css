@@ -326,7 +326,40 @@ h2 {
 }
 /*CHAT */
 
+.filtros {
+    text-align: center;
+    margin-bottom: 20px;
+}
 
+.btn-filtro {
+    background-color: #f0f0f0;
+    color: #333;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn-filtro:hover {
+    background-color: #007BFF;
+    color: white;
+    border-color: #007BFF;
+}
+
+.btn-filtro.activo {
+    background-color: #007BFF;
+    color: white;
+    border-color: #0056b3;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.btn-filtro:focus {
+    outline: none;
+    box-shadow: 0 0 5px #007BFF;
+}
 
 @media (max-width:500px) {
     

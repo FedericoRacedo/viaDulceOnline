@@ -1,6 +1,6 @@
 async function cargarProductos() {
     try {
-        const response = await fetch('../json/libreria.json');
+        const response = await fetch('../json/libreria.json');  //const response = await fetch('https://federicoracedo.github.io/viaDulceOnline/json/libreria.json');
         if (!response.ok) {
             throw new Error(`Error al cargar el archivo JSON: ${response.status}`);
         }

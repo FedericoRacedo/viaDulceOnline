@@ -1,6 +1,6 @@
 async function cargarProductos() {
     try {
-        const response = await fetch('../json/golosinas.json');
+        const response = await fetch('../json/golosinas.json'); //const response = await fetch('https://federicoracedo.github.io/viaDulceOnline/json/golosinas.json');
         if (!response.ok) {
             throw new Error(`Error al cargar el archivo JSON: ${response.status}`);
         }

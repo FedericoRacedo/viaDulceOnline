@@ -1,6 +1,6 @@
 async function cargarProductos() {
     try {
-        const response = await fetch('../json/cigarrilos.json');
+        const response = await fetch('../json/cigarrilos.json'); // const response = await fetch('https://federicoracedo.github.io/viaDulceOnline/json/cigarrilos.json');
         if (!response.ok) {
             throw new Error(`Error al cargar el archivo JSON: ${response.status}`);
         }
@@ -272,3 +272,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 });
 //CHAT
+
