@@ -1,37 +1,76 @@
+// Función para cargar productos desde el JSON
 async function cargarProductos() {
     try {
-        const response = await fetch('../json/snack.json');  //const response = await fetch('https://federicoracedo.github.io/viaDulceOnline/json/snack.json')
+        const response = await fetch('../json/snack.json'); // Verifica esta ruta
         if (!response.ok) {
             throw new Error(`Error al cargar el archivo JSON: ${response.status}`);
         }
         const productos = await response.json();
-        mostrarProductos(productos);
+        mostrarProductos(productos); // Mostrar todos los productos al inicio
+        agregarFiltros(productos);   // Configurar filtros dinámicamente
     } catch (error) {
         console.error(error);
-    }    
+    }
 }
 
+// Función para mostrar productos en el contenedor
 function mostrarProductos(productos) {
     const container = document.querySelector('.boxContainer');
     container.innerHTML = ''; // Limpiar contenedor
 
-    productos.forEach( producto => {
+    productos.forEach(producto => {
         const box = document.createElement('div');
         box.classList.add('box');
 
         box.innerHTML = `
             <img src="${producto.imagen}" alt="${producto.nombre}">
             <div class="productTxt">
-                <h3> ${producto.nombre} </h3>
-                <p> ${producto.descripcion} </p>
-                <p class="precio"> $${producto.precio} </p>
+                <h3>${producto.nombre}</h3>
+                <p>${producto.descripcion}</p>
+                <p class="precio">$${producto.precio.toFixed(2)}</p>
                 <button onclick="add('${producto.nombre}', '${producto.precio}')" class="btn3">Agregar al carrito</button>
             </div>
         `;
         container.appendChild(box);
     });
 }
-//Llamar a la funcion para cargar los productos al inicial la pagina
+
+// Función para filtrar productos por categoría
+function filtrarPorCategoria(productos, categoria) {
+    const productosFiltrados = productos.filter(producto =>
+        producto.categorias.includes(categoria) // Verifica si la categoría está en el array
+    );
+    mostrarProductos(productosFiltrados); // Muestra solo los productos filtrados
+}
+
+// Agregar eventos para los filtros
+function agregarFiltros(productos) {
+    document.getElementById('filtro-todos').addEventListener('click', () => {
+        mostrarProductos(productos); // Mostrar todos los productos
+    });
+
+    document.getElementById('filtro-pepsico').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Pepsico');
+    });
+
+    document.getElementById('filtro-krachitos').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Krachitos');
+    });
+
+    document.getElementById('filtro-slices').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Slices');
+    });
+
+    document.getElementById('filtro-burbujas').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Burbujas')
+    });
+
+    document.getElementById('filtro-otros').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Otros')
+    });
+}
+
+// Llamar a la función para cargar los productos al cargar la página
 document.addEventListener('DOMContentLoaded', cargarProductos);
 
 // Carrito

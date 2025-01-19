@@ -327,7 +327,40 @@ h2 {
 }
 /*CHAT */
 
+/*Buscador */
+.filtros {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los botones se acomoden en varias líneas si no caben */
+    gap: 10px; /* Espaciado entre botones */
+    margin: 20px 0;
+    justify-content: center; /* Centra los botones */
+}
 
+.btn-filtro {
+    background-color: #4CAF50; /* Color de fondo principal */
+    color: white; /* Color del texto */
+    border: none; /* Sin bordes */
+    border-radius: 5px; /* Bordes redondeados */
+    padding: 10px 20px; /* Espaciado interno */
+    font-size: 14px; /* Tamaño del texto */
+    cursor: pointer; /* Cambia el cursor a una mano al pasar por encima */
+    transition: background-color 0.3s, transform 0.2s; /* Animación suave al interactuar */
+}
+
+.btn-filtro:hover {
+    background-color: #45a049; /* Cambia el color de fondo al pasar el cursor */
+    transform: scale(1.05); /* Aumenta ligeramente el tamaño */
+}
+
+.btn-filtro.activo {
+    background-color: #2E7D32; /* Color diferente para el botón activo */
+    font-weight: bold; /* Resalta el texto */
+}
+
+.btn-filtro:focus {
+    outline: none; /* Quita el borde por defecto al hacer clic */
+    box-shadow: 0 0 5px #4CAF50; /* Agrega un efecto visual al estar enfocado */
+}
 
 @media (max-width:500px) {
     

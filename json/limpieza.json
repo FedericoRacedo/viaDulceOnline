@@ -3,7 +3,8 @@
         "id": 1,
         "nombre": "Esponja",
         "descripcion": "(Esponja lisa)",
-        "precio": "200,00",
+        "precio": 200.00,
+        "categorias": ["Otros", "Higiene"],
         "imagen": "../limpieza.img/esponja.png"
     },
 
@@ -11,47 +12,53 @@
         "id": 2,
         "nombre": "Esponja Acero",
         "descripcion": "(Esponja Acero)",
-        "precio": "600,00",
+        "precio": 600.00,
+        "categorias": ["Otros", "Higiene"],
         "imagen": "../limpieza.img/esponjaAcero.jpg"
     },
 
     {
         "id": 3,
-        "nombre": "Poet liquido",
-        "descripcion": "(tamaño 900ml)",
-        "precio":  "1.200,00",
-        "imagen": "../limpieza.img/poet.jpg"
+        "nombre": "ROLLOS Cocina SUSSEX x 3",
+        "descripcion": "Rollos de cocina Sussex, paquete de 3 unidades.",
+        "precio": 1452.00,
+        "categorias": ["Bolsas/Papeles"],
+        "imagen": "../limpieza.img/rollos_cocina_sussex_3un.jpg"
     },
-
+    
     {
         "id": 4,
-        "nombre": "Poet aerosol",
-        "descripcion": "(tamaño 300ml)",
-        "precio": "800,00",
-        "imagen": "../snack.img/chizitos60g.jpg"
+        "nombre": "ROLLO Cocina CARTABELLA x 3 un.",
+        "descripcion": "Rollos de cocina Cartabella, paquete de 3 unidades.",
+        "precio": 1106,
+        "categorias": ["Bolsas/Papeles"],
+        "imagen": "../limpieza.img/rollo_cocina_cartabella_3un.jpg"
     },
-
+    
     {
         "id": 5,
-        "nombre": "Procenex liquido",
-        "descripcion": "(tamaño 900ml)",
-        "precio": "1.300,00",
-        "imagen": "../limpieza.img/procenexLiquido.webp"
+        "nombre": "VASOS TERMICOS x 180cc x 25 un",
+        "descripcion": "Vasos térmicos, 180 cc, paquete de 25 unidades.",
+        "precio": 1862,
+        "categorias": ["Otros"],
+        "imagen": "../limpieza.img/vasos_termicos_180cc_25un.jpg"
     },
 
     {
         "id": 6,
-        "nombre": "Procenex aerosol",
-        "descripcion": "(tamaño 300ml)",
-        "precio":  "1.200,00",
-        "imagen": "../limpieza.img/poetAerosol.webp"
+        "nombre": "VASOS PLASTICOS x 220 cc x 100 un.",
+        "descripcion": "Vasos plásticos, 220 cc, paquete de 100 unidades.",
+        "precio": 1789.00,
+        "categorias": ["Otros"],
+        "imagen": "../limpieza.img/vasos_plasticos_220cc_100un.jpg"
     },
 
     {
         "id": 7,
         "nombre": "Trapo de piso",
         "descripcion": "(resistente)",
-        "precio": "1.000,00",
+        "precio": 1000.00,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/trapoDePiso.jpg"
     },
 
@@ -59,7 +66,8 @@
         "id": 8,
         "nombre": "Espiral Matiris X12",
         "descripcion": "(ECONOMICO)",
-        "precio": "3.360,00",
+        "precio": 3360.00,
+        "categorias": ["Otros"],
         "imagen": "../limpieza.img/espiralMatiris.jpg"
     },
 
@@ -67,7 +75,8 @@
         "id": 9,
         "nombre": "Virulana",
         "descripcion": "(Rollo x10)",
-        "precio": "780,00",
+        "precio": 780.00,
+        "categorias": ["Otros"],
         "imagen": "../limpieza.img/virulanaMake.jpg"
     },
 
@@ -75,7 +84,8 @@
         "id": 10,
         "nombre": "Cepillo de dientes",
         "descripcion": "(Colgate)",
-        "precio": "1.031,23",
+        "precio": 1031.00,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/cepilloDeDientes.png"
     },
 
@@ -83,7 +93,8 @@
         "id": 11,
         "nombre": "Envase esteril",
         "descripcion": "unidad",
-        "precio": "715.62",
+        "precio": 716,
+        "categorias": ["Otros"],
         "imagen": "../limpieza.img/envaseEsteril.jpg"
     },
 
@@ -91,7 +102,8 @@
         "id": 12,
         "nombre": "Cinta embalaje",
         "descripcion": "Candela",
-        "precio": "918,03",
+        "precio": 918.00,
+        "categorias": ["Otros"],
         "imagen": "../limpieza.img/cintaEmbalaje.jpg"
     },
 
@@ -99,42 +111,48 @@
         "id": 13,
         "nombre": "Poett Desod. Ambientes Alegra tu día",
         "descripcion": "Desodorante de ambientes Poett, aroma Alegra tu día",
-        "precio": "1,793.75",
+        "precio": 1794,
+        "categorias": ["Aerosol", "Higiene"],
         "imagen": "../limpieza.img/poettAlegraTuDia.jpg"
     },
     {
         "id": 14,
         "nombre": "Poett Desod. Ambientes Lavanda",
         "descripcion": "Desodorante de ambientes Poett, aroma Lavanda",
-        "precio": "1,793.75",
+        "precio": 1794,
+        "categorias": ["Aerosol", "Higiene"],
         "imagen": "../limpieza.img/poettLavanda.jpg"
     },
     {
         "id": 15,
         "nombre": "Poett Desod. Ambientes Música primavera",
         "descripcion": "Desodorante de ambientes Poett, aroma Música primavera",
-        "precio": "1,757.67",
+        "precio": 1794,
+        "categorias": ["Aerosol", "Higiene"],
         "imagen": "../limpieza.img/poettMusicaPrimavera.jpg"
     },
     {
         "id": 16,
         "nombre": "Poett Desod. Ambientes Primavera",
         "descripcion": "Desodorante de ambientes Poett, aroma Primavera",
-        "precio": "1,757.67",
+        "precio": 1794,
+        "categorias": ["Aerosol", "Higiene"],
         "imagen": "../limpieza.img/poettPrimavera.jpg"
     },
     {
         "id": 17,
         "nombre": "Poett Desod. Ambientes SOLO PARA TI",
         "descripcion": "Desodorante de ambientes Poett, aroma Solo para ti",
-        "precio": "1,793.75",
+        "precio": 1794,
+        "categorias": ["Aerosol", "Higiene"],
         "imagen": "../limpieza.img/poettSoloParaTi.jpg"
     },
     {
         "id": 18,
         "nombre": "Poett Desod. Ambientes Suavidad algodón",
         "descripcion": "Desodorante de ambientes Poett, aroma Suavidad algodón",
-        "precio": "1,757.67",
+        "precio": 1794,
+        "categorias": ["Aerosol", "Higiene"],
         "imagen": "../limpieza.img/poettSuavidadAlgodon.jpg"
     },
 
@@ -142,105 +160,120 @@
         "id": 19,
         "nombre": "DES. AXE TODOS",
         "descripcion": "Desodorante Axe en varias presentaciones",
-        "precio": "1,894.67",
+        "precio": 1895,
+        "categorias": ["Aerosol", "Higiene"],
         "imagen": "../limpieza.img/desAxeTodos.jpg"
     },
     {
         "id": 20,
         "nombre": "DES. PATRICHS",
         "descripcion": "Desodorante Patrichs de larga duración",
-        "precio": "2,109.89",
+        "precio": 2110,
+        "categorias": ["Aerosol", "Higiene"],
         "imagen": "../limpieza.img/desPatrichs.jpg"
     },
     {
         "id": 21,
         "nombre": "Desod. Impulse",
         "descripcion": "Desodorante Impulse con fragancias suaves",
-        "precio": "1,999.38",
+        "precio": 1999,
+        "categorias": ["Aerosol", "Higiene"],
         "imagen": "../limpieza.img/desImpulse.jpg"
     },
     {
         "id": 22,
         "nombre": "DOVE MEN ROLL-ON x 50ml",
         "descripcion": "Desodorante Dove Men en formato roll-on",
-        "precio": "1,909.69",
+        "precio": 1910,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/doveMenRollOn50ml.jpg"
     },
     {
         "id": 23,
         "nombre": "DOVE ORIGINAL ROLL-ON x 50ml",
         "descripcion": "Desodorante Dove Original en formato roll-on",
-        "precio": "1,909.69",
+        "precio": 1910,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/doveOriginalRollOn50ml.jpg"
     },
     {
         "id": 24,
         "nombre": "NIVEA MEN PROTEC ROLL-ON",
         "descripcion": "Desodorante Nivea Men Protec roll-on",
-        "precio": "1,722.00",
+        "precio": 1722.00,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/niveaMenProtecRollOn.jpg"
     },
     {
         "id": 25,
         "nombre": "NIVEA PEARL-BEAUTY ROLLON",
         "descripcion": "Desodorante Nivea Pearl-Beauty roll-on",
-        "precio": "1,722.00",
+        "precio": 1722.00,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/niveaPearlBeautyRollOn.jpg"
     },
     {
         "id": 26,
         "nombre": "ODORONO CREMA",
         "descripcion": "Crema desodorante Odorono",
-        "precio": "1,134.00",
+        "precio": 1134.00,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/odoronoCrema.jpg"
     },
     {
         "id": 27,
         "nombre": "Rexona Anti. Active Emotion x 150ml",
         "descripcion": "Desodorante antitranspirante Rexona Active Emotion",
-        "precio": "1,875.00",
+        "precio": 1875.00,
+        "categorias": ["Higiene", "Aerosol"],
         "imagen": "../limpieza.img/rexonaActiveEmotion150ml.jpg"
     },
     {
         "id": 28,
         "nombre": "Rexona MEN SENSITIVE 89g",
         "descripcion": "Desodorante Rexona Men Sensitive",
-        "precio": "2,314.13",
+        "precio": 2314.00,
+        "categorias": ["Higiene", "Aerosol"],
         "imagen": "../limpieza.img/rexonaMenSensitive89gr.jpg"
     },
     {
         "id": 29,
         "nombre": "Rexona Antitr. Invisible x 150ML",
         "descripcion": "Desodorante antitranspirante Rexona Invisible",
-        "precio": "1,875.00",
+        "precio": 1875.00,
+        "categorias": ["Higiene", "Aerosol"],
         "imagen": "../limpieza.img/rexonaInvisible150ml.jpg"
     },
     {
         "id": 30,
         "nombre": "Rexona FUTBOL FANATICS x 90gr",
         "descripcion": "Desodorante Rexona Fútbol Fanatics",
-        "precio": "1,875.00",
+        "precio": 1875.00,
+        "categorias": ["Higiene", "Aerosol"],
         "imagen": "../limpieza.img/rexonaFutbolFanatics90gr.jpg"
     },
     {
         "id": 31,
         "nombre": "Rexona J ALVAREZ 89G",
         "descripcion": "Desodorante Rexona J Alvarez",
-        "precio": "1,873.79",
+        "precio": 1874,
+        "categorias": ["Higiene", "Aerosol"],
         "imagen": "../limpieza.img/rexonaJAlvarez89gr.jpg"
     },
     {
         "id": 32,
         "nombre": "Rexona Men Anti. Hombre x 89g",
         "descripcion": "Desodorante antitranspirante Rexona Men",
-        "precio": "2,314.13",
+        "precio": 2314.00,
+        "categorias": ["Higiene", "Aerosol"],
         "imagen": "../limpieza.img/rexonaMenAntiHombre89gr.jpg"
     },
     {
         "id": 33,
         "nombre": "Rexona Men Anti. XTRA COOL",
         "descripcion": "Desodorante Rexona Men XTRA Cool",
-        "precio": "2,314.13",
+        "precio": 2314.00,
+        "categorias": ["Higiene", "Aerosol"],
         "imagen": "../limpieza.img/rexonaMenXtraCool.jpg"
     },
 
@@ -248,56 +281,65 @@
         "id": 34,
         "nombre": "ALA Detergente x 750 cm3",
         "descripcion": "Detergente ALA de 750 cm3",
-        "precio": "1,398.60",
+        "precio": 1398.00,
+        "categorias": ["Liquido"],
         "imagen": "../limpieza.img/alaDetergente750.jpg"
     },
     {
         "id": 35,
         "nombre": "ALA Líquido x 900ml",
         "descripcion": "Detergente líquido ALA de 900ml",
-        "precio": "1,765.70",
+        "precio": 1766,
+        "categorias": ["Liquido"],
         "imagen": "../limpieza.img/alaLiquido900.jpg"
     },
     {
         "id": 36,
         "nombre": "CIF Active Gel Limón/Lima x 300ml",
         "descripcion": "Detergente CIF Active Gel de 300ml sabor Limón/Lima",
-        "precio": "1,159.00",
+        "precio": 1159.00,
+        "categorias": ["Liquido"],
         "imagen": "../limpieza.img/cifActiveGelLimonLima.jpg"
     },
     {
         "id": 37,
         "nombre": "ALA Ultra Limón x 300ml",
         "descripcion": "Detergente ALA Ultra de 300ml sabor Limón",
-        "precio": "895.99",
+        "precio": 896,
+        "categorias": ["Liquido"],
         "imagen": "../limpieza.img/alaUltraLimon300.jpg"
     },
+
     {
         "id": 38,
         "nombre": "MAGISTRAL Limón x 215ml",
         "descripcion": "Detergente MAGISTRAL de 215ml sabor Limón",
-        "precio": "1,077.70",
+        "precio": 1078,
+        "categorias": ["Liquido"],
         "imagen": "../limpieza.img/magistralLimon215.jpg"
     },
     {
         "id": 39,
         "nombre": "DUPLEX Lavavajillas Aloe Vera",
         "descripcion": "Lavavajillas DUPLEX con Aloe Vera",
-        "precio": "808.64",
+        "precio": 809,
+        "categorias": ["Liquido"],
         "imagen": "../limpieza.img/duplexAloeVera.jpg"
     },
     {
         "id": 40,
         "nombre": "DUPLEX Lavavajillas Colágeno",
         "descripcion": "Lavavajillas DUPLEX con Colágeno",
-        "precio": "808.64",
+        "precio": 809,
+        "categorias": ["Liquido"],
         "imagen": "../limpieza.img/duplexColageno.jpg"
     },
     {
         "id": 41,
         "nombre": "DUPLEX Lavavajillas Limón",
         "descripcion": "Lavavajillas DUPLEX con aroma a Limón",
-        "precio": "808.64",
+        "precio": 809,
+        "categorias": ["Liquido"],
         "imagen": "../limpieza.img/duplexLimon.jpg"
     },
 
@@ -305,126 +347,144 @@
         "id": 42,
         "nombre": "Enjuague SEDAL Colágeno x 190 ml",
         "descripcion": "Enjuague SEDAL con colágeno de 190 ml",
-        "precio": "1,506.70",
+        "precio": 1507,
+        "categorias": ["Liquido", "Higiene"],
         "imagen": "../limpieza.img/sedalColageno190.jpg"
     },
     {
         "id": 43,
         "nombre": "Sedal Repuesto Enjuague Balance 300 ml",
         "descripcion": "Repuesto de enjuague Sedal Balance de 300 ml",
-        "precio": "1,990.94",
+        "precio": 1991,
+        "categorias": ["Liquido", "Higiene"],
         "imagen": "../limpieza.img/sedalBalance300.jpg"
     },
     {
         "id": 44,
         "nombre": "Sedal Repuesto Enjuague Ceramida x 300 ml",
         "descripcion": "Repuesto de enjuague Sedal Ceramida de 300 ml",
-        "precio": "1,990.94",
+        "precio": 1991,
+        "categorias": ["Liquido", "Higiene"],
         "imagen": "../limpieza.img/sedalCeramida300.jpg"
     },
     {
         "id": 45,
         "nombre": "Esponja Plateada/Dorada MAKE",
         "descripcion": "Esponja plateada o dorada de marca MAKE",
-        "precio": "520.00",
+        "precio": 520.00,
+        "categorias": ["Otros"],
         "imagen": "../limpieza.img/esponjaMakePlateadaDorada.jpg"
     },
     {
         "id": 46,
         "nombre": "MAKE Esponja",
         "descripcion": "Esponja de marca MAKE",
-        "precio": "560.00",
+        "precio": 560.00,
+        "categorias": ["Otros"],
         "imagen": "../limpieza.img/esponjaMake.jpg"
     },
     {
         "id": 47,
         "nombre": "GEL DOREE x 168gr",
         "descripcion": "Gel DOREE de 168 gramos",
-        "precio": "1,689.23",
+        "precio": 1689.00,
+        "categorias": ["Otros"],
         "imagen": "../limpieza.img/gelDoree168.jpg"
     },
     {
         "id": 48,
         "nombre": "Gillette Roja x 5u.",
         "descripcion": "Pack de 5 unidades de Gillette Roja",
-        "precio": "988.00",
+        "precio": 988.00,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/gilletteRoja5u.jpg"
     },
     {
         "id": 49,
         "nombre": "Minora-Astra II Plus x UN",
         "descripcion": "Cuchilla Minora-Astra II Plus por unidad",
-        "precio": "1,079.13",
+        "precio": 1079.00,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/minoraAstraIIPlus.jpg"
     },
     {
         "id": 50,
         "nombre": "Prestobarba 3 Azul",
         "descripcion": "Afeitadora Prestobarba 3 de color azul",
-        "precio": "1,673.08",
+        "precio": 1673.00,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/prestobarba3Azul.jpg"
     },
     {
         "id": 51,
         "nombre": "Prestobarba Ultra Grip Azul",
         "descripcion": "Afeitadora Prestobarba Ultra Grip de color azul",
-        "precio": "940.00",
+        "precio": 940.00,
+        "categorias": ["Higiene"],
         "imagen": "../limpieza.img/prestobarbaUltraGripAzul.jpg"
     },
     {
         "id": 52,
         "nombre": "Velas Gorrión x 4u.",
         "descripcion": "Pack de 4 unidades de velas Gorrión",
-        "precio": "621.21",
+        "precio": 621.00,
+        "categorias": ["Encendedores/Pegamentos"],
         "imagen": "../limpieza.img/velasGorrion4u.jpg"
     },
     {
         "id": 53,
         "nombre": "Velas Rayito de Luz Relieve",
         "descripcion": "Velas Rayito de Luz con relieve",
-        "precio": "506.26",
+        "precio": 506.00,
+        "categorias": ["Encendedores/Pegamentos"],
         "imagen": "../limpieza.img/velasRayitoDeLuzRelieve.jpg"
     },
     {
         "id": 54,
         "nombre": "Encendedor MINI BIC",
         "descripcion": "Encendedor MINI BIC",
-        "precio": "891.35",
+        "precio": 892,
+        "categorias": ["Encendedores/Pegamentos"],
         "imagen": "../limpieza.img/encendedorMiniBic.jpg"
     },
     {
         "id": 55,
         "nombre": "Encendedor MAXI BIC",
         "descripcion": "Encendedor MAXI BIC",
-        "precio": "1,020.14",
+        "precio": 1020.00,
+        "categorias": ["Encendedores/Pegamentos"],
         "imagen": "../limpieza.img/encendedorMaxiBic.jpg"
     },
     {
         "id": 56,
         "nombre": "Encendedor CANDELA",
         "descripcion": "Encendedor de marca CANDELA",
-        "precio": "251.73",
+        "precio": 252,
+        "categorias": ["Encendedores/Pegamentos"],
         "imagen": "../limpieza.img/encendedorCandela.jpg"
     },
     {
         "id": 57,
         "nombre": "Encendedor FUEGOLANDIA",
         "descripcion": "Encendedor de marca FUEGOLANDIA",
-        "precio": "219.44",
+        "precio": 220,
+        "categorias": ["Encendedores/Pegamentos"],
         "imagen": "../limpieza.img/encendedorFuegolandia.jpg"
     },
     {
         "id": 58,
         "nombre": "Fósforos 3 Patitos/Estrella",
         "descripcion": "Fósforos marca 3 Patitos o Estrella",
-        "precio": "514.25",
+        "precio": 515,
+        "categorias": ["Encendedores/Pegamentos"],
         "imagen": "../limpieza.img/fosforos3Patitos.jpg"
     },
     {
         "id": 59,
         "nombre": "Quitaesmalte DOREE",
         "descripcion": "Quitaesmalte de marca DOREE",
-        "precio": "1,134.21",
+        "precio": 1134.00,
+        "categorias": ["Otros"],
         "imagen": "../limpieza.img/quitaesmalteDoree.jpg"
     },
 
@@ -432,7 +492,8 @@
         "id": 59,
         "nombre": "OHISOPOS QSOFT",
         "descripcion": "QSOFT",
-        "precio": "1,459.96",
+        "precio": 1460,
+        "categorias": ["Higiene", "Otros"],
         "imagen": "../limpieza.img/OHISOPOS.jpg"
     },
 
@@ -440,7 +501,8 @@
         "id": 60,
         "nombre": "Enjuague SEDAL BALANCE x 190 ml",
         "descripcion": "Ensjuague Sedal Balance de 190 ml",
-        "precio": "1.649,89",
+        "precio": 1650,
+        "categorias": ["Liquido", "Higiene"],
         "imagen": "../limpieza.img/enjuagueSedal.jpg"
     },
 
@@ -448,685 +510,33 @@
         "id": 61,
         "nombre": "HIGIENICO ELEGANTE x 4u 30 MTS",
         "descripcion": "Higiénico Elegante x 4u, 30 metros",
-        "precio": "1.223,50",
+        "precio": 1224,
+        "categorias": ["Bolsas/Papeles", "Higiene"],
         "imagen": "../limpieza.img/higienico_elegante_4u_30mts.jpg"
     },
     {
         "id": 62,
         "nombre": "HIGIENICO ELEGANTE x 24u 30 MTS",
         "descripcion": "Higiénico Elegante x 24u, 30 metros",
-        "precio": "350,63",
+        "precio": 351,
+        "categorias": ["Bolsas/Papeles", "Higiene"],
         "imagen": "../limpieza.img/higienico_elegante_24u_30mts.jpg"
     },
     {
         "id": 63,
         "nombre": "HIGIENICO SUAN",
         "descripcion": "Higiénico Suan",
-        "precio": "437,50",
+        "precio": 437.00,
+        "categorias": ["Bolsas/Papeles", "Higiene"],
         "imagen": "../limpieza.img/higienico_suan_2.jpg"
     },
     {
         "id": 64,
         "nombre": "HIGIENICO SUAN BIG 90 METROS",
         "descripcion": "Higiénico Suan Big, 90 metros",
-        "precio": "455,00",
+        "precio": 455.00,
+        "categorias": ["Bolsas/Papeles", "Higiene"],
         "imagen": "../limpieza.img/higienico_suan_big_90mts.webp"
-    },
-    {
-        "id": 65,
-        "nombre": "SUAN HIGIENICO x4 80MTS",
-        "descripcion": "Suan Higiénico x4, 80 metros",
-        "precio": "1.845,00",
-        "imagen": "../limpieza.img/suan_higienico_x4_80mts.jpg"
-    },
-    {
-        "id": 66,
-        "nombre": "ALTO PODER M.M.M",
-        "descripcion": "Alto Poder M.M.M",
-        "precio": "1.210,00",
-        "imagen": "../limpieza.img/alto_poder_mmm_2.jpg"
-    },
-    {
-        "id": 67,
-        "nombre": "ALTO PODER Mata Cucarachas x430 ml",
-        "descripcion": "Alto Poder Mata Cucarachas, 430 ml",
-        "precio": "1.525,00",
-        "imagen": "../limpieza.img/alto_poder_mata_cucarachas_430ml.jpg"
-    },
-    {
-        "id": 68,
-        "nombre": "ESCUDO M.M.M",
-        "descripcion": "Escudo M.M.M",
-        "precio": "2.912,00",
-        "imagen": "../limpieza.img/escudo_mmm_2.jpg"
-    },
-    {
-        "id": 69,
-        "nombre": "ESCUDO HOGAR Y JARDIN",
-        "descripcion": "Escudo Hogar y Jardín",
-        "precio": "2.509,00",
-        "imagen": "../limpieza.img/escudo_hogar_jardin_2.jpg"
-    },
-    {
-        "id": 70,
-        "nombre": "ESPIRAL RAID x 12 5 en 1",
-        "descripcion": "Espiral Raid x 12, 5 en 1",
-        "precio": "4.620,00",
-        "imagen": "../limpieza.img/espiral_raid_5en1_2.jpg"
-    },
-    {
-        "id": 71,
-        "nombre": "ESPIRAL RAID x 12 COLECTIVA",
-        "descripcion": "Espiral Raid x 12 Colectiva",
-        "precio": "5.040,00",
-        "imagen": "../limpieza.img/espiral_raid_colectiva_2.jpg"
-    },
-    {
-        "id": 72,
-        "nombre": "Fuyi Vape x 12un.",
-        "descripcion": "Fuyi Vape x 12 unidades",
-        "precio": "3.075,00",
-        "imagen": "../limpieza.img/fuyi_vape_2.jpg"
-    },
-    {
-        "id": 73,
-        "nombre": "INCECTICIDA PARA CUCARACHAS",
-        "descripcion": "Insecticida para Cucarachas",
-        "precio": "1.200,00",
-        "imagen": "../limpieza.img/insecticida_cucarachas_2.jpg"
-    },
-    {
-        "id": 74,
-        "nombre": "RAID AZUL AEROSOL M.M.M.",
-        "descripcion": "Raid Azul Aerosol M.M.M.",
-        "precio": "4.550,00",
-        "imagen": "../limpieza.img/raid_azul_aerosol_2.png"
-    },
-    {
-        "id": 75,
-        "nombre": "Repelente ESCUDO",
-        "descripcion": "Repelente Escudo",
-        "precio": "4.560,00",
-        "imagen": "../limpieza.img/repelente_escudo_2.jpg"
-    },
-    {
-        "id": 76,
-        "nombre": "REPELENTE OFF CREMA x 60gr",
-        "descripcion": "Repelente Off Crema, 60 gr",
-        "precio": "4.337,67",
-        "imagen": "../limpieza.img/repelente_off_crema_2.jpg"
-    },
-    {
-        "id": 77,
-        "nombre": "RUBRO-ALA REGULAR x 400 GRS",
-        "descripcion": "Rubro-Ala Regular, 400 gr",
-        "precio": "711,25",
-        "imagen": "../limpieza.img/rubro_ala_regular_2.jpg"
-    },
-    {
-        "id": 78,
-        "nombre": "GRAMBY JAB LIQUID 800 LIMON",
-        "descripcion": "Gramby Jab Liquid, 800 gr, limón",
-        "precio": "1.248,75",
-        "imagen": "../limpieza.img/gramby_jab_liquid_limon_2.jpg"
-    },
-    {
-        "id": 79,
-        "nombre": "GRAMBY JAB LIQUID 800 ROSA",
-        "descripcion": "Gramby Jab Liquid, 800 gr, rosa",
-        "precio": "1.644,44",
-        "imagen": "../limpieza.img/gramby_jab_liquid_rosa_2.jpg"
-    },
-    {
-        "id": 80,
-        "nombre": "GRANBY JAB EN POLVO MATIC x 400gr",
-        "descripcion": "Granby Jab en Polvo Matic, 400 gr",
-        "precio": "597,80",
-        "imagen": "../limpieza.img/granby_jab_en_polvo_matic_2.jpg"
-    },
-    {
-        "id": 81,
-        "nombre": "GRANBY JAB EN POLVO REGULAR x 400gr",
-        "descripcion": "Granby Jab en Polvo Regular, 400 gr",
-        "precio": "597,80",
-        "imagen": "../limpieza.img/granby_jab_en_polvo_regular_2.jpg"
-    },
-    {
-        "id": 82,
-        "nombre": "JAB PLUSBELLE",
-        "descripcion": "Jab Plusbelle",
-        "precio": "693,00",
-        "imagen": "../limpieza.img/jab_plusbelle_2.jpg"
-    },
-    {
-        "id": 83,
-        "nombre": "JABON EN PAN ARGENTINO 200gr",
-        "descripcion": "Jabón en Pan Argentino, 200 gr",
-        "precio": "625,00",
-        "imagen": "../limpieza.img/jabon_pan_argentino_2.jpg"
-    },
-    {
-        "id": 84,
-        "nombre": "JABON POLYANA x 80gr",
-        "descripcion": "Jabón Polyana, 80 gr",
-        "precio": "429,00",
-        "imagen": "../limpieza.img/jabon_polyana_2.jpg"
-    },
-    {
-        "id": 85,
-        "nombre": "SEISEME PAN JABON x 300g",
-        "descripcion": "Seiseme Pan Jabón, 300 gr",
-        "precio": "1.227,15",
-        "imagen": "../limpieza.img/seiseme_pan_jabon_2.jpg"
-    },
-    {
-        "id": 86,
-        "nombre": "DOVE JABON x 90gr",
-        "descripcion": "Dove Jabón, 90 gr",
-        "precio": "1.134,00",
-        "imagen": "../limpieza.img/dove_jabon_2.jpg"
-    },
-    {
-        "id": 87,
-        "nombre": "JABON Rexona x 120 g",
-        "descripcion": "Jabón Rexona, 120 gr",
-        "precio": "579,59",
-        "imagen": "../limpieza.img/jabon_rexona_2.jpg"
-    },
-    {
-        "id": 88,
-        "nombre": "LIMAS DECORADAS CHICAS",
-        "descripcion": "Limas Decoradas Chicas",
-        "precio": "188,60",
-        "imagen": "../limpieza.img/limas_decoradas_chicas_2.jpg"
-    },
-    {
-        "id": 89,
-        "nombre": "Lavandina Duplex",
-        "descripcion": "x 1 Litro",
-        "precio": "675,00",
-        "imagen": "../limpieza.img/lavandinaDuplex.jpg"
-    },
-    {
-        "id": 90,
-        "nombre": "Lavandina Ayudin clasica",
-        "descripcion": "x 1 Litro",
-        "precio": "960,00",
-        "imagen": "../limpieza.img/lavandinaAyudin.jpg"
-    },
-    {
-        "id": 91,
-        "nombre": "Higiénico Familia Plus x 4 30 mts",
-        "descripcion": "Pack de 4 rollos de papel higiénico Familia Plus, 30 metros cada uno.",
-        "precio": "1.188,67",
-        "imagen": "../limpieza.img/higienico_familia_plus.jpg"
-    },
-    {
-        "id": 92,
-        "nombre": "Pañuelo Elegante x 6 un.",
-        "descripcion": "Caja con 6 paquetes de pañuelos Elegante, suaves y resistentes.",
-        "precio": "1.332,36",
-        "imagen": "../limpieza.img/panuelo_elegante.jpg"
-    },
-    {
-        "id": 93,
-        "nombre": "Pañuelo Elite x 6 un.",
-        "descripcion": "Pack de 6 paquetes de pañuelos Elite, ideales para llevar siempre contigo.",
-        "precio": "1.119,30",
-        "imagen": "../limpieza.img/panuelo_elite.jpg"
-    },
-    {
-        "id": 94,
-        "nombre": "Papel Folex 20 x 25 RO",
-        "descripcion": "Papel Folex de alta calidad, medidas 20 x 25, color rojo.",
-        "precio": "3.954,39",
-        "imagen": "../limpieza.img/papel_folex_rojo.jpg"
-    },
-    {
-        "id": 95,
-        "nombre": "Rollo Cocina Elegante 200 paños",
-        "descripcion": "Rollo de cocina Elegante con 200 paños, ideal para limpieza eficiente.",
-        "precio": "1.825,03",
-        "imagen": "../limpieza.img/rollo_cocina_elegante.jpg"
-    },
-
-    {
-        "id": 96,
-        "nombre": "ECCOLE ADHESIVO",
-        "descripcion": "ECCOLE ADHESIVO, ideal para trabajos de pegado precisos.",
-        "precio": "3.419,55",
-        "imagen": "../limpieza.img/eccole_adhesivo.jpg"
-    },
-    {
-        "id": 97,
-        "nombre": "FASTIX",
-        "descripcion": "FASTIX, sellador flexible de alta calidad.",
-        "precio": "3.284,45",
-        "imagen": "../limpieza.img/fastix.jpg"
-    },
-    {
-        "id": 98,
-        "nombre": "LA GOTITA DE POXIPOL",
-        "descripcion": "LA GOTITA DE POXIPOL, adhesivo instantáneo para reparaciones rápidas.",
-        "precio": "1.135,51",
-        "imagen": "../limpieza.img/la_gotita_de_poxipol.webp"
-    },
-    {
-        "id": 99,
-        "nombre": "LA GOTITA GEL",
-        "descripcion": "LA GOTITA GEL, adhesivo en gel para aplicaciones precisas.",
-        "precio": "1.624,62",
-        "imagen": "../limpieza.img/la_gotita_gel.jpg"
-    },
-    {
-        "id": 100,
-        "nombre": "POXI RAN",
-        "descripcion": "POXI RAN, adhesivo resistente para usos industriales y domésticos.",
-        "precio": "2.616,41",
-        "imagen": "../limpieza.img/poxi_ran.png"
-    },
-    {
-        "id": 101,
-        "nombre": "POXILINA",
-        "descripcion": "POXILINA, masilla epoxi para reparaciones permanentes.",
-        "precio": "3.781,00",
-        "imagen": "../limpieza.img/poxilina.jpg"
-    },
-    {
-        "id": 102,
-        "nombre": "POXIPOL 10 Min",
-        "descripcion": "POXIPOL 10 Min, adhesivo epoxi de secado rápido.",
-        "precio": "3.766,35",
-        "imagen": "../limpieza.img/poxipol_10_min.png"
-    },
-    {
-        "id": 103,
-        "nombre": "SUPRABOND chico 2 Grs.",
-        "descripcion": "SUPRABOND chico 2 Grs., adhesivo instantáneo en presentación pequeña.",
-        "precio": "1.269,31",
-        "imagen": "../limpieza.img/suprabond_chico_2grs.jpg"
-    },
-    {
-        "id": 104,
-        "nombre": "UNIPOX",
-        "descripcion": "UNIPOX, adhesivo universal para uso general.",
-        "precio": "1.370,95",
-        "imagen": "../limpieza.img/unipox.jpg"
-    },
-
-    {
-        "id": 105,
-        "nombre": "DUPLEX LAVANDA DESINF x 900",
-        "descripcion": "Desinfectante DUPLEX Lavanda, presentación de 900 ml.",
-        "precio": "601,47",
-        "imagen": "../limpieza.img/duplex_lavanda_desinf_900.jpg"
-    },
-    {
-        "id": 106,
-        "nombre": "LAVANDINA HEROE LIQUIDA",
-        "descripcion": "Lavandina líquida HEROE, ideal para desinfección profunda.",
-        "precio": "687,70",
-        "imagen": "../limpieza.img/lavandina_heroe_liquida.jpg"
-    },
-    {
-        "id": 107,
-        "nombre": "POET Limpiador x 900 ml",
-        "descripcion": "Limpiador POET, presentación de 900 ml con agradable aroma.",
-        "precio": "1.435,50",
-        "imagen": "../limpieza.img/poet_limpiador_900ml.jpg"
-    },
-    {
-        "id": 108,
-        "nombre": "Procenex Limpiador x 900ml.",
-        "descripcion": "Limpiador Procenex, fórmula eficaz para limpieza diaria.",
-        "precio": "973,70",
-        "imagen": "../limpieza.img/procenex_limpiador_900ml.jpg"
-    },
-    {
-        "id": 109,
-        "nombre": "QUERUBIN SUAVI FLORES BOSQUE",
-        "descripcion": "Suavizante QUERUBIN con fragancia a flores de bosque.",
-        "precio": "2.095,93",
-        "imagen": "../limpieza.img/querubin_suavi_flores_bosque.jpg"
-    },
-    {
-        "id": 110,
-        "nombre": "QUERUBIN SUAVI FLORES SILVESTRES",
-        "descripcion": "Suavizante QUERUBIN con aroma a flores silvestres.",
-        "precio": "2.095,93",
-        "imagen": "../limpieza.img/querubin_suavi_flores_silvestre.jpg"
-    },
-    {
-        "id": 111,
-        "nombre": "TIBU DESINFECTANTE",
-        "descripcion": "Desinfectante TIBU, potente y efectivo.",
-        "precio": "907,50",
-        "imagen": "../limpieza.img/tibu_desinfectante.jpg"
-    },
-    {
-        "id": 112,
-        "nombre": "Algodon CARESS COTTON x 75 grs",
-        "descripcion": "Algodón CARESS COTTON, paquete de 75 gramos.",
-        "precio": "386,06",
-        "imagen": "../limpieza.img/algodon_caress_cotton.jpg"
-    },
-    {
-        "id": 113,
-        "nombre": "Bolsas de residuos 50x70-30 Un",
-        "descripcion": "Bolsas de residuos de 50x70 cm, paquete con 30 unidades.",
-        "precio": "1.645,08",
-        "imagen": "../limpieza.img/bolsas_residuos_50x70.jpg"
-    },
-    {
-        "id": 114,
-        "nombre": "Broches Plasticos x 12 Un",
-        "descripcion": "Broches plásticos, paquete con 12 unidades.",
-        "precio": "750,00",
-        "imagen": "../limpieza.img/broches_plasticos.jpg"
-    },
-    {
-        "id": 115,
-        "nombre": "CONFORT SUAVIZANTE 900 ML",
-        "descripcion": "Confort suavizante, presentación de 900 ml.",
-        "precio": "1.951,99",
-        "imagen": "../limpieza.img/confort_suavizante_900ml.jpg"
-    },
-    {
-        "id": 116,
-        "nombre": "POMADA WASSINGTON MARRON",
-        "descripcion": "Pomada Wassington marrón para el cuidado del calzado.",
-        "precio": "2.022,80",
-        "imagen": "../limpieza.img/pomada_wassington_marron.jpg"
-    },
-    {
-        "id": 117,
-        "nombre": "FUYI MMM x 360 AEROSOL",
-        "descripcion": "Fuyi MMM en aerosol de 360 ml, insecticida efectivo.",
-        "precio": "3.485,33",
-        "imagen": "../limpieza.img/fuyi_mmm_360ml.jpg"
-    },
-    {
-        "id": 118,
-        "nombre": "Gorrion Gatillo Limpiador Antigrasa",
-        "descripcion": "Limpiador antigrasa Gorrion con gatillo, fácil de aplicar.",
-        "precio": "2.496,60",
-        "imagen": "../limpieza.img/gorrion_antigrasa.jpg"
-    },
-    {
-        "id": 119,
-        "nombre": "LIMA de uñas x 12 un 17 y 11 cm",
-        "descripcion": "Limas de uñas, paquete con 12 unidades de 17 y 11 cm.",
-        "precio": "483,83",
-        "imagen": "../limpieza.img/lima_uñas_12un.jpg"
-    },
-    {
-        "id": 120,
-        "nombre": "LYSOFORM Desinfectante",
-        "descripcion": "Lysoform desinfectante, ideal para higiene completa.",
-        "precio": "2.238,60",
-        "imagen": "../limpieza.img/lysoform_desinfectante.jpg"
-    },
-    {
-        "id": 121,
-        "nombre": "RAID VAPE x 12",
-        "descripcion": "Raid Vape, insecticida efectivo, paquete con 12 unidades.",
-        "precio": "3.250,00",
-        "imagen": "../limpieza.img/raid_vape_12.jpg"
-    },
-    {
-        "id": 122,
-        "nombre": "REJILLA DE COCINA Don Bosco/MAKE",
-        "descripcion": "Rejilla de cocina Don Bosco, ideal para limpieza diaria.",
-        "precio": "455,00",
-        "imagen": "../limpieza.img/rejilla_cocina.jpg"
-    },
-    {
-        "id": 123,
-        "nombre": "REPELENTE OFF AEROSOL",
-        "descripcion": "Repelente OFF en aerosol, protección efectiva contra insectos.",
-        "precio": "9.125,00",
-        "imagen": "../limpieza.img/repelente_off_aerosol.jpg"
-    },
-    {
-        "id": 124,
-        "nombre": "ROLLO FILM 20 METROS",
-        "descripcion": "Rollo de film de 20 metros, ideal para conservar alimentos.",
-        "precio": "1.633,84",
-        "imagen": "../limpieza.img/rollo_film_20m.jpg"
-    },
-    {
-        "id": 125,
-        "nombre": "ROLLO PAPEL ALUMINIO 5 METROS",
-        "descripcion": "Rollo de papel aluminio de 5 metros, útil para cocina y conservación.",
-        "precio": "1.410,85",
-        "imagen": "../limpieza.img/rollo_papel_aluminio_5m.jpg"
-    },
-    {
-        "id": 126,
-        "nombre": "Secador de GOMA",
-        "descripcion": "Secador de goma, práctico para limpiar superficies lisas.",
-        "precio": "1.300,00",
-        "imagen": "../limpieza.img/secador_goma.jpg"
-    },
-    {
-        "id": 127,
-        "nombre": "SOPAPA NEGRA",
-        "descripcion": "Sopapa negra, ideal para desatascar tuberías.",
-        "precio": "1.125,00",
-        "imagen": "../limpieza.img/sopapa_negra.jpg"
-    },
-
-    {
-        "id": 128,
-        "nombre": "HUGGIES Classic Pañal G",
-        "descripcion": "Pañales Huggies Classic, tamaño G.",
-        "precio": "1.867,43",
-        "imagen": "../limpieza.img/huggies_classic_panal_g.jpg"
-    },
-    {
-        "id": 129,
-        "nombre": "HUGGIES Classic Pañales XG",
-        "descripcion": "Pañales Huggies Classic, tamaño XG.",
-        "precio": "1.867,43",
-        "imagen": "../limpieza.img/huggies_classic_panales_xg.jpg"
-    },
-    {
-        "id": 130,
-        "nombre": "HUGGIES Classic Pañales XXG",
-        "descripcion": "Pañales Huggies Classic, tamaño XXG.",
-        "precio": "1.867,43",
-        "imagen": "../limpieza.img/huggies_classic_panales_xxg.jpg"
-    },
-    {
-        "id": 131,
-        "nombre": "ARRANQUE 30x40 ROLAN",
-        "descripcion": "Arranque Rolan, tamaño 30x40.",
-        "precio": "2.569,08",
-        "imagen": "../limpieza.img/arranque_30x40_rolan"
-    },
-    {
-        "id": 132,
-        "nombre": "ARRANQUE 40x50 ROLAN 650g",
-        "descripcion": "Arranque Rolan, tamaño 40x50, 650 gramos.",
-        "precio": "2.569,08",
-        "imagen": "../limpieza.img/arranque_40x50_rolan_650g.jpg"
-    },
-    {
-        "id": 133,
-        "nombre": "ARRANQUE 15x20 ROLAN",
-        "descripcion": "Arranque Rolan, tamaño 15x20.",
-        "precio": "1.217,02",
-        "imagen": "../limpieza.img/arranque_15x20_rolan.jpg"
-    },
-    {
-        "id": 134,
-        "nombre": "ARRANQUE 15X25 ROLAN",
-        "descripcion": "Arranque Rolan, tamaño 15x25.",
-        "precio": "1.217,26",
-        "imagen": "../limpieza.img/arranque_15x25_rolan.jpg"
-    },
-    {
-        "id": 135,
-        "nombre": "ARRANQUE 20x25 750 ROLAN",
-        "descripcion": "Arranque Rolan, tamaño 20x25, 750 gramos.",
-        "precio": "2.964,86",
-        "imagen": "../limpieza.img/arranque_20x25_750_rolan.jpg"
-    },
-    {
-        "id": 136,
-        "nombre": "ARRANQUE 20x30 ROLAN 650g",
-        "descripcion": "Arranque Rolan, tamaño 20x30, 650 gramos.",
-        "precio": "2.569,08",
-        "imagen": "../limpieza.img/arranque_20x30_rolan_650g.jpg"
-    },
-    {
-        "id": 137,
-        "nombre": "ARRANQUE 25x35 750 ROLAN",
-        "descripcion": "Arranque Rolan, tamaño 25x35, 750 gramos.",
-        "precio": "2.964,33",
-        "imagen": "../limpieza.img/arranque_25x35_750_rolan.jpg"
-    },
-    {
-        "id": 138,
-        "nombre": "ARRANQUE 35 x 45 ROLAN 750g",
-        "descripcion": "Arranque Rolan, tamaño 35x45, 750 gramos.",
-        "precio": "2.964,33",
-        "imagen": "../limpieza.img/arranque_35x45_rolan_750g.jpg"
-    },
-    {
-        "id": 139,
-        "nombre": "BOLSA CARAMELOS 10x15 200 un.",
-        "descripcion": "Bolsas para caramelos, tamaño 10x15, paquete de 200 unidades.",
-        "precio": "950,04",
-        "imagen": "../limpieza.img/bolsa_caramelos_10x15_200un.jpg"
-    },
-    {
-        "id": 140,
-        "nombre": "BOLSA CARAMELOS 5 x15 200 un.",
-        "descripcion": "Bolsas para caramelos, tamaño 5x15, paquete de 200 unidades.",
-        "precio": "473,93",
-        "imagen": "../limpieza.img/bolsa_caramelos_5x15_200un.jpg"
-    },
-    {
-        "id": 141,
-        "nombre": "Bolsa de Consorcio x10-90 x 120",
-        "descripcion": "Bolsa de consorcio, paquete de 10, tamaño 90x120.",
-        "precio": "2.927,92",
-        "imagen": "../limpieza.img/bolsa_consorcio_90x120.jpg"
-    },
-    {
-        "id": 142,
-        "nombre": "BOLSA PAPEL FACTURA 1 doc.6L",
-        "descripcion": "Bolsa de papel para factura, una docena, 6 litros.",
-        "precio": "3.081,75",
-        "imagen": "../limpieza.img/bolsa_papel_factura_6l.jpg"
-    },
-    {
-        "id": 143,
-        "nombre": "BOLSA PAPEL FACTURA 1/2 Doc.4A",
-        "descripcion": "Bolsa de papel para factura, media docena, 4 litros.",
-        "precio": "2.116,46",
-        "imagen": "../limpieza.img/bolsa_papel_factura_4l.jpg"
-    },
-    {
-        "id": 144,
-        "nombre": "BOLSA Santiago 60x90 Residuos",
-        "descripcion": "Bolsa Santiago para residuos, tamaño 60x90.",
-        "precio": "750,00",
-        "imagen": "../limpieza.img/bolsa_santiago_60x90.jpg"
-    },
-    {
-        "id": 145,
-        "nombre": "BOLSA Santiago 80 x110 Residuos",
-        "descripcion": "Bolsa Santiago para residuos, tamaño 80x110.",
-        "precio": "1.300,00",
-        "imagen": "../limpieza.img/bolsa_santiago_80x110.jpg"
-    },
-    {
-        "id": 146,
-        "nombre": "BOLSA Santiago 90 x 120 Consorcio",
-        "descripcion": "Bolsa Santiago para consorcio, tamaño 90x120.",
-        "precio": "1.687,50",
-        "imagen": "../limpieza.img/bolsa_santiago_90x120.jpg"
-    },
-
-    {
-        "id": 147,
-        "nombre": "Bolsas Camiseta 30x40 DUO",
-        "descripcion": "Bolsas camiseta DUO, tamaño 30x40.",
-        "precio": "829,03",
-        "imagen": "../limpieza.img/bolsas_camiseta_30x40_duo.jpg"
-    },
-    {
-        "id": 148,
-        "nombre": "Bolsas Camiseta 40X50 DUO",
-        "descripcion": "Bolsas camiseta DUO, tamaño 40x50.",
-        "precio": "1.255,67",
-        "imagen": "../limpieza.img/bolsas_camiseta_40x50_duo.jpg"
-    },
-    {
-        "id": 149,
-        "nombre": "CANASTITA AGUJAS",
-        "descripcion": "Canastita con agujas, ideal para costura.",
-        "precio": "369,71",
-        "imagen": "../limpieza.img/canastita_agujas.jpg"
-    },
-    {
-        "id": 150,
-        "nombre": "CINTA STIKO 12 mm x 60 mts",
-        "descripcion": "Cinta adhesiva Stiko, 12 mm x 60 mts.",
-        "precio": "68,84",
-        "imagen": "../limpieza.img/cinta_stiko_12mm.jpg"
-    },
-
-    {
-        "id": 151,
-        "nombre": "Palilleros DESAFÍO x 12un",
-        "descripcion": "Palilleros Desafío, paquete de 12 unidades.",
-        "precio": "4.381,70",
-        "imagen": "../limpieza.img/palilleros_desafio_12un.jpg"
-    },
-    {
-        "id": 152,
-        "nombre": "PAÑUELO CANDELA x 6un.",
-        "descripcion": "Pañuelos Candela, paquete de 6 unidades.",
-        "precio": "998,80",
-        "imagen": "../limpieza.img/panuelo_candela_6un.jpg"
-    },
-    {
-        "id": 153,
-        "nombre": "PAPEL P/FIAMBRE *40x50*",
-        "descripcion": "Papel para fiambre, tamaño 40x50.",
-        "precio": "2.125,58",
-        "imagen": "../limpieza.img/papel_fiambre_40x50.jpg"
-    },
-    {
-        "id": 154,
-        "nombre": "ROLLO Cocina CARTABELLA x 3 un.",
-        "descripcion": "Rollos de cocina Cartabella, paquete de 3 unidades.",
-        "precio": "1.105,44",
-        "imagen": "../limpieza.img/rollo_cocina_cartabella_3un.jpg"
-    },
-    {
-        "id": 155,
-        "nombre": "ROLLOS Cocina SUSSEX x 3",
-        "descripcion": "Rollos de cocina Sussex, paquete de 3 unidades.",
-        "precio": "1.452,00",
-        "imagen": "../limpieza.img/rollos_cocina_sussex_3un.jpg"
-    },
-    {
-        "id": 156,
-        "nombre": "VASOS TERMICOS x 180cc x 25 un",
-        "descripcion": "Vasos térmicos, 180 cc, paquete de 25 unidades.",
-        "precio": "1.861,57",
-        "imagen": "../limpieza.img/vasos_termicos_180cc_25un.jpg"
-    },
-    {
-        "id": 157,
-        "nombre": "VASOS PLASTICOS x 220 cc x 100 un.",
-        "descripcion": "Vasos plásticos, 220 cc, paquete de 100 unidades.",
-        "precio": "1.789,06",
-        "imagen": "../limpieza.img/vasos_plasticos_220cc_100un.jpg"
     }
 
 ]
