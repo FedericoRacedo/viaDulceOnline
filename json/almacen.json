@@ -5,7 +5,8 @@
         "descripcion": "(Peso 500g)",
         "precio": 1840,
         "categorias":["Yerbas"],
-        "imagen": "../almacen.img/yerbaAmanda.jpg"
+        "imagen": "../almacen.img/yerbaAmanda.jpg",
+        "stock": 1
     },
 
     {
@@ -14,7 +15,8 @@
         "descripcion": "(Peso 500g)",
         "precio": 3476,
         "categorias":["Yerbas"],
-        "imagen": "../almacen.img/yerbaCanarias.jpg"
+        "imagen": "../almacen.img/yerbaCanarias.jpg",
+        "stock": 1
     },
 
     {
@@ -23,7 +25,8 @@
         "descripcion": "(Peso 500g)",
         "precio":  1800,
         "categorias":["Yerbas"],
-        "imagen": "../almacen.img/yerbaCbse.jpg"
+        "imagen": "../almacen.img/yerbaCbse.jpg",
+        "stock": 1
     },
 
     {
@@ -32,7 +35,8 @@
         "descripcion": "(Peso 500g)",
         "precio": 1800,
         "categorias":["Yerbas"],
-        "imagen": "../almacen.img/yerbaManianita.png"
+        "imagen": "../almacen.img/yerbaManianita.png",
+        "stock": 1
     },
 
     {
@@ -41,7 +45,8 @@
         "descripcion": "(Sabor Carne)",
         "precio": 273,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/caldosKnorCarne.webp"
+        "imagen": "../almacen.img/caldosKnorCarne.webp",
+        "stock": 1
     },
 
     {
@@ -50,7 +55,8 @@
         "descripcion": "(Peso 900cc)",
         "precio":  1828,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/aceiteCañuelas.webp"
+        "imagen": "../almacen.img/aceiteCañuelas.webp",
+        "stock": 1
     },
 
     {
@@ -59,7 +65,8 @@
         "descripcion": "(Peso 900cc)",
         "precio":  1950,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/aceiteNatura.webp"
+        "imagen": "../almacen.img/aceiteNatura.webp",
+        "stock": 1
     },
 
     {
@@ -68,7 +75,8 @@
         "descripcion": "(Peso 100g)",
         "precio": 648,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/aceitunasCastell.webp"
+        "imagen": "../almacen.img/aceitunasCastell.webp",
+        "stock": 0
     },
 
     {
@@ -77,7 +85,8 @@
         "descripcion": "(Peso 26gr)",
         "precio":  635,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/adoboPizza.png"
+        "imagen": "../almacen.img/adoboPizza.png",
+        "stock": 1
     },
 
     {
@@ -1327,7 +1336,4 @@
         "categorias":["Cocina"],
         "imagen": "../golosinas.img/bizcochueloEmethVainilla.jpg"
     }
-
-
-
 ]
