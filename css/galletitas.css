@@ -22,10 +22,43 @@ img {
 /* header */
 .header {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
-    background-color: #EFF3F4;
-    padding: 30px;
+    padding: 10px 20px;
+    background-color: #f8f9fa; /* Fondo claro */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra para destacar */
+}
+
+/* Logo styles */
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #d12424;
+    text-decoration: none;
+}
+
+/* Navbar styles */
+.navBar ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navBar li {
+    margin: 0 15px; /* Espaciado entre los elementos */
+}
+
+.navBar a {
+    text-decoration: none;
+    color: #333; /* Color del texto */
+    font-size: 1rem;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.navBar a:hover {
+    color: #d12424; /* Color al pasar el mouse */
 }
 
 .menu {
@@ -36,32 +69,6 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-
-.logo {
-    font-size: 25px;
-    color: #d12424;
-    text-transform: uppercase;
-    font-weight: 800;
-}
-
-.menu .navBar ul li {
-    position: relative;
-    float: left;
-    display: flex;
-    justify-content: space-between;
-}
-
-.menu .navBar ul li a {
-    font-size: 18px;
-    padding: 20px;
-    color: #111419;
-    display: flex;
-    justify-content: space-between;
-}
-
-.menu .navBar ul li a:hover {
-    color: #d12424;
 }
 
 .products {
@@ -366,37 +373,23 @@ h2 {
     
     .header {
         flex-direction: column;
-        gap: 30px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
     }
 
-    .menu {
-        padding: 20px;
+    .navBar ul {
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
     }
-    
+
+    .navBar li {
+        margin: 10px 0;
+    }
+
     .logo {
-        font-size: 25px;
-        color: #d12424;
-        text-transform: uppercase;
-        font-weight: 800;
-    }
-    
-    .menu .navBar ul li {
-        position: relative;
-        float: left;
-        display: flex;
-        justify-content: space-between;
-    }
-    
-    .menu .navBar ul li a {
-        font-size: 18px;
-        padding: 20px;
-        color: #111419;
-        display: flex;
-        justify-content: space-between;
-    }
-    
-    .menu .navBar ul li a:hover {
-        color: #d12424;
+        margin-bottom: 15px; /* Espaciado entre el logo y la barra */
     }
 
     

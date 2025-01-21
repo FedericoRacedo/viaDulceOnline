@@ -156,7 +156,7 @@ document.getElementById("confirmarPedido").addEventListener("click", () => {
     mensaje += `\nTotal: $${total.toFixed(2)}`;
 
     // Enviar por WhatsApp
-    const numeroWhatsApp = "1168025977"; // Reemplaza con tu número
+    const numeroWhatsApp = "5491165692697"; // Reemplaza con tu número
     const urlWhatsApp = `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(mensaje)}`;
 
     window.open(urlWhatsApp, "_blank");

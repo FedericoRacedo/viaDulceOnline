@@ -590,7 +590,7 @@ h2 {
 }
 /*CHAT */
 
-@media (max-width:991px) {
+@media (max-width:768px) {
     .menu {
         padding: 20px;
     }
