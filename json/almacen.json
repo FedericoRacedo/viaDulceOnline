@@ -3,7 +3,7 @@
         "id": 1,
         "nombre": "Yerba Amanda",
         "descripcion": "(Peso 500g)",
-        "precio": 1840,
+        "precio": 1662.62,
         "categorias":["Yerbas"],
         "imagen": "../almacen.img/yerbaAmanda.jpg",
         "stock": 1
@@ -13,7 +13,7 @@
         "id": 2,
         "nombre": "Yerba Canarais",
         "descripcion": "(Peso 500g)",
-        "precio": 3476,
+        "precio": 4483.14,
         "categorias":["Yerbas"],
         "imagen": "../almacen.img/yerbaCanarias.jpg",
         "stock": 1
@@ -26,14 +26,14 @@
         "precio":  1800,
         "categorias":["Yerbas"],
         "imagen": "../almacen.img/yerbaCbse.jpg",
-        "stock": 1
+        "stock": 0
     },
 
     {
         "id": 4,
         "nombre": "Yerba Mañanita",
         "descripcion": "(Peso 500g)",
-        "precio": 1800,
+        "precio": 1674,
         "categorias":["Yerbas"],
         "imagen": "../almacen.img/yerbaManianita.png",
         "stock": 1
@@ -46,14 +46,14 @@
         "precio": 273,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/caldosKnorCarne.webp",
-        "stock": 1
+        "stock": 0
     },
 
     {
         "id": 6,
         "nombre": "Aceite Girasol Cañuelas",
         "descripcion": "(Peso 900cc)",
-        "precio":  1828,
+        "precio":  2100,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/aceiteCañuelas.webp",
         "stock": 1
@@ -63,7 +63,7 @@
         "id": 7,
         "nombre": "Aceite Girasol Natura",
         "descripcion": "(Peso 900cc)",
-        "precio":  1950,
+        "precio":  1950.77,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/aceiteNatura.webp",
         "stock": 1
@@ -86,34 +86,37 @@
         "precio":  635,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/adoboPizza.png",
-        "stock": 1
+        "stock": 0
     },
 
     {
         "id": 10,
         "nombre": "Aji Molido Marolio",
         "descripcion": "(Peso 26gr)",
-        "precio":  147,
+        "precio":  1523.39,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/ajiMolido.webp"
+        "imagen": "../almacen.img/ajiMolido.webp",
+        "stock": 1
     },
 
     {
         "id": 11,
         "nombre": "Alcohol Duplex",
         "descripcion": "(Peso 500ml)",
-        "precio":  1403,
+        "precio":  1176.44,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/alcoholDuplex.jpg"
+        "imagen": "../almacen.img/alcoholDuplex.jpg",
+        "stock": 1
     },
 
     {
         "id": 12,
         "nombre": "Alicate",
         "descripcion": "(Grande)",
-        "precio":  856,
+        "precio":  542.50,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/alicateGrande.jpg"
+        "imagen": "../almacen.img/alicateGrande.jpg",
+        "stock": 1
     },
 
     {
@@ -122,16 +125,18 @@
         "descripcion": "(En Saquito)",
         "precio": 4684,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/cafe5Hispanos.webp"
+        "imagen": "../almacen.img/cafe5Hispanos.webp",
+        "stock": 0
     },
 
     {
         "id": 14,
         "nombre": "Arroz Ala",
         "descripcion": "(Peso 500grs)",
-        "precio": 1188,
+        "precio": 880.74,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/arrozAla.jpg"
+        "imagen": "../almacen.img/arrozAla.jpg",
+        "stock": 1
     },
 
     {
@@ -140,16 +145,18 @@
         "descripcion": "(Peso 340gr)",
         "precio": 573,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/arvejas.webp"
+        "imagen": "../almacen.img/arvejas.webp",
+        "stock": 0
     },
 
     {
         "id": 16,
         "nombre": "Atun Desmenusado",
         "descripcion": "(Natural)",
-        "precio": 1233,
+        "precio": 1233.70,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/atunDesm.webp"
+        "imagen": "../almacen.img/atunDesm.webp",
+        "stock": 1
     },
 
     {
@@ -158,25 +165,28 @@
         "descripcion": "(Aceite)",
         "precio": 1272,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/atunAceite.png"
+        "imagen": "../almacen.img/atunAceite.png",
+        "stock": 0
     },
 
     {
         "id": 18,
         "nombre": "Blem Lustramuebles",
         "descripcion": "(Aerosol)",
-        "precio":  3382,
+        "precio":  3382.50,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/blem.png"
+        "imagen": "../almacen.img/blem.png",
+        "stock": 1
     },
     
     {
         "id": 19,
         "nombre": "Bizcochuelo Emeth",
         "descripcion": "(Sabor DDL)",
-        "precio": 1516,
+        "precio": 1391.87,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/bizcochueloDDL.jpg"
+        "imagen": "../almacen.img/bizcochueloDDL.jpg",
+        "stock": 1
     },
 
     {
@@ -185,7 +195,8 @@
         "descripcion": "(Sabor Gallina)",
         "precio":  296,
         "categorias":["Cocina"],
-        "imagen": "../golosinas.img/alfOreo.webp"
+        "imagen": "../golosinas.img/alfOreo.webp",
+        "stock": 0
     },
     
     {
@@ -194,7 +205,8 @@
         "descripcion": "(Sabor Verdura)",
         "precio":  296,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/knorrVerdura.webp"
+        "imagen": "../almacen.img/knorrVerdura.webp",
+        "stock": 0
     },
 
     {
@@ -203,7 +215,8 @@
         "descripcion": "(Cafe/Leche)",
         "precio":  9625,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/dolceGustoCageLeche.webp"
+        "imagen": "../almacen.img/dolceGustoCageLeche.webp",
+        "stock": 1
     },
     
     {
@@ -212,7 +225,8 @@
         "descripcion": "(Expresso)",
         "precio":  9625,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/dolceGustoExpresso.webp"
+        "imagen": "../almacen.img/dolceGustoExpresso.webp",
+        "stock": 1
     },
 
     {
@@ -221,16 +235,18 @@
         "descripcion": "(Cortado)",
         "precio":  9625,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/dolceGustoCortado.webp"
+        "imagen": "../almacen.img/dolceGustoCortado.webp",
+        "stock": 1
     },
     
     {
         "id": 25,
         "nombre": "Celusal Estuche",
         "descripcion": "(Peso 500grs)",
-        "precio":  961,
+        "precio":  928.75,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/celusalEstuche.webp"
+        "imagen": "../almacen.img/celusalEstuche.webp",
+        "stock": 1
     },
 
     {
@@ -239,16 +255,18 @@
         "descripcion": "(Peso 25gr)",
         "precio":  297,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/chimichurriMarolio.webp"
+        "imagen": "../almacen.img/chimichurriMarolio.webp",
+        "stock": 0
     },
 
     {
         "id": 27,
         "nombre": "Dulce de leche",
         "descripcion": "(Tradicional)",
-        "precio":  1474,
+        "precio":  1474.95,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/DDLPlacer.jpg"
+        "imagen": "../almacen.img/DDLPlacer.jpg",
+        "stock": 1
     },
     
     {
@@ -257,7 +275,8 @@
         "descripcion": "(Repostero)",
         "precio":  1680,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/DDLPlacerRepostero.jpg"
+        "imagen": "../almacen.img/DDLPlacerRepostero.jpg",
+        "stock": 0
     },
 
     {
@@ -266,7 +285,8 @@
         "descripcion": "(La serenisima)",
         "precio": 2337,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/DDLLaSerenisima.jpg"
+        "imagen": "../almacen.img/DDLLaSerenisima.jpg",
+        "stock": 0
     },
 
     {
@@ -275,7 +295,8 @@
         "descripcion": "(Peso 820gr)",
         "precio": 2183,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/duraznoMolto.jpg"
+        "imagen": "../almacen.img/duraznoMolto.jpg",
+        "stock": 0
     },
 
     {
@@ -284,43 +305,48 @@
         "descripcion": "(Peso 500g)",
         "precio":  1354,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/membrillo.jpg"
+        "imagen": "../almacen.img/membrillo.jpg",
+        "stock": 0
     },
 
     {
         "id": 32,
         "nombre": "Esencia de vainilla",
         "descripcion": "(chico)",
-        "precio":  1298,
+        "precio":  1213.64,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/esenciaDeVainilla.png"
+        "imagen": "../almacen.img/esenciaDeVainilla.png",
+        "stock": 1
     },
 
     {
         "id": 33,
         "nombre": "Fideos 308",
         "descripcion": "(Numero 1)",
-        "precio":  1374,
+        "precio":  1374.58,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/308N1.jpg"
+        "imagen": "../almacen.img/308N1.jpg",
+        "stock": 1
     },
 
     {
         "id": 34,
         "nombre": "Fideos 308",
         "descripcion": "(Numero 2)",
-        "precio":  1374,
+        "precio":  1374.58,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/308N2.jpg"
+        "imagen": "../almacen.img/308N2.jpg",
+        "stock": 1
     },
 
     {
         "id": 35,
         "nombre": "Fideos 308",
         "descripcion": "(Numero 3)",
-        "precio":  1374,
+        "precio":  1374.58,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/308N3.jpg"
+        "imagen": "../almacen.img/308N3.jpg",
+        "stock": 0
     },
 
     {
@@ -336,9 +362,10 @@
         "id": 37,
         "nombre": "Fideos Bernabeu",
         "descripcion": "(Codito)",
-        "precio": 633,
+        "precio": 677,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/bernadeuCodito.webp"
+        "imagen": "../almacen.img/bernadeuCodito.webp",
+        "stock": 1
     },
 
     {
@@ -347,7 +374,8 @@
         "descripcion": "(Spaghetti)",
         "precio": 633,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/bernadeuSpaghetti.webp"
+        "imagen": "../almacen.img/bernadeuSpaghetti.webp",
+        "stock": 1
     },
 
     {
@@ -356,70 +384,78 @@
         "descripcion": "(Tallarin)",
         "precio":  1089,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lucchettiTallarin.webp"
+        "imagen": "../almacen.img/lucchettiTallarin.webp",
+        "stock": 1
     },
 
     {
         "id": 40,
         "nombre": "Fideos Lucchetti",
         "descripcion": "(Dedalito)",
-        "precio":  1089,
+        "precio":  1149.50,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lucchettiDedalito.webp"
+        "imagen": "../almacen.img/lucchettiDedalito.webp",
+        "stock": 1
     },
 
     {
         "id": 41,
         "nombre": "Fideos Lucchetti",
         "descripcion": "(Codito)",
-        "precio":  1089,
+        "precio":  1449.50,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lucchettiCodito.webp"
+        "imagen": "../almacen.img/lucchettiCodito.webp",
+        "stock": 1
     },
 
     {
         "id": 42,
         "nombre": "Fideos Lucchetti",
         "descripcion": "(Letritas)",
-        "precio":  1089,
+        "precio":  1449.50,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lucchettiLetritas.webp"
+        "imagen": "../almacen.img/lucchettiLetritas.webp",
+        "stock": 1
     },
 
     {
         "id": 43,
         "nombre": "Fideos Lucchetti",
         "descripcion": "(Moños)",
-        "precio":  1089,
+        "precio":  1449.50,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lucchettiMonios.webp"
+        "imagen": "../almacen.img/lucchettiMonios.webp",
+        "stock": 1
     },
 
     {
         "id": 44,
         "nombre": "Fideos Lucchetti",
         "descripcion": "(Mostachol)",
-        "precio":  1089,
+        "precio":  1449.50,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lucchettiMostachol.webp"
+        "imagen": "../almacen.img/lucchettiMostachol.webp",
+        "stock": 1
     },
 
     {
         "id": 45,
         "nombre": "Fideos Lucchetti",
         "descripcion": "(Municiones)",
-        "precio":  1089,
+        "precio":  1449.50,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lucchettiMunisiones.webp"
+        "imagen": "../almacen.img/lucchettiMunisiones.webp",
+        "stock": 1
     },
 
     {
         "id": 46,
         "nombre": "Fideos Lucchetti",
         "descripcion": "(Spaghetti)",
-        "precio":  1089,
+        "precio":  1449.50,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lucchettiSpaguetti.webp"
+        "imagen": "../almacen.img/lucchettiSpaguetti.webp",
+        "stock": 1
     },
 
     {
@@ -428,16 +464,18 @@
         "descripcion": "(Durazno)",
         "precio":  791,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/gelatinaDurazno.jpg"
+        "imagen": "../almacen.img/gelatinaDurazno.jpg",
+        "stock": 0
     },
 
     {
         "id": 48,
         "nombre": "Gelatina Emeth",
         "descripcion": "(Naranja)",
-        "precio":  791,
+        "precio":  791.95,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/gelatinaNaranja.jpg"
+        "imagen": "../almacen.img/gelatinaNaranja.jpg",
+        "stock": 1
     },
 
     {
@@ -446,7 +484,8 @@
         "descripcion": "(Frutilla)",
         "precio":  791,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/gelatinaFrutilla.jpg"
+        "imagen": "../almacen.img/gelatinaFrutilla.jpg",
+        "stock": 0
     },
 
     {
@@ -455,16 +494,18 @@
         "descripcion": "(Peso 500g)",
         "precio":  999,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/grasa.webp"
+        "imagen": "../almacen.img/grasa.webp",
+        "stock": 0
     },
     
     {
         "id": 51,
         "nombre": "Ketchup Hellmanns",
         "descripcion": "(Peso 60g)",
-        "precio":  658,
+        "precio":  677.48,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/hellmannsKepchup.webp"
+        "imagen": "../almacen.img/hellmannsKepchup.webp",
+        "stock": 1
     },
 
     {
@@ -473,16 +514,18 @@
         "descripcion": "(Peso 60g)",
         "precio":  1790,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/hileretClasico.jpeg"
+        "imagen": "../almacen.img/hileretClasico.jpeg",
+        "stock": 0
     },
     
     {
         "id": 53,
         "nombre": "Huevo Maple",
         "descripcion": "(Numero 3)",
-        "precio":  5185,
+        "precio":  4981.67,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/huevo.jpg"
+        "imagen": "../almacen.img/huevo.jpg",
+        "stock": 1
     },
 
     {
@@ -491,16 +534,18 @@
         "descripcion": "(Clasica)",
         "precio":  1352,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lecheClasica.jpg"
+        "imagen": "../almacen.img/lecheClasica.jpg",
+        "stock": 0
     },
 
     {
         "id": 55,
         "nombre": "Leche angelita",
         "descripcion": "(Descremada)",
-        "precio":  1352,
+        "precio":  1352.54,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/lecheDescremada.jpg"
+        "imagen": "../almacen.img/lecheDescremada.jpg",
+        "stock": 1
     },
     
     {
@@ -509,16 +554,18 @@
         "descripcion": "(2 Sobres)",
         "precio":  640,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/levadura.jpg"
+        "imagen": "../almacen.img/levadura.jpg",
+        "stock": 0
     },
 
     {
         "id": 57,
         "nombre": "Mate codico La Tranquera",
         "descripcion": "(25 sobres)",
-        "precio":  940,
+        "precio":  907.19,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/mateCocidoLaTranquera.jpg"
+        "imagen": "../almacen.img/mateCocidoLaTranquera.jpg",
+        "stock": 1
     },
 
     {
@@ -527,7 +574,8 @@
         "descripcion": "(Peso 237g)",
         "precio":  897,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/mayoNatura237g.jpg"
+        "imagen": "../almacen.img/mayoNatura237g.jpg",
+        "stock": 0
     },
 
     {
@@ -536,7 +584,8 @@
         "descripcion": "(Peso 125g)",
         "precio":  526,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/mayoNatura125g.jpg"
+        "imagen": "../almacen.img/mayoNatura125g.jpg",
+        "stock": 0
     },
 
     {
@@ -545,7 +594,8 @@
         "descripcion": "(Damasco)",
         "precio":  887,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/damascoMermelada.jpg"
+        "imagen": "../almacen.img/damascoMermelada.jpg",
+        "stock": 0
     },
 
     {
@@ -554,7 +604,8 @@
         "descripcion": "(Ciruela)",
         "precio":  887,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/ciruelaMermelada.jpg"
+        "imagen": "../almacen.img/ciruelaMermelada.jpg",
+        "stock": 0
     },
 
     {
@@ -563,16 +614,18 @@
         "descripcion": "(Frutilla)",
         "precio":  941,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/frutillaMermelada.jpg"
+        "imagen": "../almacen.img/frutillaMermelada.jpg",
+        "stock": 0
     },
     
     {
         "id": 63,
         "nombre": "Miel Pampera",
         "descripcion": "(Peso 250g)",
-        "precio":  861,
+        "precio":  861.05,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/mielChica.jpg"
+        "imagen": "../almacen.img/mielChica.jpg",
+        "stock": 1
     },
 
     {
@@ -581,25 +634,28 @@
         "descripcion": "(Peso 500g)",
         "precio":  1603,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/mielChica.jpg"
+        "imagen": "../almacen.img/mielChica.jpg",
+        "stock": 0
     },
 
     {
         "id": 65,
         "nombre": "Nesquik",
         "descripcion": "(Peso 180g)",
-        "precio": 1338,
+        "precio": 1338.34,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/nesquik.jpg"
+        "imagen": "../almacen.img/nesquik.jpg",
+        "stock": 1
     },
 
     {
         "id": 66,
         "nombre": "Oregano",
         "descripcion": "(Peso 25gr)",
-        "precio": 778,
+        "precio": 754.65,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/oregano.jpg"
+        "imagen": "../almacen.img/oregano.jpg",
+        "stock": 1
     },
 
     {
@@ -608,34 +664,38 @@
         "descripcion": "(Peso 500g)",
         "precio":  3128,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/nutella.jpg"
+        "imagen": "../almacen.img/nutella.jpg",
+        "stock": 0
     },
 
     {
         "id": 68,
         "nombre": "Pan Rayado Morixe",
         "descripcion": "(Peso 500gr)",
-        "precio": 852,
+        "precio": 811.24,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/panRayadoMorixe.jpg"
+        "imagen": "../almacen.img/panRayadoMorixe.jpg",
+        "stock": 1
     },
 
     {
         "id": 69,
         "nombre": "Pate Swift",
         "descripcion": "(Lata)",
-        "precio": 713,
+        "precio": 628.59,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/pateSwift.jpg"
+        "imagen": "../almacen.img/pateSwift.jpg",
+        "stock": 1
     },
 
     {
         "id": 70,
         "nombre": "Picadillo Swift",
         "descripcion": "(Lata)",
-        "precio":  713,
+        "precio":  628.59,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/picadilloSwif.jpg"
+        "imagen": "../almacen.img/picadilloSwif.jpg",
+        "stock": 1
     },
 
     {
@@ -644,7 +704,8 @@
         "descripcion": "(Peso 25gr)",
         "precio":  1168,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/pimientaBlanca.jpg"
+        "imagen": "../almacen.img/pimientaBlanca.jpg",
+        "stock": 0
     },
 
     {
@@ -653,16 +714,18 @@
         "descripcion": "(Peso 500gr)",
         "precio": 565,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/polentaCampo.jpg"
+        "imagen": "../almacen.img/polentaCampo.jpg",
+        "stock": 0
     },
 
     {
         "id": 73,
         "nombre": "Pinzas de Depilar",
         "descripcion": "(Por unidad)",
-        "precio": 595,
+        "precio": 595.85,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/pinzasDepilar.jpg"
+        "imagen": "../almacen.img/pinzasDepilar.jpg",
+        "stock": 1
     },
 
     {
@@ -671,16 +734,18 @@
         "descripcion": "(Peso 50g)",
         "precio":  1416,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/provenzal.jpg"
+        "imagen": "../almacen.img/provenzal.jpg",
+        "stock": 0
     },
 
     {
         "id": 75,
         "nombre": "Pure de tomate",
         "descripcion": "(Molto)",
-        "precio": 875,
+        "precio": 778.69,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/pureTomateMolto.jpg"
+        "imagen": "../almacen.img/pureTomateMolto.jpg",
+        "stock": 1
     },
 
     {
@@ -689,16 +754,18 @@
         "descripcion": "(Salsati)",
         "precio": 849,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/pureTomateSalsati.jpg"
+        "imagen": "../almacen.img/pureTomateSalsati.jpg",
+        "stock": 0
     },
 
     {
         "id": 77,
         "nombre": "Pure de tomate",
         "descripcion": "(La Campagniola)",
-        "precio": 778,
+        "precio": 778.14,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/pureTomateLaCampagniola.jpg"
+        "imagen": "../almacen.img/pureTomateLaCampagniola.jpg",
+        "stock": 1
     },
 
     {
@@ -707,7 +774,8 @@
         "descripcion": "(Peso 500gr)",
         "precio": 1050,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/polentaPrestaPronto.jpg"
+        "imagen": "../almacen.img/polentaPrestaPronto.jpg",
+        "stock": 0
     },
 
     {
@@ -716,7 +784,8 @@
         "descripcion": "(Arcor)",
         "precio": 707,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/pureTomateArcor.jpg"
+        "imagen": "../almacen.img/pureTomateArcor.jpg",
+        "stock": 0
     },
 
     {
@@ -725,16 +794,18 @@
         "descripcion": "(La Huerta)",
         "precio": 752,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/pureTomateLaHuerta.jpg"
+        "imagen": "../almacen.img/pureTomateLaHuerta.jpg",
+        "stock": 0
     },
 
     {
         "id": 81,
         "nombre": "Pure Maggi",
         "descripcion": "(Peso 125gr)",
-        "precio": 1838,
+        "precio": 1838.13,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/pureMaggi.jpg"
+        "imagen": "../almacen.img/pureMaggi.jpg",
+        "stock": 1
     },
 
     {
@@ -743,16 +814,18 @@
         "descripcion": "(La serenisima)",
         "precio": 1483,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/quesoRalladoLaSerenisima.jpg"
+        "imagen": "../almacen.img/quesoRalladoLaSerenisima.jpg",
+        "stock": 0
     },
 
     {
         "id": 83,
         "nombre": "Queso Rallado",
         "descripcion": "(La Quesera)",
-        "precio": 613,
+        "precio": 613.43,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/quesoRalladoLaQuesera.jpg"
+        "imagen": "../almacen.img/quesoRalladoLaQuesera.jpg",
+        "stock": 1
     },
 
     {
@@ -761,61 +834,68 @@
         "descripcion": "(Entrefina)",
         "precio":  693,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/tresalEntrefina.jpg"
+        "imagen": "../almacen.img/tresalEntrefina.jpg",
+        "stock": 0
     },
 
     {
         "id": 85,
         "nombre": "Sal Fina",
         "descripcion": "(Dos anclas)",
-        "precio": 1006,
+        "precio": 1006.74,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/salFina2Anclas.jpg"
+        "imagen": "../almacen.img/salFina2Anclas.jpg",
+        "stock": 1
     },
 
     {
         "id": 86,
         "nombre": "Savora",
         "descripcion": "(Peso 60g)",
-        "precio":  546,
+        "precio":  559.66,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/savora.jpg"
+        "imagen": "../almacen.img/savora.jpg",
+        "stock": 1
     },
 
     {
         "id": 87,
         "nombre": "Te Cryfs",
         "descripcion": "(Por 25Unidades)",
-        "precio":  579,
+        "precio":  579.60,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/teCrysf.jpg"
+        "imagen": "../almacen.img/teCrysf.jpg",
+        "stock": 1
     },
 
     {
         "id": 88,
         "nombre": "TE Taragui x 25 Saq.",
-        "precio": 579,
+        "precio": 844.19,
         "categorias":["Cocina"],
         "descripcion": "Caja de 25 saquitos de té Taragüi.",
-        "imagen": "../almacen.img/teTaragui.jpg"
+        "imagen": "../almacen.img/teTaragui.jpg",
+        "stock": 1
     },
 
     {
         "id": 89,
         "nombre": "TOMATE LATA MAROLIO 400 g",
-        "precio": 883,
+        "precio": 894.72,
         "categorias":["Cocina"],
         "descripcion": "Lata de tomate Marolio de 400 gramos.",
-        "imagen": "../almacen.img/tomateTrituradoMarolio.jpg"
+        "imagen": "../almacen.img/tomateTrituradoMarolio.jpg",
+        "stock": 1
     },
 
     {
         "id": 90,
         "nombre": "TOMATE PERITA LATA MOLTO 400 g",
-        "precio": 894,
+        "precio": 894.72,
         "categorias":["Cocina"],
         "descripcion": "Lata de tomate perita Molto de 400 gramos.",
-        "imagen": "../almacen.img/tomateLataPerita.jpg"
+        "imagen": "../almacen.img/tomateLataPerita.jpg",
+        "stock": 1
     },
 
     {
@@ -824,7 +904,8 @@
         "precio": 955,
         "categorias":["Cocina"],
         "descripcion": "Tomate triturado Marolio.",
-        "imagen": "../almacen.img/tomateTrituradoMarolio.jpg"
+        "imagen": "../almacen.img/tomateTrituradoMarolio.jpg",
+        "stock": 0
     },
 
     {
@@ -833,25 +914,28 @@
         "precio": 1998,
         "categorias":["Cocina"],
         "descripcion": "Budín marmolado Valido de 180 gramos.",
-        "imagen": "../almacen.img/budinMarmoladoValido.jpg"
+        "imagen": "../almacen.img/budinMarmoladoValido.jpg",
+        "stock": 0
     },
 
     {
         "id": 93,
         "nombre": "Vinagre CASALTA x 500cc",
-        "precio": 845,
+        "precio": 608.08,
         "categorias":["Cocina"],
         "descripcion": "Botella de vinagre Casalta de 500 cc.",
-        "imagen": "../almacen.img/vinagreCasalta.jpg"
+        "imagen": "../almacen.img/vinagreCasalta.jpg",
+        "stock": 1
     },
 
     {
         "id": 94,
         "nombre": "Vinagre CASALTA x 1L",
-        "precio": 583,
+        "precio": 862.09,
         "categorias":["Cocina"],
         "descripcion": "Botella de vinagre Casalta de 1 litro.",
-        "imagen": "../almacen.img/vinagreCasalta.jpg"
+        "imagen": "../almacen.img/vinagreCasalta.jpg",
+        "stock": 1
     },
 
     {
@@ -860,7 +944,8 @@
         "precio": 827,
         "categorias":["Cocina"],
         "descripcion": "Botella de vinagre Marolio/Molto de 500 cc.",
-        "imagen": "../almacen.img/vinagreMarolio.jpg"
+        "imagen": "../almacen.img/vinagreMarolio.jpg",
+        "stock": 0
     },
 
     {
@@ -869,25 +954,28 @@
         "precio": 1815,
         "categorias":["Yerbas"],
         "descripcion": "Paquete de yerba CBSé sabor naranja de 500 gramos.",
-        "imagen": "../almacen.img/cbseNaranja.jpg"
+        "imagen": "../almacen.img/cbseNaranja.jpg",
+        "stock": 0
     },
 
     {
         "id": 97,
         "nombre": "YERBA LA TRANQUERA 1 KILO",
-        "precio": 3467,
+        "precio": 1572,
         "categorias":["Yerbas"],
         "descripcion": "Paquete de yerba La Tranquera de 1 kilo.",
-        "imagen": "../almacen.img/tranquera1k.jpg"
+        "imagen": "../almacen.img/tranquera1k.jpg",
+        "stock": 1
     },
 
     {
         "id": 98,
         "nombre": "Cacao Toddy Original",
-        "precio": 814,
+        "precio": 990,
         "categorias":["Cocina"],
         "descripcion": "X 180g",
-        "imagen": "../almacen.img/cacaoToddy.jpg"
+        "imagen": "../almacen.img/cacaoToddy.jpg",
+        "stock": 1
     },
 
     {
@@ -896,7 +984,8 @@
         "descripcion": "Vasos térmicos de 240 cc, 25 unidades",
         "precio": 1297,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/vasosTermicos240cc25u.jpg"
+        "imagen": "../almacen.img/vasosTermicos240cc25u.jpg",
+        "stock": 0
     },
 
     {
