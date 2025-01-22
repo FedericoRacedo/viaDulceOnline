@@ -4,14 +4,16 @@
         "nombre": "CAMEL BOX",
         "descripcion": "Precio por unidad",
         "precio": "3.910,20",
-        "imagen": "../cigarrilos.img/camelBox.jpg"
+        "imagen": "../cigarrilos.img/camelBox.jpg",
+        "stock": 1
     },
     {
         "id": 2,
         "nombre": "CAMEL BOX DE 12",
         "descripcion": "Precio por unidad",
         "precio": "2.346,12",
-        "imagen": "../cigarrilos.img/camelBox12.jpg"
+        "imagen": "../cigarrilos.img/camelBox12.jpg",
+        "stock": 1
     },
     {
         "id": 3,

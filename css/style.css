@@ -592,6 +592,13 @@ h2 {
 }
 /*CHAT */
 
+/*Stock*/
+.no-stock {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+}
+
 @media (max-width:768px) {
     .menu {
         padding: 20px;

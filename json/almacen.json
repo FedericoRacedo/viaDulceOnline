@@ -994,7 +994,8 @@
         "descripcion": "PROVENSAL DOS ANCLAS, 50 gramos",
         "precio": 1377,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/provensalDosAnclas50g.jpg"
+        "imagen": "../almacen.img/provensalDosAnclas50g.jpg",
+        "stock": 0
     },
     
     {
@@ -1003,7 +1004,8 @@
         "descripcion": "TIRABUZON",
         "precio": 1089,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/tirabuzon.jpg"
+        "imagen": "../almacen.img/tirabuzon.jpg",
+        "stock": 1
     },
     {
         "id": 102,
@@ -1011,7 +1013,8 @@
         "descripcion": "Cordones resistentes de 1.10 cm",
         "precio": 2624,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/cordones110cm.jpg"
+        "imagen": "../almacen.img/cordones110cm.jpg",
+        "stock": 0
     },
     {
         "id": 103,
@@ -1019,7 +1022,8 @@
         "descripcion": "Hilo para barrilete, paquete de 10 ovillos",
         "precio": 2075,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/hiloBarrilete10ovillos.jpg"
+        "imagen": "../almacen.img/hiloBarrilete10ovillos.jpg",
+        "stock": 1
     },
     {
         "id": 104,
@@ -1027,7 +1031,8 @@
         "descripcion": "Hilo tipo chorisero, paquete de 10 ovillos",
         "precio": 2510,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/hiloChorisero10ovillos.jpg"
+        "imagen": "../almacen.img/hiloChorisero10ovillos.jpg",
+        "stock": 1
     },
     {
         "id": 105,
@@ -1035,7 +1040,8 @@
         "descripcion": "Palitos para brochete",
         "precio": 536,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/palitoBrochete.jpg"
+        "imagen": "../almacen.img/palitoBrochete.jpg",
+        "stock": 1
     },
 
     {
@@ -1044,7 +1050,8 @@
         "descripcion": "Por 500g",
         "precio": 1368,
         "categorias":["Yerbas"],
-        "imagen": "../almacen.img/yerbaCumbrecita.jpg"
+        "imagen": "../almacen.img/yerbaCumbrecita.jpg",
+        "stock": 1
     },
     {
         "id": 107,
@@ -1052,7 +1059,8 @@
         "descripcion": "(Peso 1K)",
         "precio": 1220,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/blancaflorHarina.jpg"
+        "imagen": "../almacen.img/blancaflorHarina.jpg",
+        "stock": 0
     },
     {
         "id": 108,
@@ -1060,7 +1068,8 @@
         "descripcion": "(Peso 1K)",
         "precio": 649,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/canuelasHarina.jpg"
+        "imagen": "../almacen.img/canuelasHarina.jpg",
+        "stock": 1
     },
     {
         "id": 109,
@@ -1068,7 +1077,8 @@
         "descripcion": "(Peso 1K)",
         "precio": 638,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/favoritaHarina.jpg"
+        "imagen": "../almacen.img/favoritaHarina.jpg",
+        "stock": 0
     },
 
     {
@@ -1077,7 +1087,9 @@
         "descripcion": "Clight sin azúcar sabor manzana deliciosa",
         "precio": 283,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/clight_manzana.jpg"
+        "imagen": "../almacen.img/clight_manzana.jpg",
+        "stock": 1
+    
     },
     {
         "id": 111,
@@ -1085,7 +1097,8 @@
         "descripcion": "Clight sin azúcar sabor naranja",
         "precio": 283,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/clight_naranja.jpg"
+        "imagen": "../almacen.img/clight_naranja.jpg",
+        "stock": 1
     },
     {
         "id": 112,
@@ -1093,7 +1106,8 @@
         "descripcion": "Jugo Baggio de 1 litro sabor multifruta",
         "precio": 1284,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/baggio_multifruta.jpg"
+        "imagen": "../almacen.img/baggio_multifruta.jpg",
+        "stock": 0
     },
     {
         "id": 113,
@@ -1101,7 +1115,8 @@
         "descripcion": "Jugo Baggio Pronto Juniors sabor manzana",
         "precio": 261,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/baggio_pronto_manzana.jpg"
+        "imagen": "../almacen.img/baggio_pronto_manzana.jpg",
+        "stock": 1
     },
     {
         "id": 114,
@@ -1109,7 +1124,8 @@
         "descripcion": "Jugo Baggio Pronto Juniors sabor naranja",
         "precio": 261,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/baggio_pronto_naranja.jpg"
+        "imagen": "../almacen.img/baggio_pronto_naranja.jpg",
+        "stock": 1
     },
     {
         "id": 115,
@@ -1117,7 +1133,8 @@
         "descripcion": "Jugo Baggio Pronto Juniors sabor multifruta",
         "precio": 261,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/baggio_pronto_multifruta.jpg"
+        "imagen": "../almacen.img/baggio_pronto_multifruta.jpg",
+        "stock": 1
     },
     {
         "id": 116,
@@ -1125,7 +1142,8 @@
         "descripcion": "Jugo Baggio en presentación de 200 ml",
         "precio": 401,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/baggio_200ml.jpg"
+        "imagen": "../almacen.img/baggio_200ml.jpg",
+        "stock": 1
     },
     {
         "id": 117,
@@ -1133,7 +1151,8 @@
         "descripcion": "Jugo Baggio sabor manzana y multifruta, 200 ml",
         "precio": 401,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/baggio_200ml_manzana_multifruta.jpg"
+        "imagen": "../almacen.img/baggio_200ml_manzana_multifruta.jpg",
+        "stock": 1
     },
     {
         "id": 118,
@@ -1141,7 +1160,8 @@
         "descripcion": "Jugo Baggio sabor naranja, 200 ml",
         "precio": 401,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/baggio_200ml_naranja.jpg"
+        "imagen": "../almacen.img/baggio_200ml_naranja.jpg",
+        "stock": 1
     },
     {
         "id": 119,
@@ -1149,7 +1169,8 @@
         "descripcion": "Jugos Naranju en presentación de 20 unidades",
         "precio": 1680,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/naranju_20u.jpg"
+        "imagen": "../almacen.img/naranju_20u.jpg",
+        "stock": 1
     },
     {
         "id": 120,
@@ -1157,7 +1178,8 @@
         "descripcion": "Bebida Placer sabor naranja, 500 cc",
         "precio": 505,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/placer_naranja_500cc.jpg"
+        "imagen": "../almacen.img/placer_naranja_500cc.jpg",
+        "stock": 1
     },
     {
         "id": 121,
@@ -1165,7 +1187,8 @@
         "descripcion": "Jugo Rinde 2 sabor manzana",
         "precio": 387,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/rinde2_manzana.jpg"
+        "imagen": "../almacen.img/rinde2_manzana.jpg",
+        "stock": 0
     },
     {
         "id": 122,
@@ -1173,7 +1196,8 @@
         "descripcion": "Jugo Rinde 2 sabor mix frutal",
         "precio": 387,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/rinde2_mix_frutal.jpg"
+        "imagen": "../almacen.img/rinde2_mix_frutal.jpg",
+        "stock": 0
     },
     {
         "id": 123,
@@ -1181,7 +1205,8 @@
         "descripcion": "Jugo Rinde 2 sabor naranja",
         "precio": 387,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/rinde2_naranja.jpg"
+        "imagen": "../almacen.img/rinde2_naranja.jpg",
+        "stock": 0
     },
     {
         "id": 124,
@@ -1189,7 +1214,8 @@
         "descripcion": "Jugo Rinde 2 sabor naranja y banana",
         "precio": 387,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/rinde2_naranja_banana.jpg"
+        "imagen": "../almacen.img/rinde2_naranja_banana.jpg",
+        "stock": 0
     },
     {
         "id": 125,
@@ -1197,7 +1223,8 @@
         "descripcion": "Jugo Rinde 2 sabor naranja y mango",
         "precio": 387,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/rinde2_naranja_mango.jpg"
+        "imagen": "../almacen.img/rinde2_naranja_mango.jpg",
+        "stock": 0
     },
     {
         "id": 126,
@@ -1205,7 +1232,8 @@
         "descripcion": "Tang sabor naranja",
         "precio": 266,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/tang_naranja.jpg"
+        "imagen": "../almacen.img/tang_naranja.jpg",
+        "stock": 1
     },
     {
         "id": 127,
@@ -1213,7 +1241,8 @@
         "descripcion": "Tang sabor manzana",
         "precio": 266,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/tang_manzana.jpg"
+        "imagen": "../almacen.img/tang_manzana.jpg",
+        "stock": 1
     },
     {
         "id": 128,
@@ -1221,7 +1250,8 @@
         "descripcion": "Tang sabor limón dulce y limonada",
         "precio": 266,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/tang_limon.jpg"
+        "imagen": "../almacen.img/tang_limon.jpg",
+        "stock": 1
     },
     {
         "id": 129,
@@ -1229,7 +1259,8 @@
         "descripcion": "Tang sabor multifruta",
         "precio": 266,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/tang_multifruta.jpg"
+        "imagen": "../almacen.img/tang_multifruta.jpg",
+        "stock": 1
     },
     {
         "id": 130,
@@ -1237,7 +1268,8 @@
         "descripcion": "Tang sabor naranja y mango",
         "precio": 266,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/tang_naranja_mango.jpg"
+        "imagen": "../almacen.img/tang_naranja_mango.jpg",
+        "stock": 1
     },
 
     {
@@ -1246,7 +1278,8 @@
         "descripcion": "Lámpara LED marca Candela, 12 W",
         "precio": 1136,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/lamp_candela_12w.jpg"
+        "imagen": "../almacen.img/lamp_candela_12w.jpg",
+        "stock": 1
     },
     {
         "id": 132,
@@ -1254,7 +1287,8 @@
         "descripcion": "Lámpara LED marca Candela, 7 W",
         "precio": 791,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/lamp_candela_7w.jpg"
+        "imagen": "../almacen.img/lamp_candela_7w.jpg",
+        "stock": 1
     },
     {
         "id": 133,
@@ -1262,7 +1296,8 @@
         "descripcion": "Lámpara LED marca Candela, 9 W",
         "precio": 921,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/lamp_candela_9w.jpg"
+        "imagen": "../almacen.img/lamp_candela_9w.jpg",
+        "stock": 1
     },
     {
         "id": 134,
@@ -1270,7 +1305,8 @@
         "descripcion": "Lámpara LED marca Light Tronic, 7 W",
         "precio": 677,
         "categorias":["Jugos"],
-        "imagen": "../almacen.img/lamp_light_tronic_7w.jpg"
+        "imagen": "../almacen.img/lamp_light_tronic_7w.jpg",
+        "stock": 1
     },
     {
         "id": 135,
@@ -1278,7 +1314,8 @@
         "descripcion": "Globos tipo bombucha, paquete de 100 unidades",
         "precio": 915,
         "categorias":["Latex"],
-        "imagen": "../almacen.img/bombucha_100u.jpg"
+        "imagen": "../almacen.img/bombucha_100u.jpg",
+        "stock": 1
     },
     {
         "id": 136,
@@ -1286,7 +1323,8 @@
         "descripcion": "Chupetes con tetina de silicona, unidad",
         "precio": 467,
         "categorias":["Latex"],
-        "imagen": "../almacen.img/chupetes_silicona.jpg"
+        "imagen": "../almacen.img/chupetes_silicona.jpg",
+        "stock": 1
     },
     {
         "id": 137,
@@ -1294,7 +1332,8 @@
         "descripcion": "Globos variados para cumpleaños, paquete de 50 unidades",
         "precio": 3463,
         "categorias":["Latex"],
-        "imagen": "../almacen.img/globos_feliz_cumple.jpg"
+        "imagen": "../almacen.img/globos_feliz_cumple.jpg",
+        "stock": 1
     },
     {
         "id": 138,
@@ -1302,7 +1341,8 @@
         "descripcion": "Globos lisos marca Globolandia, paquete de 50 unidades",
         "precio": 4188,
         "categorias":["Latex"],
-        "imagen": "../almacen.img/globos_lisos.jpg"
+        "imagen": "../almacen.img/globos_lisos.jpg",
+        "stock": 1
     },
     {
         "id": 139,
@@ -1310,7 +1350,8 @@
         "descripcion": "Mamadera decorada con diseños variados",
         "precio": 1810,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/mamadera_decorada.jpg"
+        "imagen": "../almacen.img/mamadera_decorada.jpg",
+        "stock": 1
     },
     {
         "id": 140,
@@ -1318,7 +1359,8 @@
         "descripcion": "Mamadera de cristal con dos asas",
         "precio": 1988,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/mamadera_2manos.jpg"
+        "imagen": "../almacen.img/mamadera_2manos.jpg",
+        "stock": 1
     },
     {
         "id": 141,
@@ -1326,7 +1368,8 @@
         "descripcion": "Mamadera de cristal con diseño liso",
         "precio": 1060,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/mamadera_lisa.jpg"
+        "imagen": "../almacen.img/mamadera_lisa.jpg",
+        "stock": 1
     },
     {
         "id": 142,
@@ -1334,7 +1377,8 @@
         "descripcion": "Producto de la marca Prime",
         "precio": 1738,
         "categorias":["Latex"],
-        "imagen": "../almacen.img/prime.jpg"
+        "imagen": "../almacen.img/prime.jpg",
+        "stock": 1
     },
     {
         "id": 143,
@@ -1342,7 +1386,8 @@
         "descripcion": "Tetinas de silicona, paquete de 10 unidades",
         "precio": 418,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/tetinas_silicona_10u.jpg"
+        "imagen": "../almacen.img/tetinas_silicona_10u.jpg",
+        "stock": 1
     },
     {
         "id": 144,
@@ -1350,7 +1395,8 @@
         "descripcion": "Producto de la línea Tulipán Clásico",
         "precio": 1340,
         "categorias":["Latex"],
-        "imagen": "../almacen.img/tulipan_clasico.jpg"
+        "imagen": "../almacen.img/tulipan_clasico.jpg",
+        "stock": 1
     },
     {
         "id": 145,
@@ -1358,7 +1404,8 @@
         "descripcion": "Fideos largos N° 4, ideales para sopas y acompañamientos.",
         "precio": 1374,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/fideos_308_n4.jpg"
+        "imagen": "../almacen.img/fideos_308_n4.jpg",
+        "stock": 0
     },
     {
         "id": 146,
@@ -1366,7 +1413,8 @@
         "descripcion": "Fideos Bernabeu Mostachol, perfectos para ensaladas y guisos.",
         "precio": 633,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/fideos_bernabeu_mostachol.jpg"
+        "imagen": "../almacen.img/fideos_bernabeu_mostachol.jpg",
+        "stock": 1
     },
     {
         "id": 147,
@@ -1374,7 +1422,8 @@
         "descripcion": "Fideos Bernabeu Rigatti, ideales para salsas y preparaciones clásicas.",
         "precio": 633,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/fideos_bernabeu_rigatti.jpg"
+        "imagen": "../almacen.img/fideos_bernabeu_rigatti.jpg",
+        "stock": 1
     },
     {
         "id": 148,
@@ -1382,7 +1431,8 @@
         "descripcion": "Fideos Bernabeu Tallarín, una opción deliciosa para platos principales.",
         "precio": 633,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/fideos_bernabeu_tallarin.jpg"
+        "imagen": "../almacen.img/fideos_bernabeu_tallarin.jpg",
+        "stock": 1
     },
 
     {
@@ -1391,7 +1441,8 @@
         "descripcion": "Naipes Casino de plástico, presentación de 40 unidades.",
         "precio": 1621,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/naipes_casino_40.jpg"
+        "imagen": "../almacen.img/naipes_casino_40.jpg",
+        "stock": 1
     },
     {
         "id": 150,
@@ -1399,7 +1450,8 @@
         "descripcion": "Naipes Casino de plástico, presentación de 50 unidades.",
         "precio": 1948,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/naipes_casino_50.jpg"
+        "imagen": "../almacen.img/naipes_casino_50.jpg",
+        "stock": 1
     },
     {
         "id": 151,
@@ -1407,7 +1459,8 @@
         "descripcion": "Naipes Habana, presentación de 50 unidades.",
         "precio": 1782,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/naipes_habana_50.jpg"
+        "imagen": "../almacen.img/naipes_habana_50.jpg",
+        "stock": 1
     },
     {
         "id": 152,
@@ -1415,7 +1468,8 @@
         "descripcion": "Naipes Habana, presentación de 40 unidades.",
         "precio": 1506,
         "categorias":["Otros"],
-        "imagen": "../almacen.img/naipes_habana_40.jpg"
+        "imagen": "../almacen.img/naipes_habana_40.jpg",
+        "stock": 1
     },
     {
         "id": 153,
@@ -1423,6 +1477,7 @@
         "descripcion": "Bizcochuelo EMETH sabor vainilla de 450 gramos",
         "precio": 1391,
         "categorias":["Cocina"],
-        "imagen": "../golosinas.img/bizcochueloEmethVainilla.jpg"
+        "imagen": "../golosinas.img/bizcochueloEmethVainilla.jpg",
+        "stock": 1
     }
 ]

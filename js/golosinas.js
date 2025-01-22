@@ -28,7 +28,11 @@ function mostrarProductos(productos) {
                 <h3>${producto.nombre}</h3>
                 <p>${producto.descripcion}</p>
                 <p class="precio">$${producto.precio.toFixed(2)}</p>
-                <button onclick="add('${producto.nombre}', '${producto.precio}')" class="btn3">Agregar al carrito</button>
+                ${
+                    producto.stock > 0
+                        ? `<button onclick="add('${producto.nombre}', '${producto.precio}')" class="btn3">Agregar al carrito</button>`
+                        : `<button class="btn3 no-stock" disabled>Sin stock</button>`
+                }
             </div>
         `;
         container.appendChild(box);

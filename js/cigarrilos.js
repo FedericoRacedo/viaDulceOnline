@@ -81,7 +81,7 @@ function actualizarCarrito() {
         total += producto.precio * producto.cantidad;
 
         const item = document.createElement('div');
-        item.classList.add('carrito-item'); 
+        item.classList.add('carrito-item');
         item.innerHTML = `
             <p>${producto.nombre} x${producto.cantidad}</p>
             <p>$${(producto.precio * producto.cantidad).toFixed(2)}</p>

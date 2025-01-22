@@ -5,7 +5,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 790.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/bastonitos60g.png"
+        "imagen": "../snack.img/bastonitos60g.png",
+        "stock": 1
     },
 
     {
@@ -14,7 +15,8 @@
         "descripcion": "(tamaño grande)",
         "precio": 2600.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/bastonitos330g.png"
+        "imagen": "../snack.img/bastonitos330g.png",
+        "stock": 1
     },
 
     {
@@ -23,7 +25,8 @@
         "descripcion": "(tamaño chico)",
         "precio":  1200.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/Cheddar60g.png"
+        "imagen": "../snack.img/Cheddar60g.png",
+        "stock": 1
     },
 
     {
@@ -32,7 +35,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 800.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/chizitos60g.jpg"
+        "imagen": "../snack.img/chizitos60g.jpg",
+        "stock": 1
     },
 
     {
@@ -41,7 +45,8 @@
         "descripcion": "(tamaño grande)",
         "precio": 2800.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/chizitos60g.jpg"
+        "imagen": "../snack.img/chizitos60g.jpg",
+        "stock": 1
     },
 
     {
@@ -50,7 +55,8 @@
         "descripcion": "(tamaño chico)",
         "precio":  1200.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/corteAmericano60g.jpg"
+        "imagen": "../snack.img/corteAmericano60g.jpg",
+        "stock": 1
     },
 
     {
@@ -59,7 +65,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 1200.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/Jamon60g.png"
+        "imagen": "../snack.img/Jamon60g.png",
+        "stock": 1
     },
 
     {
@@ -68,7 +75,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 1200.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/Ketchup60g.png"
+        "imagen": "../snack.img/Ketchup60g.png",
+        "stock": 1
     },
 
     {
@@ -77,7 +85,8 @@
         "descripcion": "(tamaño chico)",
         "precio":  700.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/mani60g.jpg"
+        "imagen": "../snack.img/mani60g.jpg",
+        "stock": 1
     },
 
     {
@@ -86,7 +95,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 700.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/Palitos65g.png"
+        "imagen": "../snack.img/Palitos65g.png",
+        "stock": 1
     },
 
     {
@@ -95,7 +105,8 @@
         "descripcion": "(tamaño grande)",
         "precio": 3500.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/Palitos65g.png"
+        "imagen": "../snack.img/Palitos65g.png",
+        "stock": 1
     },
 
     {
@@ -104,7 +115,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 1200.00,
         "categorias": ["Krachitos"],
-        "imagen": "../snack.img/traciones60g.png"
+        "imagen": "../snack.img/traciones60g.png",
+        "stock": 1
     },
 
     {
@@ -113,7 +125,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 600.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/CorteAmericanoSlices.jpg"
+        "imagen": "../snack.img/CorteAmericanoSlices.jpg",
+        "stock": 1
     },
 
     {
@@ -122,7 +135,8 @@
         "descripcion": "(tamaño grande)",
         "precio": 2600.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/CorteAmericanoSlices.jpg"
+        "imagen": "../snack.img/CorteAmericanoSlices.jpg",
+        "stock": 1
     },
 
     {
@@ -131,7 +145,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 900.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/cheddarSlices.webp"
+        "imagen": "../snack.img/cheddarSlices.webp",
+        "stock": 1
     },
 
     {
@@ -140,7 +155,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 600.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/ClasicaSlices.webp"
+        "imagen": "../snack.img/ClasicaSlices.webp",
+        "stock": 1
     },
 
     {
@@ -149,7 +165,8 @@
         "descripcion": "(tamaño grande)",
         "precio": 2600.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/ClasicaSlices.webp"
+        "imagen": "../snack.img/ClasicaSlices.webp",
+        "stock": 1
     },
 
     {
@@ -158,7 +175,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 900.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/4gSlices.png"
+        "imagen": "../snack.img/4gSlices.png",
+        "stock": 1
     },
 
     {
@@ -167,7 +185,8 @@
         "descripcion": "LAYS Clásica en paquete de 40 gramos, papas fritas crujientes y sabrosas.",
         "precio": 1221,
         "categorias": ["Pepsico"],
-        "imagen": "../snack.img/lays_clasica_40gr.jpg"
+        "imagen": "../snack.img/lays_clasica_40gr.jpg",
+        "stock": 1
     },
 
     {
@@ -176,7 +195,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 1200.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/KetchupSlices.webp"
+        "imagen": "../snack.img/KetchupSlices.webp",
+        "stock": 1
     },
 
     {
@@ -185,7 +205,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 600.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/PalitoCheddarSlices.jpg"
+        "imagen": "../snack.img/PalitoCheddarSlices.jpg",
+        "stock": 1
     },
 
     {
@@ -194,7 +215,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 600.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/palitosJamonSlices.webp"
+        "imagen": "../snack.img/palitosJamonSlices.webp",
+        "stock": 1
     },
 
     {
@@ -203,7 +225,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 600.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/palitosSlices.jpg"
+        "imagen": "../snack.img/palitosSlices.jpg",
+        "stock": 1
     },
 
     {
@@ -212,7 +235,8 @@
         "descripcion": "(tamaño chico)",
         "precio": 1200.00,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/salameSlices.png"
+        "imagen": "../snack.img/salameSlices.png",
+        "stock": 1
     },
 
     {
@@ -221,7 +245,8 @@
         "descripcion": "(Sabor Queso)",
         "precio": 950.22,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/4gSlices.png"
+        "imagen": "../snack.img/4gSlices.png",
+        "stock": 1
     },
     {
         "id": 26,
@@ -229,7 +254,8 @@
         "descripcion": "(x 900g)",
         "precio": 5099,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/manitonCrocanteGrande.jpg"
+        "imagen": "../snack.img/manitonCrocanteGrande.jpg",
+        "stock": 1
     },
     {
         "id": 26,
@@ -237,7 +263,8 @@
         "descripcion": "x 160gr",
         "precio": 1384,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/manitonCrocanteChico.jpg"
+        "imagen": "../snack.img/manitonCrocanteChico.jpg",
+        "stock": 1
     },
 
     {
@@ -246,7 +273,8 @@
         "descripcion": "Aritos sabor frutal, ideales como snack, 90 gramos",
         "precio": 725,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/aritosFrutalBurbujas90gr.jpg"
+        "imagen": "../snack.img/aritosFrutalBurbujas90gr.jpg",
+        "stock": 1
     },
     {
         "id": 28,
@@ -254,7 +282,8 @@
         "descripcion": "Arroz inflado, ligero y crujiente, 80 gramos",
         "precio": 608,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/arrozInfladoBurbujas80gr.jpg"
+        "imagen": "../snack.img/arrozInfladoBurbujas80gr.jpg",
+        "stock": 1
     },
     {
         "id": 29,
@@ -262,7 +291,8 @@
         "descripcion": "Tubitos crujientes saborizados, 330 gramos",
         "precio": 1708,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/bastonTubitosBots330g.jpg"
+        "imagen": "../snack.img/bastonTubitosBots330g.jpg",
+        "stock": 1
     },
     {
         "id": 30,
@@ -270,7 +300,8 @@
         "descripcion": "Tubitos crujientes saborizados, 80 gramos",
         "precio": 430,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/bastonTubitosBots80gr.jpg"
+        "imagen": "../snack.img/bastonTubitosBots80gr.jpg",
+        "stock": 1
     },
     {
         "id": 31,
@@ -278,7 +309,8 @@
         "descripcion": "Bastoncitos crocantes, ideales para compartir, 330 gramos",
         "precio": 1708,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/bastoncitosBots330gr.jpg"
+        "imagen": "../snack.img/bastoncitosBots330gr.jpg",
+        "stock": 1
     },
     {
         "id": 32,
@@ -286,7 +318,8 @@
         "descripcion": "Bastoncitos sabor queso, ligeros y crujientes, 80 gramos",
         "precio": 430,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/bastoncitosChizitosBots80gr.jpg"
+        "imagen": "../snack.img/bastoncitosChizitosBots80gr.jpg",
+        "stock": 1
     },
 
     {
@@ -295,7 +328,8 @@
         "descripcion": "Bolitas saborizadas, formato grande ideal para eventos, 1 kilo",
         "precio": 5217,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/bolitasBurbujas1k.jpg"
+        "imagen": "../snack.img/bolitasBurbujas1k.jpg",
+        "stock": 1
     },
     {
         "id": 34,
@@ -303,7 +337,8 @@
         "descripcion": "Snack dulce de chocolate, perfecto para disfrutar en cualquier momento, 90 gramos",
         "precio": 743,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/bolitasChocolateCereal.jpg"
+        "imagen": "../snack.img/bolitasChocolateCereal.jpg",
+        "stock": 1
     },
     {
         "id": 35,
@@ -311,7 +346,8 @@
         "descripcion": "Bolitas de maíz saborizadas, ligeras y crujientes, 80 gramos",
         "precio": 543,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/bolitasPuflitosBurbujas80gr.jpg"
+        "imagen": "../snack.img/bolitasPuflitosBurbujas80gr.jpg",
+        "stock": 1
     },
 
     {
@@ -320,7 +356,8 @@
         "descripcion": "Caja de chizitos, 20 unidades",
         "precio": 1966,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/chizBurbujas20u.jpg"
+        "imagen": "../snack.img/chizBurbujas20u.jpg",
+        "stock": 1
     },
     {
         "id": 37,
@@ -328,7 +365,8 @@
         "descripcion": "Chizitos, 80 gramos",
         "precio": 543,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/chizitoBurbujas80g.jpg"
+        "imagen": "../snack.img/chizitoBurbujas80g.jpg",
+        "stock": 1
     },
     {
         "id": 38,
@@ -336,7 +374,8 @@
         "descripcion": "Bolsa grande de chizitos, 1 kilo",
         "precio": 4376,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/chizitosBurbujas1k.webp"
+        "imagen": "../snack.img/chizitosBurbujas1k.webp",
+        "stock": 1
     },
     {
         "id": 39,
@@ -344,7 +383,8 @@
         "descripcion": "Copos de maíz azucarados, 90 gramos",
         "precio": 655,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/coposAzucaradosBurbujas90gr.jpg"
+        "imagen": "../snack.img/coposAzucaradosBurbujas90gr.jpg",
+        "stock": 1
     },
     {
         "id": 40,
@@ -352,7 +392,8 @@
         "descripcion": "Doritos clásicos, 40 gramos",
         "precio": 1268,
         "categorias": ["Pepsico"],
-        "imagen": "../snack.img/doritos40gr.jpg"
+        "imagen": "../snack.img/doritos40gr.jpg",
+        "stock": 1
     },
     {
         "id": 41,
@@ -360,7 +401,8 @@
         "descripcion": "Jamcitos, 80 gramos",
         "precio": 543,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/jamcitos80gr.jpg"
+        "imagen": "../snack.img/jamcitos80gr.jpg",
+        "stock": 1
     },
     {
         "id": 42,
@@ -368,7 +410,8 @@
         "descripcion": "Bolsa grande de jamcitos, 1 kilo",
         "precio": 4994,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/jamcitosBurbujas1k.jpg"
+        "imagen": "../snack.img/jamcitosBurbujas1k.jpg",
+        "stock": 1
     },
     {
         "id": 43,
@@ -376,7 +419,8 @@
         "descripcion": "Nachos sabor bacon",
         "precio": 1055,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/nachosBacon.jpg"
+        "imagen": "../snack.img/nachosBacon.jpg",
+        "stock": 1
     },
     {
         "id": 44,
@@ -384,7 +428,8 @@
         "descripcion": "Nachos sabor cheddar",
         "precio": 1055,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/nachosCheddar.jpg"
+        "imagen": "../snack.img/nachosCheddar.jpg",
+        "stock": 1
     },
     {
         "id": 45,
@@ -392,7 +437,8 @@
         "descripcion": "Nachos sabor cheese burger",
         "precio": 1055,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/nachosCheeseBurger.jpg"
+        "imagen": "../snack.img/nachosCheeseBurger.jpg",
+        "stock": 1
     },
     {
         "id": 46,
@@ -400,7 +446,8 @@
         "descripcion": "Nachos sabor original",
         "precio": 1055,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/nachosOriginal.jpg"
+        "imagen": "../snack.img/nachosOriginal.jpg",
+        "stock": 1
     },
     {
         "id": 47,
@@ -408,7 +455,8 @@
         "descripcion": "Palitos salados, 150 gramos",
         "precio": 881,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/palitoSaladoBurbujas150g.jpg"
+        "imagen": "../snack.img/palitoSaladoBurbujas150g.jpg",
+        "stock": 1
     },
     {
         "id": 48,
@@ -416,7 +464,8 @@
         "descripcion": "Caja de palitos salados, 20 unidades",
         "precio": 1827,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/palitosSalBurb20u.jpg"
+        "imagen": "../snack.img/palitosSalBurb20u.jpg",
+        "stock": 1
     },
     {
         "id": 49,
@@ -424,7 +473,8 @@
         "descripcion": "Bolsa grande de palitos, 1 kilo",
         "precio": 4083,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/palitosSlices1k.jpg"
+        "imagen": "../snack.img/palitosSlices1k.jpg",
+        "stock": 1
     },
 
     {
@@ -433,7 +483,8 @@
         "descripcion": "Papas fritas estilo pay, 1 kilo",
         "precio": 6363,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/papasPay1k.jpg"
+        "imagen": "../snack.img/papasPay1k.jpg",
+        "stock": 1
     },
     {
         "id": 51,
@@ -441,7 +492,8 @@
         "descripcion": "Caja de papas pay, 20 unidades",
         "precio": 2951,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/papasPayBurbujas20u.jpg"
+        "imagen": "../snack.img/papasPayBurbujas20u.jpg",
+        "stock": 1
     },
     {
         "id": 52,
@@ -449,7 +501,8 @@
         "descripcion": "Papas pay en presentación de 140 gramos",
         "precio": 859,
         "categorias": ["Slices"],
-        "imagen": "../snack.img/papasPaySlice140gr.jpg"
+        "imagen": "../snack.img/papasPaySlice140gr.jpg",
+        "stock": 1
     },
 
     {
@@ -458,7 +511,8 @@
         "descripcion": "Twistos sabor jamón, 40 gramos",
         "precio": 1283,
         "categorias": ["Pepsico"],
-        "imagen": "../snack.img/twistosJamon40gr.jpg"
+        "imagen": "../snack.img/twistosJamon40gr.jpg",
+        "stock": 1
     },
     {
         "id": 54,
@@ -466,7 +520,8 @@
         "descripcion": "Pizzetas crocantes, 330 gramos",
         "precio": 1708,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/pizzetasRueditasBots330gr.jpg"
+        "imagen": "../snack.img/pizzetasRueditasBots330gr.jpg",
+        "stock": 1
     },
     {
         "id": 55,
@@ -474,7 +529,8 @@
         "descripcion": "Pizzetas crocantes, 80 gramos",
         "precio": 430,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/pizzetasRueditasBots80gr.jpg"
+        "imagen": "../snack.img/pizzetasRueditasBots80gr.jpg",
+        "stock": 1
     },
     {
         "id": 56,
@@ -482,7 +538,8 @@
         "descripcion": "Pochoclos dulces clásicos",
         "precio": 1036,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/pochocloReadyPopDulceClasico.jpg"
+        "imagen": "../snack.img/pochocloReadyPopDulceClasico.jpg",
+        "stock": 1
     },
     {
         "id": 57,
@@ -490,7 +547,8 @@
         "descripcion": "Saladix en porción de 25 gramos",
         "precio": 490,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/saladixDuo25gr.jpg"
+        "imagen": "../snack.img/saladixDuo25gr.jpg",
+        "stock": 1
     },
     {
         "id": 58,
@@ -498,7 +556,8 @@
         "descripcion": "Tutuca crocante, 400 gramos",
         "precio": 1708,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/tutucaPunoBots400gr.jpg"
+        "imagen": "../snack.img/tutucaPunoBots400gr.jpg",
+        "stock": 1
     },
     {
         "id": 59,
@@ -506,7 +565,8 @@
         "descripcion": "Caja de snacks de girasol, 20 unidades",
         "precio": 2208,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/susGirasol20u.jpg"
+        "imagen": "../snack.img/susGirasol20u.jpg",
+        "stock": 1
     },
     {
         "id": 60,
@@ -514,7 +574,8 @@
         "descripcion": "Takis Fuego picantes, 140 gramos",
         "precio": 3101,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/takisFuego140g.jpg"
+        "imagen": "../snack.img/takisFuego140g.jpg",
+        "stock": 1
     },
     {
         "id": 61,
@@ -522,7 +583,8 @@
         "descripcion": "Takis Fuego picantes, 49 gramos",
         "precio": 1257,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/takisFuego49g.jpg"
+        "imagen": "../snack.img/takisFuego49g.jpg",
+        "stock": 1
     },
     {
         "id": 62,
@@ -530,7 +592,8 @@
         "descripcion": "Takis sabor original, 140 gramos",
         "precio": 3101,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/takisOriginal140g.jpg"
+        "imagen": "../snack.img/takisOriginal140g.jpg",
+        "stock": 1
     },
     {
         "id": 63,
@@ -538,7 +601,8 @@
         "descripcion": "Bolsa de tutuca, 1 kilo",
         "precio": 4801,
         "categorias": ["Burbujas"],
-        "imagen": "../snack.img/tutucaBurbujas1k.jpg"
+        "imagen": "../snack.img/tutucaBurbujas1k.jpg",
+        "stock": 1
     },
     {
         "id": 64,
@@ -546,7 +610,8 @@
         "descripcion": "Tutuca en presentación de 80 gramos",
         "precio": 607,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/tutucaBurbujas80gr.jpg"
+        "imagen": "../snack.img/tutucaBurbujas80gr.jpg",
+        "stock": 1
     }, 
 
     {
@@ -555,7 +620,8 @@
         "descripcion": "Nachos picantes",
         "precio": 1055,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/nachosFakinHot.jpg"
+        "imagen": "../snack.img/nachosFakinHot.jpg",
+        "stock": 1
     },
 
     {
@@ -564,7 +630,8 @@
         "descripcion": "Galletitas Rex en estuche, paquete de 125 gramos",
         "precio": 1194,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/rexEstuche125.jpg"
+        "imagen": "../snack.img/rexEstuche125.jpg",
+        "stock": 1
     },
     {
         "id": 67,
@@ -572,7 +639,8 @@
         "descripcion": "Snack Saladix Duo, caja de 80 gramos",
         "precio": 997,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/saladixDuo80.jpg"
+        "imagen": "../snack.img/saladixDuo80.jpg",
+        "stock": 1
     },
     {
         "id": 68,
@@ -580,7 +648,8 @@
         "descripcion": "Snack Saladix Picante, caja de 100 gramos",
         "precio": 917,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/saladixPicante100.jpg"
+        "imagen": "../snack.img/saladixPicante100.jpg",
+        "stock": 1
     },
     {
         "id": 69,
@@ -588,7 +657,8 @@
         "descripcion": "Snack Saladix Pizza, caja de 100 gramos",
         "precio": 997,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/saladixPizza100.jpg"
+        "imagen": "../snack.img/saladixPizza100.jpg",
+        "stock": 1
     },
     {
         "id": 70,
@@ -596,7 +666,8 @@
         "descripcion": "Snack Saladix Pizza, paquete de 25 gramos",
         "precio":  490,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/saladixPizza25.webp"
+        "imagen": "../snack.img/saladixPizza25.webp",
+        "stock": 1
     },
     {
         "id": 71,
@@ -604,7 +675,8 @@
         "descripcion": "Snack Saladix Calabresa, paquete de 30 gramos",
         "precio": 490,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/saladixCalabresa30.jpg"
+        "imagen": "../snack.img/saladixCalabresa30.jpg",
+        "stock": 1
     },
     {
         "id": 72,
@@ -612,7 +684,8 @@
         "descripcion": "Snack Saladix Jamón, paquete de 30 gramos",
         "precio": 490,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/saladixJamon30.jpg"
+        "imagen": "../snack.img/saladixJamon30.jpg",
+        "stock": 1
     },
     {
         "id": 73,
@@ -620,7 +693,8 @@
         "descripcion": "Snack Saladix Picante en tira, paquete de 30 gramos",
         "precio": 469,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/saladixPicanteTira30.jpg"
+        "imagen": "../snack.img/saladixPicanteTira30.jpg",
+        "stock": 1
     },
 
     {
@@ -629,7 +703,8 @@
         "descripcion": "Galletitas Rex en bolsa, paquete de 75 gramos",
         "precio": 738,
         "categorias": ["Otros"],
-        "imagen": "../snack.img/rexGall75.jpg"
+        "imagen": "../snack.img/rexGall75.jpg",
+        "stock": 1
     },
 
     {
@@ -638,7 +713,8 @@
         "descripcion": "Cheetos Classic en paquete de 43 gramos, snack crocante y delicioso.",
         "precio": 1221,
         "categorias": ["Pepsico"],
-        "imagen": "../snack.img/cheetos_classic_43gr.jpg"
+        "imagen": "../snack.img/cheetos_classic_43gr.jpg",
+        "stock": 1
     },
     {
         "id": 76,
@@ -646,7 +722,8 @@
         "descripcion": "Bolsa 75gr",
         "precio": 739,
         "categorias": ["Otros"],
-        "imagen": "../golosinas.img/kesitasBolsa.jpg"
+        "imagen": "../golosinas.img/kesitasBolsa.jpg",
+        "stock": 1
     },
     {
         "id": 77,
@@ -654,7 +731,8 @@
         "descripcion": "Tiras x 10",
         "precio": 4909,
         "categorias": ["Otros"],
-        "imagen": "../golosinas.img/pipaGigante.jpg"
+        "imagen": "../golosinas.img/pipaGigante.jpg",
+        "stock": 1
     },
     {
         "id": 170,
@@ -662,7 +740,8 @@
         "descripcion": "Caja x 12",
         "precio": 5990,
         "categorias": ["Otros"],
-        "imagen": "../golosinas.img/pipaGigante.Cajajpg.jpg"
+        "imagen": "../golosinas.img/pipaGigante.Cajajpg.jpg",
+        "stock": 1
     },
     {
         "id": 180,
@@ -670,7 +749,8 @@
         "descripcion": "Caja x 10",
         "precio": 2019,
         "categorias": ["Otros"],
-        "imagen": "../golosinas.img/pipaGirasol.jpg"
+        "imagen": "../golosinas.img/pipaGirasol.jpg",
+        "stock": 1
     }
 
 ]
