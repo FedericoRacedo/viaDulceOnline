@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "nombre": "Boligoma",
+        "nombre": "VOLIGOMA/ pelikan",
         "descripcion": "(tamaño 30ml)",
-        "precio": "790,00",
+        "precio": 1110.23,
         "imagen": "../libreria.img/boligoma.jpg"
     },
 
@@ -11,7 +11,7 @@
         "id": 2,
         "nombre": "Cartulina Blanca",
         "descripcion": "(Precio por unidad)",
-        "precio": "200,00",
+        "precio": 252.05,
         "imagen": "../libreria.img/cartulinaBlanca.jpg"
     },
 
@@ -19,7 +19,7 @@
         "id": 3,
         "nombre": "Cartulina Color",
         "descripcion": "(Precio por unidad)",
-        "precio":  "400,00",
+        "precio":  335.43,
         "imagen": "../libreria.img/cartulinasColor.jpg"
     },
 
@@ -27,7 +27,7 @@
         "id": 4,
         "nombre": "Lapiceras Bic",
         "descripcion": "(Color rojo, negro o verde)",
-        "precio": "800,00",
+        "precio": 464.05,
         "imagen": "../libreria.img/lapicerasBic.jpg"
     },
 
@@ -35,7 +35,7 @@
         "id": 5,
         "nombre": "Plasticola STA",
         "descripcion": "(tamaño 250g)",
-        "precio": "999,00",
+        "precio": 999,
         "imagen": "../libreria.img/plasticolasSTA100g.jpg"
     },
 
@@ -43,35 +43,35 @@
         "id": 6,
         "nombre": "Banditas Elástica x50 Gs.",
         "descripcion": "Pack de 50 gramos de banditas elásticas resistentes, ideales para uso escolar y oficina.",
-        "precio": "874,37",
+        "precio": 874.37,
         "imagen": "../libreria.img/banditas_elasticas.jpg"
     },
     {
         "id": 7,
         "nombre": "Bengala Feliz Cumpleaños x 4u",
         "descripcion": "Set de 4 bengalas para celebraciones, ideales para tortas de cumpleaños.",
-        "precio": "1.078,82",
+        "precio": 1079.82,
         "imagen": "../libreria.img/bengala_feliz.jpg"
     },
     {
         "id": 8,
         "nombre": "Bolígrafos BIC Opaca Rojo",
         "descripcion": "Bolígrafo de tinta roja, diseño ergonómico y escritura suave.",
-        "precio": "589,21",
+        "precio": 464.05,
         "imagen": "../libreria.img/boligrafo_bic_rojo.jpg"
     },
     {
         "id": 9,
         "nombre": "Bolígrafos BIC Opaca Azul",
         "descripcion": "Bolígrafo de tinta azul, perfecto para uso diario en oficina y escuela.",
-        "precio": "553,06",
+        "precio": 464.05,
         "imagen": "../libreria.img/boligrafo_bic_azul.jpg"
     },
     {
         "id": 10,
         "nombre": "Bolígrafos BIC Opaco Negro",
         "descripcion": "Bolígrafo de tinta negra, ideal para documentos y escritura profesional.",
-        "precio": "553,06",
+        "precio": 464.05,
         "imagen": "../libreria.img/boligrafo_bic_negro.png"
     },
 
@@ -79,217 +79,217 @@
         "id": 11,
         "nombre": "Cinta de Papel SELLOX 24mm x 40mts",
         "descripcion": "Cinta de papel ideal para etiquetar y uso general, 24 mm x 40 metros.",
-        "precio": "1.509,53",
+        "precio": 1509.53,
         "imagen": "../libreria.img/cinta_sellox.jpg"
     },
     {
         "id": 12,
         "nombre": "Cola Blanca STA x 30 Gs.",
         "descripcion": "Pegamento blanco de 30 gramos, ideal para papel, cartón y manualidades.",
-        "precio": "227,11",
+        "precio": 227.11,
         "imagen": "../libreria.img/cola_bca_sta.jpg"
     },
     {
         "id": 13,
         "nombre": "Cola Señorita 50 Grs.",
         "descripcion": "Pegamento de 50 gramos, perfecto para trabajos escolares y manualidades.",
-        "precio": "406,22",
+        "precio": 406.22,
         "imagen": "../libreria.img/cola_senorita.jpg"
     },
     {
         "id": 14,
         "nombre": "Cola STA x 100 grs",
         "descripcion": "Pegamento multiusos de 100 gramos, excelente adhesión para proyectos.",
-        "precio": "762,02",
+        "precio": 672.63,
         "imagen": "../libreria.img/cola_sta_100gr.jpg"
     },
     {
         "id": 15,
         "nombre": "Corrector P/Metal Ezco/TAIKO",
         "descripcion": "Corrector de metal con aplicador de precisión, ideal para correcciones rápidas.",
-        "precio": "637,70",
+        "precio": 637.7,
         "imagen": "../libreria.img/corrector_metal.jpg"
     },
     {
         "id": 16,
         "nombre": "Crayones SIMBALL x 12u",
         "descripcion": "Caja de 12 crayones de colores vibrantes, perfectos para niños y artistas.",
-        "precio": "499,70",
+        "precio": 499.7,
         "imagen": "../libreria.img/crayones_12.jpg"
     },
     {
         "id": 17,
         "nombre": "Crayones SIMBALL x 6u",
         "descripcion": "Caja de 6 crayones de colores básicos para dibujos y actividades escolares.",
-        "precio": "211,84",
+        "precio": 211.84,
         "imagen": "../libreria.img/crayones_6.jpg"
     },
     {
         "id": 18,
         "nombre": "Cuaderno Avon-asamblea 29.5 x 80Hjs Cuadriculado",
         "descripcion": "Cuaderno de 80 hojas cuadriculadas, tamaño grande, ideal para notas detalladas.",
-        "precio": "3.232,73",
+        "precio":3232.73,
         "imagen": "../libreria.img/cuaderno_avon_cuad.jpg"
     },
     {
         "id": 19,
         "nombre": "Cuaderno Avon-asamblea 29.5 x 80Hjs Rayado",
         "descripcion": "Cuaderno de 80 hojas rayadas, perfecto para escritura y apuntes.",
-        "precio": "3.232,73",
+        "precio": 3232.73,
         "imagen": "../libreria.img/cuaderno_avon_rayado.jpg"
     },
     {
         "id": 20,
         "nombre": "Cuaderno GLORIA t/b x 24Hojs. Cuadriculado",
         "descripcion": "Cuaderno compacto de 24 hojas cuadriculadas, ideal para anotaciones rápidas.",
-        "precio": "772,34",
+        "precio": 772.21,
         "imagen": "../libreria.img/cuaderno_gloria_24_cuad.jpg"
     },
     {
         "id": 21,
         "nombre": "Cuaderno GLORIA t/b x 24Hojs. Rayado",
         "descripcion": "Cuaderno pequeño de 24 hojas rayadas, práctico para el día a día.",
-        "precio": "772,34",
+        "precio": 772.21,
         "imagen": "../libreria.img/cuaderno_gloria_24_rayado.jpg"
     },
     {
         "id": 22,
         "nombre": "Cuaderno GLORIA t/b x 48hojas Cuadriculado",
         "descripcion": "Cuaderno de 48 hojas cuadriculadas, perfecto para cálculos y gráficos.",
-        "precio": "1.004,50",
+        "precio": 1004.50,
         "imagen": "../libreria.img/cuaderno_gloria_48_cuad.jpg"
     },
     {
         "id": 23,
         "nombre": "Cuaderno GLORIA t/b x 48hojas Rayado",
         "descripcion": "Cuaderno mediano de 48 hojas rayadas, ideal para notas y apuntes largos.",
-        "precio": "1.004,50",
+        "precio": 1004.50,
         "imagen": "../libreria.img/cuaderno_gloria_48_rayado.jpg"
     },
     {
         "id": 24,
         "nombre": "Cuaderno T/D Exito x 48 hjs Forrado",
         "descripcion": "Cuaderno de 48 hojas forrado, resistente y perfecto para estudiantes.",
-        "precio": "2.859,35",
+        "precio": 2859.35,
         "imagen": "../libreria.img/cuaderno_exito.jpg"
     },
     {
         "id": 25,
         "nombre": "Etuiquetas de precios ",
         "descripcion": "Rollo de etiquetas .",
-        "precio": "423,56,",
+        "precio": 423.56,
         "imagen": "../libreria.img/EtiquetaDePrecios.jpg"
     },
     {
         "id": 26,
         "nombre": "Hilo coser",
         "descripcion": "Color blanco, color negro.",
-        "precio": "177,84",
+        "precio": 177.84,
         "imagen": "../libreria.img/hiloCoser.jpg"
     },
     {
         "id": 27,
         "nombre": "Lapiz negro Bic",
         "descripcion": "Evolution x 12 unidades.",
-        "precio": "1.624,51",
+        "precio": 1624.51,
         "imagen": "../libreria.img/lapizNegro.jpg"
     },
     {
         "id": 28,
         "nombre": "Pinceles Piccasito x 6u",
         "descripcion": "Set de 6 pinceles de alta calidad, ideales para pintura artística y escolar.",
-        "precio": "1.102,41",
+        "precio": 1102.41,
         "imagen": "../libreria.img/pinceles_piccasito.jpg"
     },
     {
         "id": 29,
         "nombre": "Pinturitas Innovation Larga x 12 un.",
         "descripcion": "Caja de 12 lápices de colores largos, con tonos vivos y diseño ergonómico.",
-        "precio": "1.956,28",
+        "precio": 1956.28,
         "imagen": "../libreria.img/pinturitas_innovation_larga.jpg"
     },
     {
         "id": 30,
         "nombre": "Pinturitas Penmac x 12 Larga",
         "descripcion": "Lápices de colores largos de alta calidad, resistentes y vibrantes.",
-        "precio": "1.156,25",
+        "precio": 1156.25,
         "imagen": "../libreria.img/pinturitas_penmac_larga.jpg"
     },
     {
         "id": 31,
         "nombre": "Pinturitas SIMBALL Innovation x 6 Corta",
         "descripcion": "Caja de 6 lápices de colores cortos, ideales para manos pequeñas.",
-        "precio": "603,48",
+        "precio": 603.48,
         "imagen": "../libreria.img/pinturitas_simball_corta.jpg"
     },
     {
         "id": 32,
         "nombre": "Pinturitas SIMBALL x 12 Corto",
         "descripcion": "Lápices de colores cortos en caja de 12 unidades, perfectos para escolares.",
-        "precio": "1.215,22",
+        "precio": 1215.22,
         "imagen": "../libreria.img/pinturitas_simball_corto.jpg"
     },
     {
         "id": 33,
         "nombre": "Plasticola x 40 grs",
         "descripcion": "Pegamento plástico de 40 gramos, ideal para manualidades y proyectos.",
-        "precio": "403,66",
+        "precio": 403.66,
         "imagen": "../libreria.img/plasticola_40gr.jpg"
     },
     {
         "id": 34,
         "nombre": "Plastilina P Color x 24u",
         "descripcion": "Pack de 24 unidades de plastilina de colores, no tóxica y moldeable.",
-        "precio": "3.716,00",
+        "precio": 3716,
         "imagen": "../libreria.img/plastilina_color.jpg"
     },
     {
         "id": 35,
         "nombre": "Resaltador Fluo",
         "descripcion": "Resaltador de tinta fluorescente, ideal para destacar textos.",
-        "precio": "483,34",
+        "precio": 483.34,
         "imagen": "../libreria.img/resaltador_fluo.jpg"
     },
     {
         "id": 36,
         "nombre": "Resma AUTOR x 75 G A4 x 500 Hs",
         "descripcion": "Resma de papel tamaño A4, 75 gramos, ideal para impresión y fotocopias.",
-        "precio": "7.978,88",
+        "precio": 7978.88,
         "imagen": "../libreria.img/resma_autor_a4.jpg"
     },
     {
         "id": 37,
         "nombre": "Resma PUNAX x 75 G A4",
         "descripcion": "Papel tamaño A4 de alta calidad, perfecto para uso en oficina y hogar.",
-        "precio": "5.783,41",
+        "precio": 5783.41,
         "imagen": "../libreria.img/resma_punax_a4.jpg"
     },
     {
         "id": 38,
         "nombre": "Talón Nros 1-100",
         "descripcion": "Talonario numerado del 1 al 100, ideal para uso comercial y administrativo.",
-        "precio": "700,93",
+        "precio": 700.93,
         "imagen": "../libreria.img/talon_numerado.jpg"
     },
     {
         "id": 39,
         "nombre": "Témpera P Color x 10 unid.",
         "descripcion": "Set de 10 témperas de colores surtidos, perfectas para pintar y crear.",
-        "precio": "1.643,69",
+        "precio": 1643.69,
         "imagen": "../libreria.img/tempera_color.jpg"
     },
     {
         "id": 40,
         "nombre": "Papel afiche.",
         "descripcion": "Color Blanco.",
-        "precio": "518,70",
+        "precio": 518.7,
         "imagen": "../libreria.img/aficheBlanco.jpg"
     },
     {
         "id": 40,
         "nombre": "Papel afiche.",
         "descripcion": "De color.",
-        "precio": "602,62",
+        "precio": 602.62,
         "imagen": "../libreria.img/aficheColor.jpg"
     },
 
@@ -297,28 +297,28 @@
         "id": 41,
         "nombre": "TIJERITA MAPED ESSENTIALS 13cm",
         "descripcion": "Tijera Maped Essentials de 13 cm, ideal para uso escolar o de oficina.",
-        "precio": "1.395,62",
+        "precio": 1395.62,
         "imagen": "../libreria.img/tijera_maped_essentials_13cm.jpg"
     },
     {
         "id": 42,
         "nombre": "Tizas PLAYCOLOR COLORES x 12 un.",
         "descripcion": "Tizas Playcolor en colores surtidos, caja con 12 unidades.",
-        "precio": "595,40",
+        "precio": 595.4,
         "imagen": "../libreria.img/tizas_playcolor_colores.jpg"
     },
     {
         "id": 43,
         "nombre": "Tizas Playcolor BLANCA x 12 un",
         "descripcion": "Tizas Playcolor blancas, caja con 12 unidades.",
-        "precio": "684,62",
+        "precio": 684.62,
         "imagen": "../libreria.img/tizas_playcolor_blancas.jpg"
     },
     {
         "id": 44,
         "nombre": "VOLIGOMA/ pelikan",
         "descripcion": "Voligoma Pelikan, adhesivo de uso escolar.",
-        "precio": "1.106,32",
+        "precio": 1106.32,
         "imagen": "../libreria.img/voligoma_pelikan.jpg"
     }
 ]

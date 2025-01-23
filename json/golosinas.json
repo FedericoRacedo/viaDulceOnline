@@ -12,7 +12,7 @@
         "id": 2,
         "nombre": "Alfajor COFLER BLOCK",
         "descripcion": "(Peso 60g)",
-        "precio": 917.00,
+        "precio": 991.18,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/AlfBlock.jpg"
     },
@@ -57,7 +57,7 @@
         "id": 7,
         "nombre": "Alfajor VIMAR Simple Chocolate",
         "descripcion": "(Peso 60g)",
-        "precio": 198,
+        "precio": 198.25,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfVimarSimpleChoco.jpeg"
     },
@@ -66,7 +66,7 @@
         "id": 8,
         "nombre": "Alfajor VIMAR Simple Blanco",
         "descripcion": "(Peso 60g)",
-        "precio": 198,
+        "precio": 198.25,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfVimarSimpleLeche.jpeg"
     },
@@ -84,7 +84,7 @@
         "id": 10,
         "nombre": "Alfajor Blanco y Negro Triple",
         "descripcion": "(Chocolate Blanco)",
-        "precio": 917,
+        "precio": 991.18,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfBYNBlancoTriple.png"
     },
@@ -93,7 +93,7 @@
         "id": 11,
         "nombre": "Alfajor Pepitos",
         "descripcion": "(Alfajor Triple)",
-        "precio": 988,
+        "precio": 861.99,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfPepitos.jpg"
     },
@@ -102,7 +102,7 @@
         "id": 12,
         "nombre": "Alfajor Tofi Triple Blanco",
         "descripcion": "(Chocolate Blanco)",
-        "precio": 917.00,
+        "precio": 991.18,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfTofiTripleBlanco.jpg"
     },
@@ -111,7 +111,7 @@
         "id": 13,
         "nombre": "Alfajor Tofi Triple Negro",
         "descripcion": "(Chocolate)",
-        "precio": 917.00,
+        "precio": 991.18,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfTofiTripleNegro.jpg"
     },
@@ -120,7 +120,7 @@
         "id": 14,
         "nombre": "Alfajor AGUILA Mini Torta",
         "descripcion": "(Clásico)",
-        "precio": 917.00,
+        "precio": 991.18,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfAguilaMiniTorta.jpg"
     },
@@ -129,7 +129,7 @@
         "id": 15,
         "nombre": "Alfajor AGUILA Mini Torta",
         "descripcion": "(Brownie)",
-        "precio": 917.00,
+        "precio": 991.18,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfAguilaMiniTortaBrownie.jpg"
     },
@@ -138,7 +138,7 @@
         "id": 16,
         "nombre": "Alfajor AGUILA Mini Torta",
         "descripcion": "(Blanco)",
-        "precio": 917.00,
+        "precio": 991.18,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfAguilaMiniTortaBlanco.jpg"
     },
@@ -147,7 +147,7 @@
         "id": 17,
         "nombre": "Alfajor AGUILA Mini Torta",
         "descripcion": "(Coco)",
-        "precio": 917.00,
+        "precio": 991.18,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfAguilaMiniTortaCoco.jpg"
     },
@@ -156,7 +156,7 @@
         "id": 18,
         "nombre": "Alfajor Bon o Bon",
         "descripcion": "(Simple Negro)",
-        "precio": 564,
+        "precio": 563.53,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfBonOBonNegro.jpg"
     },
@@ -165,7 +165,7 @@
         "id": 19,
         "nombre": "Alfajor Bon o Bon Triple",
         "descripcion": "(Triple Negro)",
-        "precio": 917,
+        "precio": 991.18,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfBonOBonTripleNegro.jpg"
     },
@@ -174,7 +174,7 @@
         "id": 20,
         "nombre": "Alfajor Oreo",
         "descripcion": "(Doble Relleno)",
-        "precio": 988,
+        "precio": 861.99,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfOreo.webp"
     },
@@ -183,7 +183,7 @@
         "id": 21,
         "nombre": "Alfajor Tri Shot",
         "descripcion": "(Triple Negro)",
-        "precio": 987,
+        "precio": 861.99,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfTriShot.jpg"
     },
@@ -192,7 +192,7 @@
         "id": 22,
         "nombre": "Alfajor COFLER BLOCK Simple ",
         "descripcion": "(Simple Negro)",
-        "precio":  563,
+        "precio":  594.43,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/AlfBlockSimple.jpg"
     },
@@ -201,7 +201,7 @@
         "id": 23,
         "nombre": "Alfajor Fulbito Chocolate",
         "descripcion": "(xCaja 40 unidades)",
-        "precio":  4792,
+        "precio":  4973.2,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfFulbitoCocho.jpg"
     },
@@ -210,7 +210,7 @@
         "id": 24,
         "nombre": "Alfajor Fulbito Mani",
         "descripcion": "(xCaja 40unidades)",
-        "precio":  4792,
+        "precio": 4973.2,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfFulbitoMani.jpg"
     },
@@ -237,7 +237,7 @@
         "id": 27,
         "nombre": "Alfajor Mogy",
         "descripcion": "(Simple Blanco)",
-        "precio":  176,
+        "precio":  175.68,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfMogyBlanco.webp"
     },
@@ -246,7 +246,7 @@
         "id": 28,
         "nombre": "Alfajor Mogy",
         "descripcion": "(Simple Negro)",
-        "precio":  176,
+        "precio":  175.68,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfMogyNegro.webp"
     },
@@ -255,7 +255,7 @@
         "id": 29,
         "nombre": "Alfajor Trassens Premium",
         "descripcion": "(Simple Negro)",
-        "precio": 563,
+        "precio": 561.63,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfTrassens.jpeg"
     },
@@ -298,27 +298,27 @@
 
     {
         "id": 34,
-        "nombre": "Alfajor Choco Arroz",
+        "nombre": "Alfajor Choco Arroz DDL",
         "descripcion": "(Clasico DDL)",
-        "precio":  485,
+        "precio":  540.06,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/chocoArrozDdl.png"
     },
 
     {
         "id": 35,
-        "nombre": "Alfajor Choco Arroz",
+        "nombre": "Alfajor Choco Arroz Marroc",
         "descripcion": "(Marroc)",
-        "precio":  485,
+        "precio":  540.06,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/chocoArrozMarroc.png"
     },
 
     {
         "id": 36,
-        "nombre": "Alfajor Choco Arroz",
+        "nombre": "Alfajor Choco Arroz Limon",
         "descripcion": "(Limon)",
-        "precio": 485,
+        "precio": 540.06,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/chocoArrozLimon.png"
     },
@@ -345,7 +345,7 @@
         "id": 39,
         "nombre": "Fanctoche Negro",
         "descripcion": "(Chocolate)",
-        "precio":  567,
+        "precio":  595.49,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/fantocheChoco.jpg"
     },
@@ -354,7 +354,7 @@
         "id": 40,
         "nombre": "Fanctoche Blanco",
         "descripcion": "(Chocolate Blanco)",
-        "precio":  567,
+        "precio":  595.49,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/fantocheLeche.jpg"
     },
@@ -381,7 +381,7 @@
         "id": 43,
         "nombre": "Alfajor Guaymallen",
         "descripcion": "(Simple Lenche)",
-        "precio": 200,
+        "precio": 202.44,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/guaymaLeche.jpg"
     },
@@ -390,7 +390,7 @@
         "id": 44,
         "nombre": "Alfajor Guaymallen",
         "descripcion": "(Simple Chocolate)",
-        "precio": 200,
+        "precio": 202.44,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/guaymaCHOCO.jpg"
     },
@@ -399,7 +399,7 @@
         "id": 45,
         "nombre": "Alfajor Guaymallen",
         "descripcion": "(Simple Fruta)",
-        "precio": 200,
+        "precio": 202.44,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/guaymaMembrillojpg.jpg"
     },
@@ -408,7 +408,7 @@
         "id": 46,
         "nombre": "Alfajor Guaymallen Triple",
         "descripcion": "(Triple Lenche)",
-        "precio": 333,
+        "precio": 333.26,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/guaymaTripleLeche.jpg"
     },
@@ -417,7 +417,7 @@
         "id": 47,
         "nombre": "Alfajor Guaymallen Triple",
         "descripcion": "(Triple Chocolate)",
-        "precio": 333,
+        "precio": 333.26,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/guaymaTripleChoco.jpg"
     },
@@ -426,7 +426,7 @@
         "id": 48,
         "nombre": "Alfajor Guaymallen Triple",
         "descripcion": "(Triple Fruta)",
-        "precio": 333,
+        "precio": 333.26,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/guaymaTripleFruta.jpg"
     },
@@ -435,7 +435,7 @@
         "id": 49,
         "nombre": "Alfajor Jorgelin",
         "descripcion": "(Chocolate)",
-        "precio":  741,
+        "precio":  798.94,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/jorgelinChoco.jpeg"
     },
@@ -444,7 +444,7 @@
         "id": 50,
         "nombre": "Alfajor Jorgelin",
         "descripcion": "(Leche)",
-        "precio":  741,
+        "precio":  798.94,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/jorgelinLeche.jpg"
     },
@@ -453,7 +453,7 @@
         "id": 51,
         "nombre": "Alfajor Jorgito",
         "descripcion": "(Chocolate)",
-        "precio":  545,
+        "precio":  588.49,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/jorgitoChoco.jpeg"
     },
@@ -462,7 +462,7 @@
         "id": 52,
         "nombre": "Alfajor Jorgito",
         "descripcion": "(Leche)",
-        "precio":  545,
+        "precio":  588.49,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/jorgitoLeche.jpg"
     },
@@ -471,7 +471,7 @@
         "id": 53,
         "nombre": "Alfajor Milka Mouese",
         "descripcion": "(Simple)",
-        "precio":  575,
+        "precio":  612.12,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/milkaMouseSimple.png"
     },
@@ -480,7 +480,7 @@
         "id": 54,
         "nombre": "Alfajor Milka Oreo",
         "descripcion": "(Triple Chocolate)",
-        "precio":  987,
+        "precio":  861.99,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/milkaOreoAlf.jpg"
     },
@@ -489,7 +489,7 @@
         "id": 55,
         "nombre": "Alfajor Milka Mouese",
         "descripcion": "(Triple Chocolate)",
-        "precio":  987,
+        "precio":  861.99,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/milkaMouseTriple.png"
     },
@@ -498,7 +498,7 @@
         "id": 56,
         "nombre": "Mini Jorgito x6",
         "descripcion": "(Sabor Chocolate)",
-        "precio":  1588,
+        "precio":  1667.4,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/jorgitox6Choco.jpg"
     },
@@ -507,7 +507,7 @@
         "id": 57,
         "nombre": "Mini Jorgito x6",
         "descripcion": "(Sabor Fruta)",
-        "precio":  1588,
+        "precio":  1667.4,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/jorgitox6Fruta.jpg"
     },
@@ -516,7 +516,7 @@
         "id": 58,
         "nombre": "Mini Jorgito x6",
         "descripcion": "(Sabor Lehce)",
-        "precio":  1588,
+        "precio":  1667.4,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/jorgitox6Leche.jpg"
     },
@@ -525,7 +525,7 @@
         "id": 59,
         "nombre": "Mini Fantoche x6",
         "descripcion": "(Sabor Chocolate)",
-        "precio":  1238,
+        "precio":  1242.28,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/fantochex6Choco.jpg"
     },
@@ -534,7 +534,7 @@
         "id": 60,
         "nombre": "Mini Fantoche x6",
         "descripcion": "(Sabor Leche)",
-        "precio":  1238,
+        "precio":  1242.28,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/fantochex6Leche.jpg"
     },
@@ -543,7 +543,7 @@
         "id": 61,
         "nombre": "Mini Bon O Bon x6",
         "descripcion": "(Bandeja Bon o Bon)",
-        "precio":  1906,
+        "precio":  2050.94,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfBonOBonx6.jpg"
     },
@@ -552,7 +552,7 @@
         "id": 62,
         "nombre": "Mini Tofi Negro x6",
         "descripcion": "(Bandeja Tofi)",
-        "precio":  1512,
+        "precio":  1512.3,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfTofix6.jpg"
     },
@@ -570,7 +570,7 @@
         "id": 64,
         "nombre": "Mini Torta Rapsodia",
         "descripcion": "(Peso 80g)",
-        "precio":  414,
+        "precio":  414.31,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/miniTortaRapsodia.jpg"
     },
@@ -597,7 +597,7 @@
         "id": 67,
         "nombre": "Alfajor Terrabusi",
         "descripcion": "(Sabor DDL)",
-        "precio":  849,
+        "precio": 861.99,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfTerrabusiDdl.webp"
     },
@@ -606,7 +606,7 @@
         "id": 68,
         "nombre": "Alfajor Terrabusi",
         "descripcion": "(Sabor Triple Torta)",
-        "precio":  849,
+        "precio":  861.99,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/alfTerrabusiTorta.webp"
     },
@@ -633,7 +633,7 @@
         "id": 71,
         "nombre": "Buffys Malvavisco",
         "descripcion": "(Frutal 125gr)",
-        "precio":  1342,
+        "precio":  1342.24,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/buffys125gr.jpg"
     },
@@ -642,7 +642,7 @@
         "id": 72,
         "nombre": "Yipi Pastillas",
         "descripcion": "(caja x12)",
-        "precio":  2486,
+        "precio":  207.13,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/yipiPastillas.jpg"
     },
@@ -651,7 +651,7 @@
         "id": 72,
         "nombre": "Boc. Cabsha",
         "descripcion": "Precio por unidad",
-        "precio": 251,
+        "precio": 251.19,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bocaditoCabsha.jpg"
     },
@@ -660,7 +660,7 @@
         "id": 73,
         "nombre": "Dolca Chica",
         "descripcion": "Peso 14grs",
-        "precio": 495,
+        "precio": 505.16,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bananitaChica.jpg"
     },
@@ -669,7 +669,7 @@
         "id": 74,
         "nombre": "Dolca Grande",
         "descripcion": "Peso 30grs",
-        "precio": 813,
+        "precio": 865.13,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bananitaGrande.jpg"
     },
@@ -677,7 +677,7 @@
         "id": 75,
         "nombre": "Dos Corazones",
         "descripcion": "Felfort",
-        "precio": 1248,
+        "precio": 1248.36,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/2Corazones.webp"
     },
@@ -685,7 +685,7 @@
         "id": 76,
         "nombre": "Gallinitas",
         "descripcion": "Por 25 unidades",
-        "precio": 2122,
+        "precio": 2121.75,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/gallinitas.jpg"
     },
@@ -693,7 +693,7 @@
         "id": 77,
         "nombre": "Heladitos",
         "descripcion": "Por 25 unidades",
-        "precio": 2007,
+        "precio": 2006.75,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/heladitos.jpg"
     },
@@ -702,7 +702,7 @@
         "id": 78,
         "nombre": "Mantecol",
         "descripcion": "Peso 41 Gs.",
-        "precio": 701,
+        "precio": 701.25,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/mantecol41g.jpg"
     },
@@ -710,7 +710,7 @@
         "id": 79,
         "nombre": "Mantecol",
         "descripcion": "Peso 111 Grs.",
-        "precio": 1049,
+        "precio": 1504.95,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/mantecol111g.jpg"
     },
@@ -718,7 +718,7 @@
         "id": 80,
         "nombre": "Mantecol",
         "descripcion": "Peso 29 Grs",
-        "precio": 489,
+        "precio": 488.63,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/mantecol29g.jpg"
     },
@@ -726,7 +726,7 @@
         "id": 81,
         "nombre": "Mantecol",
         "descripcion": "Peso 64 Grs",
-        "precio": 826,
+        "precio": 833.58,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/mantecol64g.jpg"
     },
@@ -743,7 +743,7 @@
         "id": 83,
         "nombre": "Sapito Chocolatoso",
         "descripcion": "Por 24 Unidades",
-        "precio": 4004,
+        "precio": 3922.93,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/sapitoChoco.jpg"
     },
@@ -751,7 +751,7 @@
         "id": 87,
         "nombre": "Sapito de Frutilla",
         "descripcion": "Por 24 Unidades",
-        "precio": 4004,
+        "precio": 3922.93,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/sapitoFruti.jpg"
     },
@@ -760,7 +760,7 @@
         "id": 88,
         "nombre": "Sapito Dulce Leche",
         "descripcion": "Por 24 Unidades",
-        "precio": 4004,
+        "precio":  3922.93,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/sapitoDD;.jpg"
     },
@@ -769,7 +769,7 @@
         "id": 89,
         "nombre": "Sapito Mani/Bicolor",
         "descripcion": "Por 24 Unidades",
-        "precio": 4004,
+        "precio":  3922.93,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/sapitoMani.jpg"
     },
@@ -778,7 +778,7 @@
         "id": 90,
         "nombre": "Guaymallen Oro",
         "descripcion": "Precio por unidad",
-        "precio": 410,
+        "precio": 409.74,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/guaymaOro.jpg"
     },
@@ -787,7 +787,7 @@
         "id": 91,
         "nombre": "Bombon Obli-Bon Blanco",
         "descripcion": "Precio por unidad",
-        "precio": 163,
+        "precio": 162.64,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bombonOblibonB.jpg"
     },
@@ -797,7 +797,7 @@
         "id": 92,
         "nombre": "Bombon Obli-Bon Clasico",
         "descripcion": "Precio por unidad",
-        "precio": 153,
+        "precio": 162.64,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bombonOblibonN.jpg"
     },
@@ -814,7 +814,7 @@
         "id": 94,
         "nombre": "Bombon Bel",
         "descripcion": "Bolsa por 50 Unidades",
-        "precio": 3981,
+        "precio": 3980.86,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bombonBel.jpg"
     },
@@ -846,7 +846,7 @@
         "id": 98,
         "nombre": "Bombon Milka Oreo",
         "descripcion": "Caja Por 13 Unidades",
-        "precio": 5984,
+        "precio": 5983.78,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/milkaOreoBombom.jpg"
     },
@@ -854,7 +854,7 @@
         "id": 99,
         "nombre": "Bombones de Fruta",
         "descripcion": "Mogul",
-        "precio": 5322,
+        "precio": 5821.66,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bombonesDeFruta.jpg"
     },
@@ -862,7 +862,7 @@
         "id": 100,
         "nombre": "Bon-o-Bon Blanco",
         "descripcion": "Por 30 Unidades",
-        "precio": 282,
+        "precio": 311.71,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bombonBlanco.jpg"
     },
@@ -870,7 +870,7 @@
         "id": 101,
         "nombre": "Bon-o-Bon Clasico",
         "descripcion": "Por 30 Unidades",
-        "precio": 282,
+        "precio": 311.71,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bombonClasico.jpg"
     },
@@ -879,7 +879,7 @@
         "id": 102,
         "nombre": "Alka Caramelos Cherry",
         "descripcion": "Bolsa",
-        "precio": 6546,
+        "precio": 6992.18,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/alkaCherry.jpg"
     },
@@ -888,7 +888,7 @@
         "id": 103,
         "nombre": "Alka Caramelos Frutilla Cremoso",
         "descripcion": "Bolsa",
-        "precio": 6546,
+        "precio": 6992.18,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/alkaFrutilla.jpg"
     },
@@ -897,7 +897,7 @@
         "id": 104,
         "nombre": "Alka Caramelos Menta",
         "descripcion": "Bolsa",
-        "precio": 6546,
+        "precio": 6992.18,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/alkaMenta.jpg"
     },
@@ -906,7 +906,7 @@
         "id": 105,
         "nombre": "Alka Caramelos Strone",
         "descripcion": "Bolsa",
-        "precio": 6546,
+        "precio": 6992.18,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/alkaStrone.jpg"
     },
@@ -915,7 +915,7 @@
         "id": 106,
         "nombre": "Yum-Yum Maticable",
         "descripcion": "Bolsa Por 300Grs",
-        "precio": 1525,
+        "precio": 1599.08,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/yum-yum.jpg"
     },
@@ -924,7 +924,7 @@
         "id": 107,
         "nombre": "Butter Toffes Avellanas",
         "descripcion": "Bolsa 822gr",
-        "precio": 3641,
+        "precio": 6565.27,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/butterAvellanas.webp"
     },
@@ -932,7 +932,7 @@
         "id": 108,
         "nombre": "Butter Toffes Bon o Bon ",
         "descripcion": "Bolsa 822gr",
-        "precio": 6523,
+        "precio": 6565.27,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/butterBonOBon.webp"
     },
@@ -940,7 +940,7 @@
         "id": 109,
         "nombre": "Butter Toffes Café ",
         "descripcion": "Bolsa 822gr",
-        "precio": 6388.00,
+        "precio": 6565.27,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/butterCafe.webp"
     },
@@ -948,7 +948,7 @@
         "id": 110,
         "nombre": "Butter Toffes Caramel",
         "descripcion": "Bolsa 822gr",
-        "precio": 6388.00,
+        "precio": 6565.27,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/butterCaramel.webp"
     },
@@ -956,7 +956,7 @@
         "id": 111,
         "nombre": "Butter Toffes Choco Blanco",
         "descripcion": "Bolsa 822gr",
-        "precio": 6388.00,
+        "precio": 6565.27,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/butterChocoBlanco.webp"
     },
@@ -964,7 +964,7 @@
         "id": 112,
         "nombre": "Butter Toffes Chokko Mint",
         "descripcion": "Bolsa 822gr",
-        "precio": 6388.00,
+        "precio": 6565.27,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/butterChocoMint.webp"
     },
@@ -972,7 +972,7 @@
         "id": 113,
         "nombre": "Caramelos Misky Transparente Menta ",
         "descripcion": "Bolsa 810gr",
-        "precio": 5581.00,
+        "precio": 6105.84,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/miskyTrasparente.jpg"
     },
@@ -980,7 +980,7 @@
         "id": 114,
         "nombre": "Caramelo Ácido Relleno TNT",
         "descripcion": "Caja Por 60U",
-        "precio": 3207,
+        "precio": 3207.08,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/tntAcidoAzul.jpg"
     },
@@ -988,7 +988,7 @@
         "id": 115,
         "nombre": "Caramelo Ácido Relleno TNT",
         "descripcion": "Caja Por 60U",
-        "precio": 3207,
+        "precio": 3207.08,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/tntAcido.jpg"
     },
@@ -996,7 +996,7 @@
         "id": 116,
         "nombre": "Caramelo Masticables Cremoso",
         "descripcion": "Bolsa Por 300Grs",
-        "precio": 3555,
+        "precio": 1644.1,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/masticableCremoso.jpg"
     },
@@ -1004,7 +1004,7 @@
         "id": 117,
         "nombre": "Caramelo 1/2 Hora",
         "descripcion": "Bolsa 800g ",
-        "precio": 3585,
+        "precio": 10822.9,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/mediaHora.jpg"
     },
@@ -1012,7 +1012,7 @@
         "id": 118,
         "nombre": "Caramelo Lenguetazo",
         "descripcion": "Caja",
-        "precio": 3676,
+        "precio": 143.05,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/lenguetazo.jpg"
     },
@@ -1020,7 +1020,7 @@
         "id": 119,
         "nombre": "Caramelo Misky Medallón Miel",
         "descripcion": "Bolsa 675Grs",
-        "precio": 4370,
+        "precio": 4380.73,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/mielMisky.jpg"
     },
@@ -1028,7 +1028,7 @@
         "id": 120,
         "nombre": "Caramelo Misky Relleno Fruta",
         "descripcion": "Bolsa 810Grs",
-        "precio": 4370,
+        "precio": 4331.45,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/miskyFruta.jpg"
     },
@@ -1036,7 +1036,7 @@
         "id": 121,
         "nombre": "Caramelo Relleno Miel y Menta",
         "descripcion": "Bolsa 335Grs",
-        "precio": 2790.00,
+        "precio": 3052.04,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/mielMenta.jpg"
     },
@@ -1044,7 +1044,7 @@
         "id": 122,
         "nombre": "Caramelo Relleno Miel",
         "descripcion": "Bolsa 675Grs",
-        "precio": 2790.00,
+        "precio": 6115.45,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/carameloMiel.jpg"
     },
@@ -1052,7 +1052,7 @@
         "id": 123,
         "nombre": "Caramelo Rodajas Arcor ",
         "descripcion": "Bolsa  930gr",
-        "precio": 4276.00,
+        "precio": 4276,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/rodajasArcor.jpg"
     },
@@ -1060,7 +1060,7 @@
         "id": 124,
         "nombre": "Caramelo Rodajas Crazy ",
         "descripcion": "Bolsa 465gr",
-        "precio": 4121,
+        "precio": 4508.57,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/rodajasCrazy.jpg"
     },
@@ -1068,7 +1068,7 @@
         "id": 125,
         "nombre": "Caramelo Bastón Viena",
         "descripcion": "Arcor",
-        "precio": 2756,
+        "precio": 2954.69,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/bastonViena.jpg"
     },
@@ -1076,7 +1076,7 @@
         "id": 126,
         "nombre": "Caramelos Pico Dulce ",
         "descripcion": "Peso 450gr",
-        "precio": 3664,
+        "precio": 4098.36,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/picoDulceCaramelo.jpg"
     },
@@ -1084,7 +1084,7 @@
         "id": 127,
         "nombre": "Cremino Coco/Surtdo ",
         "descripcion": "Peso 940gr",
-        "precio": 7267,
+        "precio": 8422.29,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/creminoCoco.jpg"
     },
@@ -1100,7 +1100,7 @@
         "id": 129,
         "nombre": "Dropsy Masticables ",
         "descripcion": "Bolsa 700gr",
-        "precio": 3272,
+        "precio": 3271.84,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/dropsyMaticable.jpg"
     },
@@ -1108,7 +1108,7 @@
         "id": 130,
         "nombre": "Flynn Paff Ácido Xtremo",
         "descripcion": "Confitado",
-        "precio": 538,
+        "precio": 631.44,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/FlynnPaffÁcidoXtremo.jpg"
     },
@@ -1116,7 +1116,7 @@
         "id": 131,
         "nombre": "Halls",
         "descripcion": "Mentho-Lyptus",
-        "precio": 664,
+        "precio": 586.84,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/hallsMentoLyptus.jpg"
     },
@@ -1125,7 +1125,7 @@
         "id": 132,
         "nombre": "Vimar Escolar",
         "descripcion": "(xCaja 60 unidades)",
-        "precio":  7159,
+        "precio":  7320,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/vimarX60.jpg"
     },
@@ -1133,7 +1133,7 @@
         "id": 133,
         "nombre": "Lipo Gajitos Cel-Leche",
         "descripcion": "Bolsa 907gr",
-        "precio": 3660,
+        "precio": 3791.33,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/lipoGagitos.jpg"
     },
@@ -1141,7 +1141,7 @@
         "id": 134,
         "nombre": "Lipo Sport",
         "descripcion": "Bolsa 907gr",
-        "precio": 3660,
+        "precio": 3791.33,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/lipoSport.jpg"
     },
@@ -1149,7 +1149,7 @@
         "id": 135,
         "nombre": "Lipo Súper Ácidos ",
         "descripcion": "Bolsa x 907gr",
-        "precio": 3660,
+        "precio": 3791.33,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/lipoAcido.jpg"
     },
@@ -1157,7 +1157,7 @@
         "id": 136,
         "nombre": "Lotza Fizz ",
         "descripcion": "Arcor Extreme",
-        "precio": 183,
+        "precio": 196.14,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/Lotza Fizz.jpg"
     },
@@ -1173,7 +1173,7 @@
         "id": 138,
         "nombre": "Tembleke Bruja",
         "descripcion": "Gelatina",
-        "precio": 487,
+        "precio": 487.84,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/temblekeBruja.jpg"
     },
@@ -1181,7 +1181,7 @@
         "id": 139,
         "nombre": "Mast Pico Dulce",
         "descripcion": "Ácido Power",
-        "precio": 3077,
+        "precio": 3077.14,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/picoDulceAcido.jpg"
     },
@@ -1189,7 +1189,7 @@
         "id": 140,
         "nombre": "Masticable Arcor ",
         "descripcion": "Bolsa x 800gr",
-        "precio": 5280,
+        "precio": 5775.82,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/masArcor.jpg"
     },
@@ -1197,7 +1197,7 @@
         "id": 141,
         "nombre": "Masticable Billiken",
         "descripcion": "Frutal",
-        "precio": 2818,
+        "precio": 2818.29,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/bilikenFrutal.jpg"
     },
@@ -1213,7 +1213,7 @@
         "id": 143,
         "nombre": "Masticable Frutomilla",
         "descripcion": "Bolsa x 500gr",
-        "precio": 1285.00,
+        "precio": 1285.07,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/mastFrutomila.jpg"
     },
@@ -1221,7 +1221,7 @@
         "id": 144,
         "nombre": "Masticable Pico Dulce",
         "descripcion": "Bolsa x 500gr",
-        "precio": 2630,
+        "precio": 2727.35,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/picoDulceCarameloMati.jpg"
     },
@@ -1229,7 +1229,7 @@
         "id": 145,
         "nombre": "Masticable Billiken",
         "descripcion": "Yogurt",
-        "precio": 2818,
+        "precio": 2818.29,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/bilikenYogurt.jpg"
     },
@@ -1237,7 +1237,7 @@
         "id": 146,
         "nombre": "Menta Cherry Misky ",
         "descripcion": "Bolsa x 405gr",
-        "precio": 2859,
+        "precio": 3127.73,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/cerryMisky.jpg"
     },
@@ -1245,7 +1245,7 @@
         "id": 147,
         "nombre": "Menta con Chocolate",
         "descripcion": "Bolsa x 715gr",
-        "precio": 5709,
+        "precio": 6115.45,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/mentaConChoco.jpg"
     },
@@ -1253,7 +1253,7 @@
         "id": 148,
         "nombre": "Menta Fresh Cristal",
         "descripcion": "Bolsa x 405gr",
-        "precio": 3796,
+        "precio": 4066.49,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/freshCrista;.jpg"
     },
@@ -1277,7 +1277,7 @@
         "id": 151,
         "nombre": "Palito de la Selva",
         "descripcion": "Masticable",
-        "precio": 5444,
+        "precio": 5608.44,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/palitosDeLaSelva.jpg"
     },
@@ -1293,7 +1293,7 @@
         "id": 153,
         "nombre": "Sugus Max",
         "descripcion": "Bolsa x 35",
-        "precio": 2105,
+        "precio": 60.15,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/sugusMax.jpg"
     },
@@ -1302,7 +1302,7 @@
         "id": 154,
         "nombre": "CHICLE BELDENT",
         "descripcion": "Menta Fuerte",
-        "precio": 484,
+        "precio": 454.82,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/beldentMenta.jpg"
     },
@@ -1310,7 +1310,7 @@
         "id": 155,
         "nombre": "CHICLE BELDENT",
         "descripcion": "Frutas",
-        "precio": 484,
+        "precio": 454.82,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/beldentFrutilla.jpg"
     },
@@ -1318,7 +1318,7 @@
         "id": 156,
         "nombre": "CHICLE BELDENT",
         "descripcion": "Tutti Frutti (Chicle Globo)",
-        "precio": 484,
+        "precio": 454.82,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/beldentTutti.jpg"
     },
@@ -1326,7 +1326,7 @@
         "id": 157,
         "nombre": "CHICLE BAZOOKA",
         "descripcion": "Tutti 80un",
-        "precio": 5146,
+        "precio": 4163.71,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/bazookaTutti.jpg"
     },
@@ -1335,7 +1335,7 @@
         "id": 158,
         "nombre": "CHICLE BAZOOKA",
         "descripcion": "Menta 80un",
-        "precio": 5146,
+        "precio": 4163.71,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/bazookaMenta.jpg"
     },
@@ -1344,7 +1344,7 @@
         "id": 159,
         "nombre": "CHICLE BUBBALOO",
         "descripcion": "Tutti-Frutti x 60u",
-        "precio": 5525,
+        "precio": 4573.78,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/bubbalooTutti.jpg"
     },
@@ -1352,7 +1352,7 @@
         "id": 160,
         "nombre": "CHICLE BUBBALOO",
         "descripcion": "Uva x 60u",
-        "precio": 5525,
+        "precio": 4573.78,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/bubbalooUva.jpg"
     },
@@ -1362,7 +1362,7 @@
         "id": 161,
         "nombre": "CHICLE BUBBALOO",
         "descripcion": "Menta x 60u",
-        "precio": 5525,
+        "precio": 4573.78,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/bubbalooMenta.jpg"
     },
@@ -1372,7 +1372,7 @@
         "id": 162,
         "nombre": "CHICLE BUBBALOO",
         "descripcion": "Frutilla x 60u",
-        "precio": 5525,
+        "precio": 4573.78,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/bubbalooFrutilla.jpg"
     },
@@ -1380,7 +1380,7 @@
         "id": 163,
         "nombre": "CHICLE BUZZY CROC",
         "descripcion": "Menta x 40u",
-        "precio": 1733,
+        "precio": 1733.3,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/buzzyMenta.jpg"
     },
@@ -1388,7 +1388,7 @@
         "id": 164,
         "nombre": "CHICLE BUZZY CROC",
         "descripcion": "Uva x 40u",
-        "precio": 1733,
+        "precio": 1733.3,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/buzzyUva.jpg"
     },
@@ -1396,7 +1396,7 @@
         "id": 165,
         "nombre": "CHICLE BUZZY CROC",
         "descripcion": "Tutti-Frutti x 40u",
-        "precio": 1733,
+        "precio": 1733.3,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/buzzyTutti.jpg"
     },
@@ -1404,7 +1404,7 @@
         "id": 166,
         "nombre": "CHICLE FIERITA",
         "descripcion": "Recargado Frutilla x 50u",
-        "precio": 2223,
+        "precio": 2420,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/fieritaFrutillaRecargado.jpg"
     },
@@ -1412,7 +1412,7 @@
         "id": 167,
         "nombre": "CHICLE FIERITA",
         "descripcion": "Recargado Menta x 50u",
-        "precio": 2223,
+        "precio": 2420,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/fieritaMentaRecargado.jpg"
     },
@@ -1420,7 +1420,7 @@
         "id": 168,
         "nombre": "CHICLE FIERITA",
         "descripcion": "Recargado Tutti-Frutti x 50u",
-        "precio": 2223,
+        "precio": 2420,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/fieritaTuttiRecargado.jpg"
     },
@@ -1428,7 +1428,7 @@
         "id": 169,
         "nombre": "CHICLE FIERITA",
         "descripcion": "Frutilla x 100u",
-        "precio": 2182,
+        "precio": 2433.44,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/fieritaFrutilla.jpg"
     },
@@ -1437,7 +1437,7 @@
         "id": 170,
         "nombre": "CHICLE FIERITA",
         "descripcion": "Menta x 100u",
-        "precio": 2182,
+        "precio": 2433.44,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/fieritaMenta.jpg"
     },
@@ -1445,7 +1445,7 @@
         "id": 171,
         "nombre": "CHICLE FIERITA",
         "descripcion": "Banana x 100u",
-        "precio": 2182,
+        "precio": 2433.44,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/fieritaBanana.jpg"
     },
@@ -1454,7 +1454,7 @@
         "id": 172,
         "nombre": "CHICLE FIERITA",
         "descripcion": "Maestro de terror x 100u",
-        "precio": 2182,
+        "precio": 2765.33,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/fieritaMaestroDeTerror.jpg"
     },
@@ -1462,7 +1462,7 @@
         "id": 173,
         "nombre": "CHICLE GUMBALLS",
         "descripcion": "Grande x 30u (Open Candy)",
-        "precio": 2477,
+        "precio": 887.07,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/chicleGumballs.jpg"
     },
@@ -1470,7 +1470,7 @@
         "id": 174,
         "nombre": "CHICLE TENNIS",
         "descripcion": " x 30u (Open Candy)",
-        "precio": 2471,
+        "precio": 2471.53,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/chileTennis.jpg"
     },
@@ -1478,7 +1478,7 @@
         "id": 175,
         "nombre": "BLUPPER TIRA",
         "descripcion": " x 6",
-        "precio": 2146,
+        "precio": 2255.78,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/blupperTiraChicle.jpg"
     },
@@ -1486,7 +1486,7 @@
         "id": 176,
         "nombre": "CEREAL MIX",
         "descripcion": "Yogurt x 26 grs",
-        "precio": 507,
+        "precio": 507.22,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/cerealMixYogurt.jpg"
     },
@@ -1494,7 +1494,7 @@
         "id": 177,
         "nombre": "CEREAL FORT",
         "descripcion": "26 grs",
-        "precio": 581,
+        "precio": 581.46,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/cerealFort.jpg"
     },
@@ -1527,7 +1527,7 @@
         "id": 181,
         "nombre": "Biznikke Nevado",
         "descripcion": "Por 1 Unidad",
-        "precio": 790,
+        "precio": 790.21,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/biznikkeNevado.jpg"
     },
@@ -1551,7 +1551,7 @@
         "id": 184,
         "nombre": "Bon-o-Bon Surtido",
         "descripcion": "x 255gr",
-        "precio": 5489,
+        "precio": 5489.65,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/bonOBonSurtido.jpg"
     },
@@ -1559,7 +1559,7 @@
         "id": 185,
         "nombre": "Butter Toffes Águila",
         "descripcion": " x 822gr",
-        "precio": 6388.00,
+        "precio": 6565.27,
         "categorias": ["Caramelos"],
         "imagen": "../golosinas.img/butterToffesAguila.jpg"
     },
@@ -1607,7 +1607,7 @@
         "id": 191,
         "nombre": "Choc Georgalos Full Maní ",
         "descripcion": "x 100gr",
-        "precio": 1541,
+        "precio": 1246.03,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/georgalosFullMani100gr.jpg"
     },
@@ -1615,7 +1615,7 @@
         "id": 192,
         "nombre": "Choc Georgalos Full Maní ",
         "descripcion": "x 160gr",
-        "precio": 2657,
+        "precio": 2657.17,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/georgalosFullMani160gr.jpg"
     },
@@ -1623,7 +1623,7 @@
         "id": 193,
         "nombre": "Choc Georgalos Full Maní",
         "descripcion": "x 35gr",
-        "precio": 515,
+        "precio": 453.56,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/georgalosFullMani35gr.jpg"
     },
@@ -1639,7 +1639,7 @@
         "id": 195,
         "nombre": "Choc Misky Negro",
         "descripcion": "x 50gr Negro",
-        "precio": 865,
+        "precio": 897.82,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/miskyNegro50gr.jpg"
     },
@@ -1647,7 +1647,7 @@
         "id": 196,
         "nombre": "Choc Misky Blanco",
         "descripcion": "x 50gr Blanco",
-        "precio": 865,
+        "precio":  897.82,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/miskyBlanco50gr.jpg"
     },
@@ -1655,7 +1655,7 @@
         "id": 197,
         "nombre": "Choc. Shot",
         "descripcion": " x 35gr",
-        "precio": 987,
+        "precio": 987.4,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/chocShot35gr.jpg"
     },
@@ -1672,7 +1672,7 @@
         "id": 199,
         "nombre": "Choc. Hamlet Almendras",
         "descripcion": "Chocolate con almendras, 100g",
-        "precio": 502,
+        "precio": 502.29,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/hamletAlmendrasMani.jpg"
     },
@@ -1680,7 +1680,7 @@
         "id": 200,
         "nombre": "Choc. Hamlet Blanco y Cookies",
         "descripcion": "Chocolate blanco con trozos de cookies, 100g",
-        "precio": 502,
+        "precio":502.29,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/hamletBlancoCookies.jpg"
     },
@@ -1688,7 +1688,7 @@
         "id": 201,
         "nombre": "Choc. Hamlet Chocolatoso",
         "descripcion": "Chocolate intenso, 100g",
-        "precio": 502,
+        "precio": 502.29,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/hamletChocolatoso.jpg"
     },
@@ -1697,7 +1697,7 @@
         "id": 202,
         "nombre": "Choc. Hamlet Leche y Cookies",
         "descripcion": "Chocolate con leche y trozos de cookies, 100g",
-        "precio": 502,
+        "precio": 502.29,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/hamletLecheCookies.jpg"
     },
@@ -1705,7 +1705,7 @@
         "id": 203,
         "nombre": "Choc. Hamlet Yoghurt Frutilla",
         "descripcion": "Chocolate con yogur y sabor frutilla, 100g",
-        "precio": 502,
+        "precio": 502.29,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/hamletYoghurtFrutilla.jpg"
     },
@@ -1713,7 +1713,7 @@
         "id": 204,
         "nombre": "Choc. Misky x 25gr Negro",
         "descripcion": "Chocolate negro, 25g",
-        "precio":  571,
+        "precio":  570.83,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/miskyNegro25gr.jpg"
     },
@@ -1721,7 +1721,7 @@
         "id": 205,
         "nombre": "Choc. Misky x 25gr Blanco",
         "descripcion": "Chocolate blanco, 25g",
-        "precio":  571,
+        "precio":  570.83,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/miskyBlanco25gr.jpg"
     },
@@ -1769,7 +1769,7 @@
         "id": 211,
         "nombre": "Cofler Aireado x 30gr bon o bon",
         "descripcion": "Chocolate aireado bon o bon",
-        "precio": 912,
+        "precio": 912.19,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoBonBon.jpeg"
     },
@@ -1777,7 +1777,7 @@
         "id": 212,
         "nombre": "Cofler Aireado x 55gr",
         "descripcion": "Chocolate aireado almendras",
-        "precio": 1700,
+        "precio": 1700.44,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoAlmendras55g.jpg"
     },
@@ -1793,7 +1793,7 @@
         "id": 214,
         "nombre": "Cofler Blocke x 38gr",
         "descripcion": "Block de chocolate, 38g",
-        "precio": 2341,
+        "precio": 1022.94,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerBlock38gr.jpg"
     },
@@ -1801,7 +1801,7 @@
         "id": 215,
         "nombre": "Cofler Block x 110gr",
         "descripcion": "Block de chocolate, 110g",
-        "precio": 2341,
+        "precio": 2505.98,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerBlock110gr.jpg"
     },
@@ -1809,7 +1809,7 @@
         "id": 216,
         "nombre": "Cofler Aireado x 27gr Blanco (Azul)",
         "descripcion": "Chocolate blanco aireado, 27g",
-        "precio": 912,
+        "precio": 912.19,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoBlancoAzul.jpg"
     },
@@ -1817,7 +1817,7 @@
         "id": 217,
         "nombre": "Cofler Aireado x 27gr Blanco/Leche (Amarillo)",
         "descripcion": "Chocolate aireado blanco y leche, 27g",
-        "precio": 912,
+        "precio": 912.19,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoAmarillo.jpg"
     },
@@ -1825,7 +1825,7 @@
         "id": 218,
         "nombre": "Cofler Aireado x 27gr Leche (Rojo)",
         "descripcion": "Chocolate aireado de leche, 27g",
-        "precio": 912,
+        "precio": 912.19,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoLeche55g.jpg"
     },
@@ -1841,7 +1841,7 @@
         "id": 220,
         "nombre": "Cofler Block x 170gr",
         "descripcion": "Block de chocolate, 170g",
-        "precio": 3598,
+        "precio": 3598.5,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerBlock170g.jpg"
     },
@@ -1850,7 +1850,7 @@
         "id": 221,
         "nombre": "Cofler Aireado x 55gr Blanco",
         "descripcion": "Chocolate aireado Blanco",
-        "precio": 1700,
+        "precio": 1700.44,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoBlanco55g.jpg"
     },
@@ -1859,7 +1859,7 @@
         "id": 223,
         "nombre": "Cofler Aireado x 55gr Leche",
         "descripcion": "Chocolate aireado Leche",
-        "precio": 1700,
+        "precio": 1700.44,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoLeche55g.jpg"
     },
@@ -1868,7 +1868,7 @@
         "id": 224,
         "nombre": "Cofler Aireado x 55gr Mixto",
         "descripcion": "Chocolate aireado Mixto",
-        "precio": 1700,
+        "precio": 1700.44,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoMixto55g.jpg"
     },
@@ -1877,7 +1877,7 @@
         "id": 221,
         "nombre": "Cofler Aireado x 55gr Bon o Bon",
         "descripcion": "Chocolate aireado Bon o Bon",
-        "precio": 1700,
+        "precio": 1700.44,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoBonOBon5g.jpg"
     },
@@ -1886,7 +1886,7 @@
         "id": 221,
         "nombre": "Cofler Aireado x 55gr Tofi",
         "descripcion": "Chocolate aireado Tofi",
-        "precio": 1700,
+        "precio": 1700.44,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/coflerAireadoTofi55g.jpg"
     },
@@ -1927,7 +1927,7 @@
         "id": 226,
         "nombre": "Daqui Chocolate x 70gr",
         "descripcion": "Chocolate amargo Daqui, 70g",
-        "precio": 582,
+        "precio": 582.52,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/daquiChocolate70gr.jpg"
     },
@@ -1935,7 +1935,7 @@
         "id": 227,
         "nombre": "Daqui Max x 120gr",
         "descripcion": "Chocolate Daqui Max, 120g",
-        "precio": 819,
+        "precio": 819.27,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/daquiMax120gr.jpg"
     },
@@ -1943,7 +1943,7 @@
         "id": 228,
         "nombre": "Garoto x 250gr",
         "descripcion": "Caja surtida de chocolates Garoto, 250g",
-        "precio": 4184,
+        "precio": 4110.79,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/garoto250gr.jpg"
     },
@@ -1951,7 +1951,7 @@
         "id": 229,
         "nombre": "Georgalos Chocolatín Blanco x 8g",
         "descripcion": "Mini chocolatín blanco, 8g",
-        "precio": 258,
+        "precio": 258.03,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/georgalosChocolatinBlanco8gr.png"
     },
@@ -1959,7 +1959,7 @@
         "id": 230,
         "nombre": "Georgalos Chocolatín Negro x 8g",
         "descripcion": "Mini chocolatín negro, 8g",
-        "precio": 258,
+        "precio": 258.03,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/georgalosChocolatinNegro8gr.jpg"
     },
@@ -2039,7 +2039,7 @@
         "id": 240,
         "nombre": "Mogul Crema y Frutilla x 500gr",
         "descripcion": "Gomitas Mogul crema y frutilla, 500g",
-        "precio": 4470,
+        "precio": 4608.48,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogulCremaFrutilla500gr.jpg"
     },
@@ -2055,7 +2055,7 @@
         "id": 242,
         "nombre": "Paragüitas FelFort",
         "descripcion": "Paragüitas de chocolate, pack de 10",
-        "precio": 716,
+        "precio": 716.38,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/paraguitasFelFort.jpg"
     },
@@ -2063,7 +2063,7 @@
         "id": 243,
         "nombre": "Sapito Choc. Blanco x 24u",
         "descripcion": "Chocolates blancos en forma de sapito, pack de 24",
-        "precio": 4003,
+        "precio": 3922.93,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/sapitoBlanco24u.jpg"
     },
@@ -2071,7 +2071,7 @@
         "id": 244,
         "nombre": "Shot Chocolate x 90gr",
         "descripcion": "Chocolate Shot, 90g",
-        "precio": 2505,
+        "precio": 3922.93,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/shot90gr.jpg"
     },
@@ -2112,7 +2112,7 @@
         "id": 249,
         "nombre": "Baby Doll",
         "descripcion": "Caramelo Baby Doll, unidad",
-        "precio": 375,
+        "precio": 375.54,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/babyDoll.jpg"
     },
@@ -2120,7 +2120,7 @@
         "id": 250,
         "nombre": "Baby Doll Ácido Power",
         "descripcion": "Caramelo ácido Baby Doll Power, unidad",
-        "precio": 375,
+        "precio": 375.54,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/babyDollAcidoPower.jpg"
     },
@@ -2128,7 +2128,7 @@
         "id": 251,
         "nombre": "Chupetín Cosmos Mega x 24u",
         "descripcion": "Caja de chupetines Cosmos Mega, 24 unidades",
-        "precio": 2931,
+        "precio": 3131.3,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinesCosmosMega.jpg"
     },
@@ -2136,7 +2136,7 @@
         "id": 252,
         "nombre": "Chupetín Fierita Mastica Pinta Lengua x 50u",
         "descripcion": "Chupetines Fierita Mastica que pintan la lengua, 50 unidades",
-        "precio": 4289,
+        "precio": 4331.00,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinFieritaMastica.jpg"
     },
@@ -2176,7 +2176,7 @@
         "id": 257,
         "nombre": "Chupetín Pop Mania Frutilla-Fresa Pinta Lengua",
         "descripcion": "Chupetines Pop Mania que pintan la lengua, sabor frutilla-fresa",
-        "precio": 4091,
+        "precio": 3747.59,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinPopManiaFrutillaFresa.jpg"
     },
@@ -2184,7 +2184,7 @@
         "id": 258,
         "nombre": "Chupetín Pop Mania Maxi Frambuesa x 24u",
         "descripcion": "Caja de chupetines Pop Mania Maxi sabor frambuesa, 24 unidades",
-        "precio": 3747,
+        "precio": 3747.59,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinPopManiaMaxiFrambuesa.jpg"
     },
@@ -2192,7 +2192,7 @@
         "id": 259,
         "nombre": "Chupetín Pop Mania Maxi Frutilla x 24u",
         "descripcion": "Caja de chupetines Pop Mania Maxi sabor frutilla, 24 unidades",
-        "precio": 3747,
+        "precio": 3747.59,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinPopManiaMaxiFrutilla.jpg"
     },
@@ -2200,7 +2200,7 @@
         "id": 260,
         "nombre": "Chupetín Pop Mania Maxi Cereza Pinta Lengua",
         "descripcion": "Chupetines Pop Mania Maxi que pintan la lengua, sabor cereza",
-        "precio": 3747,
+        "precio": 3747.29,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinPopManiaMaxiCereza.jpg"
     },
@@ -2208,7 +2208,7 @@
         "id": 261,
         "nombre": "Chupetín Pop Mania Uva-Frutilla-Fresa x 50u",
         "descripcion": "Caja de chupetines Pop Mania surtidos, 50 unidades",
-        "precio": 3824,
+        "precio": 4091.68,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinPopManiaSurtido.jpg"
     },
@@ -2216,7 +2216,7 @@
         "id": 262,
         "nombre": "Chupetines Cebollitas x 40u",
         "descripcion": "Caja de chupetines Cebollitas, 40 unidades",
-        "precio": 1094,
+        "precio": 1171.69,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinesCebollitas.jpg"
     },
@@ -2224,7 +2224,7 @@
         "id": 263,
         "nombre": "Chupetín Evolution Cereza x 24u",
         "descripcion": "Caja de chupetines Evolution sabor cereza, 24 unidades",
-        "precio": 3366,
+        "precio": 3681.8,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinEvolutionCereza.jpg"
     },
@@ -2232,7 +2232,7 @@
         "id": 264,
         "nombre": "Chupetín Evolution Extreme Duo x 24u",
         "descripcion": "Chupetines Evolution Extreme Duo, 24 unidades",
-        "precio": 3498,
+        "precio": 3681.8,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinEvolutionExtremeDuo.jpg"
     },
@@ -2240,7 +2240,7 @@
         "id": 265,
         "nombre": "Chupetín Evolution Pinta Lengua x 24u",
         "descripcion": "Caja de chupetines Evolution que pintan la lengua, 24 unidades",
-        "precio": 3366,
+        "precio": 3681.8,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinEvolutionPintaLengua.jpg"
     },
@@ -2248,7 +2248,7 @@
         "id": 266,
         "nombre": "Chupetín Evolution Blueberry x 24u",
         "descripcion": "Caja de chupetines Evolution sabor blueberry, 24 unidades",
-        "precio": 3437,
+        "precio": 3681.8,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinEvolutionBlueberry.jpg"
     },
@@ -2256,7 +2256,7 @@
         "id": 267,
         "nombre": "Chupetines Tatuajes Patitas x 100u",
         "descripcion": "Caja de chupetines con tatuajes, 100 unidades",
-        "precio": 3372,
+        "precio": 3517.67,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinesTatuajesPatitas.jpg"
     },
@@ -2264,7 +2264,7 @@
         "id": 268,
         "nombre": "Chupetines Wamis Mágico x 50u",
         "descripcion": "Caja de chupetines Wamis mágicos, 50 unidades",
-        "precio": 1789,
+        "precio": 1537.37,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinesWamisMagico.jpg"
     },
@@ -2272,7 +2272,7 @@
         "id": 269,
         "nombre": "Chupetines Cosmos x 40u",
         "descripcion": "Caja de chupetines Cosmos, 40 unidades",
-        "precio": 2874,
+        "precio": 3070.37,
         "categorias": ["Chupetines"],
         "imagen": "../golosinas.img/chupetinesCosmos40u.jpg"
     },
@@ -2281,7 +2281,7 @@
         "id": 270,
         "nombre": "FLYNN PAFF CONFITADO",
         "descripcion": "FLYNN PAFF",
-        "precio": 553,
+        "precio": 631.44,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/flynnPaffConfitado.jpg"
     },
@@ -2305,7 +2305,7 @@
         "id": 273,
         "nombre": "GOM.EUCALIPTUS ARCOR",
         "descripcion": "Gomas de eucaliptus marca Arcor",
-        "precio": 7006,
+        "precio": 7281.76,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomEucaliptusArcor.jpg"
     },
@@ -2313,7 +2313,7 @@
         "id": 274,
         "nombre": "Mentitas La Casa Menta x 12 Un",
         "descripcion": "Caja de Mentitas La Casa sabor menta, 12 unidades",
-        "precio": 3018,
+        "precio": 3018.63,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/mentitasMenta12u.jpg"
     },
@@ -2321,7 +2321,7 @@
         "id": 275,
         "nombre": "Mentitas La Casa cherry x 12 un",
         "descripcion": "Caja de Mentitas La Casa sabor cherry, 12 unidades",
-        "precio": 3018,
+        "precio": 3018.63,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/mentitasCherry12u.jpg"
     },
@@ -2329,7 +2329,7 @@
         "id": 276,
         "nombre": "Mentitas La Casa Dulce de leche x 12 un",
         "descripcion": "Caja de Mentitas La Casa sabor dulce de leche, 12 unidades",
-        "precio": 3018,
+        "precio": 3018.63,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/mentitasDulceLeche12u.jpg"
     },
@@ -2337,7 +2337,7 @@
         "id": 277,
         "nombre": "Mentitas La Casa Frutal, x 12 Un",
         "descripcion": "Caja de Mentitas La Casa sabor frutal, 12 unidades",
-        "precio": 3018,
+        "precio": 3018.63,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/mentitasFrutal12u.jpg"
     },
@@ -2346,7 +2346,7 @@
         "id": 278,
         "nombre": "SUGUS CONFITADO",
         "descripcion": "SUGUS CONFITADO",
-        "precio": 784,
+        "precio": 812.52,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/sugusConfitado.jpg"
     },
@@ -2354,7 +2354,7 @@
         "id": 279,
         "nombre": "ROCKLETS GRANDE 40g",
         "descripcion": "Paquete de Rocklets grande, 40 gramos",
-        "precio": 858,
+        "precio": 858.79,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/rockletsGrande40g.jpg"
     },
@@ -2362,7 +2362,7 @@
         "id": 280,
         "nombre": "Rocklets MINI 10 Grs",
         "descripcion": "Paquete de Rocklets mini, 10 gramos",
-        "precio": 268,
+        "precio": 269.16,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/rockletsMini10g.jpg"
     },
@@ -2403,7 +2403,7 @@
         "id": 285,
         "nombre": "ALF. Bon o Bon Blanco",
         "descripcion": "Alfajor Bon o Bon Blanco",
-        "precio": 563,
+        "precio": 563.53,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/bonOBonBlanco.jpg"
     },
@@ -2411,7 +2411,7 @@
         "id": 286,
         "nombre": "Draculengua",
         "descripcion": "Tembleke draculengua",
-        "precio": 487,
+        "precio": 487.85,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/draculengua.jpg"
     },
@@ -2419,7 +2419,7 @@
         "id": 287,
         "nombre": "Golomix Gomitas x800gr",
         "descripcion": "Bananas",
-        "precio": 3848,
+        "precio": 3848.64,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/bananasGolomiz.jpg"
     },
@@ -2435,7 +2435,7 @@
         "id": 289,
         "nombre": "Temb. Simpsons Princesa x 6u-2017",
         "descripcion": "Temb. Simpsons Princesa en presentación de 6 unidades",
-        "precio": 580,
+        "precio": 580.06,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/temblekeSimpsonsPrincesa.jpg"
     },
@@ -2443,7 +2443,7 @@
         "id": 290,
         "nombre": "Tembleke Disney Cobra/ReloJ",
         "descripcion": "Tembleke Disney Cobra/ReloJ",
-        "precio": 466,
+        "precio": 466.82,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/temblekeDisneyCobraReloJ.jpg"
     },
@@ -2451,7 +2451,7 @@
         "id": 291,
         "nombre": "TEMBLEKE SUPER ACIDOS",
         "descripcion": "Tembleke Super Ácidos",
-        "precio": 382,
+        "precio": 451.71,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/temblekeSuperAcidos.jpg"
     },
@@ -2467,7 +2467,7 @@
         "id": 293,
         "nombre": "Trembly x 6",
         "descripcion": "Trembly en presentación de 6 unidades",
-        "precio": 603,
+        "precio": 603.27,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/trembly6u.jpg"
     },
@@ -2476,7 +2476,7 @@
         "id": 294,
         "nombre": "ANILLOS FRUTALES ARCOR x 1K",
         "descripcion": "Anillos frutales Arcor en presentación de 1 kg",
-        "precio": 7006,
+        "precio": 7281.76,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/anillos_frutales.jpg"
     },
@@ -2484,7 +2484,7 @@
         "id": 295,
         "nombre": "BUFFYS MALVAVISCOS x 200gr",
         "descripcion": "Buffys Malvaviscos en presentación de 200 gr",
-        "precio": 1579,
+        "precio": 1579.72,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/buffys_malvaviscos.jpg"
     },
@@ -2492,7 +2492,7 @@
         "id": 296,
         "nombre": "BULL DOG CRAZY EXPLOSIVO",
         "descripcion": "Bull Dog Crazy Explosivo",
-        "precio": 436,
+        "precio": 436.66,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/bull_dog_crazy.jpg"
     },
@@ -2500,7 +2500,7 @@
         "id": 297,
         "nombre": "DIENTES MOGUL x 50gr",
         "descripcion": "Dientes Mogul en presentación de 50 gr",
-        "precio": 622,
+        "precio": 622.22,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/dientes_mogul.jpg"
     },
@@ -2524,7 +2524,7 @@
         "id": 300,
         "nombre": "Frutigelatin VIBORITA X 30g.",
         "descripcion": "Frutigelatin Vibora en presentación de 30 gr",
-        "precio": 421,
+        "precio": 455.14,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/frutigelatin_vibora.jpg"
     },
@@ -2532,7 +2532,7 @@
         "id": 301,
         "nombre": "Golomix-Gomas Frutales x 800 gr",
         "descripcion": "Gomas Golomix surtidas frutales, 800 gr",
-        "precio": 3848,
+        "precio": 3848.64,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomas_frutales.jpg"
     },
@@ -2540,7 +2540,7 @@
         "id": 302,
         "nombre": "Golomix-Gomas Eucaliptus x 800 gr",
         "descripcion": "Gomas Golomix sabor eucaliptus, 800 gr",
-        "precio": 3848,
+        "precio": 3848.64,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomas_eucaliptus.jpg"
     },
@@ -2549,7 +2549,7 @@
         "id": 303,
         "nombre": "Yummy Gomitas",
         "descripcion": "Gomitas individuales",
-        "precio": 280,
+        "precio": 346.94,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/yummyTodas.jpg"
     },
@@ -2558,7 +2558,7 @@
         "id": 304,
         "nombre": "Golomix-Gomas Frutillas x 800 gr",
         "descripcion": "Gomas Golomix sabor frutillas, 800 gr",
-        "precio": 3848,
+        "precio": 3848.64,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomas_frutillas.jpg"
     },
@@ -2566,7 +2566,7 @@
         "id": 305,
         "nombre": "Golomix-Gomas GUSANITOS x 800 gr",
         "descripcion": "Gomas Golomix sabor gusanitos, 800 gr",
-        "precio": 3848,
+        "precio": 3848.64,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomas_gusanitos.jpg"
     },
@@ -2574,7 +2574,7 @@
         "id": 306,
         "nombre": "Golomix-Gomas mini-frutales x 800 gr",
         "descripcion": "Gomas Golomix mini frutales, 800 gr",
-        "precio": 3848,
+        "precio": 3848.64,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomas_mini_frutales.jpg"
     },
@@ -2582,7 +2582,7 @@
         "id": 307,
         "nombre": "Golomix-Gomas Rodajas x 800 gr",
         "descripcion": "Gomas Golomix sabor rodajas, 800 gr",
-        "precio": 3848,
+        "precio": 3848.64,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomas_rodajas.jpg"
     },
@@ -2598,7 +2598,7 @@
         "id": 309,
         "nombre": "GOM MOGUL CONITOS x1k.",
         "descripcion": "Goma Mogul sabor conitos, 1 kg",
-        "precio": 7005,
+        "precio": 7281.76,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomas_conitos.jpg"
     },
@@ -2606,7 +2606,7 @@
         "id": 310,
         "nombre": "GOMAS MOGUL EXTREME ROCK x 45gr",
         "descripcion": "Gomas Mogul Extreme Rock, 45 gr",
-        "precio": 581,
+        "precio": 581.51,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_extreme_rock.jpg"
     },
@@ -2614,7 +2614,7 @@
         "id": 311,
         "nombre": "GOMAS MOGUL EXTREME SANDIA/OSO",
         "descripcion": "Gomas Mogul Extreme Sandía/Oso",
-        "precio": 635,
+        "precio": 646.62,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_extreme_sandia.jpg"
     },
@@ -2622,7 +2622,7 @@
         "id": 312,
         "nombre": "GOMAS MOGUL EXTREME TUBITOS MAX",
         "descripcion": "Gomas Mogul Extreme Tubitos Max",
-        "precio": 351,
+        "precio": 365.06,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_tubitos_max.jpg"
     },
@@ -2630,7 +2630,7 @@
         "id": 313,
         "nombre": "GOMITA FANTASIA Misky x 1Kg.",
         "descripcion": "Gomita Fantasía Misky, 1 kg",
-        "precio": 5869,
+        "precio": 5538.69,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomitas_fantasia.jpg"
     },
@@ -2638,7 +2638,7 @@
         "id": 314,
         "nombre": "GOMITAS BURGER GUMMY",
         "descripcion": "Gomitas sabor Burger Gummy",
-        "precio": 178,
+        "precio": 178.71,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomitas_burger.jpg"
     },
@@ -2646,7 +2646,7 @@
         "id": 315,
         "nombre": "GOMITAS EUCALIPTO MISKY",
         "descripcion": "Gomitas sabor Eucalipto Misky",
-        "precio": 5869,
+        "precio": 5722.18,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomitas_eucalipto.jpg"
     },
@@ -2654,7 +2654,7 @@
         "id": 316,
         "nombre": "GOMITAS JELLY BUTON x 1K",
         "descripcion": "Gomitas Jelly Button, 1 kg",
-        "precio": 7005,
+        "precio": 5538.69,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomitas_jelly_button.jpg"
     },
@@ -2662,7 +2662,7 @@
         "id": 317,
         "nombre": "GOMITAS PANCHO GUMMY",
         "descripcion": "Gomitas sabor Pancho Gummy",
-        "precio": 178,
+        "precio": 178.71,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomitas_pancho.jpg"
     },
@@ -2670,7 +2670,7 @@
         "id": 318,
         "nombre": "GOMITAS RICOMAS CONITOS FRUTAL x 500g",
         "descripcion": "Gomitas Ricomas Conitos Frutal, 500 gr",
-        "precio": 2681,
+        "precio": 2582.68,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/gomitas_ricomas_conitos.jpg"
     },
@@ -2678,7 +2678,7 @@
         "id": 319,
         "nombre": "GONGYS TRENZA x 200gr",
         "descripcion": "Gomas Gongys sabor trenza, 200 gr",
-        "precio": 1432,
+        "precio": 1432.84,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/gongys_trenza.jpg"
     },
@@ -2686,7 +2686,7 @@
         "id": 320,
         "nombre": "Malvaviscos BUFFYS 450 FRESA",
         "descripcion": "Malvaviscos Buffys sabor fresa, 450 gr",
-        "precio": 3226,
+        "precio": 3226.67,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/malvaviscos_fresa.jpg"
     },
@@ -2703,7 +2703,7 @@
         "id": 322,
         "nombre": "Malvaviscos GONGGYS x 28g \"CHICO\"",
         "descripcion": "Malvaviscos Gonggys en presentación pequeña de 28 gr",
-        "precio": 240,
+        "precio": 240.39,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/malvaviscos_chico.jpg"
     },
@@ -2711,7 +2711,7 @@
         "id": 323,
         "nombre": "MOGUL OSITOS x 500gr",
         "descripcion": "Gomas Mogul sabor ositos, 500 gr",
-        "precio": 4470,
+        "precio": 4608.48,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_ositos.jpg"
     },
@@ -2719,7 +2719,7 @@
         "id": 324,
         "nombre": "MOGUL ARCOR CHICOS TODOS",
         "descripcion": "Gomas Mogul surtido chicos",
-        "precio": 359,
+        "precio": 393.25,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_chicos.jpg"
     },
@@ -2727,7 +2727,7 @@
         "id": 325,
         "nombre": "MOGUL CONITOS YOGUS x 500gr",
         "descripcion": "Gomas Mogul Conitos Yogus, 500 gr",
-        "precio": 3650,
+        "precio": 3654.91,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_conitos_yogus.jpg"
     },
@@ -2751,7 +2751,7 @@
         "id": 328,
         "nombre": "MOGUL FRUTILLAS ACIDAS x 500gr",
         "descripcion": "Gomas Mogul sabor frutillas ácidas, 500 gr",
-        "precio": 4470,
+        "precio": 4608.48,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_frutillas_acidas.jpg"
     },
@@ -2759,7 +2759,7 @@
         "id": 329,
         "nombre": "MOGUL GUSANOS ACIDOS x 500gr",
         "descripcion": "Gomas Mogul sabor gusanos ácidos, 500 gr",
-        "precio": 4470,
+        "precio": 4608.48,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_gusanos_acidos.jpg"
     },
@@ -2767,7 +2767,7 @@
         "id": 330,
         "nombre": "MOGUL JELLY BEANS x 50gr",
         "descripcion": "Gomas Mogul Jelly Beans, 50 gr",
-        "precio": 622,
+        "precio": 622.22,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_jelly_beans.jpg"
     },
@@ -2775,7 +2775,7 @@
         "id": 331,
         "nombre": "MOGUL LADRILLOS DE FRUTILLA x 500gr",
         "descripcion": "Gomas Mogul sabor ladrillos de frutilla, 500 gr",
-        "precio": 4509,
+        "precio": 4932.9,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_ladrillos_frutilla.jpg"
     },
@@ -2783,7 +2783,7 @@
         "id": 332,
         "nombre": "MOGUL LADRILLOS EXTREME 150 gr",
         "descripcion": "Gomas Mogul sabor ladrillos extreme, 150 gr",
-        "precio": 1747,
+        "precio": 1911.52,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_ladrillos_extreme.jpg"
     },
@@ -2791,7 +2791,7 @@
         "id": 333,
         "nombre": "MOGUL SANDIAS x 500gr",
         "descripcion": "Gomas Mogul sabor sandías, 500 gr",
-        "precio": 4470,
+        "precio": 4608.36,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/mogul_sandias.jpg"
     },
@@ -2799,7 +2799,7 @@
         "id": 334,
         "nombre": "MORAS Arcor x 500 grs",
         "descripcion": "Moras Arcor en presentación de 500 gr",
-        "precio": 4543,
+        "precio": 4608.48,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/moras_arcor.jpg"
     },
@@ -2807,7 +2807,7 @@
         "id": 335,
         "nombre": "MORAS MOGUL x 50 gr",
         "descripcion": "Gomas Moras Mogul en presentación de 50 gr",
-        "precio": 622,
+        "precio": 646.63,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/moras_mogul.jpg"
     },
@@ -2815,7 +2815,7 @@
         "id": 336,
         "nombre": "PIZZA GUMMY ZONE",
         "descripcion": "Gomas sabor Pizza Gummy Zone",
-        "precio": 320,
+        "precio": 320.71,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/pizza_gummy.jpg"
     },
@@ -2823,7 +2823,7 @@
         "id": 337,
         "nombre": "ROLLO MISKY SURTIDO x 12u",
         "descripcion": "Rollos Misky surtidos, paquete de 12 unidades",
-        "precio": 2793,
+        "precio": 2903.18,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/rollo_misky.jpg"
     },
@@ -2831,7 +2831,7 @@
         "id": 338,
         "nombre": "TUBITOS EXTREME ACIDO MOGUL x 620gr",
         "descripcion": "Tubitos Mogul Extreme Ácido, 620 gr",
-        "precio": 6487.00,
+        "precio": 7230.75,
         "categorias": ["Gomitas"],
         "imagen": "../golosinas.img/tubitos_extreme_acido.webp"
     },
@@ -2839,7 +2839,7 @@
         "id": 339,
         "nombre": "Bull Dog Pastillas Ácidas",
         "descripcion": "Pastillas ácidas Bull Dog, un clásico de sabor intenso.",
-        "precio": 268,
+        "precio": 276.87,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/bull_dog_acidas.jpg"
     },
@@ -2847,7 +2847,7 @@
         "id": 340,
         "nombre": "Corazoncitos Dorins",
         "descripcion": "Dulces en forma de corazones Dorins, ideales para compartir.",
-        "precio": 193,
+        "precio": 204.64,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/corazoncitos_dorins.jpg"
     },
@@ -2855,7 +2855,7 @@
         "id": 341,
         "nombre": "D.R.F Frutos Rojos / Anís",
         "descripcion": "Pastillas D.R.F de frutos rojos y anís, un sabor clásico.",
-        "precio": 275,
+        "precio": 275.33,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/drf_frutos_rojos_anis.jpg"
     },
@@ -2863,7 +2863,7 @@
         "id": 342,
         "nombre": "D.R.F Mentol",
         "descripcion": "Pastillas D.R.F con sabor refrescante a mentol.",
-        "precio": 275,
+        "precio": 275.33,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/drf_mentol.jpg"
     },
@@ -2871,7 +2871,7 @@
         "id": 343,
         "nombre": "D.R.F Naranja",
         "descripcion": "Pastillas D.R.F de naranja, ideales para disfrutar en cualquier momento.",
-        "precio": 275,
+        "precio": 275.33,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/drf_naranja.jpg"
     },
@@ -2879,7 +2879,7 @@
         "id": 344,
         "nombre": "D.R.F Menta",
         "descripcion": "Pastillas D.R.F con sabor fresco a menta.",
-        "precio": 275,
+        "precio": 275.33,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/drf_menta.jpg"
     },
@@ -2887,7 +2887,7 @@
         "id": 345,
         "nombre": "D.R.F Limón",
         "descripcion": "Pastillas D.R.F con un toque ácido de limón.",
-        "precio": 275,
+        "precio": 275.33,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/drf_limon.png"
     },
@@ -2895,7 +2895,7 @@
         "id": 346,
         "nombre": "Docile Mini 8 Pastilla x 100 un.",
         "descripcion": "Mini pastillas Docile, ideales para disfrutar y compartir, paquete de 100 unidades.",
-        "precio": 4018,
+        "precio": 4018.95,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/docile_mini_8.jpg"
     },
@@ -2903,7 +2903,7 @@
         "id": 347,
         "nombre": "Halls Cherry-Lyptus",
         "descripcion": "Caramelos Halls sabor cereza y eucalipto, frescura garantizada.",
-        "precio": 664,
+        "precio": 586.84,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/halls_cherry_lyptus.jpg"
     },
@@ -2911,7 +2911,7 @@
         "id": 348,
         "nombre": "Halls Menta-Lyptus",
         "descripcion": "Caramelos Halls sabor menta y eucalipto, un clásico refrescante.",
-        "precio": 664,
+        "precio": 586.84,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/hallsMentoLyptus.jpg"
     },
@@ -2919,7 +2919,7 @@
         "id": 349,
         "nombre": "Halls Strong-Lyptus",
         "descripcion": "Caramelos Halls con frescura extra fuerte a eucalipto.",
-        "precio": 664,
+        "precio": 586.84,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/halls_strong_lyptus.jpg"
     },
@@ -2927,7 +2927,7 @@
         "id": 350,
         "nombre": "La Yapa",
         "descripcion": "Dulces La Yapa, un clásico que no pasa de moda.",
-        "precio": 288,
+        "precio": 215.98,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/la_yapa.jpg"
     },
@@ -2935,7 +2935,7 @@
         "id": 351,
         "nombre": "MenthoPlus Cherry",
         "descripcion": "Caramelos MenthoPlus sabor cereza, con un toque de frescura.",
-        "precio": 375,
+        "precio": 393.75,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/menthoplus_cherry.jpg"
     },
@@ -2943,7 +2943,7 @@
         "id": 352,
         "nombre": "MenthoPlus Menta",
         "descripcion": "Caramelos MenthoPlus sabor menta, perfectos para refrescar.",
-        "precio": 375,
+        "precio": 393.75,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/menthoplus_menta.jpg"
     },
@@ -2951,7 +2951,7 @@
         "id": 353,
         "nombre": "MenthoPlus Mentol",
         "descripcion": "Caramelos MenthoPlus con intenso sabor a mentol.",
-        "precio": 375,
+        "precio": 393.75,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/menthoplus_mentol.jpg"
     },
@@ -2959,7 +2959,7 @@
         "id": 354,
         "nombre": "MenthoPlus Miel",
         "descripcion": "Caramelos MenthoPlus con sabor suave a miel.",
-        "precio": 375,
+        "precio": 393.75,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/menthoplus_miel.jpg"
     },
@@ -2967,7 +2967,7 @@
         "id": 355,
         "nombre": "MenthoPlus Strong",
         "descripcion": "Caramelos MenthoPlus con frescura extra fuerte.",
-        "precio": 375,
+        "precio": 393.75,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/menthoplus_strong.jpg"
     },
@@ -2975,7 +2975,7 @@
         "id": 356,
         "nombre": "Pastillas Biyu",
         "descripcion": "Pastillas Biyu, dulces y refrescantes para disfrutar en cualquier momento.",
-        "precio": 786,
+        "precio": 786.38,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/pastillas_biyu.jpg"
     },
@@ -2983,7 +2983,7 @@
         "id": 357,
         "nombre": "Pastillas Bluper x 6u",
         "descripcion": "Pastillas Bluper, pack de 6 unidades con sabores intensos.",
-        "precio": 1335,
+        "precio": 1410.98,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/pastillas_bluper.jpg"
     },
@@ -2991,7 +2991,7 @@
         "id": 358,
         "nombre": "Tic Tac Frutilla y Menta Dupla",
         "descripcion": "Tic Tac de frutilla y menta, presentación dupla.",
-        "precio": 633,
+        "precio": 633.42,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/tictac_frutilla_menta.jpg"
     },
@@ -2999,7 +2999,7 @@
         "id": 359,
         "nombre": "Tic Tac Menta",
         "descripcion": "Tic Tac clásico sabor menta, refrescante y delicioso.",
-        "precio": 633,
+        "precio": 633.42,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/tictac_menta.jpg"
     },
@@ -3007,7 +3007,7 @@
         "id": 360,
         "nombre": "Tic Tac Mix de Frutas",
         "descripcion": "Tic Tac con un mix de frutas, sabores variados y deliciosos.",
-        "precio": 633,
+        "precio": 633.42,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/tictac_mix_frutas.jpg"
     },
@@ -3015,7 +3015,7 @@
         "id": 361,
         "nombre": "Tic Tac Naranja",
         "descripcion": "Tic Tac sabor naranja, un toque cítrico para refrescar tu día.",
-        "precio": 633,
+        "precio": 633.42,
         "categorias": ["Chicles/Mentitas"],
         "imagen": "../golosinas.img/tictac_naranja.jpg"
     },
@@ -3024,7 +3024,7 @@
         "id": 362,
         "nombre": "CUBANITO OBLITA FRUTILLA x 48 un",
         "descripcion": "Cubanito Oblita sabor frutilla, paquete con 48 unidades.",
-        "precio": 2697,
+        "precio": 2697.47,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/cubanito_oblita_frutilla.jpg"
     },
@@ -3032,7 +3032,7 @@
         "id": 363,
         "nombre": "CUBANITO OBLITA MARROC x 48 un",
         "descripcion": "Cubanito Oblita sabor marroc, paquete con 48 unidades.",
-        "precio": 2697,
+        "precio": 2697.47,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/cubanito_oblita_marroc.jpg"
     },
@@ -3040,7 +3040,7 @@
         "id": 364,
         "nombre": "CUBANITOS OBLITA CHOCOLATE 48u",
         "descripcion": "Cubanitos Oblita sabor chocolate, paquete con 48 unidades.",
-        "precio": 2697,
+        "precio": 2697.47,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/cubanitos_oblita_chocolate.jpg"
     },
@@ -3048,7 +3048,7 @@
         "id": 365,
         "nombre": "GALLO SNACKS OBLEA CHOCOBAR",
         "descripcion": "Gallo Snacks Oblea Chocobar, un delicioso snack para disfrutar.",
-        "precio": 486,
+        "precio": 486.96,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/gallo_snacks_oblea_chocobar.jpg"
     },
@@ -3080,7 +3080,7 @@
         "id": 369,
         "nombre": "NEVARES TURRON",
         "descripcion": "Nevares Turrón, un clásico dulce para disfrutar.",
-        "precio": 143,
+        "precio": 143.17,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/nevares_turron.jpg"
     },
@@ -3088,7 +3088,7 @@
         "id": 370,
         "nombre": "Oblea ARCOR TWIT",
         "descripcion": "Oblea Arcor Twit, deliciosa combinación de sabores.",
-        "precio": 267,
+        "precio": 267.19,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/oblea_arcor_twit.jpg"
     },
@@ -3096,7 +3096,7 @@
         "id": 371,
         "nombre": "OBLEA BON O BON BLANCA",
         "descripcion": "Oblea Bon o Bon sabor blanca, perfecta para un momento dulce.",
-        "precio": 598,
+        "precio": 569.77,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/oblea_bonobon_blanca.jpg"
     },
@@ -3104,7 +3104,7 @@
         "id": 372,
         "nombre": "OBLEA BON O BON LECHE",
         "descripcion": "Oblea Bon o Bon sabor leche, un clásico irresistible.",
-        "precio": 598,
+        "precio": 569.77,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/oblea_bonobon_leche.jpg"
     },
@@ -3120,7 +3120,7 @@
         "id": 374,
         "nombre": "OBLEA KITKAT",
         "descripcion": "Oblea KitKat, la combinación perfecta de galleta y chocolate.",
-        "precio": 1086,
+        "precio": 1086.05,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/oblea_kitkat.jpg"
     },
@@ -3128,7 +3128,7 @@
         "id": 375,
         "nombre": "PICNIC",
         "descripcion": "Picnic, una deliciosa combinación de chocolate y maní.",
-        "precio": 236,
+        "precio": 236.92,
         "categorias": ["Alfajores"],
         "imagen": "../golosinas.img/picnic.jpg"
     },
@@ -3136,7 +3136,7 @@
         "id": 376,
         "nombre": "RHODESIA",
         "descripcion": "Rhodesia, una golosina clásica de galleta y chocolate.",
-        "precio": 515,
+        "precio": 515.8,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/rhodesia.jpg"
     },
@@ -3144,7 +3144,7 @@
         "id": 377,
         "nombre": "TITA",
         "descripcion": "Tita, una clásica combinación de chocolate y galleta.",
-        "precio": 461,
+        "precio": 474.97,
         "categorias": ["Chocolates"],
         "imagen": "../golosinas.img/tita.jpg"
     },
@@ -3152,7 +3152,7 @@
         "id": 378,
         "nombre": "TURRON MISKY",
         "descripcion": "Turrón Misky, un dulce tradicional.",
-        "precio": 144,
+        "precio": 144.07,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/turron_misky.jpg"
     },
@@ -3161,7 +3161,7 @@
         "id": 379,
         "nombre": "TURRON ARCOR",
         "descripcion": "Turrón Arcor, un dulce clásico y delicioso.",
-        "precio": 207,
+        "precio": 207.82,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/turron_arcor.jpg"
     },
