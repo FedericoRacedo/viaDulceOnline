@@ -7,7 +7,7 @@
     padding: 0;
     text-decoration: none;
     list-style: none;
-    font-family: "Nunito", sans-serif;
+    font-family:'Poppins', sans-serif;
 }
 
 img {
@@ -367,6 +367,7 @@ h2 {
     outline: none;
     box-shadow: 0 0 5px #007BFF;
 }
+
 
 @media (max-width:500px) {
     

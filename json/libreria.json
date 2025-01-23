@@ -3,30 +3,49 @@
         "id": 1,
         "nombre": "VOLIGOMA/ pelikan",
         "descripcion": "(tamaño 30ml)",
+<<<<<<< HEAD
         "precio": 1110.23,
         "imagen": "../libreria.img/boligoma.jpg"
+=======
+        "precio": "790,00",
+        "imagen": "../libreria.img/boligoma.jpg",
+        "stock": 1
+>>>>>>> 0539e6a2e287eb44ff2f914316a1944df3a4dd76
     },
 
     {
         "id": 2,
         "nombre": "Cartulina Blanca",
         "descripcion": "(Precio por unidad)",
+<<<<<<< HEAD
         "precio": 252.05,
         "imagen": "../libreria.img/cartulinaBlanca.jpg"
+=======
+        "precio": "200,00",
+        "imagen": "../libreria.img/cartulinaBlanca.jpg",
+        "stock": 1
+>>>>>>> 0539e6a2e287eb44ff2f914316a1944df3a4dd76
     },
 
     {
         "id": 3,
         "nombre": "Cartulina Color",
         "descripcion": "(Precio por unidad)",
+<<<<<<< HEAD
         "precio":  335.43,
         "imagen": "../libreria.img/cartulinasColor.jpg"
+=======
+        "precio":  "400,00",
+        "imagen": "../libreria.img/cartulinasColor.jpg",
+        "stock": 1
+>>>>>>> 0539e6a2e287eb44ff2f914316a1944df3a4dd76
     },
 
     {
         "id": 4,
         "nombre": "Lapiceras Bic",
         "descripcion": "(Color rojo, negro o verde)",
+<<<<<<< HEAD
         "precio": 464.05,
         "imagen": "../libreria.img/lapicerasBic.jpg"
     },
@@ -320,5 +339,10 @@
         "descripcion": "Voligoma Pelikan, adhesivo de uso escolar.",
         "precio": 1106.32,
         "imagen": "../libreria.img/voligoma_pelikan.jpg"
+=======
+        "precio": "800,00",
+        "imagen": "../libreria.img/lapicerasBic.jpg",
+        "stock": 1
+>>>>>>> 0539e6a2e287eb44ff2f914316a1944df3a4dd76
     }
 ]

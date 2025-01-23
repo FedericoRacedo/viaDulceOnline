@@ -1,0 +1,1246 @@
+[
+    {
+        "id": 1,
+        "nombre": "Yerba Amanda",
+        "descripcion": "(Peso 500g)",
+        "precio": 1840.00,
+        "categorias": ["Yerba"],
+        "imagen": "../almacen.img/yerbaAmanda.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Yerba Canarais",
+        "descripcion": "(Peso 500g)",
+        "precio": 3475.00,
+        "categorias": ["Yerba", "Almacen"],
+        "imagen": "../almacen.img/yerbaCanarias.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Yerba Cbse",
+        "descripcion": "(Peso 500g)",
+        "precio":  1800.00,
+        "categorias": ["Yerba", "Almacen"],
+        "imagen": "../almacen.img/yerbaCbse.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Yerba Mañanita",
+        "descripcion": "(Peso 500g)",
+        "precio": 1800.00,
+        "categorias": ["Yerba", "Almacen"],
+        "imagen": "../almacen.img/yerbaManianita.png"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Caldo Knorr",
+        "descripcion": "(Sabor Carne)",
+        "precio": 273.75,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/caldosKnorCarne.webp"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Aceite Girasol Cañuelas",
+        "descripcion": "(Peso 900cc)",
+        "precio":  1828.77,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/aceiteCañuelas.webp"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Aceite Girasol Natura",
+        "descripcion": "(Peso 900cc)",
+        "precio":  1950.77,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/aceiteNatura.webp"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Aceitunas Castell",
+        "descripcion": "(Peso 100g)",
+        "precio": 648.70,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/aceitunasCastell.webp"
+    },
+
+    {
+        "id": 9,
+        "nombre": "Adobo Pizza S&P",
+        "descripcion": "(Peso 26gr)",
+        "precio":  635.70,
+        "categorias": ["Almacen", "Condimentos"],
+        "imagen": "../almacen.img/adoboPizza.png"
+    },
+
+    {
+        "id": 10,
+        "nombre": "Aji Molido Marolio",
+        "descripcion": "(Peso 26gr)",
+        "precio":  147.47,
+        "categorias": ["Almacen", "Condimentos"],
+        "imagen": "../almacen.img/ajiMolido.webp"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Alcohol Duplex",
+        "descripcion": "(Peso 500ml)",
+        "precio":  1403.00,
+        "categorias": ["Alcohol/Azufre", "Almacen", "Fosforos/Encendedores", "Limpieza"],
+        "imagen": "../almacen.img/alcoholDuplex.jpg"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Alicate",
+        "descripcion": "(Grande)",
+        "precio":  856.71,
+        "categorias": ["Almacen", "Limpiadores"],
+        "imagen": "../almacen.img/alicateGrande.jpg"
+    },
+
+    {
+        "id": 13,
+        "nombre": "Cafe 5 Hispanos",
+        "descripcion": "(En Saquito)",
+        "precio": 4684.46,
+        "categorias": ["Almacen", "Bebidas"],
+        "imagen": "../almacen.img/cafe5Hispanos.webp"
+    },
+
+    {
+        "id": 14,
+        "nombre": "Arroz Ala",
+        "descripcion": "(Peso 500grs)",
+        "precio": 1188.00,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/arrozAla.jpg"
+    },
+
+    {
+        "id": 15,
+        "nombre": "Arvejas Molto/Marolio",
+        "descripcion": "(Peso 340gr)",
+        "precio": 573.75,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/arvejas.webp"
+    },
+
+    {
+        "id": 16,
+        "nombre": "Atun Desmenusado",
+        "descripcion": "(Natural)",
+        "precio": 1233.70,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/atunDesm.webp"
+    },
+
+    {
+        "id": 17,
+        "nombre": "Atun Desmenusado",
+        "descripcion": "(Aceite)",
+        "precio": 1272.70,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/atunAceite.png"
+    },
+
+    {
+        "id": 18,
+        "nombre": "Blem Lustramuebles",
+        "descripcion": "(Aerosol)",
+        "precio":  3382.50,
+        "categorias": ["Limpiadores"],
+        "imagen": "../almacen.img/blem.png"
+    },
+    
+    {
+        "id": 19,
+        "nombre": "Bizcochuelo Emeth",
+        "descripcion": "(Sabor DDL)",
+        "precio": 1516.26,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/bizcochueloDDL.jpg"
+    },
+
+    {
+        "id": 20,
+        "nombre": "Caldo Knorr",
+        "descripcion": "(Sabor Gallina)",
+        "precio":  296.57,
+        "categorias": ["Almacen"],
+        "imagen": "../golosinas.img/alfOreo.webp"
+    },
+    
+    {
+        "id": 21,
+        "nombre": "Caldo Knorr",
+        "descripcion": "(Sabor Verdura)",
+        "precio":  296.57,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/knorrVerdura.webp"
+    },
+
+    {
+        "id": 22,
+        "nombre": "Capsula Dolce Gusto",
+        "descripcion": "(Cafe/Leche)",
+        "precio":  9625.00,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/dolceGustoCageLeche.webp"
+    },
+    
+    {
+        "id": 23,
+        "nombre": "Capsula Dolce Gusto",
+        "descripcion": "(Expresso)",
+        "precio": 9625.00,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/dolceGustoExpresso.webp"
+    },
+    {
+        "id": 24,
+        "nombre": "Capsula Dolce Gusto",
+        "descripcion": "(Cortado)",
+        "precio": 9625.00,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/dolceGustoCortado.webp"
+    },
+    {
+        "id": 25,
+        "nombre": "Celusal Estuche",
+        "descripcion": "(Peso 500grs)",
+        "precio": 961.75,
+        "categorias": ["Almacen", "Condimentos"],
+        "imagen": "../almacen.img/celusalEstuche.webp"
+    },
+    {
+        "id": 26,
+        "nombre": "Chimichurri Marolio",
+        "descripcion": "(Peso 25gr)",
+        "precio": 297.51,
+        "categorias": ["Almacen", "Condimentos"],
+        "imagen": "../almacen.img/chimichurriMarolio.webp"
+    },
+    {
+        "id": 27,
+        "nombre": "Dulce de leche",
+        "descripcion": "(Tradicional)",
+        "precio": 1474.95,
+        "categorias": ["Almacen", "Dulce"],
+        "imagen": "../almacen.img/DDLPlacer.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Dulce de leche",
+        "descripcion": "(Repostero)",
+        "precio": 1680.48,
+        "categorias": ["Almacen", "Dulce"],
+        "imagen": "../almacen.img/DDLPlacerRepostero.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "Dulce de leche",
+        "descripcion": "(La serenisima)",
+        "precio": 2337.50,
+        "categorias": ["Almacen", "Dulce"],
+        "imagen": "../almacen.img/DDLLaSerenisima.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "Durazno Molto",
+        "descripcion": "(Peso 820gr)",
+        "precio": 2183.80,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/duraznoMolto.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "Emeth Membrillo",
+        "descripcion": "(Peso 500g)",
+        "precio": 1354.41,
+        "categorias": ["Almacen", "Dulce"],
+        "imagen": "../almacen.img/membrillo.jpg"
+    },
+    {
+        "id": 32,
+        "nombre": "Esencia de vainilla",
+        "descripcion": "(chico)",
+        "precio": 1298.70,
+        "categorias": ["Almacen", "Dulce"],
+        "imagen": "../almacen.img/esenciaDeVainilla.png"
+    },
+    {
+        "id": 33,
+        "nombre": "Fideos 308",
+        "descripcion": "(Numero 1)",
+        "precio": 1374.58,
+        "categorias": ["Almacen", "Pastas"],
+        "imagen": "../almacen.img/308N1.jpg"
+    },
+    {
+        "id": 34,
+        "nombre": "Fideos 308",
+        "descripcion": "(Numero 2)",
+        "precio": 1374.58,
+        "categorias": ["Almacen", "Pastas"],
+        "imagen": "../almacen.img/308N2.jpg"
+    },
+    {
+        "id": 35,
+        "nombre": "Fideos 308",
+        "descripcion": "(Numero 3)",
+        "precio": 1374.58,
+        "categorias": ["Almacen", "Pastas"],
+        "imagen": "../almacen.img/308N3.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "Fideos Bernabeu",
+        "descripcion": "(Tirabuzon)",
+        "precio": 633.18,
+        "categorias": ["Almacen", "Pastas"],
+        "imagen": "../almacen.img/bernadeuTirabuzon.webp"
+    },
+    {
+        "id": 37,
+        "nombre": "Fideos Bernabeu",
+        "descripcion": "(Codito)",
+        "precio": 633.18,
+        "categorias": ["Almacen", "Pastas"],
+        "imagen": "../almacen.img/bernadeuCodito.webp"
+    },
+    {
+        "id": 38,
+        "nombre": "Fideos Bernabeu",
+        "descripcion": "(Spaghetti)",
+        "precio": 633.18,
+        "categorias": ["Almacen", "Pastas"],
+        "imagen": "../almacen.img/bernadeuSpaghetti.webp"
+    },
+    {
+        "id": 39,
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Tallarin)",
+        "precio": 1089.00,
+        "categorias": ["Almacen", "Pastas"],
+        "imagen": "../almacen.img/lucchettiTallarin.webp"
+    },
+
+    {
+        "id": 40,
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Dedalito)",
+        "precio": 1089.00,
+        "categorias": ["Pastas", "Almacen"],
+        "imagen": "../almacen.img/lucchettiDedalito.webp"
+    },
+    {
+        "id": 41,
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Codito)",
+        "precio": 1089.00,
+        "categorias": ["Pastas", "Almacen"],
+        "imagen": "../almacen.img/lucchettiCodito.webp"
+    },
+    {
+        "id": 42,
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Letritas)",
+        "precio": 1089.00,
+        "categorias": ["Pastas", "Almacen"],
+        "imagen": "../almacen.img/lucchettiLetritas.webp"
+    },
+    {
+        "id": 43,
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Moños)",
+        "precio": 1089.00,
+        "categorias": ["Pastas", "Almacen"],
+        "imagen": "../almacen.img/lucchettiMonios.webp"
+    },
+    {
+        "id": 44,
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Mostachol)",
+        "precio": 1089.00,
+        "categorias": ["Pastas", "Almacen"],
+        "imagen": "../almacen.img/lucchettiMostachol.webp"
+    },
+    {
+        "id": 45,
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Municiones)",
+        "precio": 1089.00,
+        "categorias": ["Pastas", "Almacen"],
+        "imagen": "../almacen.img/lucchettiMunisiones.webp"
+    },
+    {
+        "id": 46,
+        "nombre": "Fideos Lucchetti",
+        "descripcion": "(Spaghetti)",
+        "precio": 1089.00,
+        "categorias": ["Pastas", "Almacen"],
+        "imagen": "../almacen.img/lucchettiSpaguetti.webp"
+    },
+    {
+        "id": 47,
+        "nombre": "Gelatina Emeth",
+        "descripcion": "(Durazno)",
+        "precio": 791.95,
+        "categorias": ["Gelatinas", "Almacen"],
+        "imagen": "../almacen.img/gelatinaDurazno.jpg"
+    },
+    {
+        "id": 48,
+        "nombre": "Gelatina Emeth",
+        "descripcion": "(Naranja)",
+        "precio": 791.95,
+        "categorias": ["Gelatinas", "Almacen"],
+        "imagen": "../almacen.img/gelatinaNaranja.jpg"
+    },
+    {
+        "id": 49,
+        "nombre": "Gelatina Emeth",
+        "descripcion": "(Frutilla)",
+        "precio": 791.95,
+        "categorias": ["Gelatinas", "Almacen"],
+        "imagen": "../almacen.img/gelatinaFrutilla.jpg"
+    },
+    {
+        "id": 50,
+        "nombre": "Grasa Esani",
+        "descripcion": "(Peso 500g)",
+        "precio": 999.85,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/grasa.webp"
+    },
+    {
+        "id": 51,
+        "nombre": "Ketchup Hellmanns",
+        "descripcion": "(Peso 60g)",
+        "precio": 658.85,
+        "categorias": ["Condimentos", "Almacen"],
+        "imagen": "../almacen.img/hellmannsKepchup.webp"
+    },
+    {
+        "id": 52,
+        "nombre": "Hileret Clasico",
+        "descripcion": "(Peso 60g)",
+        "precio": 1790.72,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/hileretClasico.jpeg"
+    },
+    {
+        "id": 53,
+        "nombre": "Huevo Maple",
+        "descripcion": "(Numero 3)",
+        "precio": 5185.00,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/huevo.jpg"
+    },
+    {
+        "id": 54,
+        "nombre": "Leche angelita",
+        "descripcion": "(Clasica)",
+        "precio": 1352.54,
+        "categorias": ["Lácteos", "Almacen"],
+        "imagen": "../almacen.img/lecheClasica.jpg"
+    },
+    {
+        "id": 55,
+        "nombre": "Leche angelita",
+        "descripcion": "(Descremada)",
+        "precio": 1352.54,
+        "categorias": ["Lácteos", "Almacen"],
+        "imagen": "../almacen.img/lecheDescremada.jpg"
+    },
+    {
+        "id": 56,
+        "nombre": "Levadura",
+        "descripcion": "(2 Sobres)",
+        "precio": 640.14,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/levadura.jpg"
+    },
+    {
+        "id": 57,
+        "nombre": "Mate codico La Tranquera",
+        "descripcion": "(25 sobres)",
+        "precio": 940.48,
+        "categorias": ["Infusiones", "Almacen"],
+        "imagen": "../almacen.img/mateCocidoLaTranquera.jpg"
+    },
+    {
+        "id": 58,
+        "nombre": "Mayonesa Natura",
+        "descripcion": "(Peso 237g)",
+        "precio": 897.00,
+        "categorias": ["Condimentos", "Almacen"],
+        "imagen": "../almacen.img/mayoNatura237g.jpg"
+    },
+    {
+        "id": 59,
+        "nombre": "Mayonesa Natura",
+        "descripcion": "(Peso 125g)",
+        "precio": 526.67,
+        "categorias": ["Condimentos", "Almacen"],
+        "imagen": "../almacen.img/mayoNatura125g.jpg"
+    },
+    {
+        "id": 60,
+        "nombre": "Mermelada Emeth",
+        "descripcion": "(Damasco)",
+        "precio": 887.21,
+        "categorias": ["Dulce", "Almacen"],
+        "imagen": "../almacen.img/damascoMermelada.jpg"
+    },
+
+    {
+        "id": 61,
+        "nombre": "Mermelada Emeth",
+        "descripcion": "(Ciruela)",
+        "precio": 887.21,
+        "categorias": ["Dulce", "Almacen"],
+        "imagen": "../almacen.img/ciruelaMermelada.jpg"
+    },
+    {
+        "id": 62,
+        "nombre": "Mermelada Emeth",
+        "descripcion": "(Frutilla)",
+        "precio": 941.24,
+        "categorias": ["Dulce", "Almacen"],
+        "imagen": "../almacen.img/frutillaMermelada.jpg"
+    },
+    {
+        "id": 63,
+        "nombre": "Miel Pampera",
+        "descripcion": "(Peso 250g)",
+        "precio": 861.50,
+        "categorias": ["Dulce", "Almacen"],
+        "imagen": "../almacen.img/mielChica.jpg"
+    },
+    {
+        "id": 64,
+        "nombre": "Miel Pampera",
+        "descripcion": "(Peso 500g)",
+        "precio": 1603.05,
+        "categorias": ["Dulce", "Almacen"],
+        "imagen": "../almacen.img/mielChica.jpg"
+    },
+    {
+        "id": 65,
+        "nombre": "Nesquik",
+        "descripcion": "(Peso 180g)",
+        "precio": 1338.34,
+        "categorias": ["Bebidas", "Almacen"],
+        "imagen": "../almacen.img/nesquik.jpg"
+    },
+    {
+        "id": 66,
+        "nombre": "Oregano",
+        "descripcion": "(Peso 25gr)",
+        "precio": 778.79,
+        "categorias": ["Condimentos", "Almacen"],
+        "imagen": "../almacen.img/oregano.jpg"
+    },
+    {
+        "id": 67,
+        "nombre": "Nutella",
+        "descripcion": "(Peso 500g)",
+        "precio": 3128.63,
+        "categorias": ["Dulce", "Almacen"],
+        "imagen": "../almacen.img/nutella.jpg"
+    },
+    {
+        "id": 68,
+        "nombre": "Pan Rayado Morixe",
+        "descripcion": "(Peso 500gr)",
+        "precio": 852.79,
+        "categorias": ["Panificados", "Almacen"],
+        "imagen": "../almacen.img/panRayadoMorixe.jpg"
+    },
+    {
+        "id": 69,
+        "nombre": "Pate Swift",
+        "descripcion": "(Lata)",
+        "precio": 713.70,
+        "categorias": ["Carnes", "Almacen"],
+        "imagen": "../almacen.img/pateSwift.jpg"
+    },
+    {
+        "id": 70,
+        "nombre": "Picadillo Swift",
+        "descripcion": "(Lata)",
+        "precio": 713.70,
+        "categorias": ["Carnes", "Almacen"],
+        "imagen": "../almacen.img/picadilloSwif.jpg"
+    },
+    {
+        "id": 71,
+        "nombre": "Pimienta Blanca molida",
+        "descripcion": "(Peso 25gr)",
+        "precio": 1168.71,
+        "categorias": ["Condimentos", "Almacen"],
+        "imagen": "../almacen.img/pimientaBlanca.jpg"
+    },
+    {
+        "id": 72,
+        "nombre": "Polenta Del Campo",
+        "descripcion": "(Peso 500gr)",
+        "precio": 565.55,
+        "categorias": ["Cereales", "Almacen"],
+        "imagen": "../almacen.img/polentaCampo.jpg"
+    },
+    {
+        "id": 73,
+        "nombre": "Pinzas de Depilar",
+        "descripcion": "(Por unidad)",
+        "precio": 595.85,
+        "categorias": ["Accesorios", "Hogar"],
+        "imagen": "../almacen.img/pinzasDepilar.jpg"
+    },
+    {
+        "id": 74,
+        "nombre": "Provenzal",
+        "descripcion": "(Peso 50g)",
+        "precio": 1416.15,
+        "categorias": ["Condimentos", "Almacen"],
+        "imagen": "../almacen.img/provenzal.jpg"
+    },
+    {
+        "id": 75,
+        "nombre": "Pure de tomate",
+        "descripcion": "(Molto)",
+        "precio": 875.73,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/pureTomateMolto.jpg"
+    },
+    {
+        "id": 76,
+        "nombre": "Pure de tomate",
+        "descripcion": "(Salsati)",
+        "precio": 849.08,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/pureTomateSalsati.jpg"
+    },
+    {
+        "id": 77,
+        "nombre": "Pure de tomate",
+        "descripcion": "(La Campagniola)",
+        "precio": 778.14,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/pureTomateLaCampagniola.jpg"
+    },
+    {
+        "id": 78,
+        "nombre": "Polenta Presta Pronto",
+        "descripcion": "(Peso 500gr)",
+        "precio": 1050.00,
+        "categorias": ["Cereales", "Almacen"],
+        "imagen": "../almacen.img/polentaPrestaPronto.jpg"
+    },
+    {
+        "id": 79,
+        "nombre": "Pure de tomate",
+        "descripcion": "(Arcor)",
+        "precio": 707.39,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/pureTomateArcor.jpg"
+    },
+    {
+        "id": 80,
+        "nombre": "Pure de tomate",
+        "descripcion": "(La Huerta)",
+        "precio": 752.70,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/pureTomateLaHuerta.jpg"
+    },
+
+    {
+        "id": 81,
+        "nombre": "Pure Maggi",
+        "descripcion": "(Peso 125gr)",
+        "precio": 1838.13,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/pureMaggi.jpg"
+    },
+    {
+        "id": 82,
+        "nombre": "Queso Rallado",
+        "descripcion": "(La Serenisima)",
+        "precio": 1483.14,
+        "categorias": ["Lácteos", "Almacen"],
+        "imagen": "../almacen.img/quesoRalladoLaSerenisima.jpg"
+    },
+    {
+        "id": 83,
+        "nombre": "Queso Rallado",
+        "descripcion": "(La Quesera)",
+        "precio": 613.43,
+        "categorias": ["Lácteos", "Almacen"],
+        "imagen": "../almacen.img/quesoRalladoLaQuesera.jpg"
+    },
+    {
+        "id": 84,
+        "nombre": "Sal Tresal",
+        "descripcion": "(Entrefina)",
+        "precio": 693.00,
+        "categorias": ["Condimentos", "Almacen"],
+        "imagen": "../almacen.img/tresalEntrefina.jpg"
+    },
+    {
+        "id": 85,
+        "nombre": "Sal Fina",
+        "descripcion": "(Dos Anclas)",
+        "precio": 1006.74,
+        "categorias": ["Condimentos", "Almacen"],
+        "imagen": "../almacen.img/salFina2Anclas.jpg"
+    },
+    {
+        "id": 86,
+        "nombre": "Savora",
+        "descripcion": "(Peso 60g)",
+        "precio": 546.75,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/savora.jpg"
+    },
+    {
+        "id": 87,
+        "nombre": "Te Cryfs",
+        "descripcion": "(Por 25 Unidades)",
+        "precio": 579.60,
+        "categorias": ["Bebidas", "Infusiones"],
+        "imagen": "../almacen.img/teCrysf.jpg"
+    },
+    {
+        "id": 88,
+        "nombre": "Te Taragui x 25 Saq.",
+        "descripcion": "Caja de 25 saquitos de té Taragüi.",
+        "precio": 579.60,
+        "categorias": ["Bebidas", "Infusiones"],
+        "imagen": "../almacen.img/teTaragui.jpg"
+    },
+    {
+        "id": 89,
+        "nombre": "Tomate Lata Marolio 400g",
+        "descripcion": "Lata de tomate Marolio de 400 gramos.",
+        "precio": 883.20,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/tomateTrituradoMarolio.jpg"
+    },
+    {
+        "id": 90,
+        "nombre": "Tomate Perita Lata Molto 400g",
+        "descripcion": "Lata de tomate perita Molto de 400 gramos.",
+        "precio": 894.72,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/tomateLataPerita.jpg"
+    },
+    {
+        "id": 91,
+        "nombre": "Tomate Triturado Marolio",
+        "descripcion": "Tomate triturado Marolio.",
+        "precio": 955.90,
+        "categorias": ["Salsas", "Almacen"],
+        "imagen": "../almacen.img/tomateTrituradoMarolio.jpg"
+    },
+    {
+        "id": 92,
+        "nombre": "Valido Budin Marmolado 180g",
+        "descripcion": "Budín marmolado Valido de 180 gramos.",
+        "precio": 1998.75,
+        "categorias": ["Panificados", "Almacen"],
+        "imagen": "../almacen.img/budinMarmoladoValido.jpg"
+    },
+    {
+        "id": 93,
+        "nombre": "Vinagre Casalta x 500cc",
+        "descripcion": "Botella de vinagre Casalta de 500 cc.",
+        "precio": 845.81,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/vinagreCasalta.jpg"
+    },
+    {
+        "id": 94,
+        "nombre": "Vinagre Casalta x 1L",
+        "descripcion": "Botella de vinagre Casalta de 1 litro.",
+        "precio": 583.88,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/vinagreCasalta.jpg"
+    },
+    {
+        "id": 95,
+        "nombre": "Vinagre Marolio/Molto x 500cc",
+        "descripcion": "Botella de vinagre Marolio/Molto de 500 cc.",
+        "precio": 827.75,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/vinagreMarolio.jpg"
+    },
+    {
+        "id": 96,
+        "nombre": "Yerba CBSE Naranja 500g",
+        "descripcion": "Paquete de yerba CBSé sabor naranja de 500 gramos.",
+        "precio": 1815.00,
+        "categorias": ["Infusiones", "Yerba"],
+        "imagen": "../almacen.img/cbseNaranja.jpg"
+    },
+    {
+        "id": 97,
+        "nombre": "Yerba La Tranquera 1 Kilo",
+        "descripcion": "Paquete de yerba La Tranquera de 1 kilo.",
+        "precio": 3467.24,
+        "categorias": ["Infusiones", "Yerba"],
+        "imagen": "../almacen.img/tranquera1k.jpg"
+    },
+    {
+        "id": 98,
+        "nombre": "Cacao Toddy Original",
+        "descripcion": "X 180g",
+        "precio": 814.52,
+        "categorias": ["Bebidas", "Dulce"],
+        "imagen": "../almacen.img/cacaoToddy.jpg"
+    },
+    {
+        "id": 99,
+        "nombre": "Vasos Térmicos x 240cc x 25u",
+        "descripcion": "Vasos térmicos de 240 cc, 25 unidades.",
+        "precio": 1297.81,
+        "categorias": ["Accesorios", "Hogar"],
+        "imagen": "../almacen.img/vasosTermicos240cc25u.jpg"
+    },
+    {
+        "id": 100,
+        "nombre": "Provenzal Dos Anclas x 50gr",
+        "descripcion": "Provenzal Dos Anclas, 50 gramos.",
+        "precio": 1377.47,
+        "categorias": ["Condimentos", "Almacen"],
+        "imagen": "../almacen.img/provensalDosAnclas50g.jpg"
+    },
+    
+    {
+        "id": 101,
+        "nombre": "FIDEOS LUCCHETTI",
+        "descripcion": "TIRABUZON",
+        "precio": 1089.00,
+        "categorias": ["Almacen", "Pastas"],
+        "imagen": "../almacen.img/tirabuzon.jpg"
+    },
+    {
+        "id": 102,
+        "nombre": "CORDONES x1.10cm",
+        "descripcion": "Cordones resistentes de 1.10 cm",
+        "precio": 2624.54,
+        "categorias": ["Almacen", "Cordones/Hilos"],
+        "imagen": "../almacen.img/cordones110cm.jpg"
+    },
+    {
+        "id": 103,
+        "nombre": "HILO P/Barrilete x 10 ovillos",
+        "descripcion": "Hilo para barrilete, paquete de 10 ovillos",
+        "precio": 2075.61,
+        "categorias": ["Almacen", "Cordones/Hilos"],
+        "imagen": "../almacen.img/hiloBarrilete10ovillos.jpg"
+    },
+    {
+        "id": 104,
+        "nombre": "HILO T/Chorisero x 10 Ovillos",
+        "descripcion": "Hilo tipo chorisero, paquete de 10 ovillos",
+        "precio": 2510.01,
+        "categorias": ["Almacen", "Cordones/Hilos"],
+        "imagen": "../almacen.img/hiloChorisero10ovillos.jpg"
+    },
+    {
+        "id": 105,
+        "nombre": "PALITO BROCHETE",
+        "descripcion": "Palitos para brochete",
+        "precio": 536.50,
+        "categorias": ["Almacen", "Accesorios"],
+        "imagen": "../almacen.img/palitoBrochete.jpg"
+    },
+    {
+        "id": 106,
+        "nombre": "Yerba Cumbrecita",
+        "descripcion": "Por 500g",
+        "precio": 1368.96,
+        "categorias": ["Yerba", "Almacen"],
+        "imagen": "../almacen.img/yerbaCumbrecita.jpg"
+    },
+    {
+        "id": 107,
+        "nombre": "Harina Blancaflor leudante",
+        "descripcion": "(Peso 1K)",
+        "precio": 1222.75,
+        "categorias": ["Harinas", "Almacen"],
+        "imagen": "../almacen.img/blancaflorHarina.jpg"
+    },
+    {
+        "id": 108,
+        "nombre": "Harina Cañuelas 000",
+        "descripcion": "(Peso 1K)",
+        "precio": 649.36,
+        "categorias": ["Harinas", "Almacen"],
+        "imagen": "../almacen.img/canuelasHarina.jpg"
+    },
+    {
+        "id": 109,
+        "nombre": "Harina Favorita",
+        "descripcion": "(Peso 1K)",
+        "precio": 638.74,
+        "categorias": ["Harinas", "Almacen"],
+        "imagen": "../almacen.img/favoritaHarina.jpg"
+    },
+    {
+        "id": 110,
+        "nombre": "Clight Sin Azúcar Manzana Deliciosa",
+        "descripcion": "Clight sin azúcar sabor manzana deliciosa",
+        "precio": 283.55,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/clight_manzana.jpg"
+    },
+    {
+        "id": 111,
+        "nombre": "Clight Sin Azúcar Naranja",
+        "descripcion": "Clight sin azúcar sabor naranja",
+        "precio": 283.55,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/clight_naranja.jpg"
+    },
+    {
+        "id": 112,
+        "nombre": "Jugo BAGGIO 1 LITRO Multifruta",
+        "descripcion": "Jugo Baggio de 1 litro sabor multifruta",
+        "precio": 1284.99,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/baggio_multifruta.jpg"
+    },
+    {
+        "id": 113,
+        "nombre": "Jugo BAGGIO Pronto Juniors Manzana",
+        "descripcion": "Jugo Baggio Pronto Juniors sabor manzana",
+        "precio": 261.73,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/baggio_pronto_manzana.jpg"
+    },
+    {
+        "id": 114,
+        "nombre": "Jugo BAGGIO Pronto Juniors Naranja",
+        "descripcion": "Jugo Baggio Pronto Juniors sabor naranja",
+        "precio": 261.73,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/baggio_pronto_naranja.jpg"
+    },
+    {
+        "id": 115,
+        "nombre": "Jugo BAGGIO Pronto Juniors Multifruta",
+        "descripcion": "Jugo Baggio Pronto Juniors sabor multifruta",
+        "precio": 261.73,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/baggio_pronto_multifruta.jpg"
+    },
+    {
+        "id": 116,
+        "nombre": "JUGO BAGGIO x 200 ml Manzana",
+        "descripcion": "Jugo Baggio en presentación de 200 ml",
+        "precio": 401.06,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/baggio_200ml.jpg"
+    },
+    {
+        "id": 117,
+        "nombre": "JUGO BAGGIO x 200 ml Multifruta",
+        "descripcion": "Jugo Baggio sabor manzana y multifruta, 200 ml",
+        "precio": 401.06,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/baggio_200ml_manzana_multifruta.jpg"
+    },
+    {
+        "id": 118,
+        "nombre": "JUGO BAGGIO x 200 ml Naranja",
+        "descripcion": "Jugo Baggio sabor naranja, 200 ml",
+        "precio": 401.06,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/baggio_200ml_naranja.jpg"
+    },
+    {
+        "id": 119,
+        "nombre": "JUGOS NARANJU x20u",
+        "descripcion": "Jugos Naranju en presentación de 20 unidades",
+        "precio": 1680.00,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/naranju_20u.jpg"
+    },
+    {
+        "id": 120,
+        "nombre": "PLACER NARANJA 500cc",
+        "descripcion": "Bebida Placer sabor naranja, 500 cc",
+        "precio": 505.90,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/placer_naranja_500cc.jpg"
+    },
+    {
+        "id": 121,
+        "nombre": "Rinde 2 MANZANA",
+        "descripcion": "Jugo Rinde 2 sabor manzana",
+        "precio": 387.30,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/rinde2_manzana.jpg"
+    },
+    {
+        "id": 122,
+        "nombre": "Rinde 2 MIX FRUTAL",
+        "descripcion": "Jugo Rinde 2 sabor mix frutal",
+        "precio": 387.30,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/rinde2_mix_frutal.jpg"
+    },
+    {
+        "id": 123,
+        "nombre": "Rinde 2 NARANJA",
+        "descripcion": "Jugo Rinde 2 sabor naranja",
+        "precio": 407.68,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/rinde2_naranja.jpg"
+    },
+    {
+        "id": 124,
+        "nombre": "Rinde 2 NARANJA/BANANA",
+        "descripcion": "Jugo Rinde 2 sabor naranja y banana",
+        "precio": 387.30,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/rinde2_naranja_banana.jpg"
+    },
+    {
+        "id": 125,
+        "nombre": "Rinde 2 NARANJA NARANJA/MANGO",
+        "descripcion": "Jugo Rinde 2 sabor naranja y mango",
+        "precio": 387.30,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/rinde2_naranja_mango.jpg"
+    },
+    {
+        "id": 126,
+        "nombre": "TANG JUGO Naranja",
+        "descripcion": "Tang sabor naranja",
+        "precio": 266.50,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/tang_naranja.jpg"
+    },
+    {
+        "id": 127,
+        "nombre": "TANG JUGOS Manzana",
+        "descripcion": "Tang sabor manzana",
+        "precio": 266.50,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/tang_manzana.jpg"
+    },
+    {
+        "id": 128,
+        "nombre": "TANG JUGOS Limón Dulce/Limonada",
+        "descripcion": "Tang sabor limón dulce y limonada",
+        "precio": 266.50,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/tang_limon.jpg"
+    },
+    {
+        "id": 129,
+        "nombre": "TANG JUGOS Multifruta",
+        "descripcion": "Tang sabor multifruta",
+        "precio": 266.50,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/tang_multifruta.jpg"
+    },
+    {
+        "id": 130,
+        "nombre": "TANG JUGOS Naranja/Mango",
+        "descripcion": "Tang sabor naranja y mango",
+        "precio": 266.50,
+        "categorias": ["Jugos"],
+        "imagen": "../almacen.img/tang_naranja_mango.jpg"
+    },
+    {
+        "id": 131,
+        "nombre": "Lamp LED CANDELA 12 W",
+        "descripcion": "Lámpara LED marca Candela, 12 W",
+        "precio": 1136.00,
+        "categorias": ["Almacen", "Hogar"],
+        "imagen": "../almacen.img/lamp_candela_12w.jpg"
+    },
+    {
+        "id": 132,
+        "nombre": "Lamp LED CANDELA 7 W",
+        "descripcion": "Lámpara LED marca Candela, 7 W",
+        "precio": 791.34,
+        "categorias": ["Almacen", "Hogar"],
+        "imagen": "../almacen.img/lamp_candela_7w.jpg"
+    },
+    {
+        "id": 133,
+        "nombre": "Lamp LED CANDELA 9 W",
+        "descripcion": "Lámpara LED marca Candela, 9 W",
+        "precio": 921.40,
+        "categorias": ["Almacen", "Hogar"],
+        "imagen": "../almacen.img/lamp_candela_9w.jpg"
+    },
+    {
+        "id": 134,
+        "nombre": "Lamp LED LIGTH TRONIC 7 W",
+        "descripcion": "Lámpara LED marca Light Tronic, 7 W",
+        "precio": 677.60,
+        "categorias": ["Almacen", "Hogar"],
+        "imagen": "../almacen.img/lamp_light_tronic_7w.jpg"
+    },
+    {
+        "id": 135,
+        "nombre": "BOMBUCHA x100u",
+        "descripcion": "Globos tipo bombucha, paquete de 100 unidades",
+        "precio": 915.29,
+        "categorias": ["Latex"],
+        "imagen": "../almacen.img/bombucha_100u.jpg"
+    },
+    {
+        "id": 136,
+        "nombre": "CHUPETES C/SILICONA C/U",
+        "descripcion": "Chupetes con tetina de silicona, unidad",
+        "precio": 467.92,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/chupetes_silicona.jpg"
+    },
+    {
+        "id": 137,
+        "nombre": "Globo Bombucha/Candela/Ronda Feliz Cumple x 50Uni",
+        "descripcion": "Globos variados para cumpleaños, paquete de 50 unidades",
+        "precio": 3463.47,
+        "categorias": ["Latex"],
+        "imagen": "../almacen.img/globos_feliz_cumple.jpg"
+    },
+    {
+        "id": 138,
+        "nombre": "Globo Bombucha/globolandiaLiso 50 un.",
+        "descripcion": "Globos lisos marca Globolandia, paquete de 50 unidades",
+        "precio": 4188.64,
+        "categorias": ["Latex"],
+        "imagen": "../almacen.img/globos_lisos.jpg"
+    },
+    {
+        "id": 139,
+        "nombre": "MAMADERA DECORADA",
+        "descripcion": "Mamadera decorada con diseños variados",
+        "precio": 1810.59,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/mamadera_decorada.jpg"
+    },
+    {
+        "id": 140,
+        "nombre": "MAMADERA 2/MANOS CRISTAL",
+        "descripcion": "Mamadera de cristal con dos asas",
+        "precio": 1988.20,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/mamadera_2manos.jpg"
+    },
+    {
+        "id": 141,
+        "nombre": "MAMADERA LISA CRISTAL",
+        "descripcion": "Mamadera de cristal con diseño liso",
+        "precio": 1060.85,
+        "categorias": ["Almacen"],
+        "imagen": "../almacen.img/mamadera_lisa.jpg"
+    },
+    {
+        "id": 142,
+        "nombre": "PRIME",
+        "descripcion": "Producto de la marca Prime",
+        "precio": 1738.53,
+        "categorias": ["Otros", "Latex"],
+        "imagen": "../almacen.img/prime.jpg"
+    }, 
+    {
+        "id": 143,
+        "nombre": "TETINAS SILICONAS X 10 u.",
+        "descripcion": "Tetinas de silicona, paquete de 10 unidades",
+        "precio": 418.92,
+        "imagen": "../almacen.img/tetinas_silicona_10u.jpg",
+        "categorias": ["Accesorios"]
+    },
+    {
+        "id": 144,
+        "nombre": "TULIPAN CLÁSICO",
+        "descripcion": "Producto de la línea Tulipán Clásico",
+        "precio": 1340.11,
+        "imagen": "../almacen.img/tulipan_clasico.jpg",
+        "categorias": ["Otros"]
+    },
+    {
+        "id": 145,
+        "nombre": "Fideos 308 N° 4",
+        "descripcion": "Fideos largos N° 4, ideales para sopas y acompañamientos.",
+        "precio": 1374.58,
+        "imagen": "../almacen.img/fideos_308_n4.jpg",
+        "categorias": ["Pastas"]
+    },
+    {
+        "id": 146,
+        "nombre": "Fideos Bernabeu Mostachol",
+        "descripcion": "Fideos Bernabeu Mostachol, perfectos para ensaladas y guisos.",
+        "precio": 633.18,
+        "imagen": "../almacen.img/fideos_bernabeu_mostachol.jpg",
+        "categorias": ["Pastas"]
+    },
+    {
+        "id": 147,
+        "nombre": "Fideos Bernabeu Rigatti",
+        "descripcion": "Fideos Bernabeu Rigatti, ideales para salsas y preparaciones clásicas.",
+        "precio": 633.18,
+        "imagen": "../almacen.img/fideos_bernabeu_rigatti.jpg",
+        "categorias": ["Pastas"]
+    },
+    {
+        "id": 148,
+        "nombre": "Fideos Bernabeu Tallarín",
+        "descripcion": "Fideos Bernabeu Tallarín, una opción deliciosa para platos principales.",
+        "precio": 633.18,
+        "imagen": "../almacen.img/fideos_bernabeu_tallarin.jpg",
+        "categorias": ["Pastas"]
+    },
+    {
+        "id": 149,
+        "nombre": "NAIPES CASINO x40 PLAS.",
+        "descripcion": "Naipes Casino de plástico, presentación de 40 unidades.",
+        "precio": 1621.16,
+        "imagen": "../almacen.img/naipes_casino_40.jpg",
+        "categorias": ["Naipes"]
+    },
+    {
+        "id": 150,
+        "nombre": "NAIPES CASINO x50 PLAS.",
+        "descripcion": "Naipes Casino de plástico, presentación de 50 unidades.",
+        "precio": 1948.45,
+        "imagen": "../almacen.img/naipes_casino_50.jpg",
+        "categorias": ["Naipes"]
+    },
+    {
+        "id": 151,
+        "nombre": "NAIPES HABANA x 50 Un",
+        "descripcion": "Naipes Habana, presentación de 50 unidades.",
+        "precio": 1782.41,
+        "imagen": "../almacen.img/naipes_habana_50.jpg",
+        "categorias": ["Naipes"]
+    },
+    {
+        "id": 152,
+        "nombre": "NAIPES HABANA x 40u.",
+        "descripcion": "Naipes Habana, presentación de 40 unidades.",
+        "precio": 1506.33,
+        "imagen": "../almacen.img/naipes_habana_40.jpg",
+        "categorias": ["Naipes"]
+    }
+
+
+]

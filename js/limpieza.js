@@ -28,7 +28,11 @@ function mostrarProductos(productos) {
                 <h3>${producto.nombre}</h3>
                 <p>${producto.descripcion}</p>
                 <p class="precio">$${producto.precio.toFixed(2)}</p>
-                <button onclick="add('${producto.nombre}', '${producto.precio}')" class="btn3">Agregar al carrito</button>
+                ${
+                    producto.stock > 0
+                        ? `<button onclick="add('${producto.nombre}', '${producto.precio}')" class="btn3">Agregar al carrito</button>`
+                        : `<button class="btn3 no-stock" disabled>Sin stock</button>`
+                }
             </div>
         `;
         container.appendChild(box);
@@ -85,11 +89,13 @@ let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
 
 // Agregar producto al carrito
 function add(nombre, precio) {
+    precio = parseFloat(precio); // Asegúrate de que el precio sea un número
     const productoExistente = carrito.find(item => item.nombre === nombre);
+
     if (productoExistente) {
         productoExistente.cantidad++;
     } else {
-        carrito.push({ nombre, precio: parseFloat(precio.replace('.', '').replace(',', '.')), cantidad: 1 });
+        carrito.push({ nombre, precio, cantidad: 1 });
     }
     actualizarCarrito();
 }
