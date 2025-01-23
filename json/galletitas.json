@@ -4,16 +4,20 @@
         "id": 1,
         "nombre": "9 DE ORO Agridulce x 200 Grs",
         "descripcion": "Galletitas 9 DE ORO Agridulce de 200 gramos",
-        "precio": 673,
+        "precio": 673.8,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/9DeOroAgridulce200.jpg",
+<<<<<<< HEAD
+        "stock": 1
+=======
         "stock": 0
+>>>>>>> 0539e6a2e287eb44ff2f914316a1944df3a4dd76
     },
     {
         "id": 2,
         "nombre": "9 DE ORO Azucaradas x 210 Grs",
         "descripcion": "Galletitas 9 DE ORO Azucaradas de 210 gramos",
-        "precio": 673,
+        "precio": 673.8,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/9DeOroAzucaradas210.jpg",
         "stock": 1
@@ -31,7 +35,7 @@
         "id": 4,
         "nombre": "9 DE ORO Grasa x 200 Grs",
         "descripcion": "Galletitas 9 DE ORO de Grasa de 200 gramos",
-        "precio": 673,
+        "precio": 673.8,
         "categorias": ["Salada", "Otros"],
         "imagen": "../galletitas.img/9DeOroGrasa200.jpg",
         "stock": 1
@@ -40,7 +44,7 @@
         "id": 5,
         "nombre": "Don Satur Magdalena Chocolate",
         "descripcion": "Magdalena de chocolate Don Satur",
-        "precio": 1326,
+        "precio": 1326.82,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/donSaturMagdalenaChoco.jpg",
         "stock": 1
@@ -50,7 +54,7 @@
         "id": 6,
         "nombre": "BISCUITS 130 Grs",
         "descripcion": "Biscuits de 130 gramos",
-        "precio": 860,
+        "precio": 860.43,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/biscuits130.jpg",
         "stock": 1
@@ -59,7 +63,7 @@
         "id": 7,
         "nombre": "Bizcochitos Grasa Jorgito 200 Grs",
         "descripcion": "Bizcochitos de Grasa Jorgito de 200 gramos",
-        "precio": 583,
+        "precio": 596.94,
         "categorias": ["Salada", "Otros"],
         "imagen": "../galletitas.img/bizcochitosJorgito200.webp",
         "stock": 1
@@ -68,7 +72,7 @@
         "id": 8,
         "nombre": "Cañoncitos Kokis x 200 Grs",
         "descripcion": "Cañoncitos Kokis de 200 gramos",
-        "precio": 702,
+        "precio": 751.99,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/canoncitosKokis200.jpg",
         "stock": 1
@@ -77,7 +81,7 @@
         "id": 9,
         "nombre": "Cañoncitos Kokis x 500 Grs",
         "descripcion": "Cañoncitos Kokis de 500 gramos",
-        "precio": 1606,
+        "precio": 1716.1,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/canoncitosKokis500.jpg",
         "stock": 1
@@ -86,7 +90,7 @@
         "id": 10,
         "nombre": "Celosas Galletitas 350 Grs",
         "descripcion": "Galletitas Celosas de 350 gramos",
-        "precio": 1146,
+        "precio": 1146.71,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/celosas350.jpg",
         "stock": 1
@@ -95,7 +99,7 @@
         "id": 11,
         "nombre": "Celosas Galletitas x 110 Grs",
         "descripcion": "Galletitas Celosas de 110 gramos",
-        "precio": 384,
+        "precio": 384.24,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/celosas110.jpg",
         "stock": 1
@@ -104,7 +108,7 @@
         "id": 12,
         "nombre": "Cerealitas 212 Grs",
         "descripcion": "Cerealitas de 212 gramos",
-        "precio": 1152,
+        "precio": 1152.49,
         "categorias": ["Salada", "Otros"],
         "imagen": "../galletitas.img/cerealitas212.jpg",
         "stock": 1
@@ -113,7 +117,7 @@
         "id": 13,
         "nombre": "Cilo Anillos x 400 Grs",
         "descripcion": "Galletitas Cilo Anillos de 400 gramos",
-        "precio": 1002,
+        "precio": 1002.48,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/ciloAnillos400.jpg",
         "stock": 1
@@ -122,7 +126,7 @@
         "id": 14,
         "nombre": "Cilo Lenguitas x 400 Grs",
         "descripcion": "Galletitas Cilo Lenguitas de 400 gramos",
-        "precio": 1002,
+        "precio": 1002.48,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/ciloLenguitas400.jpg",
         "stock": 1
@@ -131,7 +135,7 @@
         "id": 15,
         "nombre": "Club Social Jamón",
         "descripcion": "Galletitas Club Social sabor Jamón",
-        "precio": 338,
+        "precio": 338.05,
         "categorias": ["Salada", "Otros"],
         "imagen": "../galletitas.img/clubSocialJamon.jpg",
         "stock": 1
@@ -140,7 +144,7 @@
         "id": 16,
         "nombre": "Club Social Original",
         "descripcion": "Galletitas Club Social Original",
-        "precio": 338,
+        "precio": 338.05,
         "categorias": ["Salada", "Otros"],
         "imagen": "../galletitas.img/clubSocialOriginal.jpg",
         "stock": 1
@@ -149,7 +153,7 @@
         "id": 17,
         "nombre": "Don Satur Grasa x 200 Grs",
         "descripcion": "Galletitas Don Satur de Grasa de 200 gramos",
-        "precio": 623,
+        "precio": 623.52,
         "categorias": ["Salada", "Otros"],
         "imagen": "../galletitas.img/donSaturGrasa200.jpg",
         "stock": 1
@@ -159,7 +163,7 @@
         "id": 18,
         "nombre": "Criollitas Galletitas x 100 Grs",
         "descripcion": "Criollitas de 100 gramos",
-        "precio": 384,
+        "precio": 405.03,
         "categorias": ["Salada", "Otros"],
         "imagen": "../galletitas.img/criollitas100.jpg",
         "stock": 1
@@ -168,7 +172,7 @@
         "id": 19,
         "nombre": "Disco de Arroz Risky Dit con Sal",
         "descripcion": "Discos de arroz Risky Dit con sal",
-        "precio": 785,
+        "precio": 785.58,
         "categorias": ["Salada", "Otros"],
         "imagen": "../galletitas.img/discoArrozSal.jpg",
         "stock": 1
@@ -177,7 +181,7 @@
         "id": 20,
         "nombre": "Disco de Arroz Risky Dit Dulce",
         "descripcion": "Discos de arroz Risky Dit dulces",
-        "precio": 785,
+        "precio": 785.58,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/discoArrozDulce.jpg",
         "stock": 1
@@ -186,7 +190,7 @@
         "id": 21,
         "nombre": "Disco de Arroz Risky Dit Sin Sal",
         "descripcion": "Discos de arroz Risky Dit sin sal",
-        "precio": 785,
+        "precio": 785.58,
         "categorias": ["Sin sal", "Otros"],
         "imagen": "../galletitas.img/discoArrozSinSal.png",
         "stock": 1
@@ -195,7 +199,7 @@
         "id": 22,
         "nombre": "Don Raul Palmeritas x 200 Grs",
         "descripcion": "Palmeritas Don Raul de 200 gramos",
-        "precio": 894,
+        "precio": 894.78,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/donRaulPalmeritas200.jpg",
         "stock": 1
@@ -204,7 +208,7 @@
         "id": 23,
         "nombre": "Don Satur Talitas x 140 Grs",
         "descripcion": "Talitas Don Satur de 140 gramos",
-        "precio": 567,
+        "precio": 651.17,
         "categorias": ["Salada", "Otros"],
         "imagen": "../galletitas.img/donSaturTalitas140.jpg",
         "stock": 1
@@ -213,7 +217,7 @@
         "id": 24,
         "nombre": "Don Satur Agridulce x 200 Grs",
         "descripcion": "Galletitas Don Satur Agridulce de 200 gramos",
-        "precio": 623,
+        "precio": 623.53,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/onSaturAgridulce200.jpg",
         "stock": 1
@@ -223,7 +227,7 @@
         "id": 25,
         "nombre": "DON SATUR MAGDALENA DULCE DE LECHE",
         "descripcion": "Magdalena de Dulce de Leche Don Satur",
-        "precio": 1326,
+        "precio": 1326.82,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/donSaturMagdalenaDulceDeLeche.jpg",
         "stock": 1
@@ -232,7 +236,7 @@
         "id": 26,
         "nombre": "DON SATUR MAGDALENAS CHIPS",
         "descripcion": "Magdalenas con Chips de Chocolate Don Satur",
-        "precio": 1326,
+        "precio": 1326.82,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/donSaturMagdalenasChips.jpg",
         "stock": 1
@@ -241,7 +245,7 @@
         "id": 27,
         "nombre": "DON SATUR MAGDALENAS CLÁSICA",
         "descripcion": "Magdalenas Clásicas Don Satur",
-        "precio": 1326,
+        "precio": 1326.82,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/donSaturMagdalenasClasica.jpg",
         "stock": 1
@@ -250,7 +254,7 @@
         "id": 28,
         "nombre": "DON SATUR MAGDALENAS MARMOLADAS",
         "descripcion": "Magdalenas Marmoladas Don Satur",
-        "precio": 1326,
+        "precio": 1326.82,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/donSaturMagdalenasMarmoladas.jpg",
         "stock": 1
@@ -259,7 +263,7 @@
         "id": 29,
         "nombre": "DON SATUR NEGRITOS x 200 gr",
         "descripcion": "Galletitas Negritos Don Satur de 200 gramos",
-        "precio": 623,
+        "precio": 623.53,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/donSaturNegritos200.jpg",
         "stock": 1
@@ -268,7 +272,7 @@
         "id": 30,
         "nombre": "FACHITAS Minicoronitas CHOCOLATE BLANCO x 140gr",
         "descripcion": "Minicoronitas Fachitas sabor Chocolate Blanco de 140 gramos",
-        "precio": 687,
+        "precio": 687.75,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/fachitasChocoBlanco140.jpg",
         "stock": 1
@@ -277,7 +281,7 @@
         "id": 31,
         "nombre": "FACHITAS Minicoronitas CHOCOLATE x 140gr",
         "descripcion": "Minicoronitas Fachitas sabor Chocolate de 140 gramos",
-        "precio": 687,
+        "precio": 687.75,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/fachitasChocolate140.jpg",
         "stock": 1
@@ -286,7 +290,7 @@
         "id": 32,
         "nombre": "FACHITAS Minicoronitas DULCE DE LECHE x 140gr",
         "descripcion": "Minicoronitas Fachitas sabor Dulce de Leche de 140 gramos",
-        "precio": 687,
+        "precio": 687.75,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/fachitasDulceDeLeche140.jpg",
         "stock": 1
@@ -295,7 +299,7 @@
         "id": 33,
         "nombre": "FACHITAS Minicoronitas FRUTOS DEL BOSQUE x 140gr",
         "descripcion": "Minicoronitas Fachitas sabor Frutos del Bosque de 140 gramos",
-        "precio": 687,
+        "precio": 687.75,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/fachitasFrutosDelBosque140.jpg",
         "stock": 1
@@ -304,7 +308,7 @@
         "id": 34,
         "nombre": "FACHITAS Minicoronitas FRAMBUESA x 140gr",
         "descripcion": "Minicoronitas Fachitas sabor Frambuesa de 140 gramos",
-        "precio": 687,
+        "precio": 687.75,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/fachitasFrambuesa140.jpg",
         "stock": 1
@@ -313,7 +317,7 @@
         "id": 35,
         "nombre": "FACHITAS Minicoronitas FRUTILLA x 140gr",
         "descripcion": "Minicoronitas Fachitas sabor Frutilla de 140 gramos",
-        "precio": 687,
+        "precio": 687.75,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/fachitasFrutilla140.jpg",
         "stock": 1
@@ -322,7 +326,7 @@
         "id": 36,
         "nombre": "FACHITAS Minicoronitas VAINILLA x 140gr",
         "descripcion": "Minicoronitas Fachitas sabor Vainilla de 140 gramos",
-        "precio": 687,
+        "precio": 687.75,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/fachitasVainilla140.jpg",
         "stock": 1
@@ -331,7 +335,7 @@
         "id": 37,
         "nombre": "FACHITAS TAPITA x 400 gr",
         "descripcion": "Tapitas Fachitas de 400 gramos",
-        "precio": 1672,
+        "precio": 1672.85,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/fachitasTapita400.jpg",
         "stock": 1
@@ -340,7 +344,7 @@
         "id": 38,
         "nombre": "FANTOCHE HORÓSCOPO x 300g",
         "descripcion": "Bizcochuelo Fantoche Horóscopo de 300 gramos",
-        "precio": 1050,
+        "precio": 1093.9,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/fantocheHoroscopo300.jpg",
         "stock": 1
@@ -349,7 +353,7 @@
         "id": 39,
         "nombre": "FANTOCHE MARMOLADA x 350g",
         "descripcion": "Bizcochuelo Fantoche Marmolada de 350 gramos",
-        "precio": 1005,
+        "precio": 1005.23,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/fantocheMarmolada350.jpg",
         "stock": 1
@@ -358,7 +362,7 @@
         "id": 40,
         "nombre": "FANTOCHE TAPITAS x 350g",
         "descripcion": "Tapitas Fantoche de 350 gramos",
-        "precio": 1079,
+        "precio": 1079.38,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/fantocheTapitas350.jpg",
         "stock": 1
@@ -367,7 +371,7 @@
         "id": 41,
         "nombre": "FANTOCHE YAYITA BLACK x 250grs",
         "descripcion": "Yayita Black Fantoche de 250 gramos",
-        "precio": 1050,
+        "precio": 1050.48,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/fantocheYayitaBlack250.jpg",
         "stock": 1
@@ -376,7 +380,7 @@
         "id": 42,
         "nombre": "FANTOCHE YAYITA CHIPS x 275 grs",
         "descripcion": "Yayita Chips Fantoche de 275 gramos",
-        "precio": 1050,
+        "precio": 1050.48,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/fantocheYayitaChips275.jpg",
         "stock": 1
@@ -385,7 +389,7 @@
         "id": 43,
         "nombre": "FANTOCHE ESPUMITA x 300g",
         "descripcion": "Espumita Fantoche de 300 gramos",
-        "precio": 943,
+        "precio": 943.7,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/fantocheEspumita300.jpg",
         "stock": 1
@@ -403,7 +407,7 @@
         "id": 45,
         "nombre": "GALL COFLER BLOCK x 120gr",
         "descripcion": "Galletitas Cofler Block de 120 gramos",
-        "precio": 1105,
+        "precio": 1025.03,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallCoflerBlock120.jpg",
         "stock": 1
@@ -440,7 +444,7 @@
         "id": 49,
         "nombre": "GALL COFLER COOKIES x 120gr",
         "descripcion": "Galletitas Cofler Cookies de 120 gramos",
-        "precio": 1105,
+        "precio": 1018.96,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallCoflerCookies120.jpg",
         "stock": 1
@@ -449,7 +453,7 @@
         "id": 50,
         "nombre": "GALL LA PROVIDENCIA TRIPACK",
         "descripcion": "Galletitas La Providencia Tripack",
-        "precio": 904,
+        "precio": 904.77,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/gallLaProvidenciaTripack.jpg",
         "stock": 1
@@ -467,7 +471,7 @@
         "id": 52,
         "nombre": "GALL MEDIA TARDE SIMPLE",
         "descripcion": "Galletitas Media Tarde Simple",
-        "precio": 364,
+        "precio": 364.03,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/gallMediaTardeSimple.png",
         "stock": 1
@@ -485,7 +489,7 @@
         "id": 54,
         "nombre": "GALL ROCKLETS x 118gr",
         "descripcion": "Galletitas Rocklets de 118 gramos",
-        "precio": 1128,
+        "precio": 1025.03,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallRocklets118.jpg",
         "stock": 1
@@ -494,7 +498,7 @@
         "id": 55,
         "nombre": "GALL TODDY ORIGINAL x 126gr",
         "descripcion": "Galletitas Toddy Original de 126 gramos",
-        "precio": 1209,
+        "precio": 1209.74,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallToddyOriginal126.jpg",
         "stock": 1
@@ -503,7 +507,7 @@
         "id": 56,
         "nombre": "GALL AMOR",
         "descripcion": "Galletitas Amor",
-        "precio": 868,
+        "precio": 940.63,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallAmor.jpg",
         "stock": 1
@@ -512,7 +516,7 @@
         "id": 57,
         "nombre": "GALL CHOCOLINAS BLANCO x 245gr",
         "descripcion": "Galletitas Chocolinas Blanco de 245 gramos",
-        "precio": 1361,
+        "precio": 1430.83,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallChocolinasBlanco245.jpg",
         "stock": 1
@@ -521,7 +525,7 @@
         "id": 58,
         "nombre": "GALL CHOCOLINAS NEGRO x 258gr",
         "descripcion": "Galletitas Chocolinas Negro de 258 gramos",
-        "precio": 1361,
+        "precio": 1430.83,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallChocolinasNegro258.png",
         "stock": 1
@@ -530,7 +534,7 @@
         "id": 59,
         "nombre": "GALL CHOCOLINAS x 150gr",
         "descripcion": "Galletitas Chocolinas de 150 gramos",
-        "precio": 1007,
+        "precio": 1054,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallChocolinas150.jpg",
         "stock": 1
@@ -539,7 +543,7 @@
         "id": 60,
         "nombre": "GALL COQUITAS x 157gr",
         "descripcion": "Galletitas Coquitas de 157 gramos",
-        "precio": 978,
+        "precio": 1054.29,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallCoquitas157.jpg",
         "stock": 1
@@ -557,7 +561,7 @@
         "id": 62,
         "nombre": "GALL LINCOLN CLÁSICA",
         "descripcion": "Galletitas Lincoln Clásica",
-        "precio": 1047,
+        "precio": 1047.96,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallLincolnClasica.jpg",
         "stock": 1
@@ -566,7 +570,7 @@
         "id": 63,
         "nombre": "GALL MELLIZA",
         "descripcion": "Galletitas Melliza",
-        "precio": 886,
+        "precio": 930.63,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallMelliza.jpg",
         "stock": 1
@@ -575,7 +579,7 @@
         "id": 64,
         "nombre": "GALL RUMBA",
         "descripcion": "Galletitas Rumba",
-        "precio":893,
+        "precio":30.63,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallRumba.jpg",
         "stock": 1
@@ -585,7 +589,7 @@
         "id": 65,
         "nombre": "GALL VOCACION GDE.",
         "descripcion": "Galletitas Vocación tamaño grande",
-        "precio": 547,
+        "precio": 531.37,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallVocacionGde.jpg",
         "stock": 1
@@ -594,7 +598,7 @@
         "id": 66,
         "nombre": "GALL BAGLEY SALVADO",
         "descripcion": "Galletitas Bagley de salvado",
-        "precio": 878,
+        "precio": 920.04,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/gallBagleySalvado.jpg",
         "stock": 1
@@ -621,7 +625,7 @@
         "id": 69,
         "nombre": "GALL MEDIA TARDE SANDWICH TRIPLE",
         "descripcion": "Galletitas Media Tarde Sándwich Triple",
-        "precio": 1058,
+        "precio": 1094.52,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/gallMediaTardeSandwichTriple.jpg",
         "stock": 1
@@ -630,7 +634,7 @@
         "id": 70,
         "nombre": "GALL MEDIA TARDE TRIPLE",
         "descripcion": "Galletitas Media Tarde Triple",
-        "precio": 917,
+        "precio": 927.9,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/gallMediaTardeTriple.jpg",
         "stock": 1
@@ -639,7 +643,7 @@
         "id": 71,
         "nombre": "GALL MERENGADAS",
         "descripcion": "Galletitas Merengadas",
-        "precio": 886,
+        "precio": 903.67,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallMerengadas.jpg",
         "stock": 1
@@ -648,7 +652,7 @@
         "id": 72,
         "nombre": "GALL SONRISAS x 108g",
         "descripcion": "Galletitas Sonrisas de 108 gramos",
-        "precio": 886,
+        "precio": 903.67,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallSonrisas108.jpg",
         "stock": 1
@@ -657,7 +661,7 @@
         "id": 73,
         "nombre": "GALL SURTIDO BAGLEY x 390Grs.",
         "descripcion": "Galletitas Surtido Bagley de 390 gramos",
-        "precio": 1997,
+        "precio": 2053.15,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallSurtidoBagley390.jpg",
         "stock": 1
@@ -666,7 +670,7 @@
         "id": 74,
         "nombre": "GALL VARIEDAD TERRAB. x 390Grs.",
         "descripcion": "Galletitas Variedad Terrabusi de 390 gramos",
-        "precio": 1890,
+        "precio": 1847.54,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallVariedadTerrab390.jpg",
         "stock": 1
@@ -675,7 +679,7 @@
         "id": 75,
         "nombre": "GALL VOCACION TRIPACK x 3 Un.",
         "descripcion": "Galletitas Vocación Tripack de 3 unidades",
-        "precio": 1351,
+        "precio": 1351.66,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/gallVocacionTripack3.jpg",
         "stock": 1
@@ -684,7 +688,7 @@
         "id": 76,
         "nombre": "GALLEGUITAS x 500gr",
         "descripcion": "Galleguitas de 500 gramos",
-        "precio": 1333,
+        "precio": 1352.59,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/galleguitas500.jpg",
         "stock": 1
@@ -693,7 +697,7 @@
         "id": 77,
         "nombre": "GALLO OBLEA DE ARROZ",
         "descripcion": "Galletitas Oblea de Arroz",
-        "precio": 486,
+        "precio": 486.96,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/galloObleaDeArroz.jpg",
         "stock": 1
@@ -702,7 +706,7 @@
         "id": 78,
         "nombre": "GRANIX AVENA SESAMO AMAR GIRASOL",
         "descripcion": "Galletitas Granix de avena, sésamo amarillo y girasol",
-        "precio": 1123,
+        "precio": 1123.03,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/granixAvenaSesamoGirasol.jpg",
         "stock": 1
@@ -711,7 +715,7 @@
         "id": 79,
         "nombre": "GRANIX FRUTIGRAN AVENA-CHIA-LINO",
         "descripcion": "Galletitas Frutigran Granix con avena, chía y lino",
-        "precio": 1109,
+        "precio": 1239.51,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/granixFrutigranAvenaChiaLino.jpg",
         "stock": 1
@@ -720,7 +724,7 @@
         "id": 80,
         "nombre": "GRANIX FRUTIGRAN AVENAS Y F ROJOS",
         "descripcion": "Galletitas Frutigran Granix con avena y frutos rojos",
-        "precio": 1280,
+        "precio": 1372.99,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/granixFrutigranAvenaFRojos.jpg",
         "stock": 1
@@ -729,7 +733,7 @@
         "id": 81,
         "nombre": "GRANIX FRUTIGRAN AVENAS Y PASAS",
         "descripcion": "Galletitas Frutigran Granix con avena y pasas",
-        "precio": 1140,
+        "precio": 1274.8,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/granixFrutigranAvenaPasas.jpg",
         "stock": 1
@@ -738,7 +742,7 @@
         "id": 82,
         "nombre": "GRANIX SANDWICH x 200gr",
         "descripcion": "Galletitas Sandwich Granix de 200 gramos",
-        "precio": 782,
+        "precio": 830.2,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/granixSandwich200.jpg",
         "stock": 0
@@ -747,7 +751,7 @@
         "id": 83,
         "nombre": "GRANIX SANDWICH SIN SAL x 185gr",
         "descripcion": "Galletitas Sandwich Granix sin sal de 185 gramos",
-        "precio": 702,
+        "precio": 767.64,
         "categorias":["Sin sal", "Otros"],
         "imagen": "../galletitas.img/granixSandwichSinSal185.jpg",
         "stock": 0
@@ -756,7 +760,7 @@
         "id": 84,
         "nombre": "HOJALMAR LARGUITAS x 150gr",
         "descripcion": "Hojalmar Larguitas de 150 gramos",
-        "precio": 645,
+        "precio": 693.81,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/hojalmarLarguitas150.jpg",
         "stock": 1
@@ -765,7 +769,7 @@
         "id": 85,
         "nombre": "HOJALMAR PALMERA x 150gr",
         "descripcion": "Hojalmar Palmera de 150 gramos",
-        "precio": 709,
+        "precio": 745.13,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/hojalmarPalmera150.jpg",
         "stock": 1
@@ -774,7 +778,7 @@
         "id": 86,
         "nombre": "MAURI GALL.FAUNA x 150 Gs.",
         "descripcion": "Galletitas Fauna de la marca Mauri, 150 gramos",
-        "precio": 428,
+        "precio": 428.58,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/mauriGallFauna150.jpg",
         "stock": 1
@@ -783,7 +787,7 @@
         "id": 87,
         "nombre": "MAURI Sin Sal x 400gr",
         "descripcion": "Galletitas sin sal de la marca Mauri, 400 gramos",
-        "precio": 1370,
+        "precio": 1370.38,
         "categorias":["Sin sal", "Otros"],
         "imagen": "../galletitas.img/mauriSinSal400.jpg",
         "stock": 1
@@ -792,7 +796,7 @@
         "id": 88,
         "nombre": "MERENGUITOS Urquiza Color",
         "descripcion": "Merenguitos de colores marca Urquiza",
-        "precio": 632,
+        "precio": 632.46,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/merenguitosUrquizaColor.jpg",
         "stock": 1
@@ -801,7 +805,7 @@
         "id": 89,
         "nombre": "MERENGUITOS Urquiza Blancos",
         "descripcion": "Merenguitos blancos marca Urquiza",
-        "precio": 632,
+        "precio": 632.46,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/merenguitosUrquizaBlanco.jpg",
         "stock": 1
@@ -828,7 +832,7 @@
         "id": 92,
         "nombre": "NS 5 CEREALES x 350gr",
         "descripcion": "Galletitas NS 5 Cereales, 350 gramos",
-        "precio": 796,
+        "precio": 796.22,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/ns5Cereales350.jpg",
         "stock": 1
@@ -837,7 +841,7 @@
         "id": 93,
         "nombre": "NS CHIA LIGTH x 350 gr",
         "descripcion": "Galletitas NS Chía Light, 350 gramos",
-        "precio": 705,
+        "precio": 705.81,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/nsChiaLight350.jpg",
         "stock": 1
@@ -846,7 +850,7 @@
         "id": 94,
         "nombre": "NS MARINERAS SIN SAL x 300gr",
         "descripcion": "Galletitas NS Marineras sin sal, 300 gramos",
-        "precio": 796,
+        "precio": 796.22,
         "categorias":["Sin sal", "Otros"],
         "imagen": "../galletitas.img/nsMarinerasSinSal300.jpg",
         "stock": 1
@@ -855,7 +859,7 @@
         "id": 95,
         "nombre": "NS MARINERAS x 300gr",
         "descripcion": "Galletitas NS Marineras, 300 gramos",
-        "precio": 796,
+        "precio": 796.22,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/nsMarineras300.jpg",
         "stock": 1
@@ -864,7 +868,7 @@
         "id": 96,
         "nombre": "NS MIX 7 SEMILLAS x 350gr",
         "descripcion": "Galletitas NS Mix 7 Semillas, 350 gramos",
-        "precio": 796,
+        "precio": 796.22,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/nsMix7Semillas350.jpg",
         "stock": 1
@@ -873,7 +877,7 @@
         "id": 97,
         "nombre": "OBLEA OBLITA FRUTILLA x 50 Gs",
         "descripcion": "Oblea Oblita sabor frutilla, 50 gramos",
-        "precio": 250,
+        "precio": 250.57,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/obleaOblitaFrutilla50.jpg",
         "stock": 1
@@ -882,7 +886,7 @@
         "id": 98,
         "nombre": "Okebon Leche 165 Grs",
         "descripcion": "Galletitas Okebon sabor leche, 165 gramos",
-        "precio": 672,
+        "precio": 751.8,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/okebonLeche165.jpg",
         "stock": 1
@@ -891,7 +895,7 @@
         "id": 99,
         "nombre": "Okebon Leche 273Grs",
         "descripcion": "Galletitas Okebon sabor leche, 273 gramos",
-        "precio": 1037,
+        "precio": 1160.53,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/okebonLeche273.jpg",
         "stock": 1
@@ -900,7 +904,7 @@
         "id": 100,
         "nombre": "OPERA x 55 gr",
         "descripcion": "Galletitas Opera, 55 gramos",
-        "precio": 543,
+        "precio": 543.23,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/opera55.jpg",
         "stock": 1
@@ -909,7 +913,7 @@
         "id": 101,
         "nombre": "OREO Galletitas 117grs",
         "descripcion": "Galletitas Oreo, 117 gramos",
-        "precio": 1057,
+        "precio": 1057.94,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oreo117.jpg",
         "stock": 1
@@ -918,7 +922,7 @@
         "id": 102,
         "nombre": "OREO Galletitas SIN TACC x 95gr",
         "descripcion": "Galletitas Oreo sin TACC, 95 gramos",
-        "precio": 1426,
+        "precio": 716.28,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oreoSinTacc95.jpg",
         "stock": 1
@@ -927,7 +931,7 @@
         "id": 103,
         "nombre": "Par-Nor COCO Litografiado 170 g",
         "descripcion": "Galletitas Par-Nor sabor coco, 170 gramos",
-        "precio": 555,
+        "precio": 600.04,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorCoco170.jpg",
         "stock": 1
@@ -936,7 +940,7 @@
         "id": 104,
         "nombre": "Par-Nor Mantecadas Litografiada 170 g",
         "descripcion": "Galletitas Par-Nor mantecadas, 170 gramos",
-        "precio": 555,
+        "precio": 600.04,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorMantecadas170.jpg",
         "stock": 1
@@ -945,7 +949,7 @@
         "id": 105,
         "nombre": "Par-Nor Marmoladas Litografiada 170g",
         "descripcion": "Galletitas Par-Nor marmoladas, 170 gramos",
-        "precio": 555,
+        "precio": 600.04,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorMarmoladas170.jpg",
         "stock": 1
@@ -955,7 +959,7 @@
         "id": 106,
         "nombre": "Par-Nor MINI CHIPPIS 120g",
         "descripcion": "Mini galletitas Chippis de la marca Par-Nor, 120 gramos",
-        "precio": 622,
+        "precio": 672.69,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorMiniChippis120.jpg",
         "stock": 1
@@ -964,7 +968,7 @@
         "id": 107,
         "nombre": "Par-Nor Morochitas Litografiadas 140g",
         "descripcion": "Galletitas Morochitas de la marca Par-Nor, 140 gramos",
-        "precio": 555,
+        "precio": 600.04,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorMorochitas140.jpg",
         "stock": 1
@@ -973,7 +977,7 @@
         "id": 108,
         "nombre": "Par-Nor Pepitas Litografiada 160 g",
         "descripcion": "Galletitas Pepitas de la marca Par-Nor, 160 gramos",
-        "precio": 555,
+        "precio": 600.04,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorPepitas160.jpg",
         "stock": 1
@@ -982,7 +986,7 @@
         "id": 109,
         "nombre": "Par-Nor PITUSAS BLACK 130 g",
         "descripcion": "Galletitas Pitusas Black de la marca Par-Nor, 130 gramos",
-        "precio": 622,
+        "precio": 672.69,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorPitusasBlack130.jpg",
         "stock": 1
@@ -991,7 +995,7 @@
         "id": 110,
         "nombre": "Par-Nor PITUSAS Chocolate 160 g",
         "descripcion": "Galletitas Pitusas sabor chocolate de la marca Par-Nor, 160 gramos",
-        "precio": 622,
+        "precio": 672.69,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorPitusasChocolate160.jpg",
         "stock": 1
@@ -1000,7 +1004,7 @@
         "id": 111,
         "nombre": "Par-Nor PITUSAS Frutilla 160 g",
         "descripcion": "Galletitas Pitusas sabor frutilla de la marca Par-Nor, 160 gramos",
-        "precio": 622,
+        "precio": 672.69,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorPitusasFrutilla160.jpg",
         "stock": 1
@@ -1009,7 +1013,7 @@
         "id": 112,
         "nombre": "Par-Nor PITUSAS Limón x 160 g",
         "descripcion": "Galletitas Pitusas sabor limón de la marca Par-Nor, 160 gramos",
-        "precio": 622,
+        "precio": 672.69,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorPitusasLimon160.jpg",
         "stock": 1
@@ -1018,7 +1022,7 @@
         "id": 113,
         "nombre": "Par-Nor PITUSAS Merengue 120 g",
         "descripcion": "Galletitas Pitusas sabor merengue de la marca Par-Nor, 120 gramos",
-        "precio": 622,
+        "precio": 672.69,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorPitusasMerengue120.jpg",
         "stock": 1
@@ -1027,7 +1031,7 @@
         "id": 114,
         "nombre": "Par-Nor PITUSAS Mousse 160 g",
         "descripcion": "Galletitas Pitusas sabor mousse de la marca Par-Nor, 160 gramos",
-        "precio": 622,
+        "precio": 672.69,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorPitusasMousse160.jpg",
         "stock": 1
@@ -1036,7 +1040,7 @@
         "id": 115,
         "nombre": "Par-Nor PITUSAS Vainilla 160 g",
         "descripcion": "Galletitas Pitusas sabor vainilla de la marca Par-Nor, 160 gramos",
-        "precio": 622,
+        "precio": 672.69,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorPitusasVainilla160.jpg",
         "stock": 1
@@ -1045,7 +1049,7 @@
         "id": 116,
         "nombre": "Par-Nor Suavecitas Litografiada 170 g",
         "descripcion": "Galletitas Suavecitas de la marca Par-Nor, 170 gramos",
-        "precio": 555,
+        "precio": 600.04,
         "categorias":["ParNor/Fachitas"],
         "imagen": "../galletitas.img/parNorSuavecitas170.jpg",
         "stock": 1
@@ -1054,7 +1058,7 @@
         "id": 117,
         "nombre": "PASEO 5 SEMILLAS x 300 grs",
         "descripcion": "Galletitas Paseo con 5 semillas, 300 gramos",
-        "precio": 902,
+        "precio": 902.99,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/paseo5Semillas300.jpg",
         "stock": 1
@@ -1063,7 +1067,7 @@
         "id": 118,
         "nombre": "PASEO MIX CEREALES x 300 grs",
         "descripcion": "Galletitas Paseo Mix de Cereales, 300 gramos",
-        "precio": 902,
+        "precio": 902.99,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/paseoMixCereales300.jpg",
         "stock": 1
@@ -1072,7 +1076,7 @@
         "id": 119,
         "nombre": "PASEO SALVADO x 300 grs",
         "descripcion": "Galletitas Paseo sabor salvado, 300 gramos",
-        "precio": 902,
+        "precio": 902.99,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/paseoSalvado300.jpg",
         "stock": 1
@@ -1081,7 +1085,7 @@
         "id": 120,
         "nombre": "PEPITOS Galletitas x 118 Gs.",
         "descripcion": "Galletitas Pepitos, 118 gramos",
-        "precio": 1159,
+        "precio": 1159.89,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/pepitos118.jpg",
         "stock": 1
@@ -1091,7 +1095,7 @@
         "id": 121,
         "nombre": "PORTENITAS GALLETITAS",
         "descripcion": "Galletitas Portenitas, deliciosas y crujientes",
-        "precio": 897,
+        "precio": 853.41,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/portenitas.jpg",
         "stock": 1
@@ -1100,7 +1104,7 @@
         "id": 122,
         "nombre": "RC SIN SAL x 450gr",
         "descripcion": "Galletitas RC sin sal, paquete de 450 gramos",
-        "precio": 1600,
+        "precio": 1600.72,
         "categorias":["Sin sal", "Otros"],
         "imagen": "../galletitas.img/rcSinSal450.jpg",
         "stock": 1
@@ -1109,7 +1113,7 @@
         "id": 123,
         "nombre": "RC SIN SAL x 225gr",
         "descripcion": "Galletitas RC sin sal, paquete de 225 gramos",
-        "precio": 861,
+        "precio": 861.3,
         "categorias":["Sin sal", "Otros"],
         "imagen": "../galletitas.img/rcSinSal225.jpg",
         "stock": 1
@@ -1118,7 +1122,7 @@
         "id": 124,
         "nombre": "RELLENGLINS x 200 grs",
         "descripcion": "Galletitas Rellenglins, paquete de 200 gramos",
-        "precio": 952,
+        "precio": 952.55,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/rellenglins200.jpg",
         "stock": 1
@@ -1127,7 +1131,7 @@
         "id": 125,
         "nombre": "RIERA Tostadas Light 200 gs",
         "descripcion": "Tostadas light Riera, paquete de 200 gramos",
-        "precio": 866,
+        "precio": 866.77,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/rieraLight200.jpg",
         "stock": 1
@@ -1136,7 +1140,7 @@
         "id": 126,
         "nombre": "RIERA Tostadas Clasicas x 200grs",
         "descripcion": "Tostadas clásicas Riera, paquete de 200 gramos",
-        "precio": 744,
+        "precio": 744.86,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/rieraClasicas200.jpg",
         "stock": 1
@@ -1145,7 +1149,7 @@
         "id": 127,
         "nombre": "RIERA Tostadas de DULCES Reinitas",
         "descripcion": "Tostadas dulces Reinitas de la marca Riera",
-        "precio": 744,
+        "precio": 744.86,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/rieraDulcesReinitas.jpg",
         "stock": 1
@@ -1164,7 +1168,7 @@
         "id": 129,
         "nombre": "SERRANITAS TRIPACK x 105g",
         "descripcion": "SERRANITAS Tripack de 105 gramos",
-        "precio": 660,
+        "precio": 660.19,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/serranitasTripack105g.jpg",
         "stock": 0
@@ -1173,7 +1177,7 @@
         "id": 130,
         "nombre": "SOLITAS ANIMACION x 400 gr",
         "descripcion": "Galletas SOLITAS Animación de 400 gramos",
-        "precio": 1090,
+        "precio": 1166.64,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/solitasAnimacion400g.jpg",
         "stock": 1
@@ -1182,7 +1186,7 @@
         "id": 131,
         "nombre": "SOLITAS ARITOS x 500 grs",
         "descripcion": "Galletas SOLITAS Aritos de 500 gramos",
-        "precio": 1184,
+        "precio": 1267.71,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/solitasAritos500g.jpg",
         "stock": 1
@@ -1191,7 +1195,7 @@
         "id": 132,
         "nombre": "SOLITAS FRUTILLAS x 500 grs",
         "descripcion": "Galletas SOLITAS Frutillas de 500 gramos",
-        "precio": 1184,
+        "precio": 1267.69,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/solitasFrutillas500g.jpg",
         "stock": 1
@@ -1200,7 +1204,7 @@
         "id": 133,
         "nombre": "SOLITAS Gall. Legendaria x 500 gr",
         "descripcion": "Galletas SOLITAS Legendarias de 500 gramos",
-        "precio": 1163,
+        "precio": 1244.65,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/solitasLegendaria500g.jpg",
         "stock": 1
@@ -1218,7 +1222,7 @@
         "id": 135,
         "nombre": "TEREPIN PEPAS x 400 Grs.",
         "descripcion": "Pepas TEREPIN de 400 gramos",
-        "precio": 895,
+        "precio": 895.04,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/terepinPepas400g.jpg",
         "stock": 1
@@ -1245,7 +1249,7 @@
         "id": 138,
         "nombre": "TOSTADAS LEIVA SIN SAL x 150gr",
         "descripcion": "Tostadas LEIVA Sin Sal de 150 gramos",
-        "precio": 821,
+        "precio": 945.15,
         "categorias":["Sin sal", "Otros"],
         "imagen": "../galletitas.img/leivaSinSal150g.jpg",
         "stock": 1
@@ -1254,7 +1258,7 @@
         "id": 139,
         "nombre": "TRIO CHOCOLATINA* x 150gr",
         "descripcion": "Chocolatinas TRIO de 150 gramos",
-        "precio": 644,
+        "precio": 644.64,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioChocolatina150g.jpg",
         "stock": 1
@@ -1263,7 +1267,7 @@
         "id": 140,
         "nombre": "TRIO FROLITAS x 500gr",
         "descripcion": "Frolitas TRIO de 500 gramos",
-        "precio": 1310,
+        "precio": 1222.19,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioFrolitas500g.jpg",
         "stock": 1
@@ -1272,7 +1276,7 @@
         "id": 141,
         "nombre": "TRIO ANGELADAS x 150gr",
         "descripcion": "Angeladas TRIO de 150 gramos",
-        "precio": 579,
+        "precio": 579.77,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioAngeladas150g.jpg",
         "stock": 1
@@ -1281,7 +1285,7 @@
         "id": 142,
         "nombre": "TRIO FROLITAS X 160gr.",
         "descripcion": "Frolitas TRIO de 160 gramos",
-        "precio": 443,
+        "precio": 475.42,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioFrolitas160g.jpg",
         "stock": 1
@@ -1290,7 +1294,7 @@
         "id": 143,
         "nombre": "TRIO OSKITO x 150gr.",
         "descripcion": "Galletas TRIO Oskito de 150 gramos",
-        "precio": 644,
+        "precio": 644.64,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioOskito150g.jpg",
         "stock": 1
@@ -1300,7 +1304,7 @@
         "id": 144,
         "nombre": "TRIO OSKITOS x 300gr",
         "descripcion": "Galletas TRIO Oskitos de 300 gramos",
-        "precio": 1134,
+        "precio": 1134.95,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioOskitos300g.jpg",
         "stock": 1
@@ -1309,7 +1313,7 @@
         "id": 145,
         "nombre": "TRIO PEPAS ALEMANAS x 180gr",
         "descripcion": "Pepas Alemanas TRIO de 180 gramos",
-        "precio": 479,
+        "precio": 479.35,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioPepasAlemanas180g.jpg",
         "stock": 1
@@ -1318,7 +1322,7 @@
         "id": 146,
         "nombre": "TRIO PEPAS CHOCOTRIO x 180gr",
         "descripcion": "Pepas ChocoTRIO de 180 gramos",
-        "precio": 644,
+        "precio": 644.64,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioPepasChoco180g.jpg",
         "stock": 1
@@ -1327,7 +1331,7 @@
         "id": 147,
         "nombre": "TRIO PEPAS CHOCOTRIO x 500gr",
         "descripcion": "Pepas ChocoTRIO de 500 gramos",
-        "precio": 1622,
+        "precio": 1622.97,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioPepasChoco500g.jpg",
         "stock": 1
@@ -1336,7 +1340,7 @@
         "id": 148,
         "nombre": "TRIO PEPAS CON CHIPS x 180gr",
         "descripcion": "Pepas con Chips TRIO de 180 gramos",
-        "precio": 433,
+        "precio": 433.95,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioPepasChips180g.jpg",
         "stock": 1
@@ -1345,7 +1349,7 @@
         "id": 149,
         "nombre": "TRIO PEPAS x 200gr.",
         "descripcion": "Pepas TRIO de 200 gramos",
-        "precio": 446,
+        "precio": 446.91,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioPepas200g.jpg",
         "stock": 1
@@ -1354,7 +1358,7 @@
         "id": 150,
         "nombre": "TRIO PEPAS x 500 gr",
         "descripcion": "Pepas TRIO de 500 gramos",
-        "precio": 1158,
+        "precio": 1622.97,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioPepas500g.jpg",
         "stock": 1
@@ -1363,7 +1367,7 @@
         "id": 151,
         "nombre": "TRIO SCONS x 320gr",
         "descripcion": "Scons TRIO de 320 gramos",
-        "precio": 841,
+        "precio": 841.12,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioScons320g.jpg",
         "stock": 0
@@ -1372,7 +1376,7 @@
         "id": 152,
         "nombre": "TRIO SURTIDAS x 180gr",
         "descripcion": "Galletas Surtidas TRIO de 180 gramos",
-        "precio": 196,
+        "precio": 196.24,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioSurtidas180g.jpg",
         "stock": 1
@@ -1381,7 +1385,7 @@
         "id": 153,
         "nombre": "TRIO TARTALETES FRUTILLA x 300gr",
         "descripcion": "Tartaletes de Frutilla TRIO de 300 gramos",
-        "precio": 841,
+        "precio": 790.69,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioTartaletesFrutilla300g.jpg",
         "stock": 1
@@ -1390,7 +1394,7 @@
         "id": 154,
         "nombre": "TRIO TARTALETES FRUTOS EL BOSQUE x 300gr",
         "descripcion": "Tartaletes de Frutos del Bosque TRIO de 300 gramos",
-        "precio": 841,
+        "precio": 841.12,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioTartaletesBosque300g.jpg",
         "stock": 1
@@ -1399,7 +1403,7 @@
         "id": 155,
         "nombre": "TRIO TRICHOC x 180gr",
         "descripcion": "Trichoc TRIO de 180 gramos",
-        "precio": 457,
+        "precio": 457.9,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioTrichoc180g.jpg",
         "stock": 1
@@ -1408,7 +1412,7 @@
         "id": 156,
         "nombre": "TRIO TRICHOC x 500 Gs.",
         "descripcion": "Trichoc TRIO de 500 gramos",
-        "precio": 1262,
+        "precio": 1262.26,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioTrichoc500g.jpg",
         "stock": 1
@@ -1417,7 +1421,7 @@
         "id": 157,
         "nombre": "TRIO VARIETTE x 200gr",
         "descripcion": "Variette TRIO de 200 gramos",
-        "precio": 479,
+        "precio": 479.36,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioVariette200g.jpg",
         "stock": 1
@@ -1426,7 +1430,7 @@
         "id": 158,
         "nombre": "TRIO VARIETTE x 500gr",
         "descripcion": "Variette TRIO de 500 gramos",
-        "precio": 1212,
+        "precio": 1158.71,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioVariette500g.jpg",
         "stock": 1
@@ -1435,7 +1439,7 @@
         "id": 159,
         "nombre": "TRIO X PEPAS ALEMANAS 500gr",
         "descripcion": "Pepas Alemanas TRIO de 500 gramos",
-        "precio": 1310,
+        "precio": 1310.89,
         "categorias":["Trio"],
         "imagen": "../galletitas.img/trioPepasAlemanas500g.jpg",
         "stock": 1
@@ -1444,7 +1448,7 @@
         "id": 160,
         "nombre": "URQUIZA TALITAS AJO Y OLIVA",
         "descripcion": "Talitas URQUIZA de Ajo y Oliva",
-        "precio": 704,
+        "precio": 704.26,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/urquizaTalitasAjoOliva.jpg",
         "stock": 1
@@ -1453,7 +1457,7 @@
         "id": 161,
         "nombre": "URQUIZA TALITAS CEBOLLA",
         "descripcion": "Talitas URQUIZA de Cebolla",
-        "precio": 704,
+        "precio": 711.66,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/urquizaTalitasCebolla.jpg",
         "stock": 1
@@ -1462,7 +1466,7 @@
         "id": 162,
         "nombre": "URQUIZA TALITAS CHEDDAR",
         "descripcion": "Talitas URQUIZA de Cheddar",
-        "precio": 704,
+        "precio": 711.66,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/urquizaTalitasCheddar.webp",
         "stock": 1
@@ -1471,7 +1475,7 @@
         "id": 163,
         "nombre": "URQUIZA TALITAS CLASICAS",
         "descripcion": "Talitas URQUIZA Clásicas",
-        "precio": 704,
+        "precio": 711.66,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/urquizaTalitasClasicas.jpg",
         "stock": 1
@@ -1480,7 +1484,7 @@
         "id": 164,
         "nombre": "URQUIZA TALITAS JAMON",
         "descripcion": "Talitas URQUIZA de Jamón",
-        "precio": 704,
+        "precio": 711.66,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/urquizaTalitasJamon.jpg",
         "stock": 1
@@ -1489,7 +1493,7 @@
         "id": 165,
         "nombre": "URQUIZA TALITAS PIZZA",
         "descripcion": "Talitas URQUIZA de Pizza",
-        "precio": 704,
+        "precio": 711.66,
         "categorias":["Salada", "Otros"],
         "imagen": "../galletitas.img/urquizaTalitasPizza.jpg",
         "stock": 1
@@ -1498,7 +1502,7 @@
         "id": 166,
         "nombre": "VAINILLAS MAURI x 320 Gs.",
         "descripcion": "Vainillas MAURI de 320 gramos",
-        "precio": 1381,
+        "precio": 1381.12,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/vainillasMauri320g.jpg",
         "stock": 1
@@ -1507,7 +1511,7 @@
         "id": 167,
         "nombre": "VAINILLAS MAURI X 80 grs.",
         "descripcion": "Vainillas MAURI de 80 gramos",
-        "precio": 325,
+        "precio": 325.6,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/vainillasMauri80g.jpg",
         "stock": 1
@@ -1516,7 +1520,7 @@
         "id": 168,
         "nombre": "VALIDO PALMERITAS x 200gr",
         "descripcion": "Palmeritas VALIDO de 200 gramos",
-        "precio": 794,
+        "precio": 794.11,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/validoPalmeritas200g.jpg",
         "stock": 1
@@ -1525,7 +1529,7 @@
         "id": 169,
         "nombre": "VALIDO PEPAS x 500 GR",
         "descripcion": "Pepas VALIDO de 500 gramos",
-        "precio": 1176,
+        "precio": 1096.48,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/validoPepas500g.jpg",
         "stock": 1
@@ -1534,7 +1538,7 @@
         "id": 170,
         "nombre": "VALIDO PEPAS x 200 GR",
         "descripcion": "Pepas VALIDO de 200 gramos",
-        "precio": 450,
+        "precio": 434.27,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/validoPepas200g.jpg",
         "stock": 1
@@ -1543,7 +1547,7 @@
         "id": 171,
         "nombre": "Mantequitas Zupay",
         "descripcion": "Mantequitas 200 gramos",
-        "precio": 709,
+        "precio": 709.83,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/zupayMantequitas.jpg",
         "stock": 1
@@ -1553,7 +1557,7 @@
         "id": 172,
         "nombre": "OBLEA OBLITA BLACK x 50 Gs.",
         "descripcion": "Oblea Oblita sabor Black, presentación de 50 gramos.",
-        "precio": 250,
+        "precio": 250.57,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oblea_oblita_black_50g.jpg",
         "stock": 1
@@ -1562,7 +1566,7 @@
         "id": 173,
         "nombre": "OBLEA OBLITA CHOCOLATE x 100 Gs",
         "descripcion": "Oblea Oblita sabor chocolate, presentación de 100 gramos.",
-        "precio": 460,
+        "precio": 460.38,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oblea_oblita_chocolate_100g.jpg",
         "stock": 1
@@ -1571,7 +1575,7 @@
         "id": 174,
         "nombre": "OBLEA OBLITA CHOCOLATE x 50 Gs",
         "descripcion": "Oblea Oblita sabor chocolate, presentación de 50 gramos.",
-        "precio": 250,
+        "precio": 250.57,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oblea_oblita_chocolate_50g.jpg",
         "stock": 1
@@ -1580,7 +1584,7 @@
         "id": 175,
         "nombre": "OBLEA OBLITA DULCE LECHE x 100 gr",
         "descripcion": "Oblea Oblita sabor dulce de leche, presentación de 100 gramos.",
-        "precio": 460,
+        "precio": 460.38,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oblea_oblita_dulce_leche_100g.jpg",
         "stock": 1
@@ -1589,7 +1593,7 @@
         "id": 176,
         "nombre": "OBLEA OBLITA DULCE LECHE x 50 gr",
         "descripcion": "Oblea Oblita sabor dulce de leche, presentación de 50 gramos.",
-        "precio": 250,
+        "precio": 250.57,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oblea_oblita_dulce_leche_50g.jpg",
         "stock": 1
@@ -1598,7 +1602,7 @@
         "id": 177,
         "nombre": "OBLEA OBLITA FRUTILLA x 100 Gs",
         "descripcion": "Oblea Oblita sabor frutilla, presentación de 100 gramos.",
-        "precio": 460,
+        "precio": 460.38,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oblea_oblita_frutilla_100g.jpg",
         "stock": 1
@@ -1607,7 +1611,7 @@
         "id": 178,
         "nombre": "OBLEA OBLITA VAINILLA x 100 Gs",
         "descripcion": "Oblea Oblita sabor vainilla, presentación de 100 gramos.",
-        "precio": 460,
+        "precio": 460.38,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oblea_oblita_vainilla_100g.jpg",
         "stock": 1
@@ -1616,7 +1620,7 @@
         "id": 179,
         "nombre": "OBLEA OBLITA VAINILLA x 50 Gs.",
         "descripcion": "Oblea Oblita sabor vainilla, presentación de 50 gramos.",
-        "precio": 250,
+        "precio": 250.57,
         "categorias":["Dulce", "Otros"],
         "imagen": "../galletitas.img/oblea_oblita_vainilla_50g.jpg",
         "stock": 1
