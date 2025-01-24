@@ -7,11 +7,7 @@
         "precio": 673.8,
         "categorias": ["Dulce", "Otros"],
         "imagen": "../galletitas.img/9DeOroAgridulce200.jpg",
-<<<<<<< HEAD
         "stock": 1
-=======
-        "stock": 0
->>>>>>> 0539e6a2e287eb44ff2f914316a1944df3a4dd76
     },
     {
         "id": 2,
