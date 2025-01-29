@@ -1,3 +1,140 @@
 [
+    {
+        "id": 1,
+        "nombre": "BASTON TUBITOS BOTS x 330gr",
+        "descripcion": "Tubitos crujientes saborizados, 330 gramos",
+        "precio": 1708,
+        "categorias": ["Otros"],
+        "imagen": "../snack.img/bastonTubitosBots330g.jpg",
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "nombre": "BASTON TUBITOS BOTS x 80gr",
+        "descripcion": "Tubitos crujientes saborizados, 80 gramos",
+        "precio": 430.5,
+        "categorias": ["Otros"],
+        "imagen": "../snack.img/bastonTubitosBots80gr.jpg",
+        "stock": 1
+    },
+    {
+        "id": 3,
+        "nombre": "BASTONCITOS BOTS x 330gr",
+        "descripcion": "Bastoncitos crocantes, ideales para compartir, 330 gramos",
+        "precio": 1708,
+        "categorias": ["Otros"],
+        "imagen": "../snack.img/bastoncitosBots330gr.jpg",
+        "stock": 1
+    },
+    {
+        "id": 4,
+        "nombre": "BASTONCITOS CHIZITOS BOTS x 80gr",
+        "descripcion": "Bastoncitos sabor queso, ligeros y crujientes, 80 gramos",
+        "precio": 430.5,
+        "categorias": ["Otros"],
+        "imagen": "../snack.img/bastoncitosChizitosBots80gr.jpg",
+        "stock": 1
+    },
+    {
+        "id": 5,
+        "nombre": "HIGIENICO ELEGANTE x 4u 30 MTS",
+        "descripcion": "Higiénico Elegante x 4u, 30 metros",
+        "precio": 1128.19,
+        "categorias": ["Bolsas/Papeles", "Higiene"],
+        "imagen": "../limpieza.img/higienico_elegante_4u_30mts.jpg",
+        "stock": 1
+    },
     
+    {
+        "id": 6,
+        "nombre": "ROLLO Cocina CARTABELLA x 3 un.",
+        "descripcion": "Rollos de cocina Cartabella, paquete de 3 unidades.",
+        "precio": 1105.44,
+        "categorias": ["Bolsas/Papeles"],
+        "imagen": "../limpieza.img/rollo_cocina_cartabella_3un.jpg",
+        "stock": 1
+    }, 
+    {
+    
+        "id": 7,
+        "nombre": "Rasta Blanco",
+        "descripcion": "(Peso 70g)",
+        "precio":  978.00,
+        "categorias": ["Alfajores"],
+        "imagen": "../golosinas.img/rastaBlanco.webp",
+        "stock": 1
+    },
+
+    {
+    "   id": 8,
+        "nombre": "Rasta Negro",
+        "descripcion": "(Peso 70g)",
+        "precio":  978.00,
+        "categorias": ["Alfajores"],
+        "imagen": "../golosinas.img/rastaNegro.webp",
+        "stock": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Yerba Canarais",
+        "descripcion": "(Peso 500g)",
+        "precio": 4483.14,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/yerbaCanarias.jpg",
+        "stock": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Yerba Mañanita",
+        "descripcion": "(Peso 500g)",
+        "precio": 1674,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/yerbaManianita.png",
+        "stock": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Yerba Cumbrecita",
+        "descripcion": "Por 500g",
+        "precio": 1368.96,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/yerbaCumbrecita.jpg",
+        "stock": 1
+    },
+
+    {
+        "id": 12,
+        "nombre": "MARLBORO CRAFTED/LM KS",
+        "descripcion": "Precio por unidad",
+        "precio": "1.500,00",
+        "imagen": "../cigarrilos.img/marlboroCraftedKS.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "MARLBORO CRAFTED BOX 20",
+        "descripcion": "Precio por unidad",
+        "precio": "1.800,00",
+        "imagen": "../cigarrilos.img/marlboroCraftedBox20.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "MARLBORO CRAFTED CORAL BOX x 20",
+        "descripcion": "Precio por unidad",
+        "precio": "1.800,00",
+        "imagen": "../cigarrilos.img/marlboroCraftedCoralBox.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "MARLBORO CRAFTED FORWARD BOX 20",
+        "descripcion": "Precio por unidad",
+        "precio": "1.800,00",
+        "imagen": "../cigarrilos.img/marlboroCraftedForwardBox.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "MARLBORO CRAFTED FORWARD KS",
+        "descripcion": "Precio por unidad",
+        "precio": "1.500,00",
+        "imagen": "../cigarrilos.img/marlboroCraftedForwardKS.jpg"
+    }
 ]

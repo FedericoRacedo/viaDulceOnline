@@ -1068,8 +1068,7 @@
         "descripcion": "(Peso 1K)",
         "precio": 649,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/canuelasHarina.jpg",
-        "stock": 1
+        "imagen": "../almacen.img/canuelasHarina.jpg"
     },
     {
         "id": 109,
