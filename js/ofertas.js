@@ -1,6 +1,6 @@
 async function cargarProductos() {
     try {
-        const response = await fetch('../json/ofertas.json');
+        const response = await fetch('../json/cigarrilos.json'); // const response = await fetch('https://federicoracedo.github.io/viaDulceOnline/json/cigarrilos.json');
         if (!response.ok) {
             throw new Error(`Error al cargar el archivo JSON: ${response.status}`);
         }
@@ -15,23 +15,31 @@ function mostrarProductos(productos) {
     const container = document.querySelector('.boxContainer');
     container.innerHTML = ''; // Limpiar contenedor
 
-    productos.forEach( producto => {
+    productos.forEach(producto => {
         const box = document.createElement('div');
         box.classList.add('box');
+
+        // Crear un select para elegir 5 o 10 unidades
+        const unidadesSelect = `
+            <select id="unidades-${producto.nombre}">
+                <option value="5">5 unidades</option>
+                <option value="10">10 unidades</option>
+            </select>
+        `;
 
         box.innerHTML = `
             <img src="${producto.imagen}" alt="${producto.nombre}">
             <div class="productTxt">
-                <h3> ${producto.nombre} </h3>
-                <p> ${producto.descripcion} </p>
-                <p class="precio"> $${producto.precio} </p>
+                <h3>${producto.nombre}</h3>
+                <p>${producto.descripcion}</p>
+                <p class="precio">$${producto.precio}</p>
+                ${unidadesSelect}
                 <button onclick="add('${producto.nombre}', '${producto.precio}')" class="btn3">Agregar al carrito</button>
             </div>
         `;
         container.appendChild(box);
     });
 }
-
 //Llamar a la funcion para cargar los productos al inicial la pagina
 document.addEventListener('DOMContentLoaded', cargarProductos);
 

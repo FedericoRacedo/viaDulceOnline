@@ -92,3 +92,12 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 });
 //CHAT
+
+document.addEventListener("DOMContentLoaded", function() {
+    const images = document.querySelectorAll('.products-row img');  // Selecciona todas las imágenes dentro de .products-row
+    images.forEach((img) => {
+        img.style.width = '250px';  // Ajusta el tamaño según lo necesites
+        img.style.height = '250px'; // Ajusta el tamaño según lo necesites
+        img.style.objectFit = 'cover';  // Hace que la imagen se recorte adecuadamente para llenar el espacio
+    });
+});

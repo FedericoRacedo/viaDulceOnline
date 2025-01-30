@@ -3,7 +3,7 @@
         "id": 1,
         "nombre": "Yerba Amanda",
         "descripcion": "(Peso 500g)",
-        "precio": 1662.62,
+        "precio": 1645.77,
         "categorias":["Yerbas"],
         "imagen": "../almacen.img/yerbaAmanda.jpg",
         "stock": 1
@@ -26,7 +26,7 @@
         "precio":  1800,
         "categorias":["Yerbas"],
         "imagen": "../almacen.img/yerbaCbse.jpg",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -76,7 +76,7 @@
         "precio": 648,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/aceitunasCastell.webp",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -86,7 +86,7 @@
         "precio":  635,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/adoboPizza.png",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -156,7 +156,7 @@
         "precio": 1233.70,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/atunDesm.webp",
-        "stock": 1
+        "stock": 0
     },
 
     {
@@ -206,7 +206,7 @@
         "precio":  296,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/knorrVerdura.webp",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -296,7 +296,7 @@
         "precio": 2183,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/duraznoMolto.jpg",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -346,7 +346,7 @@
         "precio":  1374.58,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/308N3.jpg",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -355,7 +355,8 @@
         "descripcion": "(Tirabuzon)",
         "precio": 633,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/bernadeuTirabuzon.webp"
+        "imagen": "../almacen.img/bernadeuTirabuzon.webp",
+        "stock": 1
     },
 
     {
@@ -515,7 +516,7 @@
         "precio":  1790,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/hileretClasico.jpeg",
-        "stock": 0
+        "stock": 1
     },
     
     {
@@ -575,7 +576,7 @@
         "precio":  897,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/mayoNatura237g.jpg",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -585,7 +586,7 @@
         "precio":  526,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/mayoNatura125g.jpg",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -645,7 +646,7 @@
         "precio": 1338.34,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/nesquik.jpg",
-        "stock": 1
+        "stock": 0
     },
 
     {
@@ -705,7 +706,7 @@
         "precio":  1168,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/pimientaBlanca.jpg",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -715,7 +716,7 @@
         "precio": 565,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/polentaCampo.jpg",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -735,7 +736,7 @@
         "precio":  1416,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/provenzal.jpg",
-        "stock": 0
+        "stock": 1
     },
 
     {
@@ -825,7 +826,7 @@
         "precio": 613.43,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/quesoRalladoLaQuesera.jpg",
-        "stock": 1
+        "stock": 0
     },
 
     {

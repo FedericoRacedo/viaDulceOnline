@@ -3,21 +3,21 @@
         "id": 1,
         "nombre": "CAMEL BOX",
         "descripcion": "Precio por unidad",
-        "precio": "3.910,20",
+        "precio": "4.120,00",
         "imagen": "../cigarrilos.img/camelBox.jpg"
     },
     {
         "id": 2,
         "nombre": "CAMEL BOX DE 12",
         "descripcion": "Precio por unidad",
-        "precio": "2.346,12",
+        "precio": "2.472",
         "imagen": "../cigarrilos.img/camelBox12.jpg"
     },
     {
         "id": 3,
         "nombre": "CAMEL KS",
         "descripcion": "Precio por unidad",
-        "precio": "3.539,76",
+        "precio": "3.749,2",
         "imagen": "../cigarrilos.img/camelKS.jpg"
     },
     {
@@ -31,56 +31,56 @@
         "id": 5,
         "nombre": "CHESTERFIELD BLUE MOTION 20 BOX",
         "descripcion": "Precio por unidad",
-        "precio": "2.743,20",
+        "precio": "2.958",
         "imagen": "../cigarrilos.img/chesterfieldBlueMotionBox.jpg"
     },
     {
         "id": 6,
         "nombre": "CHESTERFIELD BLUE MOTION BOX 12",
         "descripcion": "Precio por unidad",
-        "precio": "1.625,60",
+        "precio": "1.754,4",
         "imagen": "../cigarrilos.img/chesterfieldBlueMotionBox12.jpg"
     },
     {
         "id": 7,
         "nombre": "CHESTERFIELD BLUE MOTION SOF 20 KS",
         "descripcion": "Precio por unidad",
-        "precio": "2.316,48",
+        "precio": "2.529,6",
         "imagen": "../cigarrilos.img/chesterfieldBlueMotionSofKS.png"
     },
     {
         "id": 8,
         "nombre": "CHESTERFIELD BOX 10",
         "descripcion": "Precio por unidad",
-        "precio": "1.361,44",
+        "precio": "1.479",
         "imagen": "../cigarrilos.img/chesterfieldBox10.jpg"
     },
     {
         "id": 9,
         "nombre": "CHESTERFIELD COMUN",
         "descripcion": "Precio por unidad",
-        "precio": "2.316,48",
+        "precio": "2.529,6",
         "imagen": "../cigarrilos.img/chesterfieldComun.jpg"
     },
     {
         "id": 10,
         "nombre": "CHESTERFIELD PURPLE MOTION 20 KS",
         "descripcion": "Precio por unidad",
-        "precio": "2.316,48",
+        "precio": "2.480",
         "imagen": "../cigarrilos.img/chesterfieldPurpleMotionKS.jpg"
     },
     {
         "id": 11,
         "nombre": "CHESTERFIELD PURPLE MOTION BOX",
         "descripcion": "Precio por unidad",
-        "precio": "2.743,20",
+        "precio": "2.958",
         "imagen": "../cigarrilos.img/chesterfieldPurpleMotionBox.jpg"
     },
     {
         "id": 12,
         "nombre": "DOLCHESTER",
         "descripcion": "Precio por unidad",
-        "precio": "1.254,04",
+        "precio": "1.166,89",
         "imagen": "../cigarrilos.img/dolchester.jpg"
     },
     {
@@ -101,139 +101,139 @@
         "id": 15,
         "nombre": "KIEL KS",
         "descripcion": "Precio por unidad",
-        "precio": "1.080,64",
+        "precio": "1.164,67",
         "imagen": "../cigarrilos.img/kielKS.jpg"
     },
     {
         "id": 16,
         "nombre": "LM BLUE KS SOF 20 CRAFTED",
         "descripcion": "Precio por unidad",
-        "precio": "1.500,00",
+        "precio": "1.600,00",
         "imagen": "../cigarrilos.img/lmBlueKS.jpg"
     },
     {
         "id": 17,
         "nombre": "LUCKY STRIKE BOX",
         "descripcion": "Precio por unidad",
-        "precio": "3.385,41",
+        "precio": "3.594,7",
         "imagen": "../cigarrilos.img/luckyStrikeBox.jpg"
     },
     {
         "id": 18,
         "nombre": "LUCKY STRIKE BOX CLICK ROLL COOL x 20 NUEVO",
         "descripcion": "Precio por unidad",
-        "precio": "3.385,41",
+        "precio": "3.594,7",
         "imagen": "../cigarrilos.img/luckyStrikeClickRollCool.jpg"
     },
     {
         "id": 19,
         "nombre": "LUCKY STRIKE CLICK ROLL COOL x 12 NUEVOS",
         "descripcion": "Precio por unidad",
-        "precio": "2.027,13",
+        "precio": "2.152,7",
         "imagen": "../cigarrilos.img/luckyStrikeClickRollCool12.jpg"
     },
     {
         "id": 20,
         "nombre": "LUCKY STRIKE KS x 20 UN",
         "descripcion": "Precio por unidad",
-        "precio": "2.994,39",
+        "precio": "3.203,3",
         "imagen": "../cigarrilos.img/luckyStrikeKS20.jpg"
     },
     {
         "id": 21,
         "nombre": "LUCKY STRIKE ORIGEN CONVERTIBLE x 20 BOX",
         "descripcion": "Precio por unidad",
-        "precio": "1.852,20",
+        "precio": "1.957",
         "imagen": "../cigarrilos.img/luckyStrikeOrigenConvertibleBox.jpg"
     },
     {
         "id": 22,
         "nombre": "LUCKY STRIKE ORIGEN x 20 BOX",
         "descripcion": "Precio por unidad",
-        "precio": "1.852,20",
+        "precio": "1.957",
         "imagen": "../cigarrilos.img/luckyStrikeOrigenBox.jpg"
     },
     {
         "id": 23,
         "nombre": "LUCKY STRIKE PARIS BOX",
         "descripcion": "Precio por unidad",
-        "precio": "4.455,57",
+        "precio": "4.665,9",
         "imagen": "../cigarrilos.img/luckyStrikeParisBox.jpg"
     },
     {
         "id": 24,
         "nombre": "LUCKY STRIKE SILVER KS",
         "descripcion": "Precio por unidad",
-        "precio": "2.994,39",
+        "precio": "3.203,3",
         "imagen": "../cigarrilos.img/luckyStrikeSilverKS.jpg"
     },
     {
         "id": 25,
         "nombre": "LUCKY STRIKE x 12",
         "descripcion": "Precio por unidad",
-        "precio": "2.027,13",
+        "precio": "2.152,3",
         "imagen": "../cigarrilos.img/luckyStrike12.jpg"
     },
     {
         "id": 26,
         "nombre": "MARLBORO CRAFTED/LM KS",
         "descripcion": "Precio por unidad",
-        "precio": "1.500,00",
+        "precio": "1.600,00",
         "imagen": "../cigarrilos.img/marlboroCraftedKS.jpg"
     },
     {
         "id": 27,
         "nombre": "MARLBORO CRAFTED BOX 20",
         "descripcion": "Precio por unidad",
-        "precio": "1.800,00",
+        "precio": "1.600,00",
         "imagen": "../cigarrilos.img/marlboroCraftedBox20.jpg"
     },
     {
         "id": 28,
         "nombre": "MARLBORO CRAFTED CORAL BOX x 20",
         "descripcion": "Precio por unidad",
-        "precio": "1.800,00",
+        "precio": "1.900,00",
         "imagen": "../cigarrilos.img/marlboroCraftedCoralBox.jpg"
     },
     {
         "id": 29,
         "nombre": "MARLBORO CRAFTED FORWARD BOX 20",
         "descripcion": "Precio por unidad",
-        "precio": "1.800,00",
+        "precio": "1.900,00",
         "imagen": "../cigarrilos.img/marlboroCraftedForwardBox.jpg"
     },
     {
         "id": 30,
         "nombre": "MARLBORO CRAFTED FORWARD KS",
         "descripcion": "Precio por unidad",
-        "precio": "1.500,00",
+        "precio": "1.600,00",
         "imagen": "../cigarrilos.img/marlboroCraftedForwardKS.jpg"
     },
     {    "id": 31,
         "nombre": "MARLBORO GOLD RCB ORIGINAL BOX",
         "descripcion": "Precio por unidad",
-        "precio": "3.860,80",
+        "precio": "4.064",
         "imagen": "../cigarrilos.img/marlboroGoldRCBBox.jpg"
     },
     {
         "id": 32,
         "nombre": "MARLBORO RED BOX",
         "descripcion": "Precio por unidad",
-        "precio": "3.860,80",
+        "precio": "4.064",
         "imagen": "../cigarrilos.img/marlboroRedBox.jpg"
     },
     {
         "id": 33,
         "nombre": "MARLBORO RED BOX x 12",
         "descripcion": "Precio por unidad",
-        "precio": "2.316,48",
+        "precio": "2.448",
         "imagen": "../cigarrilos.img/marlboroRedBox12.jpg"
     },
     {
         "id": 34,
         "nombre": "MARLBORO RED KS",
         "descripcion": "Precio por unidad",
-        "precio": "3.495,04",
+        "precio": "3.712,8",
         "imagen": "../cigarrilos.img/marlboroRedKS.jpg"
     },
 
@@ -241,42 +241,42 @@
         "id": 35,
         "nombre": "MARLBORO VISTA BLUE BOX x 20",
         "descripcion": "Precio por unidad",
-        "precio": "3.860,80",
+        "precio": "4.064",
         "imagen": "../cigarrilos.img/marlboroVistaBlueBox.jpg"
     },
     {
         "id": 36,
         "nombre": "MARLBORO VISTA CORAL FUSION XL BOX x 20",
         "descripcion": "Precio por unidad",
-        "precio": "3.860,80",
+        "precio": "4.064",
         "imagen": "../cigarrilos.img/marlboroVistaCoralFusionXLBox.jpg"
     },
     {
         "id": 37,
         "nombre": "MARLBORO VISTA PURPLE FUSION x 12",
         "descripcion": "Precio por unidad",
-        "precio": "2.316,48",
+        "precio": "2.448",
         "imagen": "../cigarrilos.img/marlboroVistaPurpleFusion12.jpg"
     },
     {
         "id": 38,
         "nombre": "MARLBORO VISTA PURPLE FUSION XL BOX x 20",
         "descripcion": "Precio por unidad",
-        "precio": "3.860,80",
+        "precio": "4.064",
         "imagen": "../cigarrilos.img/marlboroVistaPurpleFusionXLBox.jpg"
     },
     {
         "id": 39,
         "nombre": "MASTER KS",
         "descripcion": "Precio por unidad",
-        "precio": "1.197,33",
+        "precio": "1.260,07",
         "imagen": "../cigarrilos.img/masterKS.jpg"
     },
     {
         "id": 40,
         "nombre": "MELBOURNE",
         "descripcion": "Precio por unidad",
-        "precio": "997,24",
+        "precio": "1.195,73",
         "imagen": "../cigarrilos.img/melbourne.jpg"
     },
     {
@@ -304,91 +304,91 @@
         "id": 44,
         "nombre": "PAPEL PARA ARMAR ROCK/STAMPS CELULOSA",
         "descripcion": "Precio por unidad",
-        "precio": "928,50",
+        "precio": "933,15",
         "imagen": "../cigarrilos.img/papelParaArmarRockStampsCelulosa.jpg"
     },
     {
         "id": 45,
         "nombre": "PARLIAMENT SUPERSLIMS 100 BOX",
         "descripcion": "Precio por unidad",
-        "precio": "4.330,00",
+        "precio": "4.530",
         "imagen": "../cigarrilos.img/parliamentSuperslims100Box.jpg"
     },
     {
         "id": 46,
         "nombre": "PARLIAMENT RCB BOX",
         "descripcion": "Precio por unidad",
-        "precio": "4.330,00",
+        "precio": "4.530",
         "imagen": "../cigarrilos.img/parliamentRcbBox.jpg"
     },
     {
         "id": 47,
         "nombre": "PHILIP MORRIS BLUE SPIN BOX",
         "descripcion": "Precio por unidad",
-        "precio": "3.342,64",
+        "precio": "3.559,8",
         "imagen": "../cigarrilos.img/philipMorrisBlueSpinBox.jpg"
     },
     {
         "id": 48,
         "nombre": "PHILIP MORRIS BOX",
         "descripcion": "Precio por unidad",
-        "precio": "3.342,64",
+        "precio": "3.559,8",
         "imagen": "../cigarrilos.img/philipMorrisBox.jpg"
     },
     {
         "id": 49,
         "nombre": "PHILIP MORRIS BOX BLUE SPIN x 12",
         "descripcion": "Precio por unidad",
-        "precio": "2.001,52",
+        "precio": "2.131,8",
         "imagen": "../cigarrilos.img/philipMorrisBlueSpin12.jpg"
     },
     {
         "id": 50,
         "nombre": "PHILIP MORRIS KS",
         "descripcion": "Precio por unidad",
-        "precio": "2.956,56",
+        "precio": "3.172,2",
         "imagen": "../cigarrilos.img/philipMorrisKS.jpg"
     },
     {
         "id": 51,
         "nombre": "PHILIP MORRIS ORIGINAL 12",
         "descripcion": "Precio por unidad",
-        "precio": "2.001,52",
+        "precio": "2.131,8",
         "imagen": "../cigarrilos.img/philipMorrisOriginal12.jpg"
     },
     {
         "id": 52,
         "nombre": "RED POINT KS",
         "descripcion": "Precio por unidad",
-        "precio": "1.352,00",
+        "precio": "1.426,48",
         "imagen": "../cigarrilos.img/redPointKS.jpg"
     },
     {
         "id": 53,
         "nombre": "RED POINT BOX x 20",
         "descripcion": "Precio por unidad",
-        "precio": "1.352,01",
+        "precio": "1.426,5",
         "imagen": "../cigarrilos.img/redPointBox20.jpg"
     },
     {
         "id": 54,
         "nombre": "RED POINT CLICK ONE",
         "descripcion": "Precio por unidad",
-        "precio": "1.441,63",
+        "precio": "1.515,58",
         "imagen": "../cigarrilos.img/redPointClickOne.jpg"
     },
     {
         "id": 55,
         "nombre": "RED POINT x 10",
         "descripcion": "Precio por unidad",
-        "precio": "763,60",
+        "precio": "804,07",
         "imagen": "../cigarrilos.img/redPoint10.jpg"
     },
     {
         "id": 56,
         "nombre": "TABACO CERRITO",
         "descripcion": "Precio por unidad",
-        "precio": "3.229,66",
+        "precio": "3.603,08",
         "imagen": "../cigarrilos.img/tabacoCerrito.jpg"
     }
 
