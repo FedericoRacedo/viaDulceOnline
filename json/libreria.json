@@ -320,5 +320,13 @@
         "descripcion": "Voligoma Pelikan, adhesivo de uso escolar.",
         "precio": 1106.32,
         "imagen": "../libreria.img/voligoma_pelikan.jpg"
+    },
+    
+    {
+        "id": 45,
+        "nombre": "Nieve cosmico",
+        "descripcion": "Nieve carnaval",
+        "precio": 1495.00,
+        "imagen": "../libreria.img/nieveCarnaval.jpg"
     }
 ]

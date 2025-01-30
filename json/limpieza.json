@@ -600,6 +600,96 @@
         "categorias": ["Bolsas/Papeles", "Higiene"],
         "imagen": "../limpieza.img/higienico_suan_big_90mts.webp",
         "stock": 1
+    },
+    {
+        "id": 63,
+        "nombre": "ROLLO Cocina Dicha.",
+        "descripcion": "x 3 un",
+        "precio": 1094.13,
+        "categorias": ["Bolsas/Papeles", "Higiene"],
+        "imagen": "../limpieza.img/dicha.jpg",
+        "stock": 1
+    },
+    {
+        "id": 64,
+        "nombre": "ROLLO Cocina Elegante.",
+        "descripcion": "50 paños x 3 un",
+        "precio": 1190.71,
+        "categorias": ["Bolsas/Papeles", "Higiene"],
+        "imagen": "../limpieza.img/rollo_cocina_elegantex3.jpg",
+        "stock": 1
+    },
+    {
+        "id": 65,
+        "nombre": "ROLLO Cocina Elegante.",
+        "descripcion": "300 paños x 3 un",
+        "precio": 2637.14,
+        "categorias": ["Bolsas/Papeles", "Higiene"],
+        "imagen": "../limpieza.img/rollo_cocina_elegante.300pjpg.webp",
+        "stock": 1
+    },
+    {
+        "id": 66,
+        "nombre": "Doncella Rosa.",
+        "descripcion": "toallita femenina",
+        "precio": 610,
+        "categorias": ["Otros"],
+        "imagen": "../limpieza.img/doncellaRosa.jpg",
+        "stock": 1
+    },
+    {
+        "id": 67,
+        "nombre": "Doncella Verde.",
+        "descripcion": "toallita femenina",
+        "precio": 585,
+        "categorias": ["Otros"],
+        "imagen": "../limpieza.img/doncellaVerde.jpg",
+        "stock": 1
+    },
+    {
+        "id": 68,
+        "nombre": "Ladysoft.",
+        "descripcion": "toallita femenina",
+        "precio": 686.23,
+        "categorias": ["Otros"],
+        "imagen": "../limpieza.img/ladysoft.jpg",
+        "stock": 1
+    },
+    {
+        "id": 69,
+        "nombre": "Calipso Verde.",
+        "descripcion": "toallita femenina",
+        "precio": 633.18,
+        "categorias": ["Otros"],
+        "imagen": "../limpieza.img/calipsoVerde.jpg",
+        "stock": 1
+    },
+    {
+        "id": 70,
+        "nombre": "Calipso Violeta.",
+        "descripcion": "toallita femenina",
+        "precio": 633.18,
+        "categorias": ["Otros"],
+        "imagen": "../limpieza.img/calipsoVioleta.jpg",
+        "stock": 1
+    },
+    {
+        "id": 71,
+        "nombre": "Lina.",
+        "descripcion": "toallita femenina",
+        "precio": 805.36,
+        "categorias": ["Otros"],
+        "imagen": "../limpieza.img/lina.jpg",
+        "stock": 1
+    },
+    {
+        "id": 721,
+        "nombre": "Toallitas humedas.",
+        "descripcion": "Kimbies",
+        "precio": 1859.40,
+        "categorias": ["Otros"],
+        "imagen": "../limpieza.img/kimbiesToallitas.jpg",
+        "stock": 1
     }
 
 ]

@@ -29,12 +29,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Respuestas automáticas predefinidas
     const responses = {
-        "hola": "¡Hola! ¿En qué puedo ayudarte?",
+        "hola": "¡Hola! ¿En qué puedo ayudarte?, (Horario, ubicacion, precios, contacto)",
         "adios": "¡Hasta luego! Nos vemos en nuestro Local Dolores de Huci 3214.",
         "precios": "Nuestros precios son muy competitivos. Los puedes encontrar en la seccion de nuestros productos.",
         "horarios": "Estamos abiertos de lunes a viernes de 08:00 a 17:00 horas, Sabados de 08:00 a 13:00",
         "gracias": "¡De nada! Estoy aquí para ayudarte.",
         "default": "Lo siento, no entiendo tu mensaje. ¿Puedes reformularlo?",
+        "a que hora abren": "Estamos abiertos de lunes a viernes de 08:00 a 17:00 horas, Sabados de 08:00 a 13:00",
+        "direccion": "Estamos ubicados en dolores de Huici 3214, entre Villegas y Esquel a tres cuadras de la estacion William Morris",
+        "ubicacion": "Estamos ubicados en dolores de Huici 3214, entre Villegas y Esquel a tres cuadras de la estacion William Morris",
+        "contacto": "Aca te dejo nuestro numero de WathShap 11 65692-697"
     };
 
     // Abrir el chat

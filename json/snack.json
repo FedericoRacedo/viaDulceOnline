@@ -575,7 +575,7 @@
         "precio": 3101,
         "categorias": ["Otros"],
         "imagen": "../snack.img/takisFuego140g.jpg",
-        "stock": 1
+        "stock": 0
     },
     {
         "id": 61,
@@ -584,7 +584,7 @@
         "precio": 1257,
         "categorias": ["Otros"],
         "imagen": "../snack.img/takisFuego49g.jpg",
-        "stock": 1
+        "stock": 0
     },
     {
         "id": 62,
@@ -593,7 +593,7 @@
         "precio": 3101,
         "categorias": ["Otros"],
         "imagen": "../snack.img/takisOriginal140g.jpg",
-        "stock": 1
+        "stock": 0
     },
     {
         "id": 63,
@@ -750,6 +750,15 @@
         "precio": 201.97,
         "categorias": ["Otros"],
         "imagen": "../golosinas.img/pipaGirasol.jpg",
+        "stock": 1
+    },
+    {
+        "id": 181,
+        "nombre": "NACHOS ANTOJITOS FAKIN HOT picante fuerte",
+        "descripcion": "Nachos picantes",
+        "precio": 1055.3,
+        "categorias": ["Otros"],
+        "imagen": "../snack.img/nachosFakinHot.jpg",
         "stock": 1
     }
 

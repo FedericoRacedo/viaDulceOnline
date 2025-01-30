@@ -56,7 +56,7 @@
         "precio":  2100,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/aceiteCañuelas.webp",
-        "stock": 1
+        "stock": 0
     },
 
     {
@@ -503,7 +503,7 @@
         "id": 51,
         "nombre": "Ketchup Hellmanns",
         "descripcion": "(Peso 60g)",
-        "precio":  677.48,
+        "precio":  691.09,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/hellmannsKepchup.webp",
         "stock": 1
@@ -673,7 +673,7 @@
         "id": 68,
         "nombre": "Pan Rayado Morixe",
         "descripcion": "(Peso 500gr)",
-        "precio": 811.24,
+        "precio": 778.45,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/panRayadoMorixe.jpg",
         "stock": 1
@@ -1058,10 +1058,10 @@
         "id": 107,
         "nombre": "Harina Blancaflor leudante",
         "descripcion": "(Peso 1K)",
-        "precio": 1220,
+        "precio": 1105.79,
         "categorias":["Cocina"],
         "imagen": "../almacen.img/blancaflorHarina.jpg",
-        "stock": 0
+        "stock": 1
     },
     {
         "id": 108,
@@ -1069,7 +1069,8 @@
         "descripcion": "(Peso 1K)",
         "precio": 649,
         "categorias":["Cocina"],
-        "imagen": "../almacen.img/canuelasHarina.jpg"
+        "imagen": "../almacen.img/canuelasHarina.jpg",
+        "stock": 1
     },
     {
         "id": 109,
@@ -1477,6 +1478,123 @@
         "precio": 1391.87,
         "categorias":["Cocina"],
         "imagen": "../golosinas.img/bizcochueloEmethVainilla.jpg",
+        "stock": 1
+    },
+    {
+        "id": 154,
+        "nombre": "Yerba Nobleza gaucha",
+        "descripcion": "yerba peso 500g",
+        "precio": 1498.75,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/noblezaGaucha.jpg",
+        "stock": 1
+    },
+    {
+        "id": 155,
+        "nombre": "Yerba Rosa monte",
+        "descripcion": "yerba peso 500g",
+        "precio": 1750.75,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/rosamonte.jpg",
+        "stock": 1
+    },
+    {
+        "id": 156,
+        "nombre": "Yerba Calchamate rosa",
+        "descripcion": "yerba peso 500g",
+        "precio": 1303.11,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/calchamateRosa.jpg",
+        "stock": 1
+    },
+    {
+        "id": 157,
+        "nombre": "Yerba Calchamate amarilla",
+        "descripcion": "yerba peso 500g",
+        "precio": 1303.11,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/calchamateAmarilla.jpg",
+        "stock": 1
+    },
+    {
+        "id": 158,
+        "nombre": "Yerba La hoja",
+        "descripcion": "yerba peso 500g",
+        "precio": 1281,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/laHoja.jpg",
+        "stock": 1
+    },
+    {
+        "id": 159,
+        "nombre": "Yerba Taragüi",
+        "descripcion": "yerba peso 500g",
+        "precio": 1720.76,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/taragui.jpg",
+        "stock": 1
+    },
+    {
+        "id": 159,
+        "nombre": "Yerba Union",
+        "descripcion": "yerba peso 500g",
+        "precio": 1720.76,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/unionYerba.jpg",
+        "stock": 1
+    },
+    {
+        "id": 160,
+        "nombre": "YERBA LA TRANQUERA",
+        "descripcion": "yerba peso 500g",
+        "precio": 1572,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/laTranqueraYerba.jpg",
+        "stock": 1
+    },
+    {
+        "id": 161,
+        "nombre": "YERBA Chamigo",
+        "descripcion": "yerba peso 500g",
+        "precio": 1560.90,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/yerbaChamigo.jpg",
+        "stock": 1
+    },
+    {
+        "id": 162,
+        "nombre": "YERBA Cruz de Malta",
+        "descripcion": "yerba peso 500g",
+        "precio": 1923.89,
+        "categorias":["Yerbas"],
+        "imagen": "../almacen.img/cruzDeMalta.jpg",
+        "stock": 1
+    },
+    {
+        "id": 163,
+        "nombre": "Aceite Girasol Legitimo",
+        "descripcion": "(Peso 900ml)",
+        "precio": 1889.79,
+        "categorias":["Cocina"],
+        "imagen": "../almacen.img/aceiteLegitimo.jpg",
+        "stock": 1
+    },
+    {
+        "id": 164,
+        "nombre": "Pan Rayado Mama cocina",
+        "descripcion": "(Peso 500gr)",
+        "precio": 811.24,
+        "categorias":["Cocina"],
+        "imagen": "../almacen.img/panRayadoMamaCocina.jpg",
+        "stock": 1
+    },
+    {
+        "id": 165,
+        "nombre": "Savora grande",
+        "descripcion": "(Peso 500gr)",
+        "precio": 1147.89,
+        "categorias":["Cocina"],
+        "imagen": "../almacen.img/savoraGrande.jpg",
         "stock": 1
     }
 ]

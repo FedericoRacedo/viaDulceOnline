@@ -1,46 +1,81 @@
+// Función para cargar productos desde el JSON
 async function cargarProductos() {
     try {
-        const response = await fetch('../json/ofertas.json'); // const response = await fetch('https://federicoracedo.github.io/viaDulceOnline/json/cigarrilos.json');
+        const response = await fetch('../json/ofertas.json'); // Verifica esta ruta
         if (!response.ok) {
             throw new Error(`Error al cargar el archivo JSON: ${response.status}`);
         }
         const productos = await response.json();
-        mostrarProductos(productos);
+        mostrarProductos(productos); // Mostrar todos los productos al inicio
+        agregarFiltros(productos);   // Configurar filtros dinámicamente
     } catch (error) {
         console.error(error);
-    }    
+    }
 }
 
 function mostrarProductos(productos) {
     const container = document.querySelector('.boxContainer');
     container.innerHTML = ''; // Limpiar contenedor
 
-    productos.forEach(producto => {
+    productos.forEach( producto => {
         const box = document.createElement('div');
         box.classList.add('box');
-
-        // Crear un select para elegir 5 o 10 unidades
-        const unidadesSelect = `
-            <select id="unidades-${producto.nombre}">
-                <option value="5">5 unidades</option>
-                <option value="10">10 unidades</option>
-            </select>
-        `;
 
         box.innerHTML = `
             <img src="${producto.imagen}" alt="${producto.nombre}">
             <div class="productTxt">
-                <h3>${producto.nombre}</h3>
-                <p>${producto.descripcion}</p>
-                <p class="precio">$${producto.precio}</p>
-                ${unidadesSelect}
+                <h3> ${producto.nombre} </h3>
+                <p> ${producto.descripcion} </p>
+                <p class="precio"> $${producto.precio} </p>
                 <button onclick="add('${producto.nombre}', '${producto.precio}')" class="btn3">Agregar al carrito</button>
             </div>
         `;
         container.appendChild(box);
     });
 }
-//Llamar a la funcion para cargar los productos al inicial la pagina
+
+// Función para filtrar productos por categoría
+function filtrarPorCategoria(productos, categoria) {
+    const productosFiltrados = productos.filter(producto =>
+        producto.categorias.includes(categoria) // Verifica si la categoría está en el array
+    );
+    mostrarProductos(productosFiltrados); // Muestra solo los productos filtrados
+}
+
+// Agregar eventos para los filtros
+function agregarFiltros(productos) {
+    document.getElementById('filtro-todos').addEventListener('click', () => {
+        mostrarProductos(productos); // Mostrar todos los productos
+    });
+
+    document.getElementById('filtro-bolsas-papeles').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Bolsas/Papeles');
+    });
+
+    document.getElementById('filtro-aerosol').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Aerosol');
+    });
+
+    document.getElementById('filtro-higiene').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Higiene');
+    });
+
+    document.getElementById('filtro-encendedores-pegamentos').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Encendedores/Pegamentos')
+    });
+
+
+    document.getElementById('filtro-liquido').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Liquido')
+    });
+
+
+    document.getElementById('filtro-otros').addEventListener('click', () => {
+        filtrarPorCategoria(productos, 'Otros')
+    });
+}
+
+// Llamar a la función para cargar los productos al cargar la página
 document.addEventListener('DOMContentLoaded', cargarProductos);
 
 // Carrito
@@ -49,11 +84,13 @@ let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
 
 // Agregar producto al carrito
 function add(nombre, precio) {
+    precio = parseFloat(precio); // Asegúrate de que el precio sea un número
     const productoExistente = carrito.find(item => item.nombre === nombre);
+
     if (productoExistente) {
         productoExistente.cantidad++;
     } else {
-        carrito.push({ nombre, precio: parseFloat(precio.replace('.', '').replace(',', '.')), cantidad: 1 });
+        carrito.push({ nombre, precio, cantidad: 1 });
     }
     actualizarCarrito();
 }
@@ -196,12 +233,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Respuestas automáticas predefinidas
     const responses = {
-        "hola": "¡Hola! ¿En qué puedo ayudarte?",
+        "hola": "¡Hola! ¿En qué puedo ayudarte?, (Horario, ubicacion, precios, contacto)",
         "adios": "¡Hasta luego! Nos vemos en nuestro Local Dolores de Huci 3214.",
         "precios": "Nuestros precios son muy competitivos. Los puedes encontrar en la seccion de nuestros productos.",
         "horarios": "Estamos abiertos de lunes a viernes de 08:00 a 17:00 horas, Sabados de 08:00 a 13:00",
         "gracias": "¡De nada! Estoy aquí para ayudarte.",
         "default": "Lo siento, no entiendo tu mensaje. ¿Puedes reformularlo?",
+        "a que hora abren": "Estamos abiertos de lunes a viernes de 08:00 a 17:00 horas, Sabados de 08:00 a 13:00",
+        "direccion": "Estamos ubicados en dolores de Huici 3214, entre Villegas y Esquel a tres cuadras de la estacion William Morris",
+        "ubicacion": "Estamos ubicados en dolores de Huici 3214, entre Villegas y Esquel a tres cuadras de la estacion William Morris",
+        "contacto": "Aca te dejo nuestro numero de WathShap 11 65692-697"
     };
 
     // Abrir el chat

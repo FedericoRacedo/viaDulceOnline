@@ -136,5 +136,12 @@
         "descripcion": "Precio por unidad",
         "precio": "1.500,00",
         "imagen": "../cigarrilos.img/marlboroCraftedForwardKS.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Nieve cosmico",
+        "descripcion": "Nieve carnaval",
+        "precio": "1495,00",
+        "imagen": "../libreria.img/nieveCarnaval.jpg"
     }
 ]

@@ -368,6 +368,15 @@ h2 {
     outline: none; /* Quita el borde por defecto al hacer clic */
     box-shadow: 0 0 5px #4CAF50; /* Agrega un efecto visual al estar enfocado */
 }
+
+/*Stock*/
+.no-stock {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+}
+
+
 @media (max-width:500px) {
     
     .header {
