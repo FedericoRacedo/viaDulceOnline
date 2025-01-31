@@ -499,18 +499,80 @@ h2 {
     transition: background-color 0.3s, transform 0.3s;
 }
 
-.icono p {
-    margin-top: 10px;
-    font-size: 14px;
-    color: #515557;
-    font-weight: 500;
-}
-
 .icono:hover {
     transform: scale(1.1);
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+.icono p {
+    margin-top: 5px;
+    font-size: 14px;
+    text-align: center;
 }
 
+/* Contenedor general para ambas secciones */
+.contacto-info {
+    display: flex;
+    justify-content: space-between;  /* Para que estén uno al lado del otro */
+    gap: 40px;  /* Espacio entre los elementos */
+    flex-wrap: wrap;  /* Asegura que los elementos se ajusten en pantallas pequeñas */
+    padding: 20px;
+    margin-top: 40px;
+}
+
+/* Estilos de los bloques de Horarios y Teléfono */
+.horarios, .telefono {
+    flex: 1;  /* Hace que ambas secciones ocupen el mismo espacio */
+    min-width: 280px;  /* Asegura que no se encojan demasiado en pantallas pequeñas */
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.horarios h2, .telefono h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.horarios ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+}
+
+.horarios ul li {
+    font-size: 16px;
+    color: #555;
+    margin: 5px 0;
+}
+
+/* Botón común para ambos botones */
+.btn-telefono {
+    padding: 12px 24px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 16px;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+    width: 45%;  /* Esto hace que los botones tengan un tamaño más uniforme */
+    text-align: center;
+}
+
+.btn-telefono:hover {
+    background-color: #218838;
+}
+
+/* Estilo para el contenedor de los botones */
+.botones-container {
+    display: flex;
+    justify-content: space-between;  /* Esto coloca los botones a los extremos */
+    gap: 20px;  /* Espacio entre los botones */
+    margin-top: 20px;  /* Espacio superior para los botones */
+}
 
 
 /*CHAT */
@@ -720,5 +782,11 @@ h2 {
         height: 400px; /* Altura personalizada */
         margin: 20px auto; /* Centrar el carrusel */
         position: relative;
+    }
+
+    /* En pantallas más pequeñas, apilamos los elementos */
+    .contacto-info {
+        flex-direction: column;
+        gap: 20px;
     }
 }
