@@ -195,7 +195,7 @@
         "descripcion": "(Sabor Gallina)",
         "precio":  296,
         "categorias":["Cocina"],
-        "imagen": "../golosinas.img/alfOreo.webp",
+        "imagen": "../almacen.img/knorrGallina.jpg",
         "stock": 0
     },
     
